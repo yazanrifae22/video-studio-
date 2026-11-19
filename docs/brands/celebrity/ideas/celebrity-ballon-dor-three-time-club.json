@@ -1,0 +1,51 @@
+{
+ "channel": "celebrity",
+ "title": "Only 5 Players Have Won 3+ Ballon d'Ors. Who's Next?",
+ "topic": "Ballon d'Or records (ceremony Oct 26 2026)",
+ "audience": "Football fans 13-35, casual viewers before the ceremony",
+ "whyCare": "The 70th Ballon d'Or is on Oct 26 in London; records are the safest, most chartable angle (Messi 8, Ronaldo 5, Cruyff/Platini/van Basten 3).",
+ "evidence": [
+  {
+   "claim": "2026 Ballon d'Or: 70th ceremony, 26 October 2026, London; season 3 Aug 2025 - 19 Jul 2026",
+   "url": "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or"
+  },
+  {
+   "claim": "All-time wins: Messi 8, Ronaldo 5, Cruyff, Platini, van Basten 3 each; 2025 winner Ousmane Dembele",
+   "url": "https://www.si.com/soccer/ballon-dor-all-time-most-wins"
+  },
+  {
+   "claim": "Wikipedia 'Ballon d'Or' averaged 5,113 views/day Oct 1-19 2026, ~6,000/day in the last 3 days (rising into the ceremony)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Ballon_d'Or&start=2026-10-01&end=2026-10-19"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "WHAT 5 PLAYERS HAVE WON THE MOST BALLON D'ORs (Short)",
+   "url": "https://www.youtube.com/shorts/vmJuINJUq44",
+   "views": "63K",
+   "verified": true
+  },
+  {
+   "title": "Race to Ballon d'Or...Mbappe vs Haaland (S2G / CaniSports)",
+   "url": "https://www.youtube.com/watch?v=aHhyVUYUcXA",
+   "views": "1,314,985",
+   "verified": true
+  }
+ ],
+ "angle": "Bars chart cascades 3 -> 3 -> 3 -> 5 -> 8 with years on each bar; stat counter: 70 editions since 1956; close on 'will anyone new reach three?' (no winner predictions). Publish Oct 25-26; update pinned comment after the ceremony.",
+ "durationSec": 40,
+ "format": "short",
+ "hook": "In 70 years, only five players have won the Ballon d'Or three times or more.",
+ "difficulty": 1,
+ "estCostUsd": 2,
+ "strengths": "Pure records = low defamation risk; bars scene ready-made; hard-deadline traffic",
+ "weaknesses": "Same week as the existing 'How the Ballon d'Or is decided' Short - put them on different days; football Shorts are crowded; football +1 policy risk for clip temptation",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 3
+ }
+}

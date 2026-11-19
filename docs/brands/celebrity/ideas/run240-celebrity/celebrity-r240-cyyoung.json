@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "The Cy Young Award's Namesake Lost More Games Than Anyone",
+ "topic": "Cy Young won a record 511 games and also lost a record 316 - he simply pitched more than anyone ever will.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: BBWAA Cy Young Award announcement, MLB awards week (Nov 9-12) (2026-11-11). Wikipedia Cy_Young 18,728 views Sept 2026.",
+ "hook": "Best-pitcher award, named after a loser?",
+ "twist": "Cy Young won a record 511 games and also lost a record 316 - he simply pitched more than anyone ever will.",
+ "peg": {
+  "event": "BBWAA Cy Young Award announcement, MLB awards week (Nov 9-12)",
+  "date": "2026-11-11",
+  "url": "https://www.justbaseball.com/?p=245102",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Britannica - Cy Young (accessed 2026-10-24)",
+   "url": "https://www.britannica.com/biography/Cy-Young"
+  },
+  {
+   "claim": "Wikipedia - MLB career losses leaders (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_career_losses_leaders"
+  },
+  {
+   "claim": "Guinness World Records - most games lost by an MLB pitcher (accessed 2026-10-24)",
+   "url": "https://www.guinnessworldrecords.com/world-records/most-games-lost-by-a-pitcher-in-a-major-league-baseball-career"
+  },
+  {
+   "claim": "Peg source: BBWAA Cy Young Award announcement, MLB awards week (Nov 9-12) (accessed 2026-10-24)",
+   "url": "https://www.justbaseball.com/?p=245102"
+  },
+  {
+   "claim": "Wikimedia pageviews Cy_Young: 18728 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Cy_Young&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Britannica - Cy Young",
+   "url": "https://www.britannica.com/biography/Cy-Young",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - MLB career losses leaders",
+   "url": "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_career_losses_leaders",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Guinness World Records - most games lost by an MLB pitcher",
+   "url": "https://www.guinnessworldrecords.com/world-records/most-games-lost-by-a-pitcher-in-a-major-league-baseball-career",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "This Pitcher Won 511 Games. Nobody Will Ever Get Close. #shorts",
+   "url": "https://youtube.com/shorts/4HcfOmY2drE",
+   "views": 1000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "511 Wins. Nobody Will EVER Touch This 🤯 Cy Young #shorts",
+   "url": "https://youtube.com/shorts/_nFO72pp0fQ",
+   "views": 2500,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Jacob Misiorowski’s Playoff Pitch Count Problem Explained #shorts",
+   "url": "https://youtube.com/shorts/pr2EfP_pkkI",
+   "views": 9,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a scoreboard 'W 511 / L ???' + hook. Twist: L = 316, both records. Loop: 'Still think he's a loser?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Award date is from Just Baseball's schedule (MLB.com page truncated): re-check Nov 9. Use 316 losses (Britannica, B-Ref, Guinness). No MLB logos or real trophy replica.",
+ "window": {
+  "notBefore": "2026-11-09T12:00:00Z",
+  "deadline": "2026-11-14T00:00:00Z",
+  "label": "BBWAA Cy Young Award announcement, MLB awards week (Nov 9-12)",
+  "suggestedSlot": "2026-11-11T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

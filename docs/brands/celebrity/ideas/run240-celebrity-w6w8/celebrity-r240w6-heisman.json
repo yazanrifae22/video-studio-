@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "The Heisman Model Didn't Know It Was Him for 48 Years",
+ "topic": "In 1934 NYU running back Ed Smith posed for his old classmate, sculptor Frank Eliscu; he only learned in 1982 that the statue had become the Heisman Trophy, and got one of his own in 1985.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: 92nd Heisman Trophy presentation, New York (2026-12-12). Wikipedia Heisman_Trophy 53,029 views Sept 2026.",
+ "hook": "Who is the Heisman statue?",
+ "twist": "In 1934 NYU running back Ed Smith posed for his old classmate, sculptor Frank Eliscu; he only learned in 1982 that the statue had become the Heisman Trophy, and got one of his own in 1985.",
+ "peg": {
+  "event": "92nd Heisman Trophy presentation, New York",
+  "date": "2026-12-12",
+  "url": "https://en.wikipedia.org/wiki/Heisman_Trophy",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Sports Illustrated Vault (1988) - Striking a pose for posterity (accessed 2026-10-24)",
+   "url": "https://vault.si.com/vault/1988/12/05/striking-a-pose-for-posterity-ed-smith-learned-late-in-life-that-he-was-the-very-model-of-college-football-excellence"
+  },
+  {
+   "claim": "Wikipedia - Ed Smith (running back) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Ed_Smith_(running_back)"
+  },
+  {
+   "claim": "ESPN Classic - Heisman model (accessed 2026-10-24)",
+   "url": "https://www.espn.com/classic/s/2001/0813/1238983.html"
+  },
+  {
+   "claim": "Peg source: 92nd Heisman Trophy presentation, New York (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Heisman_Trophy"
+  },
+  {
+   "claim": "Wikimedia pageviews Heisman_Trophy: 53029 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Heisman_Trophy&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Sports Illustrated Vault (1988) - Striking a pose for posterity",
+   "url": "https://vault.si.com/vault/1988/12/05/striking-a-pose-for-posterity-ed-smith-learned-late-in-life-that-he-was-the-very-model-of-college-football-excellence",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Ed Smith (running back)",
+   "url": "https://en.wikipedia.org/wiki/Ed_Smith_(running_back)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "ESPN Classic - Heisman model",
+   "url": "https://www.espn.com/classic/s/2001/0813/1238983.html",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Will Jeremiah Smith win the HEISMAN? #heisman #jeremiahsmith #ohiostate #shorts #collegefootball",
+   "url": "https://youtube.com/shorts/mz4nERmTDkg",
+   "views": 1200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Heisman trophy model Ed Smith #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Trinidad for Heisman 🇹🇹 🇹🇹 | #shorts #edit",
+   "url": "https://youtube.com/shorts/xH4NrA373Gk",
+   "views": 2000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Heisman trophy model Ed Smith #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Who's going to be the heisman #Shorts #football",
+   "url": "https://youtube.com/shorts/7UOB2n-fzGQ",
+   "views": 1400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Heisman trophy model Ed Smith #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A bronze stiff-arm statue silhouette with a question mark for a face + hook. Twist by 2.5 s. Loop: 'He was the statue for 48 years and never knew. Would you?'",
+ "cta": "C3+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Heisman trophy is trademarked: draw a generic bronze stiff-arm runner, no 'Heisman' text. Pose year 1934 vs commission 1935: say 'in the 1930s'. Ceremony date per aggregators: confirm with the Heisman Trust.",
+ "window": {
+  "notBefore": "2026-12-08T12:00:00Z",
+  "deadline": "2026-12-14T00:00:00Z",
+  "label": "92nd Heisman Trophy presentation, New York",
+  "suggestedSlot": "2026-12-09T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Ed Smith",
+  "Frank Eliscu"
+ ],
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

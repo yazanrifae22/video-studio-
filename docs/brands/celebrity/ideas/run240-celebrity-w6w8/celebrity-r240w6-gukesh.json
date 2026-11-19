@@ -1,0 +1,112 @@
+{
+ "channel": "celebrity",
+ "title": "World Chess Champion at 18. Who's Next?",
+ "topic": "On 12 Dec 2024 Gukesh Dommaraju beat Ding Liren to become the youngest undisputed world champion, younger than Kasparov (22); he is defending the title against Javokhir Sindarov in Geneva right now.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: FIDE World Championship, Gukesh v Sindarov, Geneva (about 22 Nov - 13 Dec) (2026-12-02). Wikipedia Gukesh_Dommaraju 38,215 views Sept 2026.",
+ "hook": "World champion at 18?",
+ "twist": "On 12 Dec 2024 Gukesh Dommaraju beat Ding Liren to become the youngest undisputed world champion, younger than Kasparov (22); he is defending the title against Javokhir Sindarov in Geneva right now.",
+ "peg": {
+  "event": "FIDE World Championship, Gukesh v Sindarov, Geneva (about 22 Nov - 13 Dec)",
+  "date": "2026-12-02",
+  "url": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Al Jazeera - Gukesh beats Ding to become youngest champion (accessed 2026-10-24)",
+   "url": "https://www.aljazeera.com/amp/sports/2024/12/12/indias-gukesh-beats-chinas-ding-to-become-youngest-chess-world-champion"
+  },
+  {
+   "claim": "Gulf News - Gukesh youngest ever world champ (accessed 2026-10-24)",
+   "url": "https://gulfnews.com/sport/world-chess-championship-2024-gukesh-dommaraju-beats-ding-liren-becomes-youngest-ever-world-champ-1.1734009043215"
+  },
+  {
+   "claim": "World Chess - Gukesh vs Sindarov: what to know (accessed 2026-10-24)",
+   "url": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship"
+  },
+  {
+   "claim": "Peg source: FIDE World Championship, Gukesh v Sindarov, Geneva (about 22 Nov - 13 Dec) (accessed 2026-10-24)",
+   "url": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship"
+  },
+  {
+   "claim": "Wikimedia pageviews Gukesh_Dommaraju: 38215 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Gukesh_Dommaraju&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Al Jazeera - Gukesh beats Ding to become youngest champion",
+   "url": "https://www.aljazeera.com/amp/sports/2024/12/12/indias-gukesh-beats-chinas-ding-to-become-youngest-chess-world-champion",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Gulf News - Gukesh youngest ever world champ",
+   "url": "https://gulfnews.com/sport/world-chess-championship-2024-gukesh-dommaraju-beats-ding-liren-becomes-youngest-ever-world-champ-1.1734009043215",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "World Chess - Gukesh vs Sindarov: what to know",
+   "url": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "When Gukesh became the youngest World Champion 🏆 🇮🇳",
+   "url": "https://youtube.com/shorts/VSToeukflPk",
+   "views": 87000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Gukesh youngest world chess champion #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "18-Year-Old Gukesh HUGS His FATHER After BECOMING YOUNGEST WORLD CHESS CHAMPION EVER",
+   "url": "https://youtube.com/shorts/0XL0trlv5Q4",
+   "views": 4000000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Gukesh youngest world chess champion #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Gukesh STARTS CRYING After BECOMING the YOUNGEST WORLD CHESS CHAMPION EVER in CHESS HISTORY",
+   "url": "https://youtube.com/shorts/s0V2j6IjbjY",
+   "views": 3000000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Gukesh youngest world chess champion #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A king piece on a board with '18' engraved on its base + hook. Twist by 2.5 s. Loop: 'Champion at 18. Who's next?'",
+ "cta": "C7+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Outcome-dependent: check the match score on Dec 1 (the match may be decided). Match dates differ by source (Nov 22-Dec 13 per World Chess). Sindarov is about 20: 'who's next' fits either way.",
+ "window": {
+  "notBefore": "2026-12-01T12:00:00Z",
+  "deadline": "2026-12-04T00:00:00Z",
+  "label": "FIDE World Championship, Gukesh v Sindarov, Geneva (about 22 Nov - 13 Dec)",
+  "suggestedSlot": "2026-12-02T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Gukesh Dommaraju",
+  "Javokhir Sindarov",
+  "Garry Kasparov"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 1,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

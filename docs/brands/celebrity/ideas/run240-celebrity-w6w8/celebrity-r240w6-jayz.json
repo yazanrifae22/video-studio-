@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "No Label Would Sign Jay-Z. So What Did He Do?",
+ "topic": "Labels passed on Jay-Z, so he, Damon Dash and Kareem Burke started Roc-A-Fella Records, sold his music out of a car and released Reasonable Doubt in June 1996.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Jay-Z turns 57 (2026-12-04). Wikipedia Jay-Z 175,954 views Sept 2026.",
+ "hook": "Every label said no?",
+ "twist": "Labels passed on Jay-Z, so he, Damon Dash and Kareem Burke started Roc-A-Fella Records, sold his music out of a car and released Reasonable Doubt in June 1996.",
+ "peg": {
+  "event": "Jay-Z turns 57",
+  "date": "2026-12-04",
+  "url": "https://en.wikipedia.org/wiki/Jay-Z",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "GRAMMY.com - How Reasonable Doubt introduced an icon (accessed 2026-10-24)",
+   "url": "https://www.grammy.com/news/jay-z-songs-albums-discography-collaborations-grammys-songbook/"
+  },
+  {
+   "claim": "Wikipedia - Reasonable Doubt (album) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Reasonable_Doubt_(album)"
+  },
+  {
+   "claim": "Treble - How Reasonable Doubt launched a hip-hop legacy (accessed 2026-10-24)",
+   "url": "https://treblezine.com/30867-jay-z-reasonable-doubt-hall-of-fame"
+  },
+  {
+   "claim": "Peg source: Jay-Z turns 57 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Jay-Z"
+  },
+  {
+   "claim": "Wikimedia pageviews Jay-Z: 175954 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Jay-Z&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "GRAMMY.com - How Reasonable Doubt introduced an icon",
+   "url": "https://www.grammy.com/news/jay-z-songs-albums-discography-collaborations-grammys-songbook/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Reasonable Doubt (album)",
+   "url": "https://en.wikipedia.org/wiki/Reasonable_Doubt_(album)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Treble - How Reasonable Doubt launched a hip-hop legacy",
+   "url": "https://treblezine.com/30867-jay-z-reasonable-doubt-hall-of-fame",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "No Label Would Sign Jay-Z — So He Made His Own",
+   "url": "https://youtube.com/shorts/ZtXLxPckZ6Q",
+   "views": 208,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Jay-Z no label would sign him Roc-A-Fella #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "This One Decision Made Jay-Z Unstoppable #RocAFella #Genius #HipHop",
+   "url": "https://youtube.com/shorts/EOk6O4gMWg8",
+   "views": 878,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Jay-Z no label would sign him Roc-A-Fella #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Jay-z “Nobody would sign me, every single label said I was terrible”",
+   "url": "https://youtube.com/shorts/yYTvHS3yMOA",
+   "views": 164000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Jay-Z no label would sign him Roc-A-Fella #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A car trunk full of unlabelled CDs under a streetlight + hook. Twist by 2.5 s. Loop: 'Every label said no. Would you have signed him?'",
+ "cta": "C2+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Tapes vs CDs differ: say 'his music'. Founding year 1995 vs 1996: say 'started his own label'. Do not reference any lawsuits. No likeness or audio.",
+ "window": {
+  "notBefore": "2026-12-03T12:00:00Z",
+  "deadline": "2026-12-06T00:00:00Z",
+  "label": "Jay-Z turns 57",
+  "suggestedSlot": "2026-12-04T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Jay-Z",
+  "Damon Dash"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

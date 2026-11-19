@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "What Does the X in Xbox Actually Mean?",
+ "topic": "It was the 'DirectX Box': a console built from PC parts around Microsoft's DirectX graphics software.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "25th anniversary on a Sunday; Xbox nostalgia Shorts reach millions; the name question itself has no dominant Short.",
+ "evidence": [
+  {
+   "claim": "Xbox released Nov 15 2001 in North America; name derived from DirectX (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Xbox_(console)"
+  },
+  {
+   "claim": "DirectX graphics API background (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/DirectX"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why The Xbox Logo Is A Circle?",
+   "url": "https://youtube.com/shorts/gR8_PUdsiBk",
+   "views": "1.8M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Remember the XBOX 360?",
+   "url": "https://youtube.com/shorts/zR3DJflsgc8",
+   "views": "23M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('What does the X mean?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: It was the 'DirectX Box': a console built from PC parts around Microsoft's DirectX graphics software. Loop ending: re-ask the hook.",
+ "hook": "What does the X mean?",
+ "twist": "It was the 'DirectX Box': a console built from PC parts around Microsoft's DirectX graphics software.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-15",
+  "deadline": "2026-11-18",
+  "event": "Original Xbox 25th anniversary (Nov 15 2001 North America)"
+ },
+ "newsPeg": "Original Xbox 25th anniversary (Nov 15 2001 North America)",
+ "suggestedSlot": "2026-11-15 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW with Red Ring of Death (Nov 22) - same brand, different story; 7 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 10,
+ "score10": 8.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

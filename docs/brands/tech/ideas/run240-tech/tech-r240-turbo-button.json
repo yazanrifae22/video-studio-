@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "The PC 'Turbo' Button That Made PCs Slower",
+ "topic": "Turning turbo OFF slowed fast PCs to old-PC speed, so games timed to the processor didn't run too fast.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Proven demand (1.7M). Gap low; good contradiction hook.",
+ "evidence": [
+  {
+   "claim": "Turbo button: actually used to slow the CPU for compatibility (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Turbo_button"
+  },
+  {
+   "claim": "IBM PC 4.77 MHz timing that old software assumed (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/IBM_Personal_Computer"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The 'Turbo' Button Made PCs Slower?!",
+   "url": "https://youtube.com/shorts/M9EvkuKiCJA",
+   "views": "1.7M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Turbo button but it slows your PC",
+   "url": "https://youtube.com/shorts/V6npQNBmJjQ",
+   "views": "1.4M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Press Turbo. Computer gets slower?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Turning turbo OFF slowed fast PCs to old-PC speed, so games timed to the processor didn't run too fast. Loop ending: re-ask the hook.",
+ "hook": "Press Turbo. Computer gets slower?",
+ "twist": "Turning turbo OFF slowed fast PCs to old-PC speed, so games timed to the processor didn't run too fast.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-21 18:00 UTC",
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 56,
+ "score10": 7.5,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

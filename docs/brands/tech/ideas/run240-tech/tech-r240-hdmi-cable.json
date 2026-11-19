@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "$5 HDMI vs $50 HDMI: Same Picture?",
+ "topic": "HDMI is digital: a cable either delivers the bits or fails; you pay for the rated speed, not 'better colour'.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Proven demand; Black Friday upsell timing. Twist must stay accurate: cheap cables CAN fail at 4K120, so 'certified' is the real answer.",
+ "evidence": [
+  {
+   "claim": "HDMI.org: cable types and certification (Ultra High Speed = 48 Gbps) (accessed 2026-10-24)",
+   "url": "https://www.hdmi.org/spec/hdmi2_1"
+  },
+  {
+   "claim": "HDMI is a digital interface; cable categories by bandwidth (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/HDMI"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "All HDMI Cables Are NOT Equal!",
+   "url": "https://youtube.com/shorts/kATOMK_p6Ho",
+   "views": "3.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "$1,000 HDMI Cable!? (long)",
+   "url": "https://www.youtube.com/watch?v=Zgy5fX-VPCs",
+   "views": "7.8M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('$5 or $50 cable. Which looks better?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: HDMI is digital: a cable either delivers the bits or fails; you pay for the rated speed, not 'better colour'. Loop ending: re-ask the hook.",
+ "hook": "$5 or $50 cable. Which looks better?",
+ "twist": "HDMI is digital: a cable either delivers the bits or fails; you pay for the rated speed, not 'better colour'.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-20",
+  "deadline": "2026-11-30",
+  "event": "Black Friday accessory upsells (Nov 27)"
+ },
+ "newsPeg": "Black Friday accessory upsells (Nov 27)",
+ "suggestedSlot": "2026-11-23 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Which Way Is Up? Why USB Only Fits One Way'.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 26,
+ "score10": 8.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

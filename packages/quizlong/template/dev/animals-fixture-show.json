@@ -1,0 +1,1134 @@
+{
+ "schema": "quiz-long-show/1",
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration": 142.26,
+ "brand": "شو شايف؟",
+ "total_questions": 14,
+ "production_id": "dev-animals-fixture",
+ "title": "dev fixture: animal clues (v1.4)",
+ "estimated": true,
+ "theme": {
+  "direction": "blocks",
+  "level_themes": {
+   "1": "w1",
+   "2": "w2",
+   "3": "w3",
+   "4": "w4"
+  },
+  "finale": "wf",
+  "palette": "wild"
+ },
+ "segments": [
+  {
+   "type": "question",
+   "id": "q01",
+   "index": 1,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "animal_zoom",
+   "start": 0,
+   "end": 10.73,
+   "ask_text": "أي حيوان؟ الصورة مكبّرة",
+   "clue": {
+    "type": "animal",
+    "emoji": "🦒",
+    "effect": "zoom",
+    "focus": [
+     0.3,
+     0.12
+    ]
+   },
+   "options": [
+    {
+     "text": "زرافة",
+     "iso": null
+    },
+    {
+     "text": "نمر",
+     "iso": null
+    },
+    {
+     "text": "حمار وحشي",
+     "iso": null
+    },
+    {
+     "text": "غزال",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "قلب الزرافة يزن نحو ١١ كيلوغراماً",
+   "think_s": 5,
+   "t": {
+    "in": 0,
+    "options_in": 0.35,
+    "timer_start": 3.15,
+    "timer_end": 8.15,
+    "reveal": 8.15,
+    "learn_in": 8.88,
+    "out": 10.43
+   },
+   "host": [
+    {
+     "t": 0.15,
+     "end": 2.95,
+     "mood": "dare",
+     "text": "٤٠ حيوان... وآخر واحد ما حدا بيعرفه!",
+     "id": "hook"
+    },
+    {
+     "t": 3.15,
+     "end": 3.95,
+     "mood": "ask",
+     "text": "شو هالحيوان؟",
+     "id": "q01.ask"
+    },
+    {
+     "t": 8.23,
+     "end": 8.73,
+     "mood": "react",
+     "text": "زرافة!",
+     "id": "q01.reveal"
+    },
+    {
+     "t": 8.88,
+     "end": 10.08,
+     "mood": "teach",
+     "text": "قلبها تقيل كتير.",
+     "id": "q01.learn"
+    }
+   ],
+   "hook_text": "٤ مستويات | كل مستوى أصعب"
+  },
+  {
+   "type": "card",
+   "kind": "level",
+   "id": "level1",
+   "level": 1,
+   "title": "المستوى ١: تسخين",
+   "level_name": "تسخين",
+   "sub": null,
+   "tally_text": "احسب نقاطك",
+   "new_text": null,
+   "series_text": null,
+   "stake_text": null,
+   "think_s": 5,
+   "hold_s": 1,
+   "start": 10.73,
+   "end": 13.43,
+   "host": [
+    {
+     "t": 10.93,
+     "end": 12.13,
+     "mood": "tease",
+     "text": "يلا نبلش بالسهل!",
+     "id": "level1"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q02",
+   "index": 2,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "truefalse",
+   "start": 13.43,
+   "end": 23.06,
+   "ask_text": "صح أم غلط؟",
+   "clue": {
+    "type": "text",
+    "text": "الفيل لا يستطيع القفز"
+   },
+   "options": [
+    {
+     "text": "صح",
+     "iso": null
+    },
+    {
+     "text": "غلط",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "الفيل البالغ لا يرفع أقدامه الأربع معاً",
+   "think_s": 5,
+   "t": {
+    "in": 13.43,
+    "options_in": 13.78,
+    "timer_start": 15.08,
+    "timer_end": 20.08,
+    "reveal": 20.08,
+    "learn_in": 20.81,
+    "out": 22.76
+   },
+   "host": [
+    {
+     "t": 13.73,
+     "end": 14.93,
+     "mood": "ask",
+     "text": "صح ولا غلط؟",
+     "id": "q02.ask"
+    },
+    {
+     "t": 20.16,
+     "end": 20.66,
+     "mood": "react",
+     "text": "صح!",
+     "id": "q02.reveal"
+    },
+    {
+     "t": 20.81,
+     "end": 22.41,
+     "mood": "teach",
+     "text": "ما بيقدر يقفز أبداً.",
+     "id": "q02.learn"
+    }
+   ],
+   "subject_emoji": "🐘"
+  },
+  {
+   "type": "question",
+   "id": "q03",
+   "index": 3,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "versus",
+   "start": 23.06,
+   "end": 31.89,
+   "ask_text": "أيهما أسرع؟",
+   "clue": {
+    "type": "text",
+    "text": "أيهما أسرع؟"
+   },
+   "options": [
+    {
+     "text": "الفهد",
+     "emoji": "🐆",
+     "iso": null
+    },
+    {
+     "text": "الأسد",
+     "emoji": "🦁",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "الفهد يصل إلى ١١٠ كم في الساعة",
+   "think_s": 5,
+   "t": {
+    "in": 23.06,
+    "options_in": 23.41,
+    "timer_start": 24.31,
+    "timer_end": 29.31,
+    "reveal": 29.31,
+    "learn_in": 30.04,
+    "out": 31.59
+   },
+   "host": [
+    {
+     "t": 23.36,
+     "end": 24.16,
+     "mood": "ask",
+     "text": "مين أسرع؟",
+     "id": "q03.ask"
+    },
+    {
+     "t": 29.39,
+     "end": 29.89,
+     "mood": "react",
+     "text": "الفهد!",
+     "id": "q03.reveal"
+    },
+    {
+     "t": 30.04,
+     "end": 31.24,
+     "mood": "teach",
+     "text": "أسرع حيوان بري.",
+     "id": "q03.learn"
+    }
+   ],
+   "metric": "speed",
+   "values": [
+    {
+     "emoji": "🐆",
+     "value": 110,
+     "unit": "كم/س"
+    },
+    {
+     "emoji": "🦁",
+     "value": 80,
+     "unit": "كم/س"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "kind": "speed",
+   "id": "level1.speed",
+   "level": 1,
+   "title": "جولة السرعة",
+   "sub": "٣ ظلال | ٣ ثوانٍ لكل ظل",
+   "level_name": "تسخين",
+   "start": 31.89,
+   "end": 34.09,
+   "host": [
+    {
+     "t": 32.09,
+     "end": 32.89,
+     "mood": "dare",
+     "text": "ظلال بسرعة!",
+     "id": "level1.speed_intro"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q04",
+   "index": 4,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "speed",
+   "speed_index": 1,
+   "speed_total": 2,
+   "start": 34.09,
+   "end": 38.84,
+   "ask_text": "ظل أي حيوان؟",
+   "clue": {
+    "type": "animal",
+    "emoji": "🦓",
+    "effect": "silhouette"
+   },
+   "answers": [
+    {
+     "text": "حمار وحشي",
+     "emoji": "🦓",
+     "iso": null,
+     "t": 37.34
+    }
+   ],
+   "hints": [],
+   "think_s": 3,
+   "t": {
+    "in": 34.09,
+    "timer_start": 34.34,
+    "timer_end": 37.34,
+    "reveal": 37.34,
+    "out": 38.54
+   },
+   "host": [
+    {
+     "t": 37.42,
+     "end": 38.22,
+     "mood": "react",
+     "text": "حمار وحشي!",
+     "id": "q04.reveal"
+    }
+   ],
+   "answer_emoji": "🦓"
+  },
+  {
+   "type": "question",
+   "id": "q05",
+   "index": 5,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "speed",
+   "speed_index": 2,
+   "speed_total": 2,
+   "start": 38.84,
+   "end": 44.27,
+   "ask_text": "ظل أي حيوان؟",
+   "clue": {
+    "type": "animal",
+    "emoji": "🦘",
+    "effect": "silhouette"
+   },
+   "answers": [
+    {
+     "text": "كنغر",
+     "emoji": "🦘",
+     "iso": null,
+     "t": 42.09
+    }
+   ],
+   "hints": [],
+   "think_s": 3,
+   "t": {
+    "in": 38.84,
+    "timer_start": 39.09,
+    "timer_end": 42.09,
+    "reveal": 42.09,
+    "out": 43.97
+   },
+   "host": [
+    {
+     "t": 42.17,
+     "end": 42.67,
+     "mood": "react",
+     "text": "كنغر!",
+     "id": "q05.reveal"
+    },
+    {
+     "t": 42.82,
+     "end": 43.62,
+     "mood": "tease",
+     "text": "حلو كتير!",
+     "id": "level1.speed_outro"
+    }
+   ],
+   "answer_emoji": "🦘"
+  },
+  {
+   "type": "card",
+   "kind": "level",
+   "id": "level2",
+   "level": 2,
+   "title": "المستوى ٢: عادي",
+   "level_name": "عادي",
+   "sub": null,
+   "tally_text": "كم صح من ١٠؟",
+   "new_text": "جديد: أصوات الحيوانات",
+   "series_text": null,
+   "stake_text": "من يصل إلى ٣٠ يأخذ لقب الجاحظ",
+   "think_s": 5,
+   "hold_s": 1,
+   "start": 44.27,
+   "end": 47.77,
+   "host": [
+    {
+     "t": 44.47,
+     "end": 46.47,
+     "mood": "tease",
+     "text": "كم صح معك؟ والجديد: الأصوات.",
+     "id": "level2"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q06",
+   "index": 6,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "animal_blur",
+   "start": 47.77,
+   "end": 57.4,
+   "ask_text": "أي طائر؟ الصورة ضبابية",
+   "clue": {
+    "type": "animal",
+    "emoji": "🦜",
+    "effect": "blur"
+   },
+   "options": [
+    {
+     "text": "ببغاء",
+     "iso": null
+    },
+    {
+     "text": "طاووس",
+     "iso": null
+    },
+    {
+     "text": "نسر",
+     "iso": null
+    },
+    {
+     "text": "بومة",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "بعض الببغاوات تعيش أكثر من ٦٠ سنة",
+   "think_s": 5,
+   "t": {
+    "in": 47.77,
+    "options_in": 48.12,
+    "timer_start": 49.02,
+    "timer_end": 54.02,
+    "reveal": 54.02,
+    "learn_in": 54.75,
+    "out": 57.1
+   },
+   "host": [
+    {
+     "t": 48.07,
+     "end": 48.87,
+     "mood": "ask",
+     "text": "شو هالطير؟",
+     "id": "q06.ask"
+    },
+    {
+     "t": 54.1,
+     "end": 54.6,
+     "mood": "react",
+     "text": "ببغاء!",
+     "id": "q06.reveal"
+    },
+    {
+     "t": 54.75,
+     "end": 56.75,
+     "mood": "teach",
+     "text": "بيعيش أكتر من ستين سنة.",
+     "id": "q06.learn"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q07",
+   "index": 7,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "sound",
+   "start": 57.4,
+   "end": 67.43,
+   "ask_text": "ما اسم صوته؟",
+   "clue": {
+    "type": "text",
+    "text": "صوت الأسد"
+   },
+   "options": [
+    {
+     "text": "عواء",
+     "iso": null
+    },
+    {
+     "text": "زئير",
+     "iso": null
+    },
+    {
+     "text": "نهيق",
+     "iso": null
+    },
+    {
+     "text": "صهيل",
+     "iso": null
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "زئير الأسد يُسمع من بعد ٨ كيلومترات",
+   "think_s": 5,
+   "t": {
+    "in": 57.4,
+    "options_in": 57.75,
+    "timer_start": 59.45,
+    "timer_end": 64.45,
+    "reveal": 64.45,
+    "learn_in": 65.18,
+    "out": 67.13
+   },
+   "host": [
+    {
+     "t": 57.7,
+     "end": 59.3,
+     "mood": "ask",
+     "text": "شو اسم صوت الأسد؟",
+     "id": "q07.ask"
+    },
+    {
+     "t": 64.53,
+     "end": 65.03,
+     "mood": "react",
+     "text": "زئير!",
+     "id": "q07.reveal"
+    },
+    {
+     "t": 65.18,
+     "end": 66.78,
+     "mood": "teach",
+     "text": "بينسمع من بعيد كتير.",
+     "id": "q07.learn"
+    }
+   ],
+   "answer_emoji": "🦁"
+  },
+  {
+   "type": "question",
+   "id": "q08",
+   "index": 8,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "record",
+   "start": 67.43,
+   "end": 75.86,
+   "ask_text": "أي حيوان هو الأثقل؟",
+   "clue": {
+    "type": "text",
+    "text": "الأثقل على اليابسة"
+   },
+   "options": [
+    {
+     "text": "وحيد القرن",
+     "emoji": "🦏",
+     "iso": null
+    },
+    {
+     "text": "الفيل",
+     "emoji": "🐘",
+     "iso": null
+    },
+    {
+     "text": "فرس النهر",
+     "emoji": "🦛",
+     "iso": null
+    },
+    {
+     "text": "الزرافة",
+     "emoji": "🦒",
+     "iso": null
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "الفيل الأفريقي يزن حتى ٦ أطنان",
+   "think_s": 5,
+   "t": {
+    "in": 67.43,
+    "options_in": 67.78,
+    "timer_start": 68.68,
+    "timer_end": 73.68,
+    "reveal": 73.68,
+    "learn_in": 74.41,
+    "out": 75.56
+   },
+   "host": [
+    {
+     "t": 67.73,
+     "end": 68.53,
+     "mood": "ask",
+     "text": "مين الأثقل؟",
+     "id": "q08.ask"
+    },
+    {
+     "t": 73.76,
+     "end": 74.26,
+     "mood": "react",
+     "text": "الفيل!",
+     "id": "q08.reveal"
+    },
+    {
+     "t": 74.41,
+     "end": 75.21,
+     "mood": "teach",
+     "text": "ستة أطنان!",
+     "id": "q08.learn"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "kind": "level",
+   "id": "level3",
+   "level": 3,
+   "title": "المستوى ٣: صعب",
+   "level_name": "صعب",
+   "sub": null,
+   "tally_text": "كم صح من ٢٠؟",
+   "new_text": "جديد: من أنا؟",
+   "series_text": null,
+   "stake_text": null,
+   "think_s": 5,
+   "hold_s": 1,
+   "start": 75.86,
+   "end": 79.36,
+   "host": [
+    {
+     "t": 76.06,
+     "end": 78.06,
+     "mood": "tease",
+     "text": "صار صعب! والجديد: من أنا.",
+     "id": "level3"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q09",
+   "index": 9,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "animal_strips",
+   "start": 79.36,
+   "end": 88.59,
+   "ask_text": "أي حيوان خلف الستائر؟",
+   "clue": {
+    "type": "animal",
+    "emoji": "🐧",
+    "effect": "strips"
+   },
+   "options": [
+    {
+     "text": "بطريق",
+     "iso": null
+    },
+    {
+     "text": "بطة",
+     "iso": null
+    },
+    {
+     "text": "نورس",
+     "iso": null
+    },
+    {
+     "text": "غراب",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "البطريق الإمبراطور يغوص أكثر من ٥٠٠ متر",
+   "think_s": 5,
+   "t": {
+    "in": 79.36,
+    "options_in": 79.71,
+    "timer_start": 81.01,
+    "timer_end": 86.01,
+    "reveal": 86.01,
+    "learn_in": 86.74,
+    "out": 88.29
+   },
+   "host": [
+    {
+     "t": 79.66,
+     "end": 80.86,
+     "mood": "ask",
+     "text": "مين ورا الستارة؟",
+     "id": "q09.ask"
+    },
+    {
+     "t": 86.09,
+     "end": 86.59,
+     "mood": "react",
+     "text": "بطريق!",
+     "id": "q09.reveal"
+    },
+    {
+     "t": 86.74,
+     "end": 87.94,
+     "mood": "teach",
+     "text": "بيغوص لعمق كبير.",
+     "id": "q09.learn"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q10",
+   "index": 10,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "who_am_i",
+   "start": 88.59,
+   "end": 97.42,
+   "ask_text": "من أنا؟",
+   "clue": {
+    "type": "text",
+    "lines": [
+     "أنام ٢٠ ساعة في اليوم",
+     "آكل أوراق الكينا فقط",
+     "أعيش في أستراليا"
+    ]
+   },
+   "options": [
+    {
+     "text": "كسلان",
+     "iso": null
+    },
+    {
+     "text": "كوالا",
+     "iso": null
+    },
+    {
+     "text": "كنغر",
+     "iso": null
+    },
+    {
+     "text": "باندا",
+     "iso": null
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "الكوالا ليس دباً بل من الجرابيات",
+   "think_s": 5,
+   "t": {
+    "in": 88.59,
+    "options_in": 88.94,
+    "timer_start": 89.84,
+    "timer_end": 94.84,
+    "reveal": 94.84,
+    "learn_in": 95.57,
+    "out": 97.12
+   },
+   "host": [
+    {
+     "t": 88.89,
+     "end": 89.69,
+     "mood": "ask",
+     "text": "مين أنا؟",
+     "id": "q10.ask"
+    },
+    {
+     "t": 94.92,
+     "end": 95.42,
+     "mood": "react",
+     "text": "كوالا!",
+     "id": "q10.reveal"
+    },
+    {
+     "t": 95.57,
+     "end": 96.77,
+     "mood": "teach",
+     "text": "مش دب أبداً.",
+     "id": "q10.learn"
+    }
+   ],
+   "answer_emoji": "🐨"
+  },
+  {
+   "type": "card",
+   "kind": "level",
+   "id": "level4",
+   "level": 4,
+   "title": "المستوى ٤: مستحيل",
+   "level_name": "مستحيل",
+   "sub": null,
+   "tally_text": "كم صح من ٣٠؟",
+   "new_text": "جديد: ظلال في الظلام",
+   "series_text": null,
+   "stake_text": null,
+   "think_s": 5,
+   "hold_s": 1,
+   "start": 97.42,
+   "end": 99.72,
+   "host": [
+    {
+     "t": 97.62,
+     "end": 98.42,
+     "mood": "tease",
+     "text": "الأصعب جاي!",
+     "id": "level4"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q11",
+   "index": 11,
+   "level": 4,
+   "level_name": "مستحيل",
+   "mechanic": "silhouette",
+   "start": 99.72,
+   "end": 108.95,
+   "ask_text": "أي حيوان؟ من ظلّه",
+   "clue": {
+    "type": "animal",
+    "emoji": "🦔",
+    "effect": "silhouette"
+   },
+   "options": [
+    {
+     "text": "قنفذ",
+     "iso": null
+    },
+    {
+     "text": "فأر",
+     "iso": null
+    },
+    {
+     "text": "سنجاب",
+     "iso": null
+    },
+    {
+     "text": "خلد",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "على ظهر القنفذ نحو ٥٠٠٠ شوكة",
+   "think_s": 5,
+   "t": {
+    "in": 99.72,
+    "options_in": 100.07,
+    "timer_start": 101.37,
+    "timer_end": 106.37,
+    "reveal": 106.37,
+    "learn_in": 107.1,
+    "out": 108.65
+   },
+   "host": [
+    {
+     "t": 100.02,
+     "end": 101.22,
+     "mood": "ask",
+     "text": "مين صاحب هالظل؟",
+     "id": "q11.ask"
+    },
+    {
+     "t": 106.45,
+     "end": 106.95,
+     "mood": "react",
+     "text": "قنفذ!",
+     "id": "q11.reveal"
+    },
+    {
+     "t": 107.1,
+     "end": 108.3,
+     "mood": "teach",
+     "text": "خمسة آلاف شوكة.",
+     "id": "q11.learn"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q12",
+   "index": 12,
+   "level": 4,
+   "level_name": "مستحيل",
+   "mechanic": "animal",
+   "start": 108.95,
+   "end": 118.18,
+   "ask_text": "ما اسم هذا الطائر؟",
+   "clue": {
+    "type": "animal",
+    "emoji": "🦩"
+   },
+   "options": [
+    {
+     "text": "مالك الحزين",
+     "iso": null
+    },
+    {
+     "text": "نحام",
+     "iso": null
+    },
+    {
+     "text": "لقلق",
+     "iso": null
+    },
+    {
+     "text": "كركي",
+     "iso": null
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "لونه الوردي يأتي من الروبيان الذي يأكله",
+   "think_s": 5,
+   "t": {
+    "in": 108.95,
+    "options_in": 109.3,
+    "timer_start": 110.6,
+    "timer_end": 115.6,
+    "reveal": 115.6,
+    "learn_in": 116.33,
+    "out": 117.88
+   },
+   "host": [
+    {
+     "t": 109.25,
+     "end": 110.45,
+     "mood": "ask",
+     "text": "شو اسم هالطير؟",
+     "id": "q12.ask"
+    },
+    {
+     "t": 115.68,
+     "end": 116.18,
+     "mood": "react",
+     "text": "نحام!",
+     "id": "q12.reveal"
+    },
+    {
+     "t": 116.33,
+     "end": 117.53,
+     "mood": "teach",
+     "text": "لونه من أكله.",
+     "id": "q12.learn"
+    }
+   ]
+  },
+  {
+   "type": "card",
+   "kind": "speed",
+   "id": "level4.speed",
+   "level": 4,
+   "title": "جولة السرعة",
+   "sub": "ظلال | ثانيتان ونصف",
+   "level_name": "مستحيل",
+   "start": 118.18,
+   "end": 120.38,
+   "host": [
+    {
+     "t": 118.38,
+     "end": 119.18,
+     "mood": "dare",
+     "text": "آخر ظلال!",
+     "id": "level4.speed_intro"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q13",
+   "index": 13,
+   "level": 4,
+   "level_name": "مستحيل",
+   "mechanic": "speed",
+   "speed_index": 1,
+   "speed_total": 2,
+   "start": 120.38,
+   "end": 124.63,
+   "ask_text": "ظل أي حيوان؟",
+   "clue": {
+    "type": "animal",
+    "emoji": "🐙",
+    "effect": "silhouette"
+   },
+   "answers": [
+    {
+     "text": "أخطبوط",
+     "emoji": "🐙",
+     "iso": null,
+     "t": 123.13
+    }
+   ],
+   "hints": [],
+   "think_s": 2.5,
+   "t": {
+    "in": 120.38,
+    "timer_start": 120.63,
+    "timer_end": 123.13,
+    "reveal": 123.13,
+    "out": 124.33
+   },
+   "host": [
+    {
+     "t": 123.21,
+     "end": 123.71,
+     "mood": "react",
+     "text": "أخطبوط!",
+     "id": "q13.reveal"
+    }
+   ],
+   "answer_emoji": "🐙"
+  },
+  {
+   "type": "question",
+   "id": "q14",
+   "index": 14,
+   "level": 4,
+   "level_name": "مستحيل",
+   "mechanic": "speed",
+   "speed_index": 2,
+   "speed_total": 2,
+   "start": 124.63,
+   "end": 129.26,
+   "ask_text": "ظل أي حيوان؟",
+   "clue": {
+    "type": "animal",
+    "emoji": "🦈",
+    "effect": "silhouette"
+   },
+   "answers": [
+    {
+     "text": "قرش",
+     "emoji": "🦈",
+     "iso": null,
+     "t": 127.38
+    }
+   ],
+   "hints": [],
+   "think_s": 2.5,
+   "t": {
+    "in": 124.63,
+    "timer_start": 124.88,
+    "timer_end": 127.38,
+    "reveal": 127.38,
+    "out": 128.96
+   },
+   "host": [
+    {
+     "t": 127.46,
+     "end": 127.96,
+     "mood": "react",
+     "text": "قرش!",
+     "id": "q14.reveal"
+    },
+    {
+     "t": 128.11,
+     "end": 128.61,
+     "mood": "tease",
+     "text": "خلصنا!",
+     "id": "level4.speed_outro"
+    }
+   ],
+   "answer_emoji": "🦈"
+  },
+  {
+   "type": "ladder",
+   "id": "ladder",
+   "title": "كم جبت من ١٤؟",
+   "rows": [
+    {
+     "min": 0,
+     "max": 14,
+     "title": "زائر حديقة"
+    },
+    {
+     "min": 15,
+     "max": 22,
+     "title": "حارس محمية"
+    },
+    {
+     "min": 23,
+     "max": 29,
+     "title": "مستكشف البرّية"
+    },
+    {
+     "min": 30,
+     "max": 40,
+     "title": "الجاحظ"
+    }
+   ],
+   "start": 129.26,
+   "end": 134.26,
+   "host": [
+    {
+     "t": 129.56,
+     "end": 132.36,
+     "mood": "react",
+     "text": "من ٣٠ وطالع أنت الجاحظ! اكتبوا لقبكم.",
+     "id": "ladder"
+    }
+   ]
+  },
+  {
+   "type": "end",
+   "id": "end",
+   "text": "تعلّم بالأسئلة | الحلقة القادمة: حيوانات البحر",
+   "sub": null,
+   "start": 134.26,
+   "end": 142.26,
+   "host": [
+    {
+     "t": 134.56,
+     "end": 136.16,
+     "mood": "tease",
+     "text": "الحلقة الجاية: حيوانات البحر!",
+     "id": "handoff"
+    }
+   ]
+  }
+ ]
+}

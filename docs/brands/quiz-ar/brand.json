@@ -1,0 +1,231 @@
+{
+  "id": "quiz-ar",
+  "name": "شو شايف؟",
+  "handle": "@shoshayef",
+  "backup_handle": "@shushayef",
+  "positioning": "Fast, fair Arabic visual puzzles: 5 rounds in 25-40 s, every answer deducible from a visible cue and explained in one line. Bright motion design, friendly Levantine-leaning narration. No intuition/psychology claims.",
+  "audience": "Arabic-speaking mobile viewers 14-45 (Levant first, readable across MENA) who like quick brain teasers and share scores.",
+  "language": "ar",
+  "format": "quiz",
+  "status": "draft",
+  "data": {
+    "name_latin": "Shu Shayef",
+    "description_short": "ألغاز بصرية سريعة وعادلة: 5 جولات في 30 ثانية، وكل جواب مشروح. شو شايف؟",
+    "description_long": "شو شايف؟ قناة ألغاز بصرية سريعة بالعربي. كل فيديو من 25 إلى 40 ثانية و4 إلى 5 جولات تصعب شوي شوي، وعندك 3 ثواني تفكر قبل ما ينكشف الجواب.\n\nألغازنا عادلة: كل جواب له دليل تقدر تشوفه بعينك (فرق إضاءة، ظل، انعكاس، ترتيب، تفصيلة صغيرة)، وبنشرح لك الدليل بجملة وحدة بعد كل جولة. ما في تخمين أعمى ولا ادعاءات عن الحدس أو قراءة الشخصية، هي مجرد ملاحظة وتركيز وتسلية.\n\nشو تلاقي هون: ألغاز ألوان وظلال، أشياء مخفية، فروقات بين صورتين، تسلسلات منطقية، وجولة أخيرة صعبة.\nكم جبت صح؟ اكتب نتيجتك بالتعليقات وقول لنا أي جولة كانت الأصعب.\n\nفيديو جديد بنشرح فيه كل جواب. تابعنا وجرّب عينك.\n\n#شو_شايف #ألغاز_بصرية #اختبر_نفسك",
+    "bios": {
+      "youtube": "ألغاز بصرية سريعة وعادلة بالعربي. 5 جولات، 3 ثواني للتفكير، وكل جواب مشروح. كم جبت صح؟ اكتب نتيجتك بالتعليقات.",
+      "tiktok": "ألغاز بصرية سريعة وعادلة، وكل جواب مشروح. كم جبت صح؟",
+      "instagram": "ألغاز بصرية سريعة بالعربي. 5 جولات، 3 ثواني لكل سؤال، وكل جواب مشروح. كم جبت صح؟ اكتب نتيجتك.",
+      "facebook": "ألغاز بصرية سريعة وعادلة، وكل جواب مشروح.",
+      "threads": "ألغاز بصرية سريعة وعادلة بالعربي، وكل جواب مشروح. كم جبت صح؟"
+    },
+    "hashtags": [
+      "#شو_شايف",
+      "#ألغاز",
+      "#ألغاز_بصرية",
+      "#اختبر_نفسك",
+      "#تحدي",
+      "#اختبار_ملاحظة",
+      "#لغز",
+      "#ذكاء",
+      "#تحدي_العقل",
+      "#shoshayef",
+      "#brainteaser",
+      "#puzzle",
+      "#quiz",
+      "#riddles",
+      "#shorts"
+    ],
+    "title_formula": "{سؤال قصير بالعامية؟} | {N} جولات، كم جبت؟",
+    "availability": [
+      {
+        "candidate": "شو شايف؟",
+        "handle": "shoshayef",
+        "youtube": {
+          "status": "likely free",
+          "evidence": "404 'Not Found' page at youtube.com/@shoshayef (controls: @mrbeast 200, @Tahadi.X 200, nonsense handle 404) -> likely free"
+        },
+        "tiktok": {
+          "status": "likely free",
+          "evidence": "oembed profile endpoint 400 (controls: @tiktok/@mrbeast 200, nonsense 400) -> likely free"
+        },
+        "instagram": {
+          "status": "inconclusive",
+          "evidence": "inconclusive: 200, title 'Instagram', ~583.7 KB, identical to real @instagram/@mrbeast and nonsense handle"
+        },
+        "facebook": {
+          "status": "inconclusive",
+          "evidence": "inconclusive: HTTP 400 'Error' for every handle incl. facebook.com/facebook"
+        },
+        "threads": {
+          "status": "inconclusive",
+          "evidence": "inconclusive: 200 (redirects to threads.com), title 'Threads', ~230 KB, identical for real and nonsense handles; WebFetch showed login page"
+        }
+      },
+      {
+        "candidate": "شو شايف؟",
+        "handle": "shushayef",
+        "youtube": {
+          "status": "likely free",
+          "evidence": "404 'Not Found' page at youtube.com/@shushayef (controls: @mrbeast 200, @Tahadi.X 200, nonsense handle 404) -> likely free"
+        },
+        "tiktok": {
+          "status": "likely free",
+          "evidence": "oembed profile endpoint 400 (controls: @tiktok/@mrbeast 200, nonsense 400) -> likely free"
+        },
+        "instagram": {
+          "status": "inconclusive",
+          "evidence": "inconclusive: 200, title 'Instagram', ~583.7 KB, identical to real @instagram/@mrbeast and nonsense handle"
+        },
+        "facebook": {
+          "status": "inconclusive",
+          "evidence": "inconclusive: HTTP 400 'Error' for every handle incl. facebook.com/facebook"
+        },
+        "threads": {
+          "status": "inconclusive",
+          "evidence": "inconclusive: 200 (redirects to threads.com), title 'Threads', ~230 KB, identical for real and nonsense handles; WebFetch showed login page"
+        }
+      },
+      {
+        "candidate": "شو شايف؟ (other tested spellings)",
+        "handle": "shoshayef.quiz, shoshayef.ar, shu.shayef, shoo.shayef",
+        "youtube": {
+          "status": "likely free",
+          "evidence": "404 for all four"
+        },
+        "tiktok": {
+          "status": "likely free",
+          "evidence": "oembed 400 for all four"
+        },
+        "instagram": {
+          "status": "inconclusive",
+          "evidence": "inconclusive: 200, title 'Instagram', ~583.7 KB, identical to real @instagram/@mrbeast and nonsense handle"
+        },
+        "facebook": {
+          "status": "inconclusive",
+          "evidence": "inconclusive: HTTP 400 'Error' for every handle incl. facebook.com/facebook"
+        },
+        "threads": {
+          "status": "inconclusive",
+          "evidence": "inconclusive: 200 (redirects to threads.com), title 'Threads', ~230 KB, identical for real and nonsense handles; WebFetch showed login page"
+        }
+      },
+      {
+        "candidate": "اختبار حدسك",
+        "handle": "ikhtibar.hadsak / hadsak.quiz",
+        "youtube": "likely free (404)",
+        "tiktok": "likely free (oembed 400)",
+        "instagram": "inconclusive",
+        "facebook": "inconclusive",
+        "threads": "inconclusive"
+      },
+      {
+        "candidate": "اختبار حدسك",
+        "handle": "hadsak",
+        "youtube": "TAKEN (200)",
+        "tiktok": "TAKEN (oembed 200, 'user9851934681488')",
+        "instagram": "inconclusive",
+        "facebook": "inconclusive",
+        "threads": "inconclusive"
+      },
+      {
+        "candidate": "اختبر ذكاءك",
+        "handle": "ikhtabir.zakaak / ikhtabir.thakaak",
+        "youtube": "likely free (404) but near-collision with @Ekhtab3rZakaak (51.2K subs)",
+        "tiktok": "likely free (oembed 400)",
+        "instagram": "inconclusive",
+        "facebook": "inconclusive",
+        "threads": "inconclusive"
+      },
+      {
+        "candidate": "تحدي الحاسة السادسة",
+        "handle": "ta7adi.6th",
+        "youtube": "likely free (404)",
+        "tiktok": "likely free (oembed 400)",
+        "instagram": "inconclusive",
+        "facebook": "inconclusive",
+        "threads": "inconclusive"
+      },
+      {
+        "candidate": "تحدي عقلك",
+        "handle": "ta7adi.aqlak / tahaddi.aqlak",
+        "youtube": "likely free (404) but exact-name channel @_ChallengeYourMind (15K)",
+        "tiktok": "likely free (oembed 400)",
+        "instagram": "inconclusive",
+        "facebook": "inconclusive",
+        "threads": "inconclusive"
+      },
+      {
+        "candidate": "دقيقة تحدّي",
+        "handle": "da2i2a.ta7adi / daqiqa.tahaddi",
+        "youtube": "likely free (404)",
+        "tiktok": "likely free (oembed 400)",
+        "instagram": "inconclusive",
+        "facebook": "inconclusive",
+        "threads": "inconclusive"
+      },
+      {
+        "candidate": "لغز ثواني",
+        "handle": "lughz.thawani",
+        "youtube": "likely free (404) but similar channels (4.71K subs)",
+        "tiktok": "likely free (oembed 400)",
+        "instagram": "inconclusive",
+        "facebook": "inconclusive",
+        "threads": "inconclusive"
+      },
+      {
+        "candidate": "خمّن صح",
+        "handle": "khamen.sah",
+        "youtube": "likely free (404) but exact-name channel @khamen-sah (35.2K)",
+        "tiktok": "likely free (oembed 400)",
+        "instagram": "inconclusive",
+        "facebook": "inconclusive",
+        "threads": "inconclusive"
+      },
+      {
+        "candidate": "عين الصقر",
+        "handle": "aynalsaqr",
+        "youtube": "TAKEN (200)",
+        "tiktok": "TAKEN (oembed 200 'Ayn Alsaqr')",
+        "instagram": "inconclusive",
+        "facebook": "inconclusive",
+        "threads": "inconclusive"
+      },
+      {
+        "candidate": "عين الصقر",
+        "handle": "ayn.alsaqr",
+        "youtube": "likely free (404)",
+        "tiktok": "likely free (oembed 400)",
+        "instagram": "inconclusive",
+        "facebook": "inconclusive",
+        "threads": "inconclusive"
+      },
+      {
+        "candidate": "لمحة",
+        "handle": "lamha.quiz",
+        "youtube": "likely free (404)",
+        "tiktok": "TAKEN (oembed 200 'لمحة')",
+        "instagram": "inconclusive",
+        "facebook": "inconclusive",
+        "threads": "inconclusive"
+      }
+    ],
+    "availability_checked": "2026-10-22",
+    "availability_note": "Logged-out checks only. YouTube and TikTok (oembed) have working positive/negative controls; Instagram, Facebook and Threads are inconclusive and need the owner to check while logged in. No trademark registry search was done.",
+    "safe_zone_1080x1920": {
+      "unified_keep_clear": {
+        "top_px": 288,
+        "bottom_px": 707,
+        "left_px": 120,
+        "right_px": 242
+      },
+      "safe_box": {
+        "x": 120,
+        "y": 288,
+        "w": 718,
+        "h": 925
+      },
+      "sources": "third-party; see naming-and-packaging.md; verify with in-app previews"
+    }
+  }
+}

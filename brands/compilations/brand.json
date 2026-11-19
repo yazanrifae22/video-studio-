@@ -1,0 +1,19 @@
+{
+  "id": "compilations",
+  "name": "The Way It Was Made",
+  "format": "compilation",
+  "positioning": "How the 20th century was built, told as stories from public-domain archive film",
+  "audience": "History/nostalgia & how-it's-made viewers 25-65",
+  "language": "en",
+  "status": "draft",
+  "data": {
+    "pillars": [
+      "vanished jobs",
+      "machines & factories",
+      "cities then",
+      "landmark launches"
+    ],
+    "tone": "warm storyteller, specific facts",
+    "audio_rule": "strip original archive audio by default (music rights)"
+  }
+}

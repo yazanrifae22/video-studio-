@@ -1,0 +1,38 @@
+{
+  "verdict": "weak",
+  "answers": {
+    "q1": "After the first 5 seconds I think it is a coin game where one player ends up with 90% of the money, and the video will show how that happens. The thumbnail (gold coin tower, king in a green cone hat, FAIR GAME?) and the title (one winner, every time) match. I got the 'fair game with one winner' idea clearly.",
+    "q2": "Partly. 'Nobody cheated' and 'he is not smarter' make me curious, and the 1% line gives a real-world reason to care. But the reason to care is only clear around the 1% line, and before that it is a mystery without stakes for me.",
+    "q3": "Yes, roughly: they will test a fair coin game with four players who get advantages (Scholar, Worker, Heir, Fool), run it 10,000 times, and then show a rule that stops the king. The 'one rule' is a promise I like, but I would not know what the rule is for.",
+    "q4": "Most likely around the 'Pick your winner now' line (line 22). I am asked to pick a winner before I know the game, the four characters or what the 'winner' means, so it feels like I am being told to do something I cannot do yet. Also the long run of character intros (lines 45 to 64) with 'for now the hats mean nothing' could make me leave: four pawns, a name each, and no game yet. I might leave around the 'Here is the whole game' moment, wondering how long until it starts.",
+    "q5": "'Some of you will hate who wins.' Sounds like a dare and a bit preachy. Better: 'Pick the one you think will win.'\n\n'For now the hats mean nothing... but keep an eye on them.' Filler-ish. Better: 'The hats will matter. Watch what they do.'\n\n'This game says something they will hate: being rich does not prove you were better.' Preachy for a coin video before I see the game. Better: 'In a fair game, does being rich mean you were better? Let's test it.'\n\n'Because nobody can bet what they don't have.' Fine, but 'both risk the same amount' needs one more beat: 'Both put in 20 coins, so the risk is equal, even though one has four times more.'",
+    "q6": "I would comment only if the game shows something surprising. Right now I would type 'wait, which hat wins?' or 'so is the coin fair or not?' I would not type anything yet in the first 100 seconds."
+  },
+  "gap_to_gate": [
+    {
+      "line": "Pick your winner now. Some of you will hate who wins.",
+      "problem": "I am asked to pick a winner before I know the game, the four characters or the rules. Sounds like a dare, and 'hate' feels preachy.",
+      "fix_wording": "Before the game starts, who do you think wins a fair coin game? Pick one of the four."
+    },
+    {
+      "line": "This game says something they will hate: being rich does not prove you were better.",
+      "problem": "Preachy and political before I know the game. It tells me what to think instead of letting me test it.",
+      "fix_wording": "In a fair game, does being rich mean you were better? Let's test it."
+    },
+    {
+      "line": "For now the hats mean nothing. All four play by exactly the same rules as everyone else. But keep an eye on them.",
+      "problem": "Filler: four characters and no game yet, so the setup drags. I do not know what the hats will do or why I should watch.",
+      "fix_wording": "The hats are the only difference. Watch what they do to the coin."
+    },
+    {
+      "line": "Here is the whole game. (then 'Two players are picked at random...')",
+      "problem": "Setup runs about 60 seconds before the rules appear. A stranger may leave before the game starts.",
+      "fix_wording": "Here is the game in 10 seconds: a coin flip, a bet, and one winner takes all. Then the four hats join."
+    },
+    {
+      "line": "Both risk the same amount. That is as fair as a bet gets.",
+      "problem": "Confusing: the 100-coin player risks a bigger share of his money than the 400-coin player, so 'same amount' does not feel fair to me right away.",
+      "fix_wording": "Both put in 20 coins, so the risk is equal to each player. The poorer player is not punished, and the richer one cannot cheat the bet."
+    }
+  ]
+}

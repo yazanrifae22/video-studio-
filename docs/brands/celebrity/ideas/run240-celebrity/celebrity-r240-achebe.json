@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Africa's Most-Read Novel Almost Vanished in the Mail",
+ "topic": "Achebe posted his handwritten only copy of Things Fall Apart to a London typing agency, which ignored him for months until a colleague got it back.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Chinua Achebe born 16 Nov 1930 (2026-11-16). Wikipedia Chinua_Achebe 18,904 views Sept 2026.",
+ "hook": "The only copy, mailed away. Then silence?",
+ "twist": "Achebe posted his handwritten only copy of Things Fall Apart to a London typing agency, which ignored him for months until a colleague got it back.",
+ "peg": {
+  "event": "Chinua Achebe born 16 Nov 1930",
+  "date": "2026-11-16",
+  "url": "https://en.wikipedia.org/wiki/Chinua_Achebe",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Things Fall Apart (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Things_Fall_Apart"
+  },
+  {
+   "claim": "Mental Floss - Things Fall Apart book facts (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/literature/books/chinua-achebe-things-fall-apart-book-facts"
+  },
+  {
+   "claim": "Bookforum - Continental Drift (accessed 2026-10-24)",
+   "url": "https://www.bookforum.com/print/1903/two-famed-chroniclers-of-postcolonial-africa-offer-fresh-testimony-10010"
+  },
+  {
+   "claim": "Peg source: Chinua Achebe born 16 Nov 1930 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Chinua_Achebe"
+  },
+  {
+   "claim": "Wikimedia pageviews Chinua_Achebe: 18904 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Chinua_Achebe&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Things Fall Apart",
+   "url": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Mental Floss - Things Fall Apart book facts",
+   "url": "https://www.mentalfloss.com/literature/books/chinua-achebe-things-fall-apart-book-facts",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Bookforum - Continental Drift",
+   "url": "https://www.bookforum.com/print/1903/two-famed-chroniclers-of-postcolonial-africa-offer-fresh-testimony-10010",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The Only Copy of Africa's Most Famous Novel Almost Vanished | Chinua Achebe #Shorts",
+   "url": "https://youtube.com/shorts/HczaDwH4uqE",
+   "views": 11,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Things Fall Apart by Chinua Achebe #chinuaachebe #thingsfallapart #colonialism #african #ignou #du",
+   "url": "https://youtube.com/shorts/2TGjkmEXuVg",
+   "views": 55,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Things Fall Apart – The Book That Changed African Literature #history #shorts #short",
+   "url": "https://youtube.com/shorts/DPKi-s4w1o0",
+   "views": 859,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a parcel stamped 'LONDON' on a dusty shelf + hook. Twist: it held Things Fall Apart. Loop: 'Would you post your only copy?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Fee (£22 vs £32) and silence length (6 weeks vs months) differ: say 'a fee' and 'for months, by most accounts'. Rescuer named Angela Beattie in Wikipedia/Bookforum.",
+ "window": {
+  "notBefore": "2026-11-15T12:00:00Z",
+  "deadline": "2026-11-18T00:00:00Z",
+  "label": "Chinua Achebe born 16 Nov 1930",
+  "suggestedSlot": "2026-11-16T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

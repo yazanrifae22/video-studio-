@@ -1,0 +1,1 @@
+powershell -NoProfile -Command "(Get-CimInstance Win32_Process | Where-Object {\$_.CommandLine -match 'cli.ts build|occ.*render|occ render' -and \$_.Name -eq 'node.exe' -and \$_.CommandLine -notmatch 'Get-CimInstance'}).Count"

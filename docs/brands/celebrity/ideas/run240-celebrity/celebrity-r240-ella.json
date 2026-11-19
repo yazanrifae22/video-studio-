@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Ella Fitzgerald Went On Stage to Dance, Not Sing",
+ "topic": "At Apollo Amateur Night (Nov 21, 1934) she froze after the Edwards Sisters' dance act, sang instead - and won the $25 prize.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Ella Fitzgerald's Apollo debut, 92nd anniversary (2026-11-21). Wikipedia Ella_Fitzgerald 37,318 views Sept 2026.",
+ "hook": "The jazz queen came to dance?",
+ "twist": "At Apollo Amateur Night (Nov 21, 1934) she froze after the Edwards Sisters' dance act, sang instead - and won the $25 prize.",
+ "peg": {
+  "event": "Ella Fitzgerald's Apollo debut, 92nd anniversary",
+  "date": "2026-11-21",
+  "url": "https://mississippitoday.org/2023/11/21/on-this-day-in-1934-ella-fitzgerald-made-her-debut-at-apollo-theater/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Mental Floss - How Ella Fitzgerald's career began on a dare (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/article/94785/how-ella-fitzgeralds-career-began-dare"
+  },
+  {
+   "claim": "Mississippi Today - On this day in 1934 (accessed 2026-10-24)",
+   "url": "https://mississippitoday.org/2023/11/21/on-this-day-in-1934-ella-fitzgerald-made-her-debut-at-apollo-theater/"
+  },
+  {
+   "claim": "Apollo Theater - Walk of Fame: Ella Fitzgerald (accessed 2026-10-24)",
+   "url": "https://legacy.apollotheater.org/wp-content/uploads/2020/05/WalkofFame_Ella_R.pdf"
+  },
+  {
+   "claim": "Peg source: Ella Fitzgerald's Apollo debut, 92nd anniversary (accessed 2026-10-24)",
+   "url": "https://mississippitoday.org/2023/11/21/on-this-day-in-1934-ella-fitzgerald-made-her-debut-at-apollo-theater/"
+  },
+  {
+   "claim": "Wikimedia pageviews Ella_Fitzgerald: 37318 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Ella_Fitzgerald&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Mental Floss - How Ella Fitzgerald's career began on a dare",
+   "url": "https://www.mentalfloss.com/article/94785/how-ella-fitzgeralds-career-began-dare",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Mississippi Today - On this day in 1934",
+   "url": "https://mississippitoday.org/2023/11/21/on-this-day-in-1934-ella-fitzgerald-made-her-debut-at-apollo-theater/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Apollo Theater - Walk of Fame: Ella Fitzgerald",
+   "url": "https://legacy.apollotheater.org/wp-content/uploads/2020/05/WalkofFame_Ella_R.pdf",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Black History Month: The Night Ella Fitzgerald Came To Apollo's Amateur Night A Nobody And Left As A",
+   "url": "https://youtu.be/KltyKh9Er9k",
+   "views": 3188,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Ella Fitzgerald wins Amateur Night at Harlem’s Apollo Theater | 8,549 views",
+   "url": "https://youtu.be/HHEjFMt06Ts",
+   "views": 8549,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Vintage 1934 “Apollo Amateur Night” Radio Broadcast / Judy (Live at the Apollo Theater /... | 8,022 ",
+   "url": "https://youtu.be/aItkjS0x7tg",
+   "views": 8022,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: dance shoes at the edge of a spotlit stage, microphone beside them + hook. Twist: she left the shoes and took the mic. Loop: 'Dance... or sing?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "She was 17 (some say 16): stage + spotlight only, no figure. Song conflict ('Judy' vs 'The Object of My Affection'): don't name it. No recordings.",
+ "window": {
+  "notBefore": "2026-11-20T12:00:00Z",
+  "deadline": "2026-11-22T06:00:00Z",
+  "label": "Ella Fitzgerald's Apollo debut, 92nd anniversary",
+  "suggestedSlot": "2026-11-21T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

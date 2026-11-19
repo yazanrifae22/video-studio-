@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "Your Phone Sees Stars Your Eyes Can't. How?",
+ "topic": "Night mode takes many short shots, lines them up and stacks them, so faint light adds up and noise cancels out.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Leonids peak Nov 17-18 2026 (Farmers' Almanac/IMO). Huge how-to demand, but competitors are tutorials, not the 'why'.",
+ "evidence": [
+  {
+   "claim": "Google Research: Night Sight merges up to 15 frames (accessed 2026-10-24)",
+   "url": "https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/"
+  },
+  {
+   "claim": "Google Research: astrophotography with Night Sight (up to 4-minute stacked exposures) (accessed 2026-10-24)",
+   "url": "https://research.google/blog/astrophotography-with-night-sight-on-pixel-phones/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Capture milkyway with your smartphone",
+   "url": "https://youtube.com/shorts/fo8PrLxnho4",
+   "views": "1.3M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "how to take a photo of Stars on Your iPhone",
+   "url": "https://youtube.com/shorts/w2X19g8DSu4",
+   "views": "592K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Dark sky. Phone shows stars?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Night mode takes many short shots, lines them up and stacks them, so faint light adds up and noise cancels out. Loop ending: re-ask the hook.",
+ "hook": "Dark sky. Phone shows stars?",
+ "twist": "Night mode takes many short shots, lines them up and stacks them, so faint light adds up and noise cancels out.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 3,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-14",
+  "deadline": "2026-11-18",
+  "event": "Leonid meteor shower peak night Nov 17-18 (IMO max Nov 17 23:45 UT)"
+ },
+ "newsPeg": "Leonid meteor shower peak night Nov 17-18 (IMO max Nov 17 23:45 UT)",
+ "suggestedSlot": "2026-11-16 15:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with the supermoon photo idea (Nov 24) - 8 days apart, different twist (stacking vs exposure).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 39,
+ "score10": 8.0,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 3,
+  "policyRisk": 1
+ }
+}

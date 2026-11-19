@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Put a Water Drop on Your Screen. Look Closer.",
+ "topic": "Every colour on your screen is made of tiny red, green and blue lights; the drop works as a magnifying lens.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Viral-proven visual (57M); best play-along of the set. Add 'wipe it off' safety line.",
+ "evidence": [
+  {
+   "claim": "Subpixel rendering / RGB subpixels (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Pixel"
+  },
+  {
+   "claim": "Additive colour (RGB) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Additive_color"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "When you drop water on your PHONE",
+   "url": "https://youtube.com/shorts/7bjtqv6fzLU",
+   "views": "57M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "When You Get Water On Your Phone",
+   "url": "https://youtube.com/shorts/45lKGxaLe9w",
+   "views": "3.3M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('One water drop. Tiny coloured dots?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Every colour on your screen is made of tiny red, green and blue lights; the drop works as a magnifying lens. Loop ending: re-ask the hook.",
+ "hook": "One water drop. Tiny coloured dots?",
+ "twist": "Every colour on your screen is made of tiny red, green and blue lights; the drop works as a magnifying lens.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-13 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Why Photos of Screens Get Rainbow Ripples'.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 5,
+ "score10": 8.7,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

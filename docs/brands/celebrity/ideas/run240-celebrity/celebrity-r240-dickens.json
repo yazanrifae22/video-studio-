@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "A Christmas Carol Was a Hit. Dickens Barely Made Money",
+ "topic": "Dickens paid for lavish colour plates but kept the price low: the first edition netted about £230, not the £1,000 he hoped, and a piracy case cost him more.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: 'Ebenezer: A Christmas Carol' (Paramount) US release (2026-11-13). Wikipedia A_Christmas_Carol 32,842 views Sept 2026.",
+ "hook": "A bestseller that barely paid its author?",
+ "twist": "Dickens paid for lavish colour plates but kept the price low: the first edition netted about £230, not the £1,000 he hoped, and a piracy case cost him more.",
+ "peg": {
+  "event": "'Ebenezer: A Christmas Carol' (Paramount) US release",
+  "date": "2026-11-13",
+  "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Mental Floss - 7 real-life inspirations for A Christmas Carol (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/holidays/christmas/7-real-life-inspirations-dickenss-christmas-carol"
+  },
+  {
+   "claim": "Today I Found Out - This day in history: December 19th (accessed 2026-10-24)",
+   "url": "https://www.todayifoundout.com/index.php/2013/12/day-history-december-19th/"
+  },
+  {
+   "claim": "File 770 - Charles Dickens, self-publisher (accessed 2026-10-24)",
+   "url": "https://file770.com/charles-dickens-self-publisher/"
+  },
+  {
+   "claim": "Peg source: 'Ebenezer: A Christmas Carol' (Paramount) US release (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol"
+  },
+  {
+   "claim": "Wikimedia pageviews A_Christmas_Carol: 32842 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=A_Christmas_Carol&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Mental Floss - 7 real-life inspirations for A Christmas Carol",
+   "url": "https://www.mentalfloss.com/holidays/christmas/7-real-life-inspirations-dickenss-christmas-carol",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Today I Found Out - This day in history: December 19th",
+   "url": "https://www.todayifoundout.com/index.php/2013/12/day-history-december-19th/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "File 770 - Charles Dickens, self-publisher",
+   "url": "https://file770.com/charles-dickens-self-publisher/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "A Christmas Carol || 7 Minute Summary | 507,161 views",
+   "url": "https://youtu.be/8fzPJUtstn4",
+   "views": 507161,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The True Meaning of A Christmas Carol – Dickens’ Hidden Message Explained | 154,631 views",
+   "url": "https://youtu.be/sCnopM0tIec",
+   "views": 154631,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "A Christmas Carol by Charles Dickens | The Folio Society | 4,208 views",
+   "url": "https://youtu.be/imMZaO81Tz8",
+   "views": 4208,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a gilt-edged red book on a ledger showing '£230' + hook. Twist: the gold edges ate the profit. Loop: 'Bah, humbug - to the printer.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Peg only: do not mention the new film's star or any actor. Figures: ~£230 first profit vs ~£1,000 hoped; legal costs ~£700 (Mental Floss). Avoid inflation conversions.",
+ "window": {
+  "notBefore": "2026-11-12T12:00:00Z",
+  "deadline": "2026-11-16T00:00:00Z",
+  "label": "'Ebenezer: A Christmas Carol' (Paramount) US release",
+  "suggestedSlot": "2026-11-13T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

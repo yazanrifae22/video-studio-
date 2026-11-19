@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Ask AI for a Joke. Why Always the Same One?",
+ "topic": "In a 2023 test, 90% of 1,008 ChatGPT jokes were the same 25 jokes: it picks the most typical answer, and the most typical joke wins.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Checkable in seconds (T3); no explainer Short.",
+ "evidence": [
+  {
+   "claim": "Jentzsch & Kersting 2023, 'ChatGPT is fun, but it is not funny!' (1,008 jokes, 25 repeated) (accessed 2026-10-24)",
+   "url": "https://arxiv.org/abs/2306.04563"
+  },
+  {
+   "claim": "Ars Technica (Jun 2023): ChatGPT prefers repeating 25 jokes over and over (accessed 2026-10-24)",
+   "url": "https://arstechnica.com/information-technology/2023/06/researchers-discover-that-chatgpt-prefers-repeating-25-jokes-over-and-over/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "AI jokes are something else",
+   "url": "https://youtube.com/shorts/InNTLvb9yiM",
+   "views": "2.9K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why Don't Scientists Trust Atoms? (just the joke)",
+   "url": "https://youtube.com/shorts/apZtyDpGYDM",
+   "views": "3.2K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Ask AI for a joke. Atoms again?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: In a 2023 test, 90% of 1,008 ChatGPT jokes were the same 25 jokes: it picks the most typical answer, and the most typical joke wins. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Ask AI for a joke. Atoms again?",
+ "twist": "In a 2023 test, 90% of 1,008 ChatGPT jokes were the same 25 jokes: it picks the most typical answer, and the most typical joke wins.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-05 22:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with '27' (AI favourites) and elara (Nov 29): 6 days apart.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 43,
+ "score10": 8.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

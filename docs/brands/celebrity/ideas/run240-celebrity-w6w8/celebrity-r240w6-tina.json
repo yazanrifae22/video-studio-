@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Tina Turner Called Her Biggest Hit 'Awful.' Which One?",
+ "topic": "Tina Turner thought 'What's Love Got to Do with It' was a weak pop song; her manager pushed, she reworked it with Terry Britten, and it became her first US No. 1 and won three Grammys.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Tina Turner born 26 Nov 1939 (2026-11-26). Wikipedia Tina_Turner 149,714 views Sept 2026.",
+ "hook": "Her biggest hit? She hated it.",
+ "twist": "Tina Turner thought 'What's Love Got to Do with It' was a weak pop song; her manager pushed, she reworked it with Terry Britten, and it became her first US No. 1 and won three Grammys.",
+ "peg": {
+  "event": "Tina Turner born 26 Nov 1939",
+  "date": "2026-11-26",
+  "url": "https://en.wikipedia.org/wiki/Tina_Turner",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "American Songwriter - Tina Turner initially rejected the song that became her first No. 1 (accessed 2026-10-24)",
+   "url": "https://americansongwriter.com/tina-turner-initially-rejected-the-song-that-became-her-first-no-1-hit/"
+  },
+  {
+   "claim": "MusicRadar - The hit she thought was throwaway pop (accessed 2026-10-24)",
+   "url": "https://www.musicradar.com/news/the-worldwide-tina-turner-smash-hit-that-she-thought-was-throwaway-pop-but-ended-up-saving-her-career"
+  },
+  {
+   "claim": "Cheat Sheet - Tina Turner almost didn't record this hit (accessed 2026-10-24)",
+   "url": "https://www.cheatsheet.com/entertainment/tina-turner-almost-didnt-record-this-hit-song-it-sounded-very-pop.html"
+  },
+  {
+   "claim": "Peg source: Tina Turner born 26 Nov 1939 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Tina_Turner"
+  },
+  {
+   "claim": "Wikimedia pageviews Tina_Turner: 149714 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Tina_Turner&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "American Songwriter - Tina Turner initially rejected the song that became her first No. 1",
+   "url": "https://americansongwriter.com/tina-turner-initially-rejected-the-song-that-became-her-first-no-1-hit/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "MusicRadar - The hit she thought was throwaway pop",
+   "url": "https://www.musicradar.com/news/the-worldwide-tina-turner-smash-hit-that-she-thought-was-throwaway-pop-but-ended-up-saving-her-career",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Cheat Sheet - Tina Turner almost didn't record this hit",
+   "url": "https://www.cheatsheet.com/entertainment/tina-turner-almost-didnt-record-this-hit-song-it-sounded-very-pop.html",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Tina Turner hated the song \"What's Love Got To Do With It\"",
+   "url": "https://www.youtube.com/watch?v=4F8WMxdYfrg",
+   "views": 11095,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Tina Turner hated whats love got to do with it #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Tina Turner Hated This Song — Then It Changed Her Career Forever",
+   "url": "https://www.youtube.com/watch?v=NtyLm0gp71o",
+   "views": 180802,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Tina Turner hated whats love got to do with it #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Tina Turner Initially Hated \"What's Love Got To Do With It\"",
+   "url": "https://youtube.com/shorts/BpSLeh0Npxs",
+   "views": 6500,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Tina Turner hated whats love got to do with it #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A demo cassette with a big red 'NO' sticker + hook. Twist by 2.5 s. Loop: 'So: which hit did she hate?'",
+ "cta": "C3+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Do not mention that Cliff Richard turned the song down (Cliff runs Nov 29). Avoid Ike Turner and abuse history. No lyrics or audio. Tina died in 2023: respectful tone.",
+ "window": {
+  "notBefore": "2026-11-25T12:00:00Z",
+  "deadline": "2026-11-28T00:00:00Z",
+  "label": "Tina Turner born 26 Nov 1939",
+  "suggestedSlot": "2026-11-26T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Tina Turner",
+  "Terry Britten"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

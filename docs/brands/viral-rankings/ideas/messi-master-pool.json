@@ -1,0 +1,184 @@
+[
+ {
+  "folder": "MC-014-messi-header-goal",
+  "clip": "messi-header-goal_01",
+  "window_s": [
+   5.5,
+   9
+  ],
+  "team": "Barcelona",
+  "type": "goal",
+  "what": "Messi #10 header, 2009 CL final v Man Utd; ball hits net",
+  "crop_note": "none (ad boards only); clean 9:16",
+  "quality": 5
+ },
+ {
+  "folder": "MC-001-messi-nutmeg",
+  "clip": "messi-nutmeg_10",
+  "window_s": [
+   14,
+   24
+  ],
+  "team": "Barcelona",
+  "type": "skill",
+  "what": "Messi #10 v Man City: beats defender, defender ends on the ground (not a proven nutmeg)",
+  "crop_note": "none; Mastercard/Priceless boards only; first 2 s black",
+  "quality": 4
+ },
+ {
+  "folder": "MC-001-messi-nutmeg",
+  "clip": "messi-nutmeg_17",
+  "window_s": [
+   12,
+   20
+  ],
+  "team": "Barcelona",
+  "type": "goal",
+  "what": "Messi goal v Chelsea 2018 (2-0), keeper beaten, Messi #10 celebrates",
+  "crop_note": "BORDERLINE: TEAMOFMESSI watermark bottom + PLAY top-right; crop top10/bottom15 =25% > 20%",
+  "quality": 2
+ },
+ {
+  "folder": "MC-012-messi-arguing-with-the-ref",
+  "clip": "messi-arguing-with-the-ref_05",
+  "window_s": [
+   2,
+   6
+  ],
+  "team": "Argentina",
+  "type": "reaction",
+  "what": "Messi #10 talks to ref at stadium, Argentina kit",
+  "crop_note": "blurred patches bottom-left (crop bottom 12%); Messi small",
+  "quality": 2
+ },
+ {
+  "folder": "MC-016-messi-hat-trick",
+  "clip": "messi-hat-trick_11",
+  "window_s": [
+   9,
+   14
+  ],
+  "team": "Argentina",
+  "type": "celebration",
+  "what": "Messi #10 v Brazil 2012: dribble then arms-out celebration (goal itself not seen)",
+  "crop_note": "scorebug top-left only first 8 s; no payoff frame of ball in net",
+  "quality": 2
+ },
+ {
+  "folder": "MC-008-messi-no-look-assist",
+  "clip": "messi-no-look-assist_05",
+  "window_s": [
+   2.5,
+   11
+  ],
+  "team": "Argentina",
+  "type": "celebration",
+  "what": "Lautaro Martinez scissor goal, keeper beaten, Messi hugs Martinez face visible ~10 s",
+  "crop_note": "none (ad boards); Messi not on screen during the goal; do not call it Messi assist",
+  "quality": 3
+ },
+ {
+  "folder": "MC-014-messi-header-goal",
+  "clip": "messi-header-goal_02",
+  "window_s": [
+   17,
+   22
+  ],
+  "team": "Inter Miami",
+  "type": "celebration",
+  "what": "Messi hugs Cheloy/teammates after goal v Atlanta, face clear",
+  "crop_note": "ATL scorebug tag top-left: crop top 12%",
+  "quality": 3
+ },
+ {
+  "folder": "MC-009-messi-goal-celebration",
+  "clip": "messi-goal-celebration_17",
+  "window_s": [
+   26,
+   31.5
+  ],
+  "team": "Inter Miami",
+  "type": "celebration",
+  "what": "Messi #10 black kit, points to sky v Atlanta after dribble and goal; hugs Suarez/Berte",
+  "crop_note": "none seen; clean",
+  "quality": 4
+ },
+ {
+  "folder": "MC-011-messi-yellow-card",
+  "clip": "messi-yellow-card_04",
+  "window_s": [
+   6,
+   9.5
+  ],
+  "team": "Inter Miami",
+  "type": "card",
+  "what": "Ref shows yellow to Messi #10 (name+number readable)",
+  "crop_note": "DAZN/Free logos top ~17%: crop top 20%",
+  "quality": 3
+ },
+ {
+  "folder": "MC-011-messi-yellow-card",
+  "clip": "messi-yellow-card_08",
+  "window_s": [
+   30.5,
+   37
+  ],
+  "team": "Inter Miami",
+  "type": "card",
+  "what": "Yellow raised v NYCFC, Messi #10 walks off arguing (card shown small in group)",
+  "crop_note": "scoreboard bar bottom ~12%: crop bottom 18%; Messi small",
+  "quality": 2
+ },
+ {
+  "folder": "MC-012-messi-arguing-with-the-ref",
+  "clip": "messi-arguing-with-the-ref_19",
+  "window_s": [
+   0,
+   9
+  ],
+  "team": "Inter Miami",
+  "type": "reaction",
+  "what": "Fan POV: Messi pointing/arguing with ref, XBTO armband captain",
+  "crop_note": "small phone bottom-left edge from ~10 s; clean until then",
+  "quality": 3
+ },
+ {
+  "folder": "MC-010-messi-reaction-after-a-miss",
+  "clip": "messi-reaction-after-a-miss_03",
+  "window_s": [
+   16,
+   27
+  ],
+  "team": "Inter Miami",
+  "type": "reaction",
+  "what": "Messi penalty saved by Kahlina (Charlotte), keeper holds ball",
+  "crop_note": "first 6 s captioned so start at 16; Messi #10 only readable at ~17 s",
+  "quality": 3
+ },
+ {
+  "folder": "MC-005-messi-weak-foot-goal",
+  "clip": "messi-weak-foot-goal_01",
+  "window_s": [
+   5.5,
+   16.5
+  ],
+  "team": "Inter Miami",
+  "type": "goal",
+  "what": "Goal v Colorado: keeper down, Messi #10 runs off, hugs teammates",
+  "crop_note": "MIA tag top-left: crop top 12%; do not claim weak foot",
+  "quality": 4
+ },
+ {
+  "folder": "MC-020-messi-first-touch",
+  "clip": "messi-first-touch_02",
+  "window_s": [
+   13.5,
+   19.5
+  ],
+  "team": "Inter Miami",
+  "type": "skill",
+  "what": "Messi #10 twists through Nicksoen, ball between defenders, arms-out reaction",
+  "crop_note": "TOR tag top-left ~10%: crop top 12%; not a clean first touch",
+  "quality": 3
+ }
+]

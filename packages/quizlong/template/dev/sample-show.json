@@ -1,0 +1,2815 @@
+{
+ "schema": "quiz-long-show/1",
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "duration": 508.8,
+ "brand": "شو شايف؟",
+ "total_questions": 40,
+ "production_id": "quiz-261112-fpr4",
+ "title": "تعلّم بالأسئلة ١ | دول العالم: ٤٠ سؤالاً من السهل إلى مستوى ابن بطوطة",
+ "estimated": true,
+ "theme": {
+  "direction": "blocks",
+  "level_themes": {
+   "1": "l1",
+   "2": "l2",
+   "3": "l3",
+   "4": "l4"
+  }
+ },
+ "segments": [
+  {
+   "type": "question",
+   "id": "q01",
+   "index": 1,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "flag_zoom",
+   "start": 0,
+   "end": 16.23,
+   "ask_text": "علم أي دولة؟ الصورة مكبّرة",
+   "clue": {
+    "type": "flag",
+    "iso": "eg",
+    "effect": "zoom",
+    "focus": [
+     0.5,
+     0.44
+    ]
+   },
+   "options": [
+    {
+     "text": "العراق",
+     "iso": null
+    },
+    {
+     "text": "سوريا",
+     "iso": null
+    },
+    {
+     "text": "اليمن",
+     "iso": null
+    },
+    {
+     "text": "مصر",
+     "iso": null
+    }
+   ],
+   "answer_index": 3,
+   "hints": [],
+   "learn_text": "النسر الذهبي في وسط العلم هو نسر صلاح الدين",
+   "think_s": 5,
+   "t": {
+    "in": 0,
+    "options_in": 0.35,
+    "timer_start": 5.3,
+    "timer_end": 10.3,
+    "reveal": 10.3,
+    "learn_in": 12.53,
+    "out": 15.93
+   },
+   "host": [
+    {
+     "t": 0.15,
+     "end": 4.15,
+     "mood": "dare",
+     "text": "٤٠ سؤال عن دول العالم... وآخر عَلَم مش مستطيل! يلا:",
+     "id": "hook"
+    },
+    {
+     "t": 4.35,
+     "end": 5.15,
+     "mood": "ask",
+     "text": "لمين هالعَلَم؟",
+     "id": "q01.ask"
+    },
+    {
+     "t": 10.38,
+     "end": 12.38,
+     "mood": "react",
+     "text": "هي مصر، والنسر كان المفتاح!",
+     "id": "q01.reveal"
+    },
+    {
+     "t": 12.53,
+     "end": 15.33,
+     "mood": "teach",
+     "text": "يعني صلاح الدين معنا من أول سؤال!",
+     "id": "q01.learn"
+    }
+   ],
+   "answer_iso": "eg",
+   "hook_text": "٤ مستويات | كل مستوى أصعب"
+  },
+  {
+   "type": "question",
+   "id": "q02",
+   "index": 2,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "emoji",
+   "start": 16.23,
+   "end": 28.31,
+   "ask_text": "أي دولة تجمع هذه الرموز؟",
+   "clue": {
+    "type": "emoji",
+    "items": [
+     "🌮",
+     "🌵",
+     "🌶️"
+    ]
+   },
+   "options": [
+    {
+     "text": "المكسيك",
+     "iso": null
+    },
+    {
+     "text": "إسبانيا",
+     "iso": null
+    },
+    {
+     "text": "كولومبيا",
+     "iso": null
+    },
+    {
+     "text": "كوبا",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "في المكسيك ناطقون بالإسبانية أكثر من إسبانيا نفسها",
+   "think_s": 4,
+   "t": {
+    "in": 16.23,
+    "options_in": 16.58,
+    "timer_start": 19.18,
+    "timer_end": 23.18,
+    "reveal": 23.18,
+    "learn_in": 25.01,
+    "out": 28.01
+   },
+   "host": [
+    {
+     "t": 16.63,
+     "end": 19.03,
+     "mood": "ask",
+     "text": "تاكو وصبّار وفلفل حار... أي بلد؟",
+     "id": "q02.ask"
+    },
+    {
+     "t": 23.26,
+     "end": 24.86,
+     "mood": "react",
+     "text": "هي المكسيك، بلد التاكو!",
+     "id": "q02.reveal"
+    },
+    {
+     "t": 25.01,
+     "end": 27.41,
+     "mood": "teach",
+     "text": "المكسيك أكبر بلد بيحكي إسباني بالعالم.",
+     "id": "q02.learn"
+    }
+   ],
+   "answer_iso": "mx"
+  },
+  {
+   "type": "question",
+   "id": "q03",
+   "index": 3,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "truefalse",
+   "start": 28.31,
+   "end": 40.39,
+   "ask_text": "صح أم غلط؟",
+   "clue": {
+    "type": "text",
+    "text": "السعودية أكبر دولة عربية مساحةً"
+   },
+   "options": [
+    {
+     "text": "صح",
+     "iso": null
+    },
+    {
+     "text": "غلط",
+     "iso": null
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "الجزائر أكبر دولة عربية وأفريقية: نحو ٢٫٤ مليون كم²",
+   "think_s": 4,
+   "t": {
+    "in": 28.31,
+    "options_in": 28.66,
+    "timer_start": 31.66,
+    "timer_end": 35.66,
+    "reveal": 35.66,
+    "learn_in": 37.49,
+    "out": 40.09
+   },
+   "host": [
+    {
+     "t": 28.71,
+     "end": 31.51,
+     "mood": "ask",
+     "text": "أكبر دولة عربية... السعودية؟ صح ولا غلط؟",
+     "id": "q03.ask"
+    },
+    {
+     "t": 35.74,
+     "end": 37.34,
+     "mood": "react",
+     "text": "غلط! الأكبر هي الجزائر.",
+     "id": "q03.reveal"
+    },
+    {
+     "t": 37.49,
+     "end": 39.49,
+     "mood": "teach",
+     "text": "والسعودية تانية، مش بعيدة كتير!",
+     "id": "q03.learn"
+    }
+   ],
+   "subject_iso": "dz"
+  },
+  {
+   "type": "question",
+   "id": "q04",
+   "index": 4,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "symbol",
+   "start": 40.39,
+   "end": 55.82,
+   "ask_text": "رمز أي دولة هذا الطائر؟",
+   "clue": {
+    "type": "text",
+    "text": "الكيوي: طائر لا يطير"
+   },
+   "options": [
+    {
+     "text": "مدغشقر",
+     "iso": null
+    },
+    {
+     "text": "إندونيسيا",
+     "iso": null
+    },
+    {
+     "text": "نيوزيلندا",
+     "iso": null
+    },
+    {
+     "text": "فيجي",
+     "iso": null
+    }
+   ],
+   "answer_index": 2,
+   "hints": [],
+   "learn_text": "أهل نيوزيلندا يُلقَّبون «كيوي» على اسم هذا الطائر",
+   "think_s": 5,
+   "t": {
+    "in": 40.39,
+    "options_in": 40.74,
+    "timer_start": 45.29,
+    "timer_end": 50.29,
+    "reveal": 50.29,
+    "learn_in": 51.72,
+    "out": 55.52
+   },
+   "host": [
+    {
+     "t": 40.54,
+     "end": 42.14,
+     "mood": "tease",
+     "text": "سهلة؟ المستويات الجاية غير!",
+     "id": "q04.bet"
+    },
+    {
+     "t": 42.34,
+     "end": 45.14,
+     "mood": "ask",
+     "text": "طير ما بيطير، ورمز بلد كامل... وين؟",
+     "id": "q04.ask"
+    },
+    {
+     "t": 50.37,
+     "end": 51.57,
+     "mood": "react",
+     "text": "نيوزيلندا، بلد الكيوي!",
+     "id": "q04.reveal"
+    },
+    {
+     "t": 51.72,
+     "end": 54.92,
+     "mood": "teach",
+     "text": "وإذا واحد قال لكم: أنا كيوي... قصده نيوزيلندي!",
+     "id": "q04.learn"
+    }
+   ],
+   "answer_iso": "nz"
+  },
+  {
+   "type": "question",
+   "id": "q05",
+   "index": 5,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "landmark",
+   "start": 55.82,
+   "end": 69.7,
+   "ask_text": "في أي دولة هذا المعلم؟",
+   "clue": {
+    "type": "text",
+    "text": "تاج محل"
+   },
+   "options": [
+    {
+     "text": "باكستان",
+     "iso": null
+    },
+    {
+     "text": "الهند",
+     "iso": null
+    },
+    {
+     "text": "أفغانستان",
+     "iso": null
+    },
+    {
+     "text": "سريلانكا",
+     "iso": null
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "بناه الإمبراطور شاه جهان ضريحاً لزوجته ممتاز محل",
+   "think_s": 5,
+   "t": {
+    "in": 55.82,
+    "options_in": 56.17,
+    "timer_start": 58.77,
+    "timer_end": 63.77,
+    "reveal": 63.77,
+    "learn_in": 65.6,
+    "out": 69.4
+   },
+   "host": [
+    {
+     "t": 56.22,
+     "end": 58.62,
+     "mood": "ask",
+     "text": "قبة بيضا من رخام... بأي بلد؟",
+     "id": "q05.ask"
+    },
+    {
+     "t": 63.85,
+     "end": 65.45,
+     "mood": "react",
+     "text": "بالهند، بمدينة آغرا بالتحديد!",
+     "id": "q05.reveal"
+    },
+    {
+     "t": 65.6,
+     "end": 68.8,
+     "mood": "teach",
+     "text": "ضريح كامل هدية لزوجته... حب من نوع تاني!",
+     "id": "q05.learn"
+    }
+   ],
+   "answer_iso": "in",
+   "learn_voice": true
+  },
+  {
+   "type": "question",
+   "id": "q06",
+   "index": 6,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "capital",
+   "start": 69.7,
+   "end": 80.58,
+   "ask_text": "ما عاصمة الإمارات؟",
+   "clue": {
+    "type": "text",
+    "text": "الإمارات"
+   },
+   "options": [
+    {
+     "text": "دبي",
+     "iso": null
+    },
+    {
+     "text": "الشارقة",
+     "iso": null
+    },
+    {
+     "text": "عجمان",
+     "iso": null
+    },
+    {
+     "text": "أبوظبي",
+     "iso": null
+    }
+   ],
+   "answer_index": 3,
+   "hints": [],
+   "learn_text": "أبوظبي أكبر إمارة: أكثر من ٨٠٪ من مساحة الدولة",
+   "think_s": 4,
+   "t": {
+    "in": 69.7,
+    "options_in": 70.05,
+    "timer_start": 71.85,
+    "timer_end": 75.85,
+    "reveal": 75.85,
+    "learn_in": 77.68,
+    "out": 80.28
+   },
+   "host": [
+    {
+     "t": 70.1,
+     "end": 71.7,
+     "mood": "ask",
+     "text": "وعاصمة الإمارات... مين بيعرفها؟",
+     "id": "q06.ask"
+    },
+    {
+     "t": 75.93,
+     "end": 77.53,
+     "mood": "react",
+     "text": "أبوظبي! ودبي بتغار شوية.",
+     "id": "q06.reveal"
+    },
+    {
+     "t": 77.68,
+     "end": 79.68,
+     "mood": "teach",
+     "text": "إمارة وحدة أخدت أغلب البلد!",
+     "id": "q06.learn"
+    }
+   ],
+   "answer_iso": "ae"
+  },
+  {
+   "type": "question",
+   "id": "q07",
+   "index": 7,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "flag_blur",
+   "start": 80.58,
+   "end": 94.46,
+   "ask_text": "علم أي دولة؟ الصورة ضبابية",
+   "clue": {
+    "type": "flag",
+    "iso": "jp",
+    "effect": "blur"
+   },
+   "options": [
+    {
+     "text": "اليابان",
+     "iso": null
+    },
+    {
+     "text": "بنغلاديش",
+     "iso": null
+    },
+    {
+     "text": "بالاو",
+     "iso": null
+    },
+    {
+     "text": "لاوس",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "اسمها «نيهون» يعني أصل الشمس، ويُقال لأنها شرق الصين",
+   "think_s": 5,
+   "t": {
+    "in": 80.58,
+    "options_in": 80.93,
+    "timer_start": 83.53,
+    "timer_end": 88.53,
+    "reveal": 88.53,
+    "learn_in": 90.76,
+    "out": 94.16
+   },
+   "host": [
+    {
+     "t": 80.98,
+     "end": 83.38,
+     "mood": "ask",
+     "text": "صورة مش واضحة... بس رح توضح!",
+     "id": "q07.ask"
+    },
+    {
+     "t": 88.61,
+     "end": 90.61,
+     "mood": "react",
+     "text": "من أول لون عرفتوها: اليابان!",
+     "id": "q07.reveal"
+    },
+    {
+     "t": 90.76,
+     "end": 93.56,
+     "mood": "teach",
+     "text": "أول شمس بتطلع عندهم... زي ما بيقولوا!",
+     "id": "q07.learn"
+    }
+   ],
+   "answer_iso": "jp"
+  },
+  {
+   "type": "card",
+   "kind": "speed",
+   "id": "level1.speed",
+   "level": 1,
+   "title": "جولة السرعة",
+   "sub": "٣ أعلام | ٣ ثوانٍ لكل علم | بدون خيارات",
+   "level_name": "تسخين",
+   "start": 94.46,
+   "end": 97.36,
+   "host": [
+    {
+     "t": 94.66,
+     "end": 97.06,
+     "mood": "dare",
+     "text": "جولة سرعة! كل عَلَم بنقطة... يلا!",
+     "id": "level1.speed_intro"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q08",
+   "index": 8,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "speed",
+   "speed_index": 1,
+   "speed_total": 3,
+   "start": 97.36,
+   "end": 101.89,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "sa"
+   },
+   "answers": [
+    {
+     "text": "السعودية",
+     "iso": "sa",
+     "t": 100.61
+    }
+   ],
+   "hints": [],
+   "think_s": 3,
+   "t": {
+    "in": 97.36,
+    "timer_start": 97.61,
+    "timer_end": 100.61,
+    "reveal": 100.61,
+    "out": 101.59
+   },
+   "host": [
+    {
+     "t": 100.69,
+     "end": 101.19,
+     "mood": "react",
+     "text": "السعودية!",
+     "id": "q08.reveal"
+    }
+   ],
+   "answer_iso": "sa"
+  },
+  {
+   "type": "question",
+   "id": "q09",
+   "index": 9,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "speed",
+   "speed_index": 2,
+   "speed_total": 3,
+   "start": 101.89,
+   "end": 106.72,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "ca"
+   },
+   "answers": [
+    {
+     "text": "كندا",
+     "iso": "ca",
+     "t": 105.14
+    }
+   ],
+   "hints": [],
+   "think_s": 3,
+   "t": {
+    "in": 101.89,
+    "timer_start": 102.14,
+    "timer_end": 105.14,
+    "reveal": 105.14,
+    "out": 106.42
+   },
+   "host": [
+    {
+     "t": 105.22,
+     "end": 106.02,
+     "mood": "react",
+     "text": "كندا، أكيد!",
+     "id": "q09.reveal"
+    }
+   ],
+   "answer_iso": "ca"
+  },
+  {
+   "type": "question",
+   "id": "q10",
+   "index": 10,
+   "level": 1,
+   "level_name": "تسخين",
+   "mechanic": "speed",
+   "speed_index": 3,
+   "speed_total": 3,
+   "start": 106.72,
+   "end": 113,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "br"
+   },
+   "answers": [
+    {
+     "text": "البرازيل",
+     "iso": "br",
+     "t": 109.97
+    }
+   ],
+   "hints": [],
+   "think_s": 3,
+   "t": {
+    "in": 106.72,
+    "timer_start": 106.97,
+    "timer_end": 109.97,
+    "reveal": 109.97,
+    "out": 112.7
+   },
+   "host": [
+    {
+     "t": 110.05,
+     "end": 110.55,
+     "mood": "react",
+     "text": "البرازيل!",
+     "id": "q10.reveal"
+    },
+    {
+     "t": 110.7,
+     "end": 112.3,
+     "mood": "tease",
+     "text": "تلات من تلات؟ كويس!",
+     "id": "level1.speed_outro"
+    }
+   ],
+   "answer_iso": "br"
+  },
+  {
+   "type": "card",
+   "kind": "level",
+   "id": "level2",
+   "level": 2,
+   "title": "المستوى ٢: عادي",
+   "level_name": "عادي",
+   "sub": null,
+   "tally_text": "نتيجتك حتى الآن: كم من ١٠؟",
+   "new_text": "جديد: جيران الدول | المسافات",
+   "stake_text": "من يصل إلى ٣٠ يأخذ لقب ابن بطوطة",
+   "series_text": null,
+   "think_s": 5,
+   "start": 113,
+   "end": 117.4,
+   "host": [
+    {
+     "t": 113.2,
+     "end": 116.8,
+     "mood": "tease",
+     "text": "خلص التسخين! كم صح من عشرة؟ والجديد: جيران ومسافات.",
+     "id": "level2"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q11",
+   "index": 11,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "neighbors",
+   "start": 117.4,
+   "end": 131.88,
+   "ask_text": "أي دولة هذه؟",
+   "clue": {
+    "type": "text",
+    "text": "حدودها البرية مع السعودية فقط"
+   },
+   "options": [
+    {
+     "text": "الكويت",
+     "iso": null
+    },
+    {
+     "text": "البحرين",
+     "iso": null
+    },
+    {
+     "text": "قطر",
+     "iso": null
+    },
+    {
+     "text": "اليمن",
+     "iso": null
+    }
+   ],
+   "answer_index": 2,
+   "hints": [],
+   "learn_text": "قطر شبه جزيرة يحيطها الخليج إلا من جهة السعودية",
+   "think_s": 6,
+   "t": {
+    "in": 117.4,
+    "options_in": 117.75,
+    "timer_start": 120.35,
+    "timer_end": 126.35,
+    "reveal": 126.35,
+    "learn_in": 128.18,
+    "out": 131.58
+   },
+   "host": [
+    {
+     "t": 117.8,
+     "end": 120.2,
+     "mood": "ask",
+     "text": "جارتها الوحيدة بالبر هي السعودية... مين؟",
+     "id": "q11.ask"
+    },
+    {
+     "t": 126.43,
+     "end": 128.03,
+     "mood": "react",
+     "text": "قطر، والباقي كله بحر!",
+     "id": "q11.reveal"
+    },
+    {
+     "t": 128.18,
+     "end": 130.98,
+     "mood": "teach",
+     "text": "بحر من تلات جهات... وباب بري واحد!",
+     "id": "q11.learn"
+    }
+   ],
+   "answer_iso": "qa"
+  },
+  {
+   "type": "question",
+   "id": "q12",
+   "index": 12,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "flag_zoom",
+   "start": 131.88,
+   "end": 145.96,
+   "ask_text": "علم أي دولة؟ الصورة مكبّرة",
+   "clue": {
+    "type": "flag",
+    "iso": "cy",
+    "effect": "zoom",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "options": [
+    {
+     "text": "مالطا",
+     "iso": null
+    },
+    {
+     "text": "قبرص",
+     "iso": null
+    },
+    {
+     "text": "البوسنة والهرسك",
+     "iso": null
+    },
+    {
+     "text": "الجبل الأسود",
+     "iso": null
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "لون الخريطة نحاسي، رمزاً لرواسب النحاس الكبيرة في الجزيرة",
+   "think_s": 6,
+   "t": {
+    "in": 131.88,
+    "options_in": 132.23,
+    "timer_start": 134.43,
+    "timer_end": 140.43,
+    "reveal": 140.43,
+    "learn_in": 142.66,
+    "out": 145.66
+   },
+   "host": [
+    {
+     "t": 132.28,
+     "end": 134.28,
+     "mood": "ask",
+     "text": "شكل غريب بنص العَلَم... ركّزوا!",
+     "id": "q12.ask"
+    },
+    {
+     "t": 140.51,
+     "end": 142.51,
+     "mood": "react",
+     "text": "طلع الشكل خريطة! هي قبرص.",
+     "id": "q12.reveal"
+    },
+    {
+     "t": 142.66,
+     "end": 145.06,
+     "mood": "teach",
+     "text": "عَلَم ومعه خريطة... أحسن دليل سياحي!",
+     "id": "q12.learn"
+    }
+   ],
+   "answer_iso": "cy"
+  },
+  {
+   "type": "question",
+   "id": "q13",
+   "index": 13,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "distance",
+   "start": 145.96,
+   "end": 160.84,
+   "ask_text": "كم المسافة؟",
+   "clue": {
+    "type": "text",
+    "text": "أقرب مسافة بين أرض روسية وأرض أمريكية"
+   },
+   "options": [
+    {
+     "text": "نحو ٤٠٠٠ كم",
+     "iso": null
+    },
+    {
+     "text": "نحو ٤٠٠ كم",
+     "iso": null
+    },
+    {
+     "text": "نحو ٤٠ كم",
+     "iso": null
+    },
+    {
+     "text": "نحو ٤ كم",
+     "iso": null
+    }
+   ],
+   "answer_index": 3,
+   "hints": [],
+   "learn_text": "جزيرة ديوميد الكبرى روسية، والصغرى أمريكية، وبينهما خط التاريخ الدولي",
+   "think_s": 6,
+   "t": {
+    "in": 145.96,
+    "options_in": 146.31,
+    "timer_start": 148.91,
+    "timer_end": 154.91,
+    "reveal": 154.91,
+    "learn_in": 157.54,
+    "out": 160.54
+   },
+   "host": [
+    {
+     "t": 146.36,
+     "end": 148.76,
+     "mood": "ask",
+     "text": "روسيا وأمريكا... كم بيبعدوا عن بعض؟",
+     "id": "q13.ask"
+    },
+    {
+     "t": 154.99,
+     "end": 157.39,
+     "mood": "react",
+     "text": "تقريباً أربعة كيلو! بين جزيرتين بالبحر.",
+     "id": "q13.reveal"
+    },
+    {
+     "t": 157.54,
+     "end": 159.94,
+     "mood": "teach",
+     "text": "اللي على الصغيرة... بيتفرّج على بكرا!",
+     "id": "q13.learn"
+    }
+   ],
+   "subject_iso": "ru"
+  },
+  {
+   "type": "question",
+   "id": "q14",
+   "index": 14,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "nickname",
+   "start": 160.84,
+   "end": 171.92,
+   "ask_text": "أي دولة هذا لقبها؟",
+   "clue": {
+    "type": "text",
+    "text": "جزيرة الزمرّد"
+   },
+   "options": [
+    {
+     "text": "أيرلندا",
+     "iso": null
+    },
+    {
+     "text": "مالطا",
+     "iso": null
+    },
+    {
+     "text": "الدنمارك",
+     "iso": null
+    },
+    {
+     "text": "النرويج",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "يُقال سُمّيت كذلك لخضرة حقولها، واللقب من قصيدة لشاعر أيرلندي",
+   "think_s": 5,
+   "t": {
+    "in": 160.84,
+    "options_in": 161.19,
+    "timer_start": 162.99,
+    "timer_end": 167.99,
+    "reveal": 167.99,
+    "learn_in": 169.42,
+    "out": 171.62
+   },
+   "host": [
+    {
+     "t": 161.24,
+     "end": 162.84,
+     "mood": "ask",
+     "text": "جزيرة الزمرّد... لقب مين؟",
+     "id": "q14.ask"
+    },
+    {
+     "t": 168.07,
+     "end": 169.27,
+     "mood": "react",
+     "text": "أيرلندا! أخضر بأخضر.",
+     "id": "q14.reveal"
+    },
+    {
+     "t": 169.42,
+     "end": 171.02,
+     "mood": "teach",
+     "text": "وحتى علمهم فيه أخضر!",
+     "id": "q14.learn"
+    }
+   ],
+   "answer_iso": "ie"
+  },
+  {
+   "type": "question",
+   "id": "q15",
+   "index": 15,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "capital",
+   "start": 171.92,
+   "end": 184.6,
+   "ask_text": "ما عاصمة تركيا؟",
+   "clue": {
+    "type": "text",
+    "text": "تركيا"
+   },
+   "options": [
+    {
+     "text": "إسطنبول",
+     "iso": null
+    },
+    {
+     "text": "إزمير",
+     "iso": null
+    },
+    {
+     "text": "أنقرة",
+     "iso": null
+    },
+    {
+     "text": "بورصة",
+     "iso": null
+    }
+   ],
+   "answer_index": 2,
+   "hints": [],
+   "learn_text": "صارت أنقرة عاصمة تركيا سنة ١٩٢٣ بدل إسطنبول",
+   "think_s": 5,
+   "t": {
+    "in": 171.92,
+    "options_in": 172.27,
+    "timer_start": 174.07,
+    "timer_end": 179.07,
+    "reveal": 179.07,
+    "learn_in": 180.9,
+    "out": 184.3
+   },
+   "host": [
+    {
+     "t": 172.32,
+     "end": 173.92,
+     "mood": "ask",
+     "text": "وعاصمة تركيا؟ خدوا وقتكم.",
+     "id": "q15.ask"
+    },
+    {
+     "t": 179.15,
+     "end": 180.75,
+     "mood": "react",
+     "text": "أنقرة! فخ إسطنبول اشتغل؟",
+     "id": "q15.reveal"
+    },
+    {
+     "t": 180.9,
+     "end": 183.7,
+     "mood": "teach",
+     "text": "بعترف: أنا كمان كنت فاكرها إسطنبول زمان!",
+     "id": "q15.learn"
+    }
+   ],
+   "answer_iso": "tr"
+  },
+  {
+   "type": "question",
+   "id": "q16",
+   "index": 16,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "emoji",
+   "start": 184.6,
+   "end": 198.83,
+   "ask_text": "أي دولة تجمع هذه الرموز؟",
+   "clue": {
+    "type": "emoji",
+    "items": [
+     "⌚",
+     "🧀",
+     "🏔️"
+    ]
+   },
+   "options": [
+    {
+     "text": "بولندا",
+     "iso": null
+    },
+    {
+     "text": "هولندا",
+     "iso": null
+    },
+    {
+     "text": "السويد",
+     "iso": null
+    },
+    {
+     "text": "سويسرا",
+     "iso": null
+    }
+   ],
+   "answer_index": 3,
+   "hints": [],
+   "learn_text": "الفوندو جبنة مذوّبة يُغمس فيها الخبز، ويُعدّ طبق سويسرا الوطني",
+   "think_s": 5,
+   "t": {
+    "in": 184.6,
+    "options_in": 184.95,
+    "timer_start": 188.7,
+    "timer_end": 193.7,
+    "reveal": 193.7,
+    "learn_in": 195.93,
+    "out": 198.53
+   },
+   "host": [
+    {
+     "t": 184.75,
+     "end": 186.35,
+     "mood": "tease",
+     "text": "الجاي سؤال بيفتح الشهية!",
+     "id": "q16.bet"
+    },
+    {
+     "t": 186.55,
+     "end": 188.55,
+     "mood": "ask",
+     "text": "ساعة، وجبنة، وجبال... أي بلد؟",
+     "id": "q16.ask"
+    },
+    {
+     "t": 193.78,
+     "end": 195.78,
+     "mood": "react",
+     "text": "سويسرا! والجبنة الدايبة اسمها فوندو.",
+     "id": "q16.reveal"
+    },
+    {
+     "t": 195.93,
+     "end": 197.93,
+     "mood": "teach",
+     "text": "خبز وجبنة سخنة... أكلة الشتا!",
+     "id": "q16.learn"
+    }
+   ],
+   "answer_iso": "ch"
+  },
+  {
+   "type": "question",
+   "id": "q17",
+   "index": 17,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "landmark",
+   "start": 198.83,
+   "end": 212.91,
+   "ask_text": "في أي دولة هذا المعلم؟",
+   "clue": {
+    "type": "text",
+    "text": "ماتشو بيتشو"
+   },
+   "options": [
+    {
+     "text": "بوليفيا",
+     "iso": null
+    },
+    {
+     "text": "بيرو",
+     "iso": null
+    },
+    {
+     "text": "الإكوادور",
+     "iso": null
+    },
+    {
+     "text": "غواتيمالا",
+     "iso": null
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "مدينة للإنكا من القرن الخامس عشر، على ارتفاع ٢٤٣٠ متراً",
+   "think_s": 6,
+   "t": {
+    "in": 198.83,
+    "options_in": 199.18,
+    "timer_start": 201.78,
+    "timer_end": 207.78,
+    "reveal": 207.78,
+    "learn_in": 209.61,
+    "out": 212.61
+   },
+   "host": [
+    {
+     "t": 199.23,
+     "end": 201.63,
+     "mood": "ask",
+     "text": "ماتشو بيتشو، مدينة الإنكا... بأي بلد؟",
+     "id": "q17.ask"
+    },
+    {
+     "t": 207.86,
+     "end": 209.46,
+     "mood": "react",
+     "text": "بيرو! فوق الغيم تقريباً.",
+     "id": "q17.reveal"
+    },
+    {
+     "t": 209.61,
+     "end": 212.01,
+     "mood": "teach",
+     "text": "تطلعوا هالدرج كل يوم؟ رياضة ببلاش!",
+     "id": "q17.learn"
+    }
+   ],
+   "answer_iso": "pe"
+  },
+  {
+   "type": "card",
+   "kind": "speed",
+   "id": "level2.speed",
+   "level": 2,
+   "title": "جولة السرعة",
+   "sub": "٣ أعلام | ٣ ثوانٍ لكل علم | بدون خيارات",
+   "level_name": "عادي",
+   "start": 212.91,
+   "end": 216.21,
+   "host": [
+    {
+     "t": 213.11,
+     "end": 215.91,
+     "mood": "dare",
+     "text": "سرعة كمان! قولوا الاسم قبل ما يطلع.",
+     "id": "level2.speed_intro"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q18",
+   "index": 18,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "speed",
+   "speed_index": 1,
+   "speed_total": 3,
+   "start": 216.21,
+   "end": 221.04,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "kr"
+   },
+   "answers": [
+    {
+     "text": "كوريا الجنوبية",
+     "iso": "kr",
+     "t": 219.46
+    }
+   ],
+   "hints": [],
+   "think_s": 3,
+   "t": {
+    "in": 216.21,
+    "timer_start": 216.46,
+    "timer_end": 219.46,
+    "reveal": 219.46,
+    "out": 220.74
+   },
+   "host": [
+    {
+     "t": 219.54,
+     "end": 220.34,
+     "mood": "react",
+     "text": "كوريا الجنوبية!",
+     "id": "q18.reveal"
+    }
+   ],
+   "answer_iso": "kr"
+  },
+  {
+   "type": "question",
+   "id": "q19",
+   "index": 19,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "speed",
+   "speed_index": 2,
+   "speed_total": 3,
+   "start": 221.04,
+   "end": 226.27,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "gb"
+   },
+   "answers": [
+    {
+     "text": "بريطانيا",
+     "iso": "gb",
+     "t": 224.29
+    }
+   ],
+   "hints": [],
+   "think_s": 3,
+   "t": {
+    "in": 221.04,
+    "timer_start": 221.29,
+    "timer_end": 224.29,
+    "reveal": 224.29,
+    "out": 225.97
+   },
+   "host": [
+    {
+     "t": 224.37,
+     "end": 225.57,
+     "mood": "react",
+     "text": "بريطانيا، المملكة المتحدة!",
+     "id": "q19.reveal"
+    }
+   ],
+   "answer_iso": "gb"
+  },
+  {
+   "type": "question",
+   "id": "q20",
+   "index": 20,
+   "level": 2,
+   "level_name": "عادي",
+   "mechanic": "speed",
+   "speed_index": 3,
+   "speed_total": 3,
+   "start": 226.27,
+   "end": 232.85,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "lb"
+   },
+   "answers": [
+    {
+     "text": "لبنان",
+     "iso": "lb",
+     "t": 229.52
+    }
+   ],
+   "hints": [],
+   "think_s": 3,
+   "t": {
+    "in": 226.27,
+    "timer_start": 226.52,
+    "timer_end": 229.52,
+    "reveal": 229.52,
+    "out": 232.55
+   },
+   "host": [
+    {
+     "t": 229.6,
+     "end": 230.4,
+     "mood": "react",
+     "text": "لبنان، أكيد!",
+     "id": "q20.reveal"
+    },
+    {
+     "t": 230.55,
+     "end": 232.15,
+     "mood": "tease",
+     "text": "لبنان بالآخر... الأرزة فضحتها!",
+     "id": "level2.speed_outro"
+    }
+   ],
+   "answer_iso": "lb"
+  },
+  {
+   "type": "card",
+   "kind": "level",
+   "id": "level3",
+   "level": 3,
+   "title": "المستوى ٣: صعب",
+   "level_name": "صعب",
+   "sub": null,
+   "tally_text": "نتيجتك حتى الآن: كم من ٢٠؟",
+   "new_text": "جديد: أعلام خلف الستائر | الدخيل",
+   "stake_text": null,
+   "series_text": null,
+   "think_s": 6,
+   "start": 232.85,
+   "end": 236.85,
+   "host": [
+    {
+     "t": 233.05,
+     "end": 236.25,
+     "mood": "tease",
+     "text": "نص الطريق! كم نقطة معكم؟ الجديد: أعلام مخبّاية.",
+     "id": "level3"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q21",
+   "index": 21,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "odd_one_out",
+   "start": 236.85,
+   "end": 251.73,
+   "ask_text": "اختر الدولة المختلفة",
+   "clue": {
+    "type": "text",
+    "text": "أي دولة ليست في أفريقيا؟"
+   },
+   "options": [
+    {
+     "text": "مدغشقر",
+     "iso": null
+    },
+    {
+     "text": "موريشيوس",
+     "iso": null
+    },
+    {
+     "text": "المالديف",
+     "iso": null
+    },
+    {
+     "text": "الرأس الأخضر",
+     "iso": null
+    }
+   ],
+   "answer_index": 2,
+   "hints": [],
+   "learn_text": "المالديف أخفض دولة في العالم: متوسط ارتفاعها نحو متر ونصف",
+   "think_s": 6,
+   "t": {
+    "in": 236.85,
+    "options_in": 237.2,
+    "timer_start": 240.2,
+    "timer_end": 246.2,
+    "reveal": 246.2,
+    "learn_in": 248.43,
+    "out": 251.43
+   },
+   "host": [
+    {
+     "t": 237.25,
+     "end": 240.05,
+     "mood": "ask",
+     "text": "أربع دول جزر... وحدة منهم مش بأفريقيا!",
+     "id": "q21.ask"
+    },
+    {
+     "t": 246.28,
+     "end": 248.28,
+     "mood": "react",
+     "text": "المالديف! هي بآسيا، جنوب الهند.",
+     "id": "q21.reveal"
+    },
+    {
+     "t": 248.43,
+     "end": 250.83,
+     "mood": "teach",
+     "text": "متر ونص بس؟ أنا أطول منها!",
+     "id": "q21.learn"
+    }
+   ],
+   "answer_iso": "mv"
+  },
+  {
+   "type": "question",
+   "id": "q22",
+   "index": 22,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "flag_strips",
+   "start": 251.73,
+   "end": 267.36,
+   "ask_text": "علم أي دولة؟ خلف الستائر",
+   "clue": {
+    "type": "flag",
+    "iso": "gr",
+    "effect": "strips"
+   },
+   "options": [
+    {
+     "text": "اليونان",
+     "iso": null
+    },
+    {
+     "text": "إستونيا",
+     "iso": null
+    },
+    {
+     "text": "فنلندا",
+     "iso": null
+    },
+    {
+     "text": "هندوراس",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "يُقال إن الخطوط التسعة بعدد مقاطع شعار «حرية أو موت»",
+   "think_s": 6,
+   "t": {
+    "in": 251.73,
+    "options_in": 252.08,
+    "timer_start": 257.03,
+    "timer_end": 263.03,
+    "reveal": 263.03,
+    "learn_in": 264.86,
+    "out": 267.06
+   },
+   "host": [
+    {
+     "t": 251.88,
+     "end": 254.28,
+     "mood": "tease",
+     "text": "الجاي: عَلَم ما رح تشوفوه كامل!",
+     "id": "q22.bet"
+    },
+    {
+     "t": 254.48,
+     "end": 256.88,
+     "mood": "ask",
+     "text": "الستائر رح تفتح وحدة وحدة... ركّزوا!",
+     "id": "q22.ask"
+    },
+    {
+     "t": 263.11,
+     "end": 264.71,
+     "mood": "react",
+     "text": "هي اليونان، أزرق وأبيض!",
+     "id": "q22.reveal"
+    },
+    {
+     "t": 264.86,
+     "end": 266.46,
+     "mood": "teach",
+     "text": "عدّوا الخطوط... تسعة بالتمام!",
+     "id": "q22.learn"
+    }
+   ],
+   "answer_iso": "gr",
+   "learn_voice": true
+  },
+  {
+   "type": "question",
+   "id": "q23",
+   "index": 23,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "bigger",
+   "start": 267.36,
+   "end": 281.04,
+   "ask_text": "ألمانيا أم إثيوبيا؟",
+   "clue": {
+    "type": "text",
+    "text": "أيهما أكثر سكاناً؟"
+   },
+   "options": [
+    {
+     "text": "ألمانيا",
+     "iso": "de"
+    },
+    {
+     "text": "إثيوبيا",
+     "iso": "et"
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "إثيوبيا نحو ١٢٩ مليون نسمة، وألمانيا نحو ٨٥ مليوناً",
+   "think_s": 6,
+   "t": {
+    "in": 267.36,
+    "options_in": 267.71,
+    "timer_start": 270.31,
+    "timer_end": 276.31,
+    "reveal": 276.31,
+    "learn_in": 277.74,
+    "out": 280.74
+   },
+   "host": [
+    {
+     "t": 267.76,
+     "end": 270.16,
+     "mood": "ask",
+     "text": "مين سكانها أكتر: ألمانيا ولا إثيوبيا؟",
+     "id": "q23.ask"
+    },
+    {
+     "t": 276.39,
+     "end": 277.59,
+     "mood": "react",
+     "text": "إثيوبيا، وبفرق كبير!",
+     "id": "q23.reveal"
+    },
+    {
+     "t": 277.74,
+     "end": 280.14,
+     "mood": "teach",
+     "text": "إثيوبيا لوحدها فيها ألمانيا ونص تقريباً!",
+     "id": "q23.learn"
+    }
+   ],
+   "metric": "population",
+   "values": [
+    {
+     "iso": "de",
+     "value": 84548231
+    },
+    {
+     "iso": "et",
+     "value": 128691692
+    }
+   ],
+   "answer_iso": "et"
+  },
+  {
+   "type": "question",
+   "id": "q24",
+   "index": 24,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "flag_zoom",
+   "start": 281.04,
+   "end": 295.52,
+   "ask_text": "علم أي دولة؟ الصورة مكبّرة",
+   "clue": {
+    "type": "flag",
+    "iso": "kh",
+    "effect": "zoom",
+    "focus": [
+     0.5,
+     0.5
+    ]
+   },
+   "options": [
+    {
+     "text": "تايلاند",
+     "iso": null
+    },
+    {
+     "text": "لاوس",
+     "iso": null
+    },
+    {
+     "text": "ميانمار",
+     "iso": null
+    },
+    {
+     "text": "كمبوديا",
+     "iso": null
+    }
+   ],
+   "answer_index": 3,
+   "hints": [],
+   "learn_text": "أنغكور وات أكبر مجمّع ديني في العالم",
+   "think_s": 6,
+   "t": {
+    "in": 281.04,
+    "options_in": 281.39,
+    "timer_start": 283.59,
+    "timer_end": 289.59,
+    "reveal": 289.59,
+    "learn_in": 291.82,
+    "out": 295.22
+   },
+   "host": [
+    {
+     "t": 281.44,
+     "end": 283.44,
+     "mood": "ask",
+     "text": "شو هالمبنى اللي على العَلَم؟",
+     "id": "q24.ask"
+    },
+    {
+     "t": 289.67,
+     "end": 291.67,
+     "mood": "react",
+     "text": "كمبوديا، والمعبد هو أنغكور وات!",
+     "id": "q24.reveal"
+    },
+    {
+     "t": 291.82,
+     "end": 294.62,
+     "mood": "teach",
+     "text": "أنغكور وات... مدينة كاملة، مش بس معبد!",
+     "id": "q24.learn"
+    }
+   ],
+   "answer_iso": "kh"
+  },
+  {
+   "type": "question",
+   "id": "q25",
+   "index": 25,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "language",
+   "start": 295.52,
+   "end": 312.35,
+   "ask_text": "أي دولة هذه؟",
+   "clue": {
+    "type": "text",
+    "text": "لغاتها الرسمية: الهولندية والفرنسية والألمانية"
+   },
+   "options": [
+    {
+     "text": "لوكسمبورغ",
+     "iso": null
+    },
+    {
+     "text": "بلجيكا",
+     "iso": null
+    },
+    {
+     "text": "النمسا",
+     "iso": null
+    },
+    {
+     "text": "الدنمارك",
+     "iso": null
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "الشمال يتكلم الهولندية، والجنوب الفرنسية، وأقلية في الشرق الألمانية",
+   "think_s": 6,
+   "t": {
+    "in": 295.52,
+    "options_in": 295.87,
+    "timer_start": 300.42,
+    "timer_end": 306.42,
+    "reveal": 306.42,
+    "learn_in": 308.65,
+    "out": 312.05
+   },
+   "host": [
+    {
+     "t": 295.67,
+     "end": 297.67,
+     "mood": "tease",
+     "text": "الجاي: بلد صغير بتلات لغات!",
+     "id": "q25.bet"
+    },
+    {
+     "t": 297.87,
+     "end": 300.27,
+     "mood": "ask",
+     "text": "تلات لغات رسمية ببلد واحد... وين؟",
+     "id": "q25.ask"
+    },
+    {
+     "t": 306.5,
+     "end": 308.5,
+     "mood": "react",
+     "text": "الجواب بلجيكا، بلد الشوكولا كمان!",
+     "id": "q25.reveal"
+    },
+    {
+     "t": 308.65,
+     "end": 311.45,
+     "mood": "teach",
+     "text": "تلات لغات ببلد صغير... الاجتماعات عندهم طويلة!",
+     "id": "q25.learn"
+    }
+   ],
+   "answer_iso": "be"
+  },
+  {
+   "type": "question",
+   "id": "q26",
+   "index": 26,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "truefalse",
+   "start": 312.35,
+   "end": 325.63,
+   "ask_text": "صح أم غلط؟",
+   "clue": {
+    "type": "text",
+    "text": "في بابوا غينيا الجديدة أكثر من ٨٠٠ لغة"
+   },
+   "options": [
+    {
+     "text": "صح",
+     "iso": null
+    },
+    {
+     "text": "غلط",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "فيها نحو ٨٤٠ لغة حية، أكثر من أي بلد في العالم",
+   "think_s": 6,
+   "t": {
+    "in": 312.35,
+    "options_in": 312.7,
+    "timer_start": 315.7,
+    "timer_end": 321.7,
+    "reveal": 321.7,
+    "learn_in": 323.13,
+    "out": 325.33
+   },
+   "host": [
+    {
+     "t": 312.75,
+     "end": 315.55,
+     "mood": "ask",
+     "text": "٨٠٠ لغة ببلد واحد... صح ولا غلط؟",
+     "id": "q26.ask"
+    },
+    {
+     "t": 321.78,
+     "end": 322.98,
+     "mood": "react",
+     "text": "صح، وأكتر كمان!",
+     "id": "q26.reveal"
+    },
+    {
+     "t": 323.13,
+     "end": 324.73,
+     "mood": "teach",
+     "text": "وأنا بالكاد بعرف لغتين!",
+     "id": "q26.learn"
+    }
+   ],
+   "subject_iso": "pg"
+  },
+  {
+   "type": "question",
+   "id": "q27",
+   "index": 27,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "capital",
+   "start": 325.63,
+   "end": 340.86,
+   "ask_text": "أبوجا عاصمة أي دولة؟",
+   "clue": {
+    "type": "text",
+    "text": "أبوجا"
+   },
+   "options": [
+    {
+     "text": "نيجيريا",
+     "iso": null
+    },
+    {
+     "text": "الكاميرون",
+     "iso": null
+    },
+    {
+     "text": "السنغال",
+     "iso": null
+    },
+    {
+     "text": "الغابون",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "مدينة مخطّطة بُنيت في الثمانينيات، وصارت العاصمة سنة ١٩٩١",
+   "think_s": 6,
+   "t": {
+    "in": 325.63,
+    "options_in": 325.98,
+    "timer_start": 329.73,
+    "timer_end": 335.73,
+    "reveal": 335.73,
+    "learn_in": 337.96,
+    "out": 340.56
+   },
+   "host": [
+    {
+     "t": 325.78,
+     "end": 327.78,
+     "mood": "tease",
+     "text": "الجاي: عاصمة بنوها من الصفر!",
+     "id": "q27.bet"
+    },
+    {
+     "t": 327.98,
+     "end": 329.58,
+     "mood": "ask",
+     "text": "أبوجا... عاصمة أي بلد؟",
+     "id": "q27.ask"
+    },
+    {
+     "t": 335.81,
+     "end": 337.81,
+     "mood": "react",
+     "text": "نيجيريا! ولاغوس بقيت أكبر مدنها.",
+     "id": "q27.reveal"
+    },
+    {
+     "t": 337.96,
+     "end": 339.96,
+     "mood": "teach",
+     "text": "مدينة كاملة انبنت من الصفر!",
+     "id": "q27.learn"
+    }
+   ],
+   "answer_iso": "ng",
+   "reverse": true,
+   "learn_voice": true
+  },
+  {
+   "type": "card",
+   "kind": "speed",
+   "id": "level3.speed",
+   "level": 3,
+   "title": "جولة السرعة",
+   "sub": "٣ أعلام | ٢٫٥ ثانية لكل علم | بدون خيارات",
+   "level_name": "صعب",
+   "start": 340.86,
+   "end": 343.76,
+   "host": [
+    {
+     "t": 341.06,
+     "end": 343.46,
+     "mood": "dare",
+     "text": "تانيتين ونص بس، وألوان بتشبه بعض!",
+     "id": "level3.speed_intro"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q28",
+   "index": 28,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "speed",
+   "speed_index": 1,
+   "speed_total": 3,
+   "start": 343.76,
+   "end": 347.79,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "pt"
+   },
+   "answers": [
+    {
+     "text": "البرتغال",
+     "iso": "pt",
+     "t": 346.51
+    }
+   ],
+   "hints": [],
+   "think_s": 2.5,
+   "t": {
+    "in": 343.76,
+    "timer_start": 344.01,
+    "timer_end": 346.51,
+    "reveal": 346.51,
+    "out": 347.49
+   },
+   "host": [
+    {
+     "t": 346.59,
+     "end": 347.09,
+     "mood": "react",
+     "text": "البرتغال!",
+     "id": "q28.reveal"
+    }
+   ],
+   "answer_iso": "pt"
+  },
+  {
+   "type": "question",
+   "id": "q29",
+   "index": 29,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "speed",
+   "speed_index": 2,
+   "speed_total": 3,
+   "start": 347.79,
+   "end": 351.82,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "ma"
+   },
+   "answers": [
+    {
+     "text": "المغرب",
+     "iso": "ma",
+     "t": 350.54
+    }
+   ],
+   "hints": [],
+   "think_s": 2.5,
+   "t": {
+    "in": 347.79,
+    "timer_start": 348.04,
+    "timer_end": 350.54,
+    "reveal": 350.54,
+    "out": 351.52
+   },
+   "host": [
+    {
+     "t": 350.62,
+     "end": 351.12,
+     "mood": "react",
+     "text": "المغرب!",
+     "id": "q29.reveal"
+    }
+   ],
+   "answer_iso": "ma"
+  },
+  {
+   "type": "question",
+   "id": "q30",
+   "index": 30,
+   "level": 3,
+   "level_name": "صعب",
+   "mechanic": "speed",
+   "speed_index": 3,
+   "speed_total": 3,
+   "start": 351.82,
+   "end": 358.8,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "gh"
+   },
+   "answers": [
+    {
+     "text": "غانا",
+     "iso": "gh",
+     "t": 354.57
+    }
+   ],
+   "hints": [],
+   "think_s": 2.5,
+   "t": {
+    "in": 351.82,
+    "timer_start": 352.07,
+    "timer_end": 354.57,
+    "reveal": 354.57,
+    "out": 358.5
+   },
+   "host": [
+    {
+     "t": 354.65,
+     "end": 355.15,
+     "mood": "react",
+     "text": "غانا!",
+     "id": "q30.reveal"
+    },
+    {
+     "t": 355.3,
+     "end": 358.1,
+     "mood": "tease",
+     "text": "النجمة السودا بعَلَم غانا: رمز حرية أفريقيا!",
+     "id": "level3.speed_outro"
+    }
+   ],
+   "answer_iso": "gh"
+  },
+  {
+   "type": "card",
+   "kind": "level",
+   "id": "level4",
+   "level": 4,
+   "title": "المستوى ٤: ابن بطوطة",
+   "level_name": "ابن بطوطة",
+   "sub": null,
+   "tally_text": "نتيجتك حتى الآن: كم من ٣٠؟",
+   "new_text": "جديد: عملات | أعلام نادرة",
+   "stake_text": null,
+   "series_text": null,
+   "think_s": 7,
+   "start": 358.8,
+   "end": 362.8,
+   "host": [
+    {
+     "t": 359,
+     "end": 362.2,
+     "mood": "tease",
+     "text": "تلاتين خلصوا! كم المجموع؟ آخر مستوى: ابن بطوطة.",
+     "id": "level4"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q31",
+   "index": 31,
+   "level": 4,
+   "level_name": "ابن بطوطة",
+   "mechanic": "currency",
+   "start": 362.8,
+   "end": 377.08,
+   "ask_text": "أي دولة عملتها هذه؟",
+   "clue": {
+    "type": "text",
+    "text": "البوليفار"
+   },
+   "options": [
+    {
+     "text": "بوليفيا",
+     "iso": null
+    },
+    {
+     "text": "باراغواي",
+     "iso": null
+    },
+    {
+     "text": "فنزويلا",
+     "iso": null
+    },
+    {
+     "text": "بنما",
+     "iso": null
+    }
+   ],
+   "answer_index": 2,
+   "hints": [],
+   "learn_text": "سُمّيت على اسم سيمون بوليفار، بطل استقلال أمريكا الجنوبية",
+   "think_s": 7,
+   "t": {
+    "in": 362.8,
+    "options_in": 363.15,
+    "timer_start": 364.95,
+    "timer_end": 371.95,
+    "reveal": 371.95,
+    "learn_in": 373.78,
+    "out": 376.78
+   },
+   "host": [
+    {
+     "t": 363.2,
+     "end": 364.8,
+     "mood": "ask",
+     "text": "عملة اسمها البوليفار... لمين؟",
+     "id": "q31.ask"
+    },
+    {
+     "t": 372.03,
+     "end": 373.63,
+     "mood": "react",
+     "text": "فنزويلا! وبوليفيا كانت الفخ.",
+     "id": "q31.reveal"
+    },
+    {
+     "t": 373.78,
+     "end": 376.18,
+     "mood": "teach",
+     "text": "وعملة بوليفيا اسمها «بوليفيانو»، قريبة كتير!",
+     "id": "q31.learn"
+    }
+   ],
+   "answer_iso": "ve"
+  },
+  {
+   "type": "question",
+   "id": "q32",
+   "index": 32,
+   "level": 4,
+   "level_name": "ابن بطوطة",
+   "mechanic": "flag",
+   "start": 377.08,
+   "end": 392.16,
+   "ask_text": "علم أي دولة هذا؟",
+   "clue": {
+    "type": "flag",
+    "iso": "bt"
+   },
+   "options": [
+    {
+     "text": "منغوليا",
+     "iso": null
+    },
+    {
+     "text": "بنغلاديش",
+     "iso": null
+    },
+    {
+     "text": "ميانمار",
+     "iso": null
+    },
+    {
+     "text": "بوتان",
+     "iso": null
+    }
+   ],
+   "answer_index": 3,
+   "hints": [],
+   "learn_text": "اسمها بلغتها «مملكة تنين الرعد»، ومنه جاء التنين على العلم",
+   "think_s": 7,
+   "t": {
+    "in": 377.08,
+    "options_in": 377.43,
+    "timer_start": 379.63,
+    "timer_end": 386.63,
+    "reveal": 386.63,
+    "learn_in": 388.46,
+    "out": 391.86
+   },
+   "host": [
+    {
+     "t": 377.48,
+     "end": 379.48,
+     "mood": "ask",
+     "text": "عَلَم مين هاد؟ دقّقوا بالرسمة.",
+     "id": "q32.ask"
+    },
+    {
+     "t": 386.71,
+     "end": 388.31,
+     "mood": "react",
+     "text": "بوتان، بين الهند والصين!",
+     "id": "q32.reveal"
+    },
+    {
+     "t": 388.46,
+     "end": 391.26,
+     "mood": "teach",
+     "text": "وويلز كمان على علمها تنين، بس أحمر.",
+     "id": "q32.learn"
+    }
+   ],
+   "answer_iso": "bt"
+  },
+  {
+   "type": "question",
+   "id": "q33",
+   "index": 33,
+   "level": 4,
+   "level_name": "ابن بطوطة",
+   "mechanic": "neighbors",
+   "start": 392.16,
+   "end": 409.19,
+   "ask_text": "أي دولة هذه؟",
+   "clue": {
+    "type": "text",
+    "text": "تحدّها فرنسا وإسبانيا فقط"
+   },
+   "options": [
+    {
+     "text": "موناكو",
+     "iso": null
+    },
+    {
+     "text": "أندورا",
+     "iso": null
+    },
+    {
+     "text": "سان مارينو",
+     "iso": null
+    },
+    {
+     "text": "ليختنشتاين",
+     "iso": null
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "لها أميران معاً: رئيس فرنسا وأسقف من إسبانيا",
+   "think_s": 7,
+   "t": {
+    "in": 392.16,
+    "options_in": 392.51,
+    "timer_start": 397.06,
+    "timer_end": 404.06,
+    "reveal": 404.06,
+    "learn_in": 405.89,
+    "out": 408.89
+   },
+   "host": [
+    {
+     "t": 392.31,
+     "end": 394.71,
+     "mood": "tease",
+     "text": "الجاي: دول صغيرة بتشبه بعض... دقّقوا!",
+     "id": "q33.bet"
+    },
+    {
+     "t": 394.91,
+     "end": 396.91,
+     "mood": "ask",
+     "text": "جيرانها فرنسا وإسبانيا بس... مين؟",
+     "id": "q33.ask"
+    },
+    {
+     "t": 404.14,
+     "end": 405.74,
+     "mood": "react",
+     "text": "أندورا، بالجبال بين الجارتين!",
+     "id": "q33.reveal"
+    },
+    {
+     "t": 405.89,
+     "end": 408.29,
+     "mood": "teach",
+     "text": "أميرين، ولا واحد منهم ساكن فيها!",
+     "id": "q33.learn"
+    }
+   ],
+   "answer_iso": "ad",
+   "learn_voice": true
+  },
+  {
+   "type": "question",
+   "id": "q34",
+   "index": 34,
+   "level": 4,
+   "level_name": "ابن بطوطة",
+   "mechanic": "odd_one_out",
+   "start": 409.19,
+   "end": 423.07,
+   "ask_text": "أيّها يقع جزء منها في أوروبا؟",
+   "clue": {
+    "type": "text",
+    "text": "دولة واحدة منها جزء منها في أوروبا"
+   },
+   "options": [
+    {
+     "text": "كازاخستان",
+     "iso": null
+    },
+    {
+     "text": "منغوليا",
+     "iso": null
+    },
+    {
+     "text": "أوزبكستان",
+     "iso": null
+    },
+    {
+     "text": "أفغانستان",
+     "iso": null
+    }
+   ],
+   "answer_index": 0,
+   "hints": [],
+   "learn_text": "تمتد غرب نهر الأورال داخل أوروبا، ومعظمها في آسيا",
+   "think_s": 7,
+   "t": {
+    "in": 409.19,
+    "options_in": 409.54,
+    "timer_start": 411.74,
+    "timer_end": 418.74,
+    "reveal": 418.74,
+    "learn_in": 420.57,
+    "out": 422.77
+   },
+   "host": [
+    {
+     "t": 409.59,
+     "end": 411.59,
+     "mood": "ask",
+     "text": "وحدة منهم طرفها بأوروبا... مين؟",
+     "id": "q34.ask"
+    },
+    {
+     "t": 418.82,
+     "end": 420.42,
+     "mood": "react",
+     "text": "كازاخستان، وطرفها الغربي بأوروبا!",
+     "id": "q34.reveal"
+    },
+    {
+     "t": 420.57,
+     "end": 422.17,
+     "mood": "teach",
+     "text": "يعني قارتين بعَلَم واحد!",
+     "id": "q34.learn"
+    }
+   ],
+   "answer_iso": "kz"
+  },
+  {
+   "type": "question",
+   "id": "q35",
+   "index": 35,
+   "level": 4,
+   "level_name": "ابن بطوطة",
+   "mechanic": "flag_strips",
+   "start": 423.07,
+   "end": 437.75,
+   "ask_text": "علم أي دولة؟ خلف الستائر",
+   "clue": {
+    "type": "flag",
+    "iso": "kg",
+    "effect": "strips"
+   },
+   "options": [
+    {
+     "text": "تركمانستان",
+     "iso": null
+    },
+    {
+     "text": "طاجيكستان",
+     "iso": null
+    },
+    {
+     "text": "قيرغيزستان",
+     "iso": null
+    },
+    {
+     "text": "أوزبكستان",
+     "iso": null
+    }
+   ],
+   "answer_index": 2,
+   "hints": [],
+   "learn_text": "الشمس فيها ٤٠ شعاعاً، بعدد القبائل التي وحّدها البطل ماناس",
+   "think_s": 7,
+   "t": {
+    "in": 423.07,
+    "options_in": 423.42,
+    "timer_start": 425.62,
+    "timer_end": 432.62,
+    "reveal": 432.62,
+    "learn_in": 434.85,
+    "out": 437.45
+   },
+   "host": [
+    {
+     "t": 423.47,
+     "end": 425.47,
+     "mood": "ask",
+     "text": "الستائر رجعت... مين صاحب العَلَم؟",
+     "id": "q35.ask"
+    },
+    {
+     "t": 432.7,
+     "end": 434.7,
+     "mood": "react",
+     "text": "هي قيرغيزستان، شمس على أحمر!",
+     "id": "q35.reveal"
+    },
+    {
+     "t": 434.85,
+     "end": 436.85,
+     "mood": "teach",
+     "text": "أربعين شعاع، متل أسئلة حلقتنا!",
+     "id": "q35.learn"
+    }
+   ],
+   "answer_iso": "kg"
+  },
+  {
+   "type": "question",
+   "id": "q36",
+   "index": 36,
+   "level": 4,
+   "level_name": "ابن بطوطة",
+   "mechanic": "language",
+   "start": 437.75,
+   "end": 453.63,
+   "ask_text": "أي دولة هذه؟",
+   "clue": {
+    "type": "text",
+    "text": "لغتاها الرسميتان: العربية والفرنسية"
+   },
+   "options": [
+    {
+     "text": "الصومال",
+     "iso": null
+    },
+    {
+     "text": "إريتريا",
+     "iso": null
+    },
+    {
+     "text": "السودان",
+     "iso": null
+    },
+    {
+     "text": "جيبوتي",
+     "iso": null
+    }
+   ],
+   "answer_index": 3,
+   "hints": [],
+   "learn_text": "فيها بحيرة عسل: أخفض نقطة في أفريقيا، ١٥٥ متراً تحت البحر",
+   "think_s": 7,
+   "t": {
+    "in": 437.75,
+    "options_in": 438.1,
+    "timer_start": 440.3,
+    "timer_end": 447.3,
+    "reveal": 447.3,
+    "learn_in": 449.53,
+    "out": 453.33
+   },
+   "host": [
+    {
+     "t": 438.15,
+     "end": 440.15,
+     "mood": "ask",
+     "text": "عربي وفرنسي بنفس البلد... وين؟",
+     "id": "q36.ask"
+    },
+    {
+     "t": 447.38,
+     "end": 449.38,
+     "mood": "react",
+     "text": "جيبوتي! صغيرة وعلى باب المندب.",
+     "id": "q36.reveal"
+    },
+    {
+     "t": 449.53,
+     "end": 452.73,
+     "mood": "teach",
+     "text": "اسمها عسل... بس أملح من البحر بعشر مرات!",
+     "id": "q36.learn"
+    }
+   ],
+   "answer_iso": "dj",
+   "source3": "https://en.wikipedia.org/wiki/List_of_official_languages_by_country_and_territory"
+  },
+  {
+   "type": "question",
+   "id": "q37",
+   "index": 37,
+   "level": 4,
+   "level_name": "ابن بطوطة",
+   "mechanic": "landmark",
+   "start": 453.63,
+   "end": 468.31,
+   "ask_text": "في أي دولة هذا المعلم؟",
+   "clue": {
+    "type": "text",
+    "text": "جبل كليمنجارو"
+   },
+   "options": [
+    {
+     "text": "كينيا",
+     "iso": null
+    },
+    {
+     "text": "تنزانيا",
+     "iso": null
+    },
+    {
+     "text": "أوغندا",
+     "iso": null
+    },
+    {
+     "text": "رواندا",
+     "iso": null
+    }
+   ],
+   "answer_index": 1,
+   "hints": [],
+   "learn_text": "بركان خامد ارتفاعه نحو ٥٨٩٥ متراً، أعلى قمة في أفريقيا",
+   "think_s": 7,
+   "t": {
+    "in": 453.63,
+    "options_in": 453.98,
+    "timer_start": 455.78,
+    "timer_end": 462.78,
+    "reveal": 462.78,
+    "learn_in": 464.21,
+    "out": 468.01
+   },
+   "host": [
+    {
+     "t": 454.03,
+     "end": 455.63,
+     "mood": "ask",
+     "text": "جبل كليمنجارو... بأي بلد؟",
+     "id": "q37.ask"
+    },
+    {
+     "t": 462.86,
+     "end": 464.06,
+     "mood": "react",
+     "text": "تنزانيا، مش كينيا!",
+     "id": "q37.reveal"
+    },
+    {
+     "t": 464.21,
+     "end": 467.41,
+     "mood": "teach",
+     "text": "وهو أعلى جبل منفرد بالعالم، بلا سلسلة جبال.",
+     "id": "q37.learn"
+    }
+   ],
+   "answer_iso": "tz"
+  },
+  {
+   "type": "card",
+   "kind": "speed",
+   "id": "level4.speed",
+   "level": 4,
+   "title": "جولة السرعة",
+   "sub": "٣ أعلام | ٢٫٥ ثانية لكل علم | بدون خيارات",
+   "level_name": "ابن بطوطة",
+   "start": 468.31,
+   "end": 471.61,
+   "host": [
+    {
+     "t": 468.51,
+     "end": 471.31,
+     "mood": "dare",
+     "text": "آخر جولة... وبآخرها العَلَم اللي وعدتكم فيه!",
+     "id": "level4.speed_intro"
+    }
+   ]
+  },
+  {
+   "type": "question",
+   "id": "q38",
+   "index": 38,
+   "level": 4,
+   "level_name": "ابن بطوطة",
+   "mechanic": "speed",
+   "speed_index": 1,
+   "speed_total": 3,
+   "start": 471.61,
+   "end": 475.64,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "hr"
+   },
+   "answers": [
+    {
+     "text": "كرواتيا",
+     "iso": "hr",
+     "t": 474.36
+    }
+   ],
+   "hints": [],
+   "think_s": 2.5,
+   "t": {
+    "in": 471.61,
+    "timer_start": 471.86,
+    "timer_end": 474.36,
+    "reveal": 474.36,
+    "out": 475.34
+   },
+   "host": [
+    {
+     "t": 474.44,
+     "end": 474.94,
+     "mood": "react",
+     "text": "كرواتيا!",
+     "id": "q38.reveal"
+    }
+   ],
+   "answer_iso": "hr"
+  },
+  {
+   "type": "question",
+   "id": "q39",
+   "index": 39,
+   "level": 4,
+   "level_name": "ابن بطوطة",
+   "mechanic": "speed",
+   "speed_index": 2,
+   "speed_total": 3,
+   "start": 475.64,
+   "end": 479.67,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "az"
+   },
+   "answers": [
+    {
+     "text": "أذربيجان",
+     "iso": "az",
+     "t": 478.39
+    }
+   ],
+   "hints": [],
+   "think_s": 2.5,
+   "t": {
+    "in": 475.64,
+    "timer_start": 475.89,
+    "timer_end": 478.39,
+    "reveal": 478.39,
+    "out": 479.37
+   },
+   "host": [
+    {
+     "t": 478.47,
+     "end": 478.97,
+     "mood": "react",
+     "text": "أذربيجان!",
+     "id": "q39.reveal"
+    }
+   ],
+   "answer_iso": "az"
+  },
+  {
+   "type": "question",
+   "id": "q40",
+   "index": 40,
+   "level": 4,
+   "level_name": "ابن بطوطة",
+   "mechanic": "speed",
+   "speed_index": 3,
+   "speed_total": 3,
+   "start": 479.67,
+   "end": 492.3,
+   "ask_text": "علم أي دولة؟",
+   "clue": {
+    "type": "flag",
+    "iso": "np"
+   },
+   "answers": [
+    {
+     "text": "نيبال",
+     "iso": "np",
+     "t": 486.97
+    }
+   ],
+   "hints": [],
+   "think_s": 5,
+   "t": {
+    "in": 479.67,
+    "timer_start": 481.97,
+    "timer_end": 486.97,
+    "reveal": 486.97,
+    "out": 492
+   },
+   "host": [
+    {
+     "t": 479.82,
+     "end": 481.82,
+     "mood": "ask",
+     "text": "وآخر عَلَم... اللي وعدتكم فيه!",
+     "id": "q40.ask"
+    },
+    {
+     "t": 487.05,
+     "end": 489.85,
+     "mood": "react",
+     "text": "نيبال! العَلَم الوحيد بالعالم اللي مش مستطيل.",
+     "id": "q40.reveal"
+    },
+    {
+     "t": 490,
+     "end": 491.6,
+     "mood": "tease",
+     "text": "خلصنا الأربعين! كم المجموع؟",
+     "id": "level4.speed_outro"
+    }
+   ],
+   "answer_iso": "np",
+   "hold_s": 3,
+   "hold_text": "العلم الوحيد في العالم الذي ليس مستطيلاً ولا مربعاً",
+   "hold_note": "r7 G11: after the 2.5 s window the Nepal flag holds 2 s with this small text, before the congrats"
+  },
+  {
+   "type": "ladder",
+   "id": "ladder",
+   "title": "كم جبت من ٤٠؟",
+   "rows": [
+    {
+     "min": 0,
+     "max": 14,
+     "title": "سائح فضولي"
+    },
+    {
+     "min": 15,
+     "max": 22,
+     "title": "جواز سفر ممتلئ"
+    },
+    {
+     "min": 23,
+     "max": 29,
+     "title": "بوصلة بشرية"
+    },
+    {
+     "min": 30,
+     "max": 40,
+     "title": "ابن بطوطة"
+    }
+   ],
+   "start": 492.3,
+   "end": 500.8,
+   "host": [
+    {
+     "t": 492.6,
+     "end": 497.4,
+     "mood": "react",
+     "text": "تحت ١٥ سائح فضولي، ومن ٣٠ وطالع ابن بطوطة... اكتبوا لقبكم بالتعليقات!",
+     "id": "ladder"
+    },
+    {
+     "t": 497.6,
+     "end": 499.6,
+     "mood": "tease",
+     "text": "الحلقة الجاية: أعلام بتشبه بعضها!",
+     "id": "handoff"
+    }
+   ]
+  },
+  {
+   "type": "end",
+   "id": "end",
+   "text": "تعلّم بالأسئلة | الحلقة القادمة: أعلام متشابهة",
+   "sub": null,
+   "start": 500.8,
+   "end": 508.8,
+   "host": []
+  }
+ ]
+}

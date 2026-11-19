@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Ask AI the Same Question Twice. Different Answer?",
+ "topic": "Chatbots don't look up one answer: they pick each next word with a dice roll among likely options, so every run can take a different path.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Everyone has hit 'regenerate'; checkable instantly (T3); no explainer Short.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: Softmax function (temperature: how likely next words are turned into a random pick) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Softmax_function"
+  },
+  {
+   "claim": "Wikipedia: Large language model (text generated token by token by sampling) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Large_language_model"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "If u ask chatgpt the same question u will understand...",
+   "url": "https://youtube.com/shorts/OWk60fAtC6U",
+   "views": "1.3K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "When chat GPT won't stop agreeing with you (sycophancy, not this)",
+   "url": "https://youtube.com/shorts/ryTHzz6Q96A",
+   "views": "2.9M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Same question. Different answer. Why?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Chatbots don't look up one answer: they pick each next word with a dice roll among likely options, so every run can take a different path. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Same question. Different answer. Why?",
+ "twist": "Chatbots don't look up one answer: they pick each next word with a dice roll among likely options, so every run can take a different path.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-02 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW-MEDIUM with 'one word at a time' (existing) and '27' video: here the visible quirk is the changing answer. Keep >= 3 days from same-joke (Dec 5).",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 60,
+ "score10": 7.8,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

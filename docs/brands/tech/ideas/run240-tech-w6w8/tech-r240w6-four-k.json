@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "Your 4K TV Isn't 4,000 Pixels Wide",
+ "topic": "Consumer 4K is 3,840 pixels wide (4x 1080p); '4K' was borrowed from cinema's 4,096 and rounded up for marketing.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Resolution Shorts reach 1.9M; the 3,840 surprise is checkable on any TV spec sheet.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: 4K resolution (UHD 3840x2160 vs DCI 4096x2160) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/4K_resolution"
+  },
+  {
+   "claim": "Wikipedia: Ultra-high-definition television (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Ultra-high-definition_television"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Does Resolution Matter? 8k vs 4k vs 1080p!",
+   "url": "https://youtube.com/shorts/EAA15Am6-pg",
+   "views": "1.9M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "What's Better? 4K or 1080p?",
+   "url": "https://youtube.com/shorts/pnDR2u_HMAo",
+   "views": "205K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('4K TV. Count the pixels: 4,000?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Consumer 4K is 3,840 pixels wide (4x 1080p); '4K' was borrowed from cinema's 4,096 and rounded up for marketing. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "4K TV. Count the pixels: 4,000?",
+ "twist": "Consumer 4K is 3,840 pixels wide (4x 1080p); '4K' was borrowed from cinema's 4,096 and rounded up for marketing.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-27",
+  "deadline": "2026-12-24",
+  "event": "Holiday TV-buying season"
+ },
+ "newsPeg": "Holiday TV-buying season",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-07 12:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Why Your 1 TB Drive Shows Only 931 GB' and Mbps idea (number marketing): 3+ weeks apart.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 23,
+ "score10": 8.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

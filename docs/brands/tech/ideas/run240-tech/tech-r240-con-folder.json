@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "Try Naming a Folder 'CON' on Windows",
+ "topic": "CON, PRN, AUX and NUL are reserved device names from 1980s DOS, and Windows still keeps them for compatibility.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Viewer can try it at once (play-along). Folder-trick Shorts reach 4.8M; the CON one has only 33K = room for a better hook.",
+ "evidence": [
+  {
+   "claim": "Microsoft Learn: reserved names CON, PRN, AUX, NUL, COM1-9, LPT1-9 (accessed 2026-10-24)",
+   "url": "https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file"
+  },
+  {
+   "claim": "Windows 1.0 released Nov 20 1985 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Windows_1.0"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Can't You Name A Folder CON On Windows?",
+   "url": "https://youtube.com/shorts/zOOXQXxP6E0",
+   "views": "33K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "How to Create a Folder With No Name in Windows",
+   "url": "https://youtube.com/shorts/JjlJL7F_Nh4",
+   "views": "4.8M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Name a folder CON. Try it.') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: CON, PRN, AUX and NUL are reserved device names from 1980s DOS, and Windows still keeps them for compatibility. Loop ending: re-ask the hook.",
+ "hook": "Name a folder CON. Try it.",
+ "twist": "CON, PRN, AUX and NUL are reserved device names from 1980s DOS, and Windows still keeps them for compatibility.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-20",
+  "deadline": "2026-11-23",
+  "event": "Windows 1.0 41st anniversary (Nov 20 1985)"
+ },
+ "newsPeg": "Windows 1.0 41st anniversary (Nov 20 1985)",
+ "suggestedSlot": "2026-11-20 15:00 UTC",
+ "novelty": {
+  "overlap": "none. Verify current Windows 11 behaviour on script day (Explorer error text).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 24,
+ "score10": 8.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "channel": "celebrity",
+ "title": "The Only Photo of Lincoln at Gettysburg Hid for 89 Years",
+ "topic": "In 1952 an archivist enlarged an old glass plate and found Lincoln, hours before his 2-minute speech; no confirmed photo shows him speaking.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Gettysburg Address, 19 Nov 1863 (2026-11-19). Wikipedia Gettysburg_Address 43,079 views Sept 2026.",
+ "hook": "Can you find Lincoln in this crowd?",
+ "twist": "In 1952 an archivist enlarged an old glass plate and found Lincoln, hours before his 2-minute speech; no confirmed photo shows him speaking.",
+ "peg": {
+  "event": "Gettysburg Address, 19 Nov 1863",
+  "date": "2026-11-19",
+  "url": "https://en.wikipedia.org/wiki/Gettysburg_Address",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "National Archives Prologue - Rare photo of Lincoln at Gettysburg (accessed 2026-10-24)",
+   "url": "https://prologue.blogs.archives.gov/2010/11/19/rare-photo-of-lincoln-at-gettysburg"
+  },
+  {
+   "claim": "Bucknell University - Lincoln at Gettysburg: did you know? (accessed 2026-10-24)",
+   "url": "https://www.departments.bucknell.edu/history/carnegie/lincoln/didyouknow.html"
+  },
+  {
+   "claim": "Peg source: Gettysburg Address, 19 Nov 1863 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Gettysburg_Address"
+  },
+  {
+   "claim": "Wikimedia pageviews Gettysburg_Address: 43079 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Gettysburg_Address&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "National Archives Prologue - Rare photo of Lincoln at Gettysburg",
+   "url": "https://prologue.blogs.archives.gov/2010/11/19/rare-photo-of-lincoln-at-gettysburg",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Bucknell University - Lincoln at Gettysburg: did you know?",
+   "url": "https://www.departments.bucknell.edu/history/carnegie/lincoln/didyouknow.html",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The Mystery of Abraham Lincoln’s Last Photograph 😱📸 #Shorts #ushistory #revwar #popularhistory",
+   "url": "https://youtube.com/shorts/y0gt8tgGj_s",
+   "views": 3,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Emily Dickinson's only photograph (c. 1847) #Shorts, No views - play Short",
+   "url": "https://youtube.com/shorts/sFFidetG280",
+   "views": null,
+   "verified": false,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "WAS BOOTH IN THIS PHOTO? Lincoln's Second Inauguration (1865) #truestory #history",
+   "url": "https://youtube.com/shorts/4g5NfOhz-c4",
+   "views": 227,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a sepia crowd with a magnifying glass + hook (participation). Twist: found 89 years later. Loop: 'Found him yet?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Bachrach image is disputed - say 'no confirmed photo of him speaking'. Use an original crowd illustration; if the NARA photo is used it is public domain but must be logged in assets. Politics-neutral.",
+ "window": {
+  "notBefore": "2026-11-18T12:00:00Z",
+  "deadline": "2026-11-20T06:00:00Z",
+  "label": "Gettysburg Address, 19 Nov 1863",
+  "suggestedSlot": "2026-11-19T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Your Power Button Is a 1 and a 0",
+ "topic": "The symbol merges binary 1 (on) and 0 (off); it's an international standard (IEC 60417).",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "On every device; strong visual reveal; competitors small.",
+ "evidence": [
+  {
+   "claim": "Power symbol: IEC 60417 standby/power, 1 and 0 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Power_symbol"
+  },
+  {
+   "claim": "IEEE 1621 power-control user interface (accessed 2026-10-24)",
+   "url": "https://standards.ieee.org/ieee/1621/3266/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Cracking the Code: The Fascinating Origin of the Power Button Symbol",
+   "url": "https://youtube.com/shorts/a9WCbsz43_w",
+   "views": "15K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Your Power Button Isn't a Power Button (long, 1 day old)",
+   "url": "https://www.youtube.com/watch?v=tBM9lOS7kEo",
+   "views": "21K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Look closer: a 1 and a 0?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: The symbol merges binary 1 (on) and 0 (off); it's an international standard (IEC 60417). Loop ending: re-ask the hook.",
+ "hook": "Look closer: a 1 and a 0?",
+ "twist": "The symbol merges binary 1 (on) and 0 (off); it's an international standard (IEC 60417).",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-12 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW with Bluetooth logo.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 3,
+ "score10": 9.0,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

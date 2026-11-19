@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Your Photo Knows Where You Took It",
+ "topic": "Phones save GPS coordinates inside each photo (EXIF data); many apps strip it, but sending the original file can carry it along.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "1.5M demand on 'find location from a photo'; our angle is protective + check-your-own-photo.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: Exif (GPS tags stored in image files) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Exif"
+  },
+  {
+   "claim": "Wikipedia: Geotagged photograph (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Geotagged_photograph"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How to get location from a photo",
+   "url": "https://youtube.com/shorts/Z3GymAclS_I",
+   "views": "1.5M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Find location from photo",
+   "url": "https://youtube.com/shorts/iMG__JDRXCg",
+   "views": "183K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Share a photo. Share your address?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Phones save GPS coordinates inside each photo (EXIF data); many apps strip it, but sending the original file can carry it along. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Share a photo. Share your address?",
+ "twist": "Phones save GPS coordinates inside each photo (EXIF data); many apps strip it, but sending the original file can carry it along.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-01 18:00 UTC",
+ "novelty": {
+  "overlap": "LOW with incognito (Nov 18). Don't show how to locate other people; show how to check/remove your own.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 56,
+ "score10": 7.9,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

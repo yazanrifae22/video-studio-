@@ -1,0 +1,102 @@
+{
+ "channel": "celebrity",
+ "title": "The Band Aid Line Bono Didn't Want to Sing. Why?",
+ "topic": "On 25 Nov 1984 Bob Geldof gave Bono the song's harshest line; Bono told him he didn't want to sing it, Geldof insisted, and it became the line everyone remembers.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Band Aid recorded \"Do They Know It's Christmas?\" at Sarm West, 25 Nov 1984 (42nd anniversary) (2026-11-25). Wikipedia Do_They_Know_It's_Christmas? 12,378 views Sept 2026.",
+ "hook": "One line. Bono didn't want it.",
+ "twist": "On 25 Nov 1984 Bob Geldof gave Bono the song's harshest line; Bono told him he didn't want to sing it, Geldof insisted, and it became the line everyone remembers.",
+ "peg": {
+  "event": "Band Aid recorded \"Do They Know It's Christmas?\" at Sarm West, 25 Nov 1984 (42nd anniversary)",
+  "date": "2026-11-25",
+  "url": "https://en.wikipedia.org/wiki/Do_They_Know_It%27s_Christmas%3F",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Mental Floss - Do They Know It's Christmas? song history (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/holidays/christmas/do-they-know-its-christmas-band-aid-song-history"
+  },
+  {
+   "claim": "Rolling Stone - Flashback: Band Aid raises millions (accessed 2026-10-24)",
+   "url": "https://rollingstone.com/music/music-news/do-they-know-its-christmas-band-aid-1984-geldof-761428/"
+  },
+  {
+   "claim": "Peg source: Band Aid recorded \"Do They Know It's Christmas?\" at Sarm West, 25 Nov 1984 (42nd anniversary) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Do_They_Know_It%27s_Christmas%3F"
+  },
+  {
+   "claim": "Wikimedia pageviews Do_They_Know_It's_Christmas?: 12378 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Do_They_Know_It%27s_Christmas%3F&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Mental Floss - Do They Know It's Christmas? song history",
+   "url": "https://www.mentalfloss.com/holidays/christmas/do-they-know-its-christmas-band-aid-song-history",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Rolling Stone - Flashback: Band Aid raises millions",
+   "url": "https://rollingstone.com/music/music-news/do-they-know-its-christmas-band-aid-1984-geldof-761428/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Band Aid - Do They Know It’s Christmas? (1984) #hits #trending #christmas #shorts",
+   "url": "https://youtube.com/shorts/geyr5MJA180",
+   "views": 7900,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Band Aid Bono line do they know its christmas #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Band Aid's Official Music Video for \"Do They Know It's Christmas?\" #bandaid #dotheyknowitschristmas",
+   "url": "https://youtube.com/shorts/hvx9Yfg52z0",
+   "views": 46000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Band Aid Bono line do they know its christmas #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Band Aid 30 'Do They Know It's Christmas?' now in 4K FULL VIDEO @LiveAid",
+   "url": "https://youtube.com/shorts/0nYwkPn9f2Q",
+   "views": 8700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Band Aid Bono line do they know its christmas #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A lone studio microphone with a lyric sheet, one line blacked out + hook. Twist by 2.5 s. Loop: 'So would you have sung that line?'",
+ "cta": "C2+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Do not quote or sing the lyric (copyright): call it 'the song's harshest line'. Bono's account is from U2 by U2 (he 'didn't want to'), not 'begged'. One weak source says the session took 24 h: say 'in a single day'. No likeness, no song audio.",
+ "window": {
+  "notBefore": "2026-11-24T12:00:00Z",
+  "deadline": "2026-11-27T00:00:00Z",
+  "label": "Band Aid recorded \"Do They Know It's Christmas?\" at Sarm West, 25 Nov 1984 (42nd anniversary)",
+  "suggestedSlot": "2026-11-25T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Bono",
+  "Bob Geldof"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "channel": "celebrity",
+ "title": "Did a Mistaken Obituary Create the Nobel Prize?",
+ "topic": "In 1888 French papers confused Alfred Nobel with his late brother Ludvig and branded him a 'merchant of death'; on 27 Nov 1895 he signed the will that created the prizes. Historians dispute how much the obituary mattered.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Nobel signed his will in Paris, 27 Nov 1895 (and prize ceremony Dec 10) (2026-11-27). Wikipedia Alfred_Nobel 32,629 views Sept 2026.",
+ "hook": "He read his own obituary?",
+ "twist": "In 1888 French papers confused Alfred Nobel with his late brother Ludvig and branded him a 'merchant of death'; on 27 Nov 1895 he signed the will that created the prizes. Historians dispute how much the obituary mattered.",
+ "peg": {
+  "event": "Nobel signed his will in Paris, 27 Nov 1895 (and prize ceremony Dec 10)",
+  "date": "2026-11-27",
+  "url": "https://www.history.com/articles/did-a-premature-obituary-inspire-the-nobel-prize",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "History.com - Did a premature obituary inspire the Nobel Prize? (accessed 2026-10-24)",
+   "url": "https://www.history.com/articles/did-a-premature-obituary-inspire-the-nobel-prize"
+  },
+  {
+   "claim": "Britannica - Alfred Nobel (accessed 2026-10-24)",
+   "url": "https://www.britannica.com/print/article/416842"
+  },
+  {
+   "claim": "Substantia (Firenze University Press) - the merchant of death myth (accessed 2026-10-24)",
+   "url": "https://riviste.fupress.net/index.php/subs/article/download/2536/1781/18430"
+  },
+  {
+   "claim": "Peg source: Nobel signed his will in Paris, 27 Nov 1895 (and prize ceremony Dec 10) (accessed 2026-10-24)",
+   "url": "https://www.history.com/articles/did-a-premature-obituary-inspire-the-nobel-prize"
+  },
+  {
+   "claim": "Wikimedia pageviews Alfred_Nobel: 32629 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Alfred_Nobel&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "History.com - Did a premature obituary inspire the Nobel Prize?",
+   "url": "https://www.history.com/articles/did-a-premature-obituary-inspire-the-nobel-prize",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Britannica - Alfred Nobel",
+   "url": "https://www.britannica.com/print/article/416842",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Substantia (Firenze University Press) - the merchant of death myth",
+   "url": "https://riviste.fupress.net/index.php/subs/article/download/2536/1781/18430",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Merchant of Death is Dead: How Alfred Nobel's Obituary Created the Nobel Prize#nobelprize #history",
+   "url": "https://youtube.com/shorts/PQGWv8QoLEc",
+   "views": 529,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Alfred Nobel merchant of death obituary #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "His Own Obituary Called Him The Merchant Of Death #Shorts",
+   "url": "https://youtube.com/shorts/Jp1JHTIb7Jo",
+   "views": 6,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Alfred Nobel merchant of death obituary #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Merchant of Death Reading His Own Obituary #shorts",
+   "url": "https://youtube.com/shorts/0NNrH5Ams4A",
+   "views": 92,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Alfred Nobel merchant of death obituary #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A newspaper obituary with a living man's photo replaced by a question mark + hook. Twist by 2.5 s. Loop: 'Did one wrong obituary create the Nobel? Yes or no.'",
+ "cta": "C9+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Spare. The causal link is disputed (Britannica: speculation): keep the question frame and say so.",
+ "window": {
+  "notBefore": "2026-11-26T12:00:00Z",
+  "deadline": "2026-11-29T00:00:00Z",
+  "label": "Nobel signed his will in Paris, 27 Nov 1895 (and prize ceremony Dec 10)"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Alfred Nobel"
+ ],
+ "spare": true,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

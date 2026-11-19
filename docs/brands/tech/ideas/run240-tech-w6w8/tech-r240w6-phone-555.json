@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Why Movie Phone Numbers Start With 555",
+ "topic": "Only 555-0100 to 555-0199 are reserved for fiction in North America, so filmmakers use them to stop fans calling real people. Real 555 numbers once went to directory info.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Calling-movie-numbers Shorts reach 14-34M; the 555 rule has only an old long-form.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: 555 (telephone number) (555-0100 to 0199 reserved for fiction) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/555_(telephone_number)"
+  },
+  {
+   "claim": "Wikipedia: North American Numbering Plan (555 assignments) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/North_American_Numbering_Plan"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Calling Phone Numbers From Popular Movies",
+   "url": "https://youtube.com/shorts/PJTJZ8hg2SU",
+   "views": "34M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why Movie And TV Show Phone Numbers All Use '555' (long, 8y)",
+   "url": "https://www.youtube.com/watch?v=kWx4epOcLd4",
+   "views": "231K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Every movie number: 555. Why?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Only 555-0100 to 555-0199 are reserved for fiction in North America, so filmmakers use them to stop fans calling real people. Real 555 numbers once went to directory info. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Every movie number: 555. Why?",
+ "twist": "Only 555-0100 to 555-0199 are reserved for fiction in North America, so filmmakers use them to stop fans calling real people. Real 555 numbers once went to directory info.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-06 18:00 UTC",
+ "novelty": {
+  "overlap": "none. Don't show or dial any real number.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 17,
+ "score10": 8.8,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

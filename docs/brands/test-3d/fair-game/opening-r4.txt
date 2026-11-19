@@ -1,0 +1,65 @@
+VIDEO TITLE: A Fair Coin Game Ends With One Winner. Every Time.
+THUMBNAIL: a tall tower of gold coins with a chess king in a green cone hat on top, fallen pawns around it. Words: FAIR GAME?
+
+ON-SCREEN TEXT 0-3 s: ONE PLAYER OWNS 90%. NOBODY CHEATED.
+
+VOICE: This player owns ninety percent of the money in this game. He is not smarter than the others. He did not work harder. And nobody cheated.
+  [picture: FIRST FRAME = the thumbnail: the END of the fair world (6,000 flips each): the one great coin tower on e4 with the gold king in the green cone hat on top, 61 pawns lying down around it, bare squares. No fade from black, no empty board.]
+  [text on screen: 90%]
+
+VOICE: Sixty-four players started equal. One hundred gold coins each. One fair coin. Run it long enough, and it ends like this every time.
+  [picture: The fair world running BACKWARDS, fast, from the end to the start: the great tower drains, fallen pawns stand back up, all 64 towers equal again (done by 'equal'); tags '64 players' and '100'; the coin flips on 'fair coin'. Then three other finished worlds (WORLDS.again 0, 1, 2): the single tall tower stands on a different square each time.]
+  [text on screen: 64 players, 100, FLIPS EACH]
+
+VOICE: In America, the richest one percent hold a third of all wealth. This game says something they will hate: being rich does not prove you were better.
+  [picture: The real board (same staging as l44 / l45): one very tall stack on less than one square, tag '1%', against thirty-two squares of low stacks, tag 'bottom 50%'; tag 'a third of all wealth'. Then back to the king on the great tower with a fallen pawn at its foot.]
+  [text on screen: 1%, a third of all wealth, BETTER?]
+
+VOICE: So we test it. Four players get real advantages. The Scholar wins more flips. The Worker plays twice as often. The Heir starts with ten times the money. The Fool gets nothing.
+  [picture: The four hat pawns in a line on a cleared board, large: blue Scholar (flat cap), orange Worker (hard hat), gold Heir (crown), green Fool (cone hat). Each one is lit and named as it is spoken, with its advantage: '55 in 100', '2x', '1,000 coins' (the Heir's tower grows tall), 'nothing'.]
+  [text on screen: THE SCHOLAR, THE WORKER, THE HEIR, THE FOOL, 55 in 100, 2x, 1,000 coins, nothing]
+
+VOICE: We run it ten thousand times. Then I'll show you the one rule that stops the king. Pick your winner now. Some of you will hate who wins.
+  [picture: The four in their line with a worlds counter racing to 10,000 and four empty bars behind them (the tally still hidden). On 'one rule': the king on the great tower, the tower starting to sink. On 'Pick your winner': back to the four in the line, name tags up, tag 'PICK ONE'.]
+  [text on screen: WORLDS 10,000, ?, PICK ONE, THE SCHOLAR, THE WORKER, THE HEIR, THE FOOL]
+
+VOICE: Here is the whole game.
+  [picture: The equal board from a lower angle; a title tag.]
+  [text on screen: THE GAME]
+
+VOICE: Two players are picked at random. Each one puts the same stake on the table: one fifth of the poorer player's stack.
+  [picture: The two players of flip 1 (c8 and g3) singled out, the rest dimmed. Two discs (20 coins) leave each tower and sit between them.]
+  [text on screen: 20, 20]
+
+VOICE: Why the poorer one? Because nobody can bet what they don't have. A player with a hundred coins meets a player with four hundred: both put in twenty. Both risk the same amount. That is as fair as a bet gets.
+  [picture: Two demo players side by side: one on a 100-coin tower, one on a 400-coin tower, each with the same 20-coin stake in front of it; then close on the two stakes, exactly the same height.]
+  [text on screen: 100, 400, 20, 20, 1/5 of the smaller stack]
+
+VOICE: Then the coin. Heads, the first player takes both stakes. Tails, the second one does.
+  [picture: The coin over the two players; it lands heads (crown side up); both stakes go to c8.]
+  [text on screen: 120, 80]
+
+VOICE: Then two more players. And two more. That's the whole game. No skill. No strategy. Just the coin.
+  [picture: Flips 2 to 6 of the fair world played for real across the board (pairs f5-h8, b4-a1, e5-g6, d1-h2, e3-a2).]
+
+VOICE: Now meet four of the sixty-four.
+  [picture: The centre block d4, e4, d5, e5 in close-up: four plain pawns on equal towers.]
+
+VOICE: The Scholar.
+  [picture: The pawn on d5 turns blue and gets the flat scholar cap; name tag.]
+  [text on screen: THE SCHOLAR]
+
+VOICE: The Worker.
+  [picture: The pawn on e5 turns orange and gets the hard hat; name tag.]
+  [text on screen: THE WORKER]
+
+VOICE: The Heir.
+  [picture: The pawn on d4 turns gold and gets the small crown; name tag.]
+  [text on screen: THE HEIR]
+
+VOICE: And the Fool.
+  [picture: The pawn on e4 turns green and gets the cone hat; name tag. All four hats now in frame.]
+  [text on screen: THE FOOL]
+
+VOICE: For now the hats mean nothing. All four play by exactly the same rules as everyone else. But keep an eye on them.
+  [picture: Pull back from the four to the whole board: four small coloured pawns among sixty plain ones, all towers equal.]

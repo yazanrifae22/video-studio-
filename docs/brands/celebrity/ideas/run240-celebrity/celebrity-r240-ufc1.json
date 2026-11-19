@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "UFC 1 Had No Weight Classes. The Smallest Man Won",
+ "topic": "At UFC 1 (Nov 12, 1993) the lightest fighter, Royce Gracie, submitted three bigger men in one night.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: UFC 1 33rd anniversary (Nov 12) + UFC 334 at Madison Square Garden (Nov 14) (2026-11-12). Wikipedia UFC_1 6,309 views Sept 2026.",
+ "hook": "No weight classes. Who won?",
+ "twist": "At UFC 1 (Nov 12, 1993) the lightest fighter, Royce Gracie, submitted three bigger men in one night.",
+ "peg": {
+  "event": "UFC 1 33rd anniversary (Nov 12) + UFC 334 at Madison Square Garden (Nov 14)",
+  "date": "2026-11-12",
+  "url": "https://www.fanatik.com.tr/en/ciryl-gane-headlines-ufc-return-to-madison-square-garden-with-heavyweight-title-defense-2638939",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Fox Sports - UFC 1: The Beginning (accessed 2026-10-24)",
+   "url": "https://www.foxsports.com/stories/ufc/ufc-1-the-beginning"
+  },
+  {
+   "claim": "Gracie Mag - No gloves, no rules, no time limit: UFC 1 (accessed 2026-10-24)",
+   "url": "https://www.graciemag.com/?p=107326"
+  },
+  {
+   "claim": "Sportskeeda - 29 years ago: Royce Gracie at the first UFC (accessed 2026-10-24)",
+   "url": "https://sportskeeda.com/mma/news-29-years-ago-today-royce-gracie-changed-world-martial-arts-first-ever-ufc-event"
+  },
+  {
+   "claim": "Peg source: UFC 1 33rd anniversary (Nov 12) + UFC 334 at Madison Square Garden (Nov 14) (accessed 2026-10-24)",
+   "url": "https://www.fanatik.com.tr/en/ciryl-gane-headlines-ufc-return-to-madison-square-garden-with-heavyweight-title-defense-2638939"
+  },
+  {
+   "claim": "Wikimedia pageviews UFC_1: 6309 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=UFC_1&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Fox Sports - UFC 1: The Beginning",
+   "url": "https://www.foxsports.com/stories/ufc/ufc-1-the-beginning",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Gracie Mag - No gloves, no rules, no time limit: UFC 1",
+   "url": "https://www.graciemag.com/?p=107326",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Sportskeeda - 29 years ago: Royce Gracie at the first UFC",
+   "url": "https://sportskeeda.com/mma/news-29-years-ago-today-royce-gracie-changed-world-martial-arts-first-ever-ufc-event",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "UFC 1: The Night Royce Gracie Changed MMA Forever 🥋🔥",
+   "url": "https://youtube.com/shorts/WN5YKyPRSnI",
+   "views": 1400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "UFC Final USA 1994 Roy Gracie vs Patrick Smith 🔥💪💪🙏 #ufc",
+   "url": "https://youtube.com/shorts/Uz0TedWumbc",
+   "views": 122000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Royce Gracie Dominates UFC 1 🥋💥 #shorts #mmahistory #ufclegends #ufc",
+   "url": "https://youtube.com/shorts/2TRgopPeFL4",
+   "views": 2000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a balance scale with one small and three huge silhouettes + hook. Twist: the small one won all three. Loop: 'Size or skill?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Weight given as 170-180 lb: say 'about 175 lb, the lightest man there'. No blood, no strikes shown; scale/silhouette visuals. No UFC logo or octagon trade dress.",
+ "window": {
+  "notBefore": "2026-11-11T12:00:00Z",
+  "deadline": "2026-11-15T06:00:00Z",
+  "label": "UFC 1 33rd anniversary (Nov 12) + UFC 334 at Madison Square Garden (Nov 14)",
+  "suggestedSlot": "2026-11-12T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

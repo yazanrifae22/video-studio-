@@ -1,0 +1,562 @@
+[
+ {
+  "id": "vr-b-001",
+  "title": "Animals With Cheat Codes",
+  "category": "Animals",
+  "subcategory": "animal superpowers (camouflage, speed, vision)",
+  "ranking_criterion": "Most impossible-looking ability",
+  "fit": "top3 primary, top5 ok",
+  "series_template": "Animals With Cheat Codes: [Ocean / Birds / Insects / Reptiles]",
+  "episodes": [
+   "Top 3 Ocean Cheat Codes (octopus camouflage, mantis shrimp, cuttlefish)",
+   "Top 3 Bird Flight Hacks (hummingbird hover, owl, weaver)",
+   "Top 3 Reptile Tricks (chameleon eyes, tongue, colour change)"
+  ],
+  "demand_evidence": [
+   {
+    "url": "https://fluxnote.io/guides/make-money-animal-facts-youtube-channel",
+    "accessed": "2026-10-31",
+    "note": "vendor marketing; claims 'animal facts rarely become outdated'; unverified view claims, treat as weak"
+   },
+   {
+    "url": "https://lilys.ai/en/notes/youtube-shorts-automation-20251230/best-youtube-shorts-niches-2026",
+    "accessed": "2026-10-31",
+    "note": "secondary blog; weak"
+   },
+   {
+    "url": "https://www.pexels.com/search/videos/octopus/",
+    "accessed": "2026-10-31",
+    "note": "deep stock supply of octopus clips = supply side only, not demand"
+   }
+  ],
+  "candidates": [
+   {
+    "url": "https://www.pexels.com/video/octopus-camouflages-in-coral-reef-31496835/",
+    "title": "Octopus Camouflages in Coral Reef (0:09, 1920x1080)",
+    "licence_as_shown": "Pexels licence (shown as 'Free', link to pexels.com/license)",
+    "pool": "pexels"
+   },
+   {
+    "url": "https://www.pexels.com/video/intriguing-ocean-octopus-on-coral-reef-39027961/",
+    "title": "Intriguing ocean octopus on coral reef",
+    "licence_as_shown": "Pexels licence (shown as 'Free', link to pexels.com/license)",
+    "pool": "pexels"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Sealife-Munich-Octopus-2.ogv",
+    "title": "Sealife-Munich-Octopus-2.ogv",
+    "licence_as_shown": "CC0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Hairy_octopus.webm",
+    "title": "Hairy octopus.webm",
+    "licence_as_shown": "CC BY 4.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Peacock_mantis_shrimp_(Odontodactylus_scyllarus).webm",
+    "title": "Peacock mantis shrimp (Odontodactylus scyllarus).webm",
+    "licence_as_shown": "CC BY 2.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Chameleon_eyes.webm",
+    "title": "Chameleon eyes.webm",
+    "licence_as_shown": "CC BY 4.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Giant_cuttlefish_(Sepia_apama).webm",
+    "title": "Giant cuttlefish (Sepia apama).webm",
+    "licence_as_shown": "CC BY 2.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Ruby_Throated_Hummingbirds_in_Slow_Motion.webm",
+    "title": "Ruby Throated Hummingbirds in Slow Motion.webm",
+    "licence_as_shown": "CC BY-SA 4.0",
+    "pool": "wikimedia-commons",
+    "note": "SA: avoid or isolate"
+   }
+  ],
+  "usable_moments_estimate": "40-60 across 3 episodes (estimate from search hit counts, not yet cut-tested)",
+  "scores": {
+   "creative": 72,
+   "demand": 68,
+   "feasibility": 78,
+   "portfolio_fit": 70,
+   "risk": 30
+  },
+  "hard_gate_notes": "Prefer CC0/CC BY/Pexels; CC BY-SA needs share-alike review by rights-scout. Facts in narration must be checked (no invented stats). Clip length on Commons often <10 s; ok for top3.",
+  "confidence": "medium",
+  "demand_evidence_summary": "No independent view/search-volume data obtained; evidence is qualitative (editorial/press/vendor). Metrics not invented.",
+  "created": "2026-10-31"
+ },
+ {
+  "id": "vr-b-002",
+  "title": "Physics That Looks Fake",
+  "category": "Amazing",
+  "subcategory": "physics-defying everyday moments / slow-mo science",
+  "ranking_criterion": "Most 'wait, that's not right' physics",
+  "fit": "top3 primary (small pool), top5 hard",
+  "series_template": "Physics That Looks Fake: [Slow-mo / Magnets / Liquids]",
+  "episodes": [
+   "Top 3 Slow-Mo Surprises (slinky drop, Newton's cradle, Leidenfrost)",
+   "Top 3 Magnet Weirdness (ferrofluid, Ferrocell, microgravity ferrofluid)",
+   "Top 3 Water Tricks (Leidenfrost, droplet harmonics, hummingbird splash)"
+  ],
+  "demand_evidence": [
+   {
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=filetype:video+newton%27s+cradle",
+    "accessed": "2026-10-31",
+    "note": "supply check only"
+   },
+   {
+    "url": "https://lilys.ai/en/notes/youtube-shorts-automation-20251230/best-youtube-shorts-niches-2026",
+    "accessed": "2026-10-31",
+    "note": "secondary blog; weak"
+   }
+  ],
+  "candidates": [
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Pendolo_di_Newton_a_5_sferette_rallentato.webm",
+    "title": "Pendolo di Newton a 5 sferette rallentato.webm",
+    "licence_as_shown": "CC0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Pendolo_di_Newton_a_3_sferette_rallentato.webm",
+    "title": "Pendolo di Newton a 3 sferette rallentato.webm",
+    "licence_as_shown": "CC0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Horizontally_Dropped_Slinky_--_High_Speed_Camera.webm",
+    "title": "Horizontally Dropped Slinky -- High Speed Camera.webm",
+    "licence_as_shown": "CC BY 3.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Effet_Leidenfrost.webm",
+    "title": "Effet Leidenfrost.webm",
+    "licence_as_shown": "CC BY-SA 4.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Ferrofluid_in_Simulated_Microgravity.webm",
+    "title": "Ferrofluid in Simulated Microgravity.webm",
+    "licence_as_shown": "CC BY-SA 3.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Newton's_-_Balls.webm",
+    "title": "Newton's - Balls.webm",
+    "licence_as_shown": "CC BY 3.0",
+    "pool": "wikimedia-commons"
+   }
+  ],
+  "usable_moments_estimate": "12-18 total; 3 episodes max before pool is thin",
+  "scores": {
+   "creative": 65,
+   "demand": 55,
+   "feasibility": 50,
+   "portfolio_fit": 60,
+   "risk": 28
+  },
+  "hard_gate_notes": "Pool is small and many clips are CC BY-SA or educational-lab videos with narration/watermarks. Needs re-shoot-free pool check; mostly 16:9 low-res. Demand evidence is thin (no independent numbers found).",
+  "confidence": "low",
+  "demand_evidence_summary": "No independent view/search-volume data obtained; evidence is qualitative (editorial/press/vendor). Metrics not invented.",
+  "created": "2026-10-31"
+ },
+ {
+  "id": "vr-b-003",
+  "title": "Silent Stunts Still Insane",
+  "category": "Amazing",
+  "subcategory": "vintage stunts (1900s-1920s silent film)",
+  "ranking_criterion": "Most dangerous-looking real stunt",
+  "fit": "top3 and top5 both strong",
+  "series_template": "Silent Stunts Still Insane: [Keaton / Lloyd / Chaplin / Early Cinema]",
+  "episodes": [
+   "Top 3 Buster Keaton Stunts (Steamboat Bill Jr. wall, The General train, Sherlock Jr. motorcycle)",
+   "Top 3 Harold Lloyd Moments (Safety Last clock tower)",
+   "Top 3 Pre-1910 Film Oddities (Pathe/Lumiere/Edison shorts)"
+  ],
+  "demand_evidence": [
+   {
+    "url": "https://editorial.rottentomatoes.com/article/safety-last-10-of-the-most-daring-stunts-of-the-silent-era",
+    "accessed": "2026-10-31",
+    "note": "editorial: silent-era stunts remain a recurring listicle topic"
+   },
+   {
+    "url": "https://mymodernmet.com/hollywood-film-stunts-1920s/",
+    "accessed": "2026-10-31",
+    "note": "press interest in 1920s stunts; no view counts found"
+   }
+  ],
+  "candidates": [
+   {
+    "url": "https://archive.org/details/steamboat-bill-jr-1928-tmdb25768",
+    "title": "Steamboat Bill, Jr. (1928)",
+    "licence_as_shown": "Public Domain Mark 1.0 (page: 'Public domain in the United States')",
+    "pool": "internet-archive",
+    "note": "uploader dropdeadinbed; no source/score stated; verify no added score in audio, replace with own audio"
+   },
+   {
+    "url": "https://archive.org/details/General.1926",
+    "title": "The General (1926)",
+    "licence_as_shown": "Public Domain Mark 1.0 (per search metadata, page not opened)",
+    "pool": "internet-archive",
+    "note": "Polish-titled upload; check for subtitles burned in"
+   },
+   {
+    "url": "https://archive.org/details/safety-last-1923-color",
+    "title": "Safety Last! (1923) Color",
+    "licence_as_shown": "No licence stated on page (page opened)",
+    "pool": "internet-archive",
+    "note": "COLORIZED version - modern derivative, do NOT use; use B&W copy 'silent-safety-last' after check"
+   },
+   {
+    "url": "https://archive.org/details/sherlock-jr.-contemporary-sound-recording-edit-version-1",
+    "title": "Sherlock Jr. Contemporary Sound Recording Edit",
+    "licence_as_shown": "Public Domain Mark 1.0 (per search metadata)",
+    "pool": "internet-archive",
+    "note": "modern recorded score = separate rights risk; use picture only"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Dog_Factory_(1904).ogv",
+    "title": "Dog Factory (1904).ogv",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Panorama_of_Place_de_L'Opera_(1900).webm",
+    "title": "Panorama of Place de L'Opera (1900).webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons"
+   }
+  ],
+  "usable_moments_estimate": "30-45 stunt beats across 4-5 features + shorts (estimate)",
+  "scores": {
+   "creative": 85,
+   "demand": 70,
+   "feasibility": 74,
+   "portfolio_fit": 80,
+   "risk": 38
+  },
+  "hard_gate_notes": "US films published <=1930 are PD in the US, but IA uploader claims are not proof: rights-scout must verify year/film and that the copy carries no new copyright (colourisation, restored score, subtitles, HD 'with Score' uploads). Use original picture + own audio only. Non-US distribution (YouTube global) not an issue for monetization but Keaton/Lloyd estates sometimes claim; Content ID false-claim risk MEDIUM. Stunt safety: no copy-cat framing.",
+  "confidence": "medium",
+  "demand_evidence_summary": "No independent view/search-volume data obtained; evidence is qualitative (editorial/press/vendor). Metrics not invented.",
+  "created": "2026-10-31"
+ },
+ {
+  "id": "vr-b-004",
+  "title": "Deep Sea Weirdos",
+  "category": "Animals",
+  "subcategory": "deep-sea creatures (NOAA ROV footage)",
+  "ranking_criterion": "Weirdest thing found a mile down",
+  "fit": "top3 and top5 strong",
+  "series_template": "Deep Sea Weirdos: [Jellies / Crabs & Octopus / Glowing Things]",
+  "episodes": [
+   "Top 3 Deep Sea Jellies (Psychedelic Medusa etc.)",
+   "Top 3 Deep Sea Hunters (king crab eating brittle star, octopus)",
+   "Top 3 Creatures That Look Like Props (Venus flytrap anemone)"
+  ],
+  "demand_evidence": [
+   {
+    "url": "https://www.ksl.com/article/39618868/science-lovers-enthralled-by-crazy-glowing-jellyfish",
+    "accessed": "2026-10-31",
+    "note": "NOAA glowing jelly drew mainstream coverage 2016"
+   },
+   {
+    "url": "https://www.mediaite.com/tv/ocean-expedition-spots-sea-creatures-cosplaying-as-spongebob-and-patrick-a-mile-down-under-the-sea",
+    "accessed": "2026-10-31",
+    "note": "mainstream pickup of NOAA ROV clip"
+   },
+   {
+    "url": "https://oceanexplorer.noaa.gov/multimedia/video-shorts/welcome.html",
+    "accessed": "2026-10-31",
+    "note": "NOAA publishes short-form videos; source pool"
+   }
+  ],
+  "candidates": [
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Okeanos_Explorer_PR_and_USVI_Dive_8-_Psychedelic_Medusa-NOAA-1280x720.webm",
+    "title": "Okeanos Explorer PR and USVI Dive 8- Psychedelic Medusa-NOAA-1280x720.webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons",
+    "note": "NOAA Okeanos producer; verify federal"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:King_crab_eating_a_brittle_star.webm",
+    "title": "King crab eating a brittle star.webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Venus_Flytrap_Anemone-_2017_American_Samoa.webm",
+    "title": "Venus Flytrap Anemone- 2017 American Samoa.webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:NEW_Octopus_Species-_2016_Hohonu_Moana-_Exploring_Deep_Waters.webm",
+    "title": "NEW Octopus Species- 2016 Hohonu Moana- Exploring Deep Waters.webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Ex1402-dive06_red_animal.webm",
+    "title": "Ex1402-dive06 red animal.webm",
+    "licence_as_shown": "CC0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Wk215-deep-sea-octopuses.webm",
+    "title": "Wk215-deep-sea-octopuses.webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons",
+    "note": "producer unverified; check it is NOAA/MBARI(not federal)"
+   }
+  ],
+  "usable_moments_estimate": "50+ (NOAA archive is large; Commons mirror alone ~25)",
+  "scores": {
+   "creative": 78,
+   "demand": 72,
+   "feasibility": 82,
+   "portfolio_fit": 68,
+   "risk": 18
+  },
+  "hard_gate_notes": "Best rights profile: US federal. Rule: verify each clip's producer is NOAA staff/ship, not partner (e.g. MBARI, universities, narrated by contractors); strip any watermark/audio narration. Possible overlap with Planet Extremes (animals vs planet extremes: different) - low.",
+  "confidence": "medium",
+  "demand_evidence_summary": "No independent view/search-volume data obtained; evidence is qualitative (editorial/press/vendor). Metrics not invented.",
+  "created": "2026-10-31"
+ },
+ {
+  "id": "vr-b-005",
+  "title": "Animal Engineers At Work",
+  "category": "Animals",
+  "subcategory": "animal building and teamwork (webs, nests, dams, ants)",
+  "ranking_criterion": "Most impressive build",
+  "fit": "top3 and top5",
+  "series_template": "Animal Engineers: [Spiders / Birds / Ants / Beavers]",
+  "episodes": [
+   "Top 3 Spider Web Builders",
+   "Top 3 Bird Nest Architects (weavers)",
+   "Top 3 Teamwork Tricks (leafcutter ants, beavers)"
+  ],
+  "demand_evidence": [
+   {
+    "url": "https://fluxnote.io/guides/make-money-animal-facts-youtube-channel",
+    "accessed": "2026-10-31",
+    "note": "vendor marketing; claims 'animal facts rarely become outdated'; unverified view claims, treat as weak"
+   },
+   {
+    "url": "https://fluxnote.io/guides/nature-youtube-shorts-ideas",
+    "accessed": "2026-10-31",
+    "note": "vendor guide, weak"
+   }
+  ],
+  "candidates": [
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Garden_spider_web_weaving.webm",
+    "title": "Garden spider web weaving.webm",
+    "licence_as_shown": "CC BY 2.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Spider_building_a_web_x10.webm",
+    "title": "Spider building a web x10.webm",
+    "licence_as_shown": "CC BY-SA 4.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Spider_web_building.webm",
+    "title": "Spider web building.webm",
+    "licence_as_shown": "CC BY 2.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Cape_weaver_(Ploceus_capensis)_nest_building_video.webm",
+    "title": "Cape weaver (Ploceus capensis) nest building video.webm",
+    "licence_as_shown": "CC BY-SA 4.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Leafcutter_Ants_video.webm",
+    "title": "Leafcutter Ants video.webm",
+    "licence_as_shown": "CC BY 2.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Leafcutters_transporting_yellow_flowers.webm",
+    "title": "Leafcutters transporting yellow flowers.webm",
+    "licence_as_shown": "CC BY 2.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Doty_Ravine_trail_cam_-_beaver_wrestling.webm",
+    "title": "Doty Ravine trail cam - beaver wrestling.webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Castor_fiber_swimming.ogv",
+    "title": "Castor fiber swimming.ogv",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons"
+   }
+  ],
+  "usable_moments_estimate": "25-35",
+  "scores": {
+   "creative": 66,
+   "demand": 60,
+   "feasibility": 68,
+   "portfolio_fit": 62,
+   "risk": 26
+  },
+  "hard_gate_notes": "Many BY-SA; build-process clips are long and slow, cutting to 3-5 s beats may feel dull. Attribution captions required for BY/BY-SA.",
+  "confidence": "low-medium",
+  "demand_evidence_summary": "No independent view/search-volume data obtained; evidence is qualitative (editorial/press/vendor). Metrics not invented.",
+  "created": "2026-10-31"
+ },
+ {
+  "id": "vr-b-006",
+  "title": "Earth Fireworks",
+  "category": "Amazing",
+  "subcategory": "nature's eruptions (lava, geysers, lightning)",
+  "ranking_criterion": "Most explosive eruption",
+  "fit": "top3 and top5",
+  "series_template": "Earth Fireworks: [Lava / Geysers / Lightning]",
+  "episodes": [
+   "Top 3 Lava Moments (USGS Kilauea)",
+   "Top 3 Geyser Blasts (Old Faithful, Steamboat, Grand)",
+   "Top 3 Lightning from Space (GOES GLM)"
+  ],
+  "demand_evidence": [
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Fissure_21_p%C4%81hoehoe_lava_flows_ooze_onto_Kaupili_Street,_in_the_Leilani_Estat....webm",
+    "accessed": "2026-10-31",
+    "note": "supply check"
+   }
+  ],
+  "candidates": [
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Fissure_21_pāhoehoe_lava_flows_ooze_onto_Kaupili_Street,_in_the_Leilani_Estat....webm",
+    "title": "Fissure 21 pāhoehoe lava flows ooze onto Kaupili Street, in the Leilani Estat....webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons",
+    "note": "USGS HVO; verify producer"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Steamboat_Geyser_2019-07-15_15-25-57.webm",
+    "title": "Steamboat Geyser 2019-07-15 15-25-57.webm",
+    "licence_as_shown": "CC BY 4.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Old_Faithful_Geyser_eruption_(2021-08-10).webm",
+    "title": "Old Faithful Geyser eruption (2021-08-10).webm",
+    "licence_as_shown": "CC BY-SA 4.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Grand_geyser_erupting_20190714_093149_VID.webm",
+    "title": "Grand geyser erupting 20190714 093149 VID.webm",
+    "licence_as_shown": "CC BY 3.0",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:NOAA_Releases_Initial_Imagery_from_the_GOES-19_Lightning_Mapper_(NESDIS_2024-10-17_2024_10_17_GOES-19-First-GLM-Imagery).webm",
+    "title": "NOAA Releases Initial Imagery from the GOES-19 Lightning Mapper (NESDIS 2024-10-17 2024 10 17 GOES-19-First-GLM-Imagery).webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons",
+    "note": "NOAA"
+   }
+  ],
+  "usable_moments_estimate": "25-40",
+  "scores": {
+   "creative": 60,
+   "demand": 58,
+   "feasibility": 65,
+   "portfolio_fit": 42,
+   "risk": 22
+  },
+  "hard_gate_notes": "Overlaps the existing Planet Extremes brand premise (extremes of nature) - portfolio fit penalised. Safety: no 'go closer' framing near geysers/lava.",
+  "confidence": "low-medium",
+  "demand_evidence_summary": "No independent view/search-volume data obtained; evidence is qualitative (editorial/press/vendor). Metrics not invented.",
+  "created": "2026-10-31"
+ },
+ {
+  "id": "vr-b-007",
+  "title": "Wild Moments That Are Wholesome",
+  "category": "Animals",
+  "subcategory": "wholesome wildlife (USFWS, NPS)",
+  "ranking_criterion": "Most heart-melting moment",
+  "fit": "top3 primary",
+  "series_template": "Wholesome Wild: [Birds / Parents / Babies]",
+  "episodes": [
+   "Top 3 Albatross Parent Moments (Wisdom)",
+   "Top 3 Backyard Bird Feeder Chaos",
+   "Top 3 Wildlife Trail-Cam Surprises"
+  ],
+  "demand_evidence": [
+   {
+    "url": "https://lilys.ai/en/notes/youtube-shorts-automation-20251230/best-youtube-shorts-niches-2026",
+    "accessed": "2026-10-31",
+    "note": "secondary blog; weak"
+   },
+   {
+    "url": "https://fluxnote.io/blog/youtube-shorts-strategy-for-pets-creators-in-2026",
+    "accessed": "2026-10-31",
+    "note": "vendor claim that pets/wholesome animals perform; weak"
+   }
+  ],
+  "candidates": [
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Wisdom_Protects_Her_Egg_12Dec15_Dan_Clark_USFWS_(23964789651).webm",
+    "title": "Wisdom Protects Her Egg 12Dec15 Dan Clark USFWS (23964789651).webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Wisdom_covers_chick,_2018_Photo_credit-_USFWS_(40386511151).webm",
+    "title": "Wisdom covers chick, 2018 Photo credit- USFWS (40386511151).webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Busy_Bird_Feeder_(31524812531).webm",
+    "title": "Busy Bird Feeder (31524812531).webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons",
+    "note": "check producer is USFWS staff"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Doty_Ravine_trail_cam_-_beaver_wrestling.webm",
+    "title": "Doty Ravine trail cam - beaver wrestling.webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Video_of_Warmup_(7007198425).webm",
+    "title": "Video of Warmup (7007198425).webm",
+    "licence_as_shown": "Public domain",
+    "pool": "wikimedia-commons",
+    "note": "producer unverified"
+   }
+  ],
+  "usable_moments_estimate": "15-25 (USFWS Flickr videos are short, many near-identical)",
+  "scores": {
+   "creative": 58,
+   "demand": 55,
+   "feasibility": 55,
+   "portfolio_fit": 58,
+   "risk": 22
+  },
+  "hard_gate_notes": "Verify each USFWS clip's credit line is a federal employee (some credit contractors/volunteers). Little 'ranking' contrast between near-identical clips. Pool thin for series.",
+  "confidence": "low",
+  "demand_evidence_summary": "No independent view/search-volume data obtained; evidence is qualitative (editorial/press/vendor). Metrics not invented.",
+  "created": "2026-10-31"
+ }
+]

@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why Your Voice Sounds Weird in Recordings",
+ "topic": "Yes: you normally hear yourself partly through your skull bones, which adds bass; the microphone only hears the air.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Proven demand (7.6M); everyone has experienced it.",
+ "evidence": [
+  {
+   "claim": "Bone conduction of your own voice (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Bone_conduction"
+  },
+  {
+   "claim": "Voice confrontation: discomfort hearing your recorded voice (bone vs air conduction) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Voice_confrontation"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Does Our Voice Sound So Weird When We Hear It In Recordings?",
+   "url": "https://youtube.com/shorts/FgutOPqCfDg",
+   "views": "7.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why does your voice sound DIFFERENT on recordings?",
+   "url": "https://youtube.com/shorts/d32yLK4xd48",
+   "views": "390K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Your recorded voice. Is that really you?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Yes: you normally hear yourself partly through your skull bones, which adds bass; the microphone only hears the air. Loop ending: re-ask the hook.",
+ "hook": "Your recorded voice. Is that really you?",
+ "twist": "Yes: you normally hear yourself partly through your skull bones, which adds bass; the microphone only hears the air.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-22 18:00 UTC",
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 51,
+ "score10": 7.7,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

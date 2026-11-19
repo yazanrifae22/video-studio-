@@ -1,0 +1,166 @@
+{
+  "round": 1,
+  "production_id": "karto-gta6",
+  "verdict": "revise",
+  "forecast": {
+    "score": 78,
+    "verdict": "revise (gate 85; no story.json, scored from script text, peak not scored)",
+    "items": [
+      {"key": "stop", "got": 11, "max": 15, "note": "Thumbnail/cold-open idea is right, but the game is not named until l006 (~35 s). A stranger at 5 s hears 'thirteen years for one video game' with no subject."},
+      {"key": "subject", "got": 10, "max": 10, "note": "GTA 6 launch week is a household topic."},
+      {"key": "promise", "got": 9, "max": 12, "note": "Hotel TV promised at 0:12 (l003), paid at l043 (~3:15 in). Held too long with two stat pieces in between. Title 'almost broke it' overclaims: the leak hurt nothing that the script shows. Prefer 'A Hotel TV Hacked It'."},
+      {"key": "drive", "got": 14, "max": 18, "note": "Piece structure and the but/therefore handoffs (l021, l035, l049, l060, l069, l081) are a real spine. Pieces 1 and 2 are statistics with no mid-payoff; piece 5 is flat."},
+      {"key": "ending", "got": 7, "max": 10, "note": "l094 ('trailers say yes, price says maybe') is a shrug. Skip asking the next question (l097) is right and the hotel TV is recapped in l093."},
+      {"key": "talk", "got": 11, "max": 15, "note": "l098 is a real open fight (worth 80 dollars + 13 years) and 'Tell Skip he is wrong' is woven. l100 score out of 7 is weak: the viewer cannot really 'know' pieces."},
+      {"key": "retell", "got": 8, "max": 10, "note": "Hotel TV hack and the publisher-started panic are retellable. Several fact lines have no visible support (see notes)."}
+    ],
+    "points": "70 of 90 = 78",
+    "caps": ["none triggered; claims need the fact-checker's evidence before retell is above 3 (cap would apply if l056, l074, l083-l086 fail)"]
+  },
+  "reasons_to_underperform": [
+    "The first 40 s do not name the game or the hotel-TV payoff location: l001 says 'a video game' and GTA is named at l006; the pieces count arrives at ~50 s, after a 70-word l005/l006 wall.",
+    "Pieces 1-2 (about 2.5 minutes) are numbers and nostalgia with no surprise until l043; the TV tease is the only reason to stay and Skip's gag is spent at l002.",
+    "Several claims sound unsupported and a few contradict each other (l005 'more than any film' vs l033 'one of the most'); the l083 'on purpose' claim is the second headline and needs a source."
+  ],
+  "opening": {
+    "words_per_s": 2.6,
+    "at_5s": "~13 words (l001): somebody waited 13 years for 'a video game'. Does not know which game. Stays only on curiosity.",
+    "at_15s": "~38 words (l001-l004): a teenager broke into it from a hotel TV; Skip is skipping then hooked. Stake is clear ('how does a TV break a game?'), game still unnamed. Stays: yes, this is the strongest beat.",
+    "at_30s": "~73 words (l001-l005): game still not named, only 'the week it came out the internet fought'. Name arrives in l006 (~35 s), 'seven pieces' list in l007 (~50 s), stamps rule ~57 s. Misses the 30 s 'what you will see' target by ~20 s.",
+    "stay_verdict": "Likely stays through 15 s (good), leaks between 30 and 55 s unless l005-l006 are cut and the game is named in l001."
+  },
+  "chapters": {
+    "c00": {
+      "weakest": "l005 (35 words, three claims, 'more than any film' is a guess); l006 ('You do not need to play games to enjoy it' is a lecture-flavoured disclaimer).",
+      "sag": "l005-l008 (~110 words with no Skip line). Skip should interrupt inside l005.",
+      "jokes": "l010 'Nothing. It is cardboard.' lands. l009 fine.",
+      "repeat": "Thirteen years said in l001, l005 area, l007 and l093 as a stat; fine as a refrain.",
+      "skip_check": "ok"
+    },
+    "c01_piece1": {
+      "weakest": "l016 (three 'He...' sentences, sentimental); l019 (40 words, 'exactly one other big game' is an unsupported claim and Karto asks his own question).",
+      "sag": "l016-l019 is the first place Skip would skip.",
+      "jokes": "l015 'Then Vine died.' lands. l020 'Because they are lazy?' is a naive guess, Skip is not the smart objector here.",
+      "repeat": "'Still no new game' echo l017-l018 is fine.",
+      "skip_check": "l020 weak; l014 ok."
+    },
+    "c02_piece2": {
+      "weakest": "l025-l027 (sales total plus 'same game three times' read like a stat list); l033 repeats the guess disclosure that l032 just made.",
+      "sag": "l024-l027.",
+      "jokes": "l031 'I would walk. Slowly.' lands and l032 'They walked slowly' is a good callback. l029 good.",
+      "repeat": "'The real trick/the real question' twice (l019, l028).",
+      "skip_check": "ok; l034 'But you promised me a hotel TV' is the right hold."
+    },
+    "c03_piece3": {
+      "weakest": "l047 (legal detail, 25 words, claim-heavy, kills the momentum right after the peak); l041 ('And here is the part nobody believes' is already used as a sell-up in l040).",
+      "sag": "none; strongest piece.",
+      "jokes": "l045-l046 'the thing I use to watch cartoons' lands. l048 'That got dark' works.",
+      "repeat": "'The most expensive game in the world' (l044) vs piece 2 'one of the most expensive things ever made'; overstated, downgrade.",
+      "skip_check": "ok."
+    },
+    "c04_piece4": {
+      "weakest": "l056 (475 million is a company claim, framed correctly with 'the company says'); l055 is a confusing sentence.",
+      "sag": "l053-l055.",
+      "jokes": "l051 'Do these people own a lock?' lands. l057 'For an advert.' lands.",
+      "repeat": "'For an advert. For a game...' echo is intentional.",
+      "skip_check": "l054 'Is that a lot?' makes Skip ask Karto to explain: should be an objection."
+    },
+    "c05_piece5": {
+      "weakest": "l061 repeats the promise already in l059; l062 quality-corporate line.",
+      "sag": "l061-l066: two dates in a row. This is the slowest piece and Skip's running-gag skip is missing; 'Do not touch that button' in l066 has nothing to answer.",
+      "jokes": "l067 lemonade stand next to a volcano lands. l069 'sweet little sticky note' lands.",
+      "repeat": "'Twice' (l065, l066).",
+      "skip_check": "l063 good objector."
+    },
+    "c06_piece6": {
+      "weakest": "l074 (reports say, no support, plus the technical claim); l077 PC line is a third fight that sags.",
+      "sag": "l077.",
+      "jokes": "l075-l076 flip book and butter land. l078 'waited thirteen years to be told to wait' lands. l079 lands.",
+      "repeat": "'Fight number N' x3 is a deliberate list shape; acceptable in a fight piece but it is the second counted list (after 'Seven pieces').",
+      "skip_check": "l075 'Explain like I am paper' is a joke about Karto, not Skip explaining. ok."
+    },
+    "c07_piece7": {
+      "weakest": "l082 (unnamed TV host, a vague claim); l083-l086 'the publisher started it on purpose' is the biggest unsupported claim in the script; l090 is a flat lecture sentence.",
+      "sag": "l090-l091.",
+      "jokes": "l081 'Your mum is piece seven' lands. l089 'thanks for the advert' lands. l092 lands.",
+      "repeat": "none.",
+      "skip_check": "l080 ok."
+    },
+    "c08_full_card": {
+      "weakest": "l094 (shrug); l100 ('how many did you already know' - the viewer did not guess before Karto in the script, so the score has no game).",
+      "sag": "l093 is a recap list the viewer just lived through.",
+      "jokes": "l097 'I will be recycled' and l099 'I am never wrong. I am yellow.' both land.",
+      "repeat": "l093 recaps the same facts, ok as the reframe.",
+      "skip_check": "ok, Skip asks the next question as the persona requires."
+    }
+  },
+  "shorts": {
+    "piece1": {
+      "standalone": "partial: l012-l021 opens on a date (weak 2 s hook) and ends on a cliffhanger ('Because of piece two') with no answer.",
+      "range": "l012-l021 without l018 (about 110 words, ~42 s); l013 leads visually",
+      "hook_text": "13 YEARS. NO TIKTOK.",
+      "note": "fix l021 so there is a small answer; add 'Skip: no TikTok?' as the 2 s hook by starting on l013."
+    },
+    "piece2": {
+      "standalone": "yes: opens on the first-day number, ends on a guess disclosure.",
+      "range": "l022-l025, l028-l033 (skip l026-l027; ~135 words, ~52 s)",
+      "hook_text": "$800 MILLION. ONE DAY.",
+      "note": "pay-off is the 'walk slowly' callback; end on l033 tape line."
+    },
+    "piece3": {
+      "standalone": "yes after on-screen 'a teenager, a hotel, a TV'; best Short.",
+      "range": "l041-l046, l049 (~125 words, ~48 s); open on l041 'He had no computer.'",
+      "hook_text": "NO COMPUTER. ONE HOTEL TV.",
+      "note": "skip l047-l048; l049 is the payoff ('the leak made the world want it more')."
+    },
+    "piece4": {
+      "standalone": "yes: leak, 93 million, 475 million; ends on 'checking if the wait was almost over'.",
+      "range": "l050-l058 (~135 words, ~52 s)",
+      "hook_text": "93 MILLION VIEWS IN 24 HOURS",
+      "note": "the 'twenty twenty-five' tease in l059-l060 belongs to piece 5; end on l058."
+    },
+    "piece5": {
+      "standalone": "weakest Short: only dates until the lemonade line.",
+      "range": "l062-l067 (~85 words, ~33 s; add l061 for ~40 s)",
+      "hook_text": "DELAYED. TWICE.",
+      "note": "needs the new Skip skip-attempt (l065) so it has a 2 s motion beat."
+    },
+    "piece6": {
+      "standalone": "yes: price number is the hook; ends on 'Now you understand gaming.'",
+      "range": "l070-l073, l075-l076, l078-l079 (skip l074, l077; ~110 words, ~42 s)",
+      "hook_text": "$79.99 FOR ONE GAME?",
+      "note": "keeps the butter joke and the strongest closing line in the script."
+    },
+    "piece7": {
+      "standalone": "partial: l083 starts with 'But here is the secret', which needs l082.",
+      "range": "l083-l089 (~120 words, ~46 s), with the rewritten l083",
+      "hook_text": "THE FIRST GTA SCANDAL WAS PLANNED",
+      "note": "hook text is a strong claim; run through the fact-checker before use; hard-lock the 'on purpose' source."
+    }
+  },
+  "gap_to_gate": [
+    {"item": "name the game in the first sentence (stop 11/15, 5 s test)", "line_id": "l001", "now": "Thirteen years. That is how long the world waited for one video game.", "needed": "Thirteen years. One game. Grand Theft Auto Six. And a hotel TV nearly broke it.", "points": 1.5, "owner": "writer", "t": "0-5 s"},
+    {"item": "cut the 70-word wall so stakes and pieces count land by ~35 s (drive/promise)", "line_id": "l005+l006", "now": "l005 (35 words) + l006 (37 words)", "needed": "l005: It may have cost more than any film ever made. It was delayed twice. And launch week, the internet started fighting about it. | l006: This is the story of Grand Theft Auto Six. Waiting, money, and one very bad night for a hotel TV.", "points": 1.5, "owner": "writer", "t": "15-35 s"},
+    {"item": "piece 1 needs a small answer (drive, Short ending)", "line_id": "l021", "now": "Because of piece two.", "needed": "Because they did not need to hurry. Piece two shows why.", "points": 1.0, "owner": "writer", "t": "~2:00"},
+    {"item": "Skip must be the smart objector, not naive", "line_id": "l020", "now": "Because they are lazy?", "needed": "Nobody is that slow. What were they doing?", "points": 0.5, "owner": "writer", "t": "~1:55"},
+    {"item": "claims: soften an unsupported count", "line_id": "l019", "now": "Rockstar, the company behind Grand Theft Auto, released exactly one other big game.", "needed": "Rockstar, the company behind Grand Theft Auto, put out just one other giant new game in those years.", "points": 0.5, "owner": "writer + fact-checker", "t": "~1:50"},
+    {"item": "cut sentimental line, shorten piece 1 sag", "line_id": "l016", "now": "A kid who was ten years old that day is twenty-three now. He finished school. He got a job. He might have a kid of his own.", "needed": "A kid who was ten years old that day is twenty-three now. He finished school and got a job.", "points": 0.5, "owner": "writer", "t": "~1:30"},
+    {"item": "Skip objects instead of asking for an explanation", "line_id": "l054", "now": "Is that a lot?", "needed": "Views are cheap. Is that actually a lot?", "points": 0.5, "owner": "writer", "t": "~6:00"},
+    {"item": "running gag: Skip tries to skip at the slowest moment (piece 5), so 'Do not touch that button' has a cause", "line_id": "l065+l066", "now": "SKIP: Twice? | KARTO: Twice. Do not touch that button. Because every time...", "needed": "SKIP: Twice? Okay, this piece is slow. Skipping. | KARTO: Do not touch that button. Every time this game moved, other companies had to move their own games out of the way.", "points": 1.0, "owner": "writer", "t": "~7:00"},
+    {"item": "shorten legal detail after the peak (keeps momentum, fewer claims)", "line_id": "l047", "now": "The court found that he did it. Doctors said he was not well enough for a normal trial, so the judge sent him to a secure hospital, with no end date.", "needed": "The court found he did it. A judge sent him to a secure hospital, with no end date.", "points": 0.5, "owner": "writer + fact-checker", "t": "~4:30"},
+    {"item": "unsupported 'every game, same play' claim", "line_id": "l089", "now": "Every new game since, the same play. Somebody on TV says it will ruin the youth. The youth says: thanks for the advert.", "needed": "Since then, the same fight comes back with every release. Somebody on TV says it will ruin the youth. The youth says: thanks for the advert.", "points": 0.5, "owner": "writer + fact-checker", "t": "~8:30"},
+    {"item": "piece 7 stand-alone and clearer promise", "line_id": "l083", "now": "But here is the secret. This exact fight is as old as the series. And the first time, the game's own publisher started it on purpose.", "needed": "Here is the secret behind every GTA scandal. This fight is as old as the series. And the first time, the game's own publisher started it on purpose.", "points": 0.5, "owner": "writer + fact-checker", "t": "~8:00"},
+    {"item": "meaningful ending line (ending 7/10)", "line_id": "l094", "now": "So was it worth it? The trailers say yes. The price tag says maybe.", "needed": "So was it worth it? Thirteen years of trailers say yes. Eighty dollars says ask your wallet.", "points": 1.0, "owner": "writer", "t": "~9:30"}
+  ],
+  "gap_sum": 9.5,
+  "word_budget": "current 1,492 words (script lines only). Net of fixes about +20 words (about 1,510 total); stays over the 1,430 floor.",
+  "escalate": false,
+  "notes": [
+    "Title: 'Almost Broke It' promises more than l049 delivers. Use 'A Hotel TV Hacked It' (or 'Hotel TV Hack').",
+    "Unsupported-sounding claims for the fact-checker: l005 (more than any film), l015/l018, l019, l024, l025, l028-l030 (twelve years of online spend), l044 (most expensive game in the world), l046 (five million), l047, l053, l055, l056 (475M, company claim), l062, l074 (no 60 fps mode, reports), l077, l082 (unnamed TV host), l083-l086 (publisher started it on purpose, publicist), l090 (scientists), l091 (adults only).",
+    "l033 duplicates the tape-marking line l032 already sets up; after the l005 fix, keep it, as it is the persona's honesty marker.",
+    "The score card in l100 'how many did you know' is not a game the viewer played; consider 'which piece surprised you most?' as the end text in a later round (not counted as a fix this round: no score was assigned).",
+    "No AI-generation text, bait wording or begging for likes found. No greeting in the open (owner rule respected)."
+  ],
+  "one_change_with_biggest_lift": "l001: name the game and the hotel TV in the first sentence, so the 5 s thumbnail frame and first line carry the stake (and the Short hooks work)."
+}

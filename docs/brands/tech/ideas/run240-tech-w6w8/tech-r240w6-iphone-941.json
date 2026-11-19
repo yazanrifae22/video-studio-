@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Why Every iPhone Ad Says 9:41",
+ "topic": "Apple times keynotes so the big reveal lands about 40 minutes in; the first iPhone appeared around 9:41-9:42 a.m., and the ads match that moment.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Check-it on any Apple ad; one 98K competitor.",
+ "evidence": [
+  {
+   "claim": "BGR (2014): why iPhone clocks are always set to 9:41 in Apple ads (accessed 2026-10-24)",
+   "url": "https://bgr.com/2014/11/05/iphone-time-9-41-explanation/"
+  },
+  {
+   "claim": "SlashGear: Apple always displays the same time in every ad (accessed 2026-10-24)",
+   "url": "https://www.slashgear.com/1454887/why-apple-ads-always-display-same-time"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Is Apple iPhone's Time Always Set To 9:41",
+   "url": "https://youtube.com/shorts/svsxr_tata0",
+   "views": "98K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why Is the Time on Apple iPhones Always Set to 9:41",
+   "url": "https://youtube.com/shorts/j0Ab6Mgpjes",
+   "views": "26K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Every iPhone ad: 9:41. Why?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Apple times keynotes so the big reveal lands about 40 minutes in; the first iPhone appeared around 9:41-9:42 a.m., and the ads match that moment. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Every iPhone ad: 9:41. Why?",
+ "twist": "Apple times keynotes so the big reveal lands about 40 minutes in; the first iPhone appeared around 9:41-9:42 a.m., and the ads match that moment.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-04 18:00 UTC",
+ "novelty": {
+  "overlap": "LOW with japan-shutter (Dec 5). Draw a generic phone, no Apple marks.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 8,
+ "score10": 9.0,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "The Mac's ⌘ Key Is a Swedish Campsite Sign",
+ "topic": "Steve Jobs vetoed an Apple logo on the key; designer Susan Kare found ⌘ in a symbol dictionary, where it marked places of interest on Swedish maps.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Symbol-origin format proven (power symbol, Bluetooth); this one has no Short.",
+ "evidence": [
+  {
+   "claim": "Folklore.org (Andy Hertzfeld): Swedish Campground (accessed 2026-10-24)",
+   "url": "https://www.folklore.org/Swedish_Campground.html"
+  },
+  {
+   "claim": "Wikipedia: Command key (Looped square, Saint John's Arms) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Command_key"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "(no on-topic Short found; Mac shortcut tips reach 1.4M)",
+   "url": "https://youtube.com/shorts/hDelB-Wsz18",
+   "views": "1.4M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('What is this ⌘ symbol?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Steve Jobs vetoed an Apple logo on the key; designer Susan Kare found ⌘ in a symbol dictionary, where it marked places of interest on Swedish maps. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "What is this ⌘ symbol?",
+ "twist": "Steve Jobs vetoed an Apple logo on the key; designer Susan Kare found ⌘ in a symbol dictionary, where it marked places of interest on Swedish maps.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-11-30 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW-MEDIUM with power symbol (Nov 12) and Bluetooth logo (Nov 17): 13+ days apart.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 6,
+ "score10": 9.0,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

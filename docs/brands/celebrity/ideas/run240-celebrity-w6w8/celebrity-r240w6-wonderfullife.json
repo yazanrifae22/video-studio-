@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "It's a Wonderful Life Flopped. A Copyright Slip Saved It",
+ "topic": "It's a Wonderful Life lost money in 1946; its copyright wasn't renewed in 1974, TV stations aired it free every Christmas, and reruns made it a classic (owners later regained control).",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Evergreen debate: Evergreen Christmas classic (premiered 20 Dec 1946) (2026-12-20). Wikipedia It's_a_Wonderful_Life 38,651 views Sept 2026.",
+ "hook": "A flop… saved by paperwork?",
+ "twist": "It's a Wonderful Life lost money in 1946; its copyright wasn't renewed in 1974, TV stations aired it free every Christmas, and reruns made it a classic (owners later regained control).",
+ "peg": {
+  "event": "Evergreen Christmas classic (premiered 20 Dec 1946)",
+  "date": "2026-12-20",
+  "url": "https://www.mintz.com/insights-center/viewpoints/2015-12-when-quirk-copyright-law-creates-christmas-classic-its-0",
+  "pegged": false
+ },
+ "evidence": [
+  {
+   "claim": "Mintz - When a quirk of copyright law creates a Christmas classic (accessed 2026-10-24)",
+   "url": "https://www.mintz.com/insights-center/viewpoints/2015-12-when-quirk-copyright-law-creates-christmas-classic-its-0"
+  },
+  {
+   "claim": "Mental Floss - From box-office dud to accidental tradition (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/holidays/christmas/how-its-wonderful-life-went-box-office-dud-accidental-christmas-tradition"
+  },
+  {
+   "claim": "Slate - Why Wonderful Life comes but once a year (accessed 2026-10-24)",
+   "url": "https://www.slate.com/articles/news_and_politics/explainer/1999/12/why_wonderful_life_comes_but_once_a_year.html"
+  },
+  {
+   "claim": "Peg source: Evergreen Christmas classic (premiered 20 Dec 1946) (accessed 2026-10-24)",
+   "url": "https://www.mintz.com/insights-center/viewpoints/2015-12-when-quirk-copyright-law-creates-christmas-classic-its-0"
+  },
+  {
+   "claim": "Wikimedia pageviews It's_a_Wonderful_Life: 38651 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=It%27s_a_Wonderful_Life&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Mintz - When a quirk of copyright law creates a Christmas classic",
+   "url": "https://www.mintz.com/insights-center/viewpoints/2015-12-when-quirk-copyright-law-creates-christmas-classic-its-0",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Mental Floss - From box-office dud to accidental tradition",
+   "url": "https://www.mentalfloss.com/holidays/christmas/how-its-wonderful-life-went-box-office-dud-accidental-christmas-tradition",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Slate - Why Wonderful Life comes but once a year",
+   "url": "https://www.slate.com/articles/news_and_politics/explainer/1999/12/why_wonderful_life_comes_but_once_a_year.html",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "It’s a Wonderful Life (1946) James Stewart @ Donna Reed",
+   "url": "https://youtube.com/shorts/HkQYSmchpDg",
+   "views": 3000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Its a Wonderful Life copyright public domain #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "“It’s a Wonderful Life”(1946) #oldhollywoodglamour #vintage #vintagehollywood #movie #vintagestyle",
+   "url": "https://youtube.com/shorts/2DQEAt14IkM",
+   "views": 77000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Its a Wonderful Life copyright public domain #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "It’s a Wonderful Life (1946)",
+   "url": "https://youtube.com/shorts/w_z4oJJE0UU",
+   "views": 8800,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Its a Wonderful Life copyright public domain #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A dusty film can with a missed renewal stamp + hook. Twist by 2.5 s. Loop: 'A paperwork slip made a classic. Did you know?'",
+ "cta": "C2+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Spare. Budget/gross figures conflict: say 'lost money'. The film is under copyright again (Stewart v. Abend): no clips or stills.",
+ "window": {
+  "notBefore": "2026-11-25T00:00:00Z",
+  "deadline": null,
+  "label": "evergreen"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Frank Capra",
+  "James Stewart"
+ ],
+ "spare": true,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

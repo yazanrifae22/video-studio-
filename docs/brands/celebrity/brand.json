@@ -1,0 +1,48 @@
+{
+ "id": "celebrity",
+ "name": "Moments That Made Them",
+ "format": "explainer",
+ "positioning": "Turning points of famous careers, original typography/illustration only (no clips, no likeness), every fact >= 2 sources",
+ "audience": "Entertainment/sports fans 18-45",
+ "language": "en",
+ "status": "active",
+ "data": {
+  "voice": {
+   "name": "Algenib",
+   "alt": [
+    "Orus",
+    "Gacrux"
+   ]
+  },
+  "music": "story-cinematic",
+  "palette": [
+   "#0B0B0D",
+   "#E8C170",
+   "#F4EFE6",
+   "#E5484D"
+  ],
+  "strategy": "Shorts only, 38-48 s (max 55), 1/day to start. Named sports stars and household names with a PEG (award, release, anniversary, record <= 14 d) or proven search demand; one number that does not fit + a dated turn (turning-point micro-story). Original narration + typography only: no clips, no likeness, no silhouettes; every fact >= 2 sources. No long videos.",
+  "titleStyle": "Named star + the number or oddity (\"Messi Won 2 Golden Balls. 2026 Went to Rodri\"); never \"Explained\", \"in 60 Seconds\", \"N Turning Points\". Overrides the old \"The Night X Became X\" pattern.",
+  "thumbnail": "Frame 0 = giant gold number/claim on near-black, year stamp; no face, no silhouette",
+  "rightsPolicy": "No third-party footage/audio. Images only from licensed/press-kit sources logged in assets table.",
+  "origin": "merged from the old explainer studio (video-automation) 2026-11-02",
+  "engine": "celebrity:build (tech builder with celebrity palette/voice; docs/brands/celebrity/build.md). Old HyperFrames spec engine stays archived.",
+  "youtube": {
+   "handle": "@MomentsThatMadeThemTV",
+   "channel_id": "UCNSxwqFWxYG2CU0c6S7xkTw",
+   "token": "data/tokens/celebrity.json"
+  },
+  "paused": {
+   "since": "2026-11-02",
+   "reason": "owner stopped run240 2026-10-25 (finish-only); kids dropped by owner 2026-11-01",
+   "resume": "owner decision only",
+   "resumed": "2026-11-08 (owner decision); block kept as history"
+  },
+  "docs": "docs/brands/celebrity/ (revival-2026-11-08.md = current plan)",
+  "resumed": {
+   "on": "2026-11-08",
+   "by": "owner",
+   "note": "Revived for 1M-view goal (docs/north-star.md); plan in docs/brands/celebrity/revival-2026-11-08.md; showrunner .claude/agents/showrunner-celebrity.md"
+  }
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "Show AI a Dog With 5 Legs. It Counts 4",
+ "topic": "Vision AIs answer from what they expect: 'dogs have 4 legs' beats what's in the picture. A 2025 study found the same with extra stripes on logos.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Viewer can try it on any chatbot with an edited image; no competitor found = clear gap.",
+ "evidence": [
+  {
+   "claim": "Vo et al. 2025, 'Vision Language Models are Biased' (counting legs/stripes on edited images) (accessed 2026-10-24)",
+   "url": "https://arxiv.org/abs/2505.23941"
+  },
+  {
+   "claim": "Project page with examples (vlmsarebiased.github.io) (accessed 2026-10-24)",
+   "url": "https://vlmsarebiased.github.io/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "(no on-topic Short found; 'AI dog' searches return generated-dog comedy, 54K)",
+   "url": "https://youtube.com/shorts/yrxoRWlYoxc",
+   "views": "54K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Count the legs. AI says 4?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Vision AIs answer from what they expect: 'dogs have 4 legs' beats what's in the picture. A 2025 study found the same with extra stripes on logos. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Count the legs. AI says 4?",
+ "twist": "Vision AIs answer from what they expect: 'dogs have 4 legs' beats what's in the picture. A 2025 study found the same with extra stripes on logos.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-11-26 22:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Show AI a Fake Optical Illusion' (same family: AI trusts expectations). Keep >= 5 days apart. Re-test on current models on script day.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 29,
+ "score10": 8.5,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

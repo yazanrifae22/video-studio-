@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "The King Wanted Prisoners on the First Balloon Flight",
+ "topic": "Louis XVI proposed condemned men for the risky first crewed flight; Pilatre de Rozier lobbied for the honour and flew on Nov 21, 1783.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: First untethered crewed balloon flight, 21 Nov 1783 (2026-11-21). Wikipedia Montgolfier_brothers 4,395 views Sept 2026.",
+ "hook": "First humans to fly: condemned prisoners?",
+ "twist": "Louis XVI proposed condemned men for the risky first crewed flight; Pilatre de Rozier lobbied for the honour and flew on Nov 21, 1783.",
+ "peg": {
+  "event": "First untethered crewed balloon flight, 21 Nov 1783",
+  "date": "2026-11-21",
+  "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Pil%C3%A2tre_de_Rozier",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Jean-Francois Pilatre de Rozier (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Pil%C3%A2tre_de_Rozier"
+  },
+  {
+   "claim": "Amusing Planet - Pilatre de Rozier and the first aviation accident (accessed 2026-10-24)",
+   "url": "https://www.amusingplanet.com/2021/05/pilatre-de-rozier-and-worlds-first.html"
+  },
+  {
+   "claim": "Explorersweb - Great explorers: Pilatre de Rozier (accessed 2026-10-24)",
+   "url": "https://explorersweb.com/great-explorers-jean-francois-pilatre-de-rozier/"
+  },
+  {
+   "claim": "Peg source: First untethered crewed balloon flight, 21 Nov 1783 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Pil%C3%A2tre_de_Rozier"
+  },
+  {
+   "claim": "Wikimedia pageviews Montgolfier_brothers: 4395 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Montgolfier_brothers&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Jean-Francois Pilatre de Rozier",
+   "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Pil%C3%A2tre_de_Rozier",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Amusing Planet - Pilatre de Rozier and the first aviation accident",
+   "url": "https://www.amusingplanet.com/2021/05/pilatre-de-rozier-and-worlds-first.html",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Explorersweb - Great explorers: Pilatre de Rozier",
+   "url": "https://explorersweb.com/great-explorers-jean-francois-pilatre-de-rozier/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The first hot-air balloon passengers were farm animals #shorts",
+   "url": "https://youtube.com/shorts/2K-G66O-8jg",
+   "views": 158,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The goofy first passengers of a hot air balloon 🎈 #shorts #history",
+   "url": "https://youtube.com/shorts/rdiFJ6s97D0",
+   "views": 2700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The First Balloon Passengers Weren't Human! 🐑🎈 #Shorts",
+   "url": "https://youtube.com/shorts/lTLpDk1JT_k",
+   "views": 5,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: an ornate blue-gold balloon with a prisoner's ball-and-chain dangling + hook. Twist: a scientist and a marquis went instead. Loop: 'Would you volunteer?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Launch site: Chateau de la Muette (not Versailles). Don't mention his later fatal crash. Earlier sheep/duck/rooster flight is Sept 1783 (optional aside).",
+ "window": {
+  "notBefore": "2026-11-20T12:00:00Z",
+  "deadline": "2026-11-22T06:00:00Z",
+  "label": "First untethered crewed balloon flight, 21 Nov 1783",
+  "suggestedSlot": "2026-11-21T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 2,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

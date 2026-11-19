@@ -1,0 +1,191 @@
+[
+  {
+    "id": "va-001",
+    "scout": "scout-a-trend",
+    "title": "Funniest Wild Animals Caught Being Goofy",
+    "hook": "Wildlife awards 2026: funniest animals",
+    "category": "Animals",
+    "subcategory": "wildlife goofs",
+    "ranking_criterion": "funniest",
+    "format_fit": {"top3": "good: 3 short punchy animal beats, 20 s", "top5": "better if >=8 usable moments confirmed"},
+    "demand_evidence": [
+      {"claim": "Nikon Comedy Wildlife Awards 2026 finalists announced (9 video finalists, 40 photos, >10,000 entries/112 countries); winners 8 Dec 2026, People's Choice voting to 1 Mar 2027", "url": "https://www.thenationalnews.com/arts-culture/art-design/2026/10/02/funny-finalists-at-comedy-wildlife-photography-award-2026/", "observed_at": "2026-10-31", "data_age": "published 2026-10-02 (29 days)", "note": "multi-outlet coverage (Colossal, Time Out, NBC, Upworthy). Shows media interest in funny-animal framing, NOT a view count for Shorts"}
+    ],
+    "candidate_clips": [
+      {"title": "Brown bears play fighting.webm (Katmai NPS, 2 min 1 s)", "url": "https://commons.wikimedia.org/wiki/File:Brown_bears_play_fighting.webm", "license": "page shows CC BY 2.0 + PD-USGov-NPS notice (conflicting; rights-scout to resolve)", "opened": true},
+      {"title": "Otter (Lutra lutra) grooming.webm (94 s)", "url": "https://commons.wikimedia.org/wiki/File:Otter_(Lutra_lutra)_grooming.webm", "license": "CC0", "opened": true},
+      {"title": "Kitten jumping on bamboo mat.webm (4 s)", "url": "https://commons.wikimedia.org/wiki/File:Kitten_jumping_on_bamboo_mat.webm", "license": "CC0", "opened": true},
+      {"title": "Penguin was sleeping.webm (11 s)", "url": "https://commons.wikimedia.org/wiki/File:Penguin_was_sleeping.webm", "license": "CC0 per discovery metadata (page not opened)", "opened": false},
+      {"title": "Baby raccoon gets himself into a little trouble.webm (33 s)", "url": "https://commons.wikimedia.org/wiki/File:Baby_raccoon_gets_himself_into_a_little_trouble-53pLaZii0zs.webm", "license": "CC BY 3.0 per metadata, YouTube-origin (verify uploader owns it)", "opened": false}
+    ],
+    "usable_moments_estimate": {"verified_pages_opened": 3, "estimate_after_review": "8-12", "confidence": "low-med"},
+    "scores": {"creative": 62, "demand": 55, "feasibility": 68, "portfolio_fit": 70, "risk": 30},
+    "hard_gate_notes": "Commons CC-BY-SA clips force ShareAlike on the derivative: prefer CC0/PD/CC-BY. Zoo footage is often dull; moments may need trimming from long clips. Do not use Comedy Wildlife photos or finalist videos (all copyright photographers).",
+    "production_ready": "conditional",
+    "confidence": "medium"
+  },
+  {
+    "id": "va-002",
+    "scout": "scout-a-trend",
+    "title": "Impossible Stunts From 100 Years Ago",
+    "hook": "Keaton did this in 1920. No CGI.",
+    "category": "Amazing",
+    "subcategory": "impossible-looking skills (silent-era)",
+    "ranking_criterion": "most impossible-looking",
+    "format_fit": {"top3": "excellent: 3 gag/stunt beats, 15-25 s, clear on mute (silent by nature)", "top5": "good"},
+    "demand_evidence": [
+      {"claim": "Keaton's train-ties clip from The General went viral (June 2021) and clips still circulate; The General turns 100 in 2026 (Tubi centennial programme)", "url": "https://www.snopes.com/fact-check/buster-keaton-stunt/", "observed_at": "2026-10-31", "data_age": "2021 viral event, evergreen; NO 2026-specific trend found", "note": "demand is evergreen, not rising; search found no dated 2026 TikTok trend"},
+      {"claim": "Tubi: 100 years later Keaton still has us asking how he did that", "url": "https://tubitv.com/the-t/articles/100-years-later-buster-keaton-still-has-us-asking-how-did-he-do-that", "observed_at": "2026-10-31", "data_age": "article date not read"}
+    ],
+    "candidate_clips": [
+      {"title": "Neighbors (Cline and Keaton, 1920).webm, 18 min 39 s", "url": "https://commons.wikimedia.org/wiki/File:Neighbors_(Edward_F._Cline_and_Buster_Keaton,_1920).webm", "license": "Public domain (PD-US-expired, published before 1931)", "opened": true},
+      {"title": "The Scarecrow (Cline and Keaton, 1920).webm", "url": "https://commons.wikimedia.org/wiki/File:The_Scarecrow_(Edward_F._Cline_and_Buster_Keaton,_1920).webm", "license": "Public domain per Commons tag (same collection; page not opened)", "opened": false},
+      {"title": "The Balloonatic (1923).webm", "url": "https://commons.wikimedia.org/wiki/File:The_Balloonatic_(Edward_F._Cline_and_Buster_Keaton,_1923).webm", "license": "Public domain per Commons tag (page not opened)", "opened": false},
+      {"title": "Sherlock Jr. (1924) HD", "url": "https://commons.wikimedia.org/wiki/File:Sherlock_Jr._-_Buster_Keaton_(1924)_HD_(720p).ogv", "license": "Public domain per Commons tag (page not opened)", "opened": false},
+      {"title": "Charlie Chaplin's The Rink (1916), Internet Archive", "url": "https://archive.org/details/CC_1916_12_04_TheRink", "license": "Public Domain per IA metadata (verify)", "opened": false}
+    ],
+    "usable_moments_estimate": {"verified_pages_opened": 1, "estimate_after_review": "20+", "confidence": "high on count, medium on rights of specific transfers"},
+    "scores": {"creative": 72, "demand": 48, "feasibility": 85, "portfolio_fit": 65, "risk": 28},
+    "hard_gate_notes": "PD is US-only. Film transfers may carry a modern restored score: use picture only. Wikimedia titles say 1920, but check each short's publication year. Avoid Harold Lloyd/Keaton features on IA with licence=None. Dated look may limit Shorts retention (hypothesis).",
+    "production_ready": "yes (strongest feasibility)",
+    "confidence": "medium"
+  },
+  {
+    "id": "va-003",
+    "scout": "scout-a-trend",
+    "title": "Bears Who Won The Internet",
+    "hook": "Fat Bear Week 2026: who was fattest?",
+    "category": "Animals",
+    "subcategory": "bears / seasonal events",
+    "ranking_criterion": "most surprising / biggest",
+    "format_fit": {"top3": "good if 3 distinct bears/behaviours", "top5": "no, too few clips"},
+    "demand_evidence": [
+      {"claim": "Fat Bear Week 2026 (22-29 Sep) won by Bear 89 Backpack, 103,344 to 98,253 votes, about 2.5 M votes total", "url": "https://www.cbsnews.com/news/fat-bear-week-2026-winner-backpack/", "observed_at": "2026-10-31", "data_age": "results 2026-09-30 (31 days)", "note": "vote totals reported by local affiliates quoting explore.org; peak attention has already passed"}
+    ],
+    "candidate_clips": [
+      {"title": "Brown bears play fighting.webm (Katmai NPS)", "url": "https://commons.wikimedia.org/wiki/File:Brown_bears_play_fighting.webm", "license": "CC BY 2.0 + NPS-employee PD notice (opened, conflicting tags)", "opened": true},
+      {"title": "Brown bear fishing for salmon, Crescent Lake, Alaska (29 s)", "url": "https://commons.wikimedia.org/wiki/File:Brown_bear_fishing_for_salmon_--_Crescent_Lake,_Alaska_-_August_2015.webm", "license": "CC BY-SA 2.0 (ShareAlike) per metadata", "opened": false},
+      {"title": "American black bears (Ursus americanus).webm (103 s)", "url": "https://commons.wikimedia.org/wiki/File:American_black_bears_(Ursus_americanus).webm", "license": "CC BY 3.0 per metadata", "opened": false}
+    ],
+    "usable_moments_estimate": {"verified_pages_opened": 1, "estimate_after_review": "3-4", "confidence": "low"},
+    "scores": {"creative": 58, "demand": 60, "feasibility": 35, "portfolio_fit": 55, "risk": 40},
+    "hard_gate_notes": "Do NOT use explore.org cam footage or named Fat Bear contestants' footage (explore.org is not PD). Only 3 clips found; needs a deeper NPS/USFWS search before go. Naming bears in the title without matching footage would be a label mismatch.",
+    "production_ready": "no (needs more footage; park or search NPS.gov/IA)",
+    "confidence": "low"
+  },
+  {
+    "id": "va-004",
+    "scout": "scout-a-trend",
+    "title": "Birds Being Hilariously Weird",
+    "hook": "This parrot has opinions",
+    "category": "Animals",
+    "subcategory": "birds / talking and dancing",
+    "ranking_criterion": "funniest",
+    "format_fit": {"top3": "excellent, short Pixabay beats 5-20 s", "top5": "good"},
+    "demand_evidence": [
+      {"claim": "Comedy Wildlife 2026 finalist 'Angry Bird' (unimpressed tiny bird, Jan Wittmer) featured in coverage", "url": "https://www.thenationalnews.com/arts-culture/art-design/2026/10/02/funny-finalists-at-comedy-wildlife-photography-award-2026/", "observed_at": "2026-10-31", "data_age": "2026-10-02", "note": "weak, single-entry signal; no bird-specific Shorts view data gathered"}
+    ],
+    "candidate_clips": [
+      {"title": "Talking Parrot - VOANews.webm (62 s, Einstein the African grey, Knoxville Zoo)", "url": "https://commons.wikimedia.org/wiki/File:Talking_Parrot_-_VOANews.webm", "license": "PD (US federal: VOA) + CC PD Mark; page warns wire-service material is not PD (opened)", "opened": true},
+      {"title": "Pixabay sparrow, jump, dance, funny (19 s, 137,750 views)", "url": "https://pixabay.com/videos/id-38521/", "license": "Pixabay Content License per metadata (uploader adege; src-261030-rr9y)", "opened": false},
+      {"title": "Pixabay red parrot / talking parrot (19 s)", "url": "https://pixabay.com/videos/id-114146/", "license": "Pixabay Content License per metadata", "opened": false},
+      {"title": "Rooster crowing small.ogv (5 s)", "url": "https://commons.wikimedia.org/wiki/File:Rooster_crowing_small.ogv", "license": "Public domain per metadata", "opened": false},
+      {"title": "20240204 american crow 646 hop.webm", "url": "https://commons.wikimedia.org/wiki/File:20240204_american_crow_646_hop.webm", "license": "CC BY-SA 4.0 per metadata", "opened": false}
+    ],
+    "usable_moments_estimate": {"verified_pages_opened": 1, "estimate_after_review": "6-10", "confidence": "medium"},
+    "scores": {"creative": 60, "demand": 42, "feasibility": 66, "portfolio_fit": 50, "risk": 25},
+    "hard_gate_notes": "Pixabay terms: some uploaders (e.g. Alexas_Fotos, zoo/animal-park footage, seen on id-3723) state no commercial use for zoo content: exclude these uploaders. Overlaps va-001 premise: pick one as pilot, not both.",
+    "production_ready": "conditional",
+    "confidence": "low-med"
+  },
+  {
+    "id": "va-005",
+    "scout": "scout-a-trend",
+    "title": "Most Satisfying Chain Reactions",
+    "hook": "Wait for the last domino",
+    "category": "Amazing",
+    "subcategory": "satisfying builds / physics",
+    "ranking_criterion": "most satisfying",
+    "format_fit": {"top3": "good, loopable, no narration needed", "top5": "good"},
+    "demand_evidence": [
+      {"claim": "#oddlysatisfying reported at 69.8 B TikTok views; r/OddlySatisfying 6.8 M members (undated figures in a secondary source)", "url": "https://izea.com/resources/oddly-satisfying-trend-tiktok/", "observed_at": "2026-10-31", "data_age": "undated, likely 2020-2025; NO 2026 growth data found", "note": "evergreen niche, saturated: competition gap is low"}
+    ],
+    "candidate_clips": [
+      {"title": "A simple Rube goldberg machine.webm (53 s)", "url": "https://commons.wikimedia.org/wiki/File:A_simple_Rube_goldberg_machine.webm", "license": "CC BY-SA 3.0 per metadata (ShareAlike)", "opened": false},
+      {"title": "Domino collapse at PAX 2009.ogv (18 s)", "url": "https://commons.wikimedia.org/wiki/File:Domino_collapse_at_PAX_2009.ogv", "license": "CC BY 2.0 per metadata", "opened": false},
+      {"title": "Pixabay dominoes falling (6 s)", "url": "https://pixabay.com/videos/id-28659/", "license": "Pixabay Content License", "opened": false},
+      {"title": "Pixabay Newton's cradle (60 s)", "url": "https://pixabay.com/videos/id-63039/", "license": "Pixabay Content License", "opened": false},
+      {"title": "Pixabay marble run (26 s)", "url": "https://pixabay.com/videos/id-105378/", "license": "Pixabay Content License", "opened": false}
+    ],
+    "usable_moments_estimate": {"verified_pages_opened": 0, "estimate_after_review": "5-8", "confidence": "low"},
+    "scores": {"creative": 50, "demand": 45, "feasibility": 55, "portfolio_fit": 55, "risk": 30},
+    "hard_gate_notes": "Rejected a discovered Commons 'Domino Effect.webm': it is a CDC sepsis PSA (opened), not a domino clip. Stock chain-reaction clips are generic and low-novelty. Most Pixabay stock is staged and calm: weak surprise.",
+    "production_ready": "conditional (low novelty)",
+    "confidence": "low"
+  },
+  {
+    "id": "va-006",
+    "scout": "scout-a-trend",
+    "title": "Astronauts Doing Normal Things In Space",
+    "hook": "How do you even do this?",
+    "category": "Amazing",
+    "subcategory": "microgravity everyday chaos",
+    "ranking_criterion": "most surprising",
+    "format_fit": {"top3": "good: 3 clearly different microgravity gags", "top5": "possible if NASA B-roll pool is deep"},
+    "demand_evidence": [
+      {"claim": "No dated trend evidence found for this specific lane. Only generic claim: Shorts average ~200 B daily views (Neal Mohan, Jan 2026, via secondary blogs)", "url": "https://www.demandsage.com/youtube-shorts-statistics?gad=1", "observed_at": "2026-10-31", "data_age": "2026, secondary", "note": "platform-wide figure, not lane demand. Demand score kept low on purpose"}
+    ],
+    "candidate_clips": [
+      {"title": "#AskNASA: How do astronauts use the potty in space? (2020)", "url": "https://images.nasa.gov/details/NHQ_2020_0925_AskNASA%E2%94%83%20HOW%20DO%20ASTRONAUTS%20USE%20THE%20POTTY%20IN%20SPACE", "license": "NASA media usage guidelines (generally not copyrighted) per metadata; NASA page is JS-rendered, not verified by fetch", "opened": false},
+      {"title": "NASA Astronaut Anil Menon floats aboard ISS for first time (Expedition 74)", "url": "https://images.nasa.gov/details/iss075m261951929-Expedition_74", "license": "NASA guidelines per metadata (fetch failed, JS-rendered)", "opened": false},
+      {"title": "Space to Ground: Water Bears in Space (2021)", "url": "https://images.nasa.gov/details/jsc2021m000029_Space%20to%20Ground_379_21", "license": "NASA guidelines per metadata (fetch returned empty)", "opened": false}
+    ],
+    "usable_moments_estimate": {"verified_pages_opened": 0, "estimate_after_review": "6-10", "confidence": "low"},
+    "scores": {"creative": 68, "demand": 35, "feasibility": 55, "portfolio_fit": 45, "risk": 22},
+    "hard_gate_notes": "NASA pages did not render via fetch, so licence is metadata-only. Check each clip for ESA/JAXA/contractor/third-party audio (known past rights-scout overturns). Overlaps existing Mission Voices / space brands: weak portfolio novelty.",
+    "production_ready": "conditional (verify via NASA API/rights-scout)",
+    "confidence": "low"
+  },
+  {
+    "id": "va-007",
+    "scout": "scout-a-trend",
+    "title": "Funniest World Cup 2026 Moments",
+    "hook": "The duck, the VAR, the keeper",
+    "category": "Sports",
+    "subcategory": "football fan moments / referee reactions",
+    "ranking_criterion": "funniest",
+    "format_fit": {"top3": "ideal on demand", "top5": "ideal"},
+    "demand_evidence": [
+      {"claim": "Dozens of 'funniest viral moments' roundups (Merlin the duck in a Mexico jersey, bewildered South African players at VAR announcement by Wilton Sampaio, Vozinha, Haaland rally towel)", "url": "https://thenationalnews.com/arts-culture/2026/06/17/the-12-funniest-viral-moments-from-the-world-cup-so-far", "observed_at": "2026-10-31", "data_age": "June-July 2026 (3-4 months); tournament over, news cycle decaying", "note": "also euronews 2026-07-17 and ESPN ranking; no view counts gathered"},
+      {"claim": "Euronews top-10 viral moments of World Cup 2026", "url": "https://euronews.com/culture/2026/07/17/vikings-trump-cards-and-baby-fans-the-10-biggest-viral-moments-of-the-world-cup-2026", "observed_at": "2026-10-31", "data_age": "2026-07-17"}
+    ],
+    "candidate_clips": [],
+    "usable_moments_estimate": {"verified_pages_opened": 0, "estimate_after_review": "0", "confidence": "high"},
+    "scores": {"creative": 80, "demand": 82, "feasibility": 0, "portfolio_fit": 70, "risk": 95},
+    "hard_gate_notes": "FIFA and broadcaster footage plus fan-owned clips: no clearable pool found in Pexels/Pixabay/Commons/IA/federal. Hard gate fails regardless of demand. Parking record documents the demand-without-footage case. Only route is creator outreach for fan-filmed clips (owner decision, needs written permission; escalate).",
+    "production_ready": "NO (parked)",
+    "confidence": "high"
+  },
+  {
+    "id": "va-008",
+    "scout": "scout-a-trend",
+    "title": "Weirdest Science Ever Awarded",
+    "hook": "They buried 1,000 underpants",
+    "category": "Amazing",
+    "subcategory": "absurd science (Ig Nobel 2026)",
+    "ranking_criterion": "most absurd",
+    "format_fit": {"top3": "excellent, built-in funny premises", "top5": "good"},
+    "demand_evidence": [
+      {"claim": "36th Ig Nobel Prizes, 3 Sep 2026, Zurich: buried underwear in 25+ countries, cockroach milk, nose-blowing aerodynamics, new definition of kissing, splash-proof urinals", "url": "https://www.smithsonianmag.com/smart-news/stealing-candy-from-children-splash-proof-urinals-and-buried-panties-oh-my-here-are-the-winners-of-the-2026-ig-nobel-prizes-180989463/", "observed_at": "2026-10-31", "data_age": "2026-09-03 (58 days)", "note": "wide press pick-up (PBS, Scientific American, Dexerto)"}
+    ],
+    "candidate_clips": [
+      {"title": "Tuning fork creates splashes in water.webm (26 s) (generic science stand-in, not a winning study)", "url": "https://commons.wikimedia.org/wiki/File:Tuning_fork_creates_splashes_in_water.webm", "license": "CC BY-SA 4.0 per metadata", "opened": false},
+      {"title": "Super Slo-Mo Samsung S21 Ultra (hummingbird, water splash)", "url": "https://commons.wikimedia.org/wiki/File:Super_Slo-Mo_using_a_Samsung_S21_Ultra_(hummingbird,_water_splash,_and_more).webm", "license": "CC BY 3.0 per metadata", "opened": false}
+    ],
+    "usable_moments_estimate": {"verified_pages_opened": 0, "estimate_after_review": "0 matching the actual studies", "confidence": "high"},
+    "scores": {"creative": 78, "demand": 62, "feasibility": 8, "portfolio_fit": 55, "risk": 55},
+    "hard_gate_notes": "No licensed footage of the actual winning studies found; using unrelated stock under a title naming the studies would be a label mismatch. Could work as still-image/animated-explainer format later (different format, out of pilot scope).",
+    "production_ready": "NO (parked)",
+    "confidence": "medium"
+  }
+]

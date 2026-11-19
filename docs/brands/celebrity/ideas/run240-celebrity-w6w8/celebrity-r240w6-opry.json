@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "The Grand Ole Opry Got Its Name From a Joke",
+ "topic": "WSM's Barn Dance began on 28 Nov 1925; in Dec 1927, right after a classical opera broadcast, host George D. Hay told listeners they would now hear 'the Grand Ole Opry', and the name stuck.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Grand Ole Opry first broadcast 28 Nov 1925 (101st birthday) (2026-11-28). Wikipedia Grand_Ole_Opry 28,074 views Sept 2026.",
+ "hook": "Why is it called the 'Opry'?",
+ "twist": "WSM's Barn Dance began on 28 Nov 1925; in Dec 1927, right after a classical opera broadcast, host George D. Hay told listeners they would now hear 'the Grand Ole Opry', and the name stuck.",
+ "peg": {
+  "event": "Grand Ole Opry first broadcast 28 Nov 1925 (101st birthday)",
+  "date": "2026-11-28",
+  "url": "https://en.wikipedia.org/wiki/Grand_Ole_Opry",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Mental Floss - How the Grand Ole Opry got its name (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/article/72246/how-grand-ole-opry-got-its-name"
+  },
+  {
+   "claim": "Wikipedia - Grand Ole Opry (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Grand_Ole_Opry"
+  },
+  {
+   "claim": "Encyclopedia.com - Grand Ole Opry (accessed 2026-10-24)",
+   "url": "https://www.encyclopedia.com/history/culture-magazines/grand-ole-opry"
+  },
+  {
+   "claim": "Peg source: Grand Ole Opry first broadcast 28 Nov 1925 (101st birthday) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Grand_Ole_Opry"
+  },
+  {
+   "claim": "Wikimedia pageviews Grand_Ole_Opry: 28074 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Grand_Ole_Opry&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Mental Floss - How the Grand Ole Opry got its name",
+   "url": "https://www.mentalfloss.com/article/72246/how-grand-ole-opry-got-its-name",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Grand Ole Opry",
+   "url": "https://en.wikipedia.org/wiki/Grand_Ole_Opry",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Encyclopedia.com - Grand Ole Opry",
+   "url": "https://www.encyclopedia.com/history/culture-magazines/grand-ole-opry",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How the Grand Ole Opry Got Its Name",
+   "url": "https://youtube.com/shorts/9C3KKxgeoQQ",
+   "views": 577,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"how the Grand Ole Opry got its name #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Grand Ole Opry Got Its Name From a Smart-Aleck One-Liner",
+   "url": "https://youtube.com/shorts/0jCLrt_hsUU",
+   "views": 7,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"how the Grand Ole Opry got its name #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Which U.S. state is home to the famous Grand Ole Opry? #shorts #americanquiz",
+   "url": "https://youtube.com/shorts/CVfoA6LOays",
+   "views": 572,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"how the Grand Ole Opry got its name #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: An old radio mic beside an opera score and a fiddle + hook. Twist by 2.5 s. Loop: 'So why is it called the Opry?'",
+ "cta": "C2+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Whether Hay ad-libbed or scripted the line is unknown: say 'joked on air'. Exact date in Dec 1927 varies (Mental Floss: 10 Dec). No Opry logo.",
+ "window": {
+  "notBefore": "2026-11-27T12:00:00Z",
+  "deadline": "2026-12-01T00:00:00Z",
+  "label": "Grand Ole Opry first broadcast 28 Nov 1925 (101st birthday)",
+  "suggestedSlot": "2026-11-29T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "George D. Hay"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 2,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "channel": "tech",
+ "title": "Noise-Cancelling Kills the Engine, Not the Baby",
+ "topic": "Headphones cancel sound by playing its mirror wave; that works on steady low hums like engines, but fast-changing high sounds like voices slip through.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Huge proven demand (7.2M) on the how; our hook is the 'why not voices' twist.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: Active noise control (best at low frequencies) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Active_noise_control"
+  },
+  {
+   "claim": "Wikipedia: Noise-cancelling headphones (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Noise-cancelling_headphones"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How Noise Cancelling Headphones Work",
+   "url": "https://youtube.com/shorts/b41hUGwlqMM",
+   "views": "7.2M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Engine gone. Baby still crying. Why?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Headphones cancel sound by playing its mirror wave; that works on steady low hums like engines, but fast-changing high sounds like voices slip through. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Engine gone. Baby still crying. Why?",
+ "twist": "Headphones cancel sound by playing its mirror wave; that works on steady low hums like engines, but fast-changing high sounds like voices slip through.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": {
+  "notBefore": "2026-11-28",
+  "deadline": "2026-12-01",
+  "event": "Sunday after Thanksgiving: busiest return-flight day (Nov 29 2026)"
+ },
+ "newsPeg": "Sunday after Thanksgiving: busiest return-flight day (Nov 29 2026)",
+ "category": "news peg",
+ "suggestedSlot": "2026-11-29 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW with plane Wi-Fi (Nov 24). Saturated topic: win on the hook only.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 46,
+ "score10": 8.1,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

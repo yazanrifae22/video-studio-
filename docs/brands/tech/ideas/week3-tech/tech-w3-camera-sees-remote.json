@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Your Phone Camera Can See Your TV Remote's Light",
+ "topic": "Near-infrared and camera sensors",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Pure participation hook; competitors small (15-1.1K) = gap.",
+ "evidence": [
+  {
+   "claim": "Wikipedia Remote control: consumer IR remotes use near-infrared LEDs (accessed 2026-10-23)",
+   "url": "https://en.wikipedia.org/wiki/Remote_control"
+  },
+  {
+   "claim": "Pageviews Remote_control 7,523 in 30 days (accessed 2026-10-23)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Remote_control&range=latest-30"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Point Your TV Remote at Your Phone Camera",
+   "url": "https://youtube.com/shorts/P6R5jLKkM8o",
+   "views": "1.1K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why can your phone camera see a TV remote blink?",
+   "url": "https://youtube.com/shorts/JTLdgPi2E04",
+   "views": "1.1K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: remote aimed at a phone screen showing a purple flash + hook (a do-it-now challenge). Why: remotes blink infrared your eye can't see, but a camera sensor can; many main cameras filter IR, selfie cameras often don't. Same trick tests a dead remote. Loop: 'Try it: point your remote at your camera.'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Point your remote at your camera.",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Some phones show nothing on the rear camera; say \"try the selfie camera\". No flashing light in the render.",
+ "window": null,
+ "novelty": {
+  "overlap": "low with 'How Face ID Sees You in Total Darkness' (both IR) - keep 3+ days apart",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

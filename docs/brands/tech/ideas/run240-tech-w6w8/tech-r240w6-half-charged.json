@@ -1,0 +1,61 @@
+{
+ "channel": "tech",
+ "title": "Why Your New Phone Arrives Half Charged",
+ "topic": "Lithium batteries age fastest when stored full or empty; around half charge they can sit in warehouses for months without damage.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Gift-unboxing moment; no competitor.",
+ "evidence": [
+  {
+   "claim": "Battery University BU-702: how to store batteries (Li-ion best at ~40-50%) (accessed 2026-10-24)",
+   "url": "https://batteryuniversity.com/article/bu-702-how-to-store-batteries"
+  },
+  {
+   "claim": "Apple: maximizing battery performance (store devices half-charged) (accessed 2026-10-24)",
+   "url": "https://www.apple.com/batteries/maximizing-performance/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "(no on-topic Short found)",
+   "url": "https://youtube.com/shorts/Od6_bkPMshk",
+   "views": "39K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('New phone. Why only 50%?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Lithium batteries age fastest when stored full or empty; around half charge they can sit in warehouses for months without damage. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "New phone. Why only 50%?",
+ "twist": "Lithium batteries age fastest when stored full or empty; around half charge they can sit in warehouses for months without damage.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-12-01",
+  "deadline": "2026-12-26",
+  "event": "Holiday gift season (new devices unboxed)"
+ },
+ "newsPeg": "Holiday gift season (new devices unboxed)",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-06 12:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Why Your Phone Charges Slower After 80%' (existing): same chemistry, different moment. Keep the twist on storage.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 63,
+ "score10": 7.6,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

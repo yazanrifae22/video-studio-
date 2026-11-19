@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Why Ringo's White Album No. 1 Sold for $790,000",
+ "topic": "Everyone assumed Lennon had the White Album's copy No. 1; Ringo did, and in 2015 it sold for a record $790,000.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: The Beatles ('White Album') released 22 Nov 1968 (58th) (2026-11-22). Wikipedia The_Beatles_(album) 75,112 views Sept 2026.",
+ "hook": "Copy No. 0000001: who owned it?",
+ "twist": "Everyone assumed Lennon had the White Album's copy No. 1; Ringo did, and in 2015 it sold for a record $790,000.",
+ "peg": {
+  "event": "The Beatles ('White Album') released 22 Nov 1968 (58th)",
+  "date": "2026-11-22",
+  "url": "https://en.wikipedia.org/wiki/The_Beatles_(album)",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Rolling Stone - Ringo's personal White Album sells for record $790,000 (accessed 2026-10-24)",
+   "url": "https://www.rollingstone.com/music/music-news/ringo-starrs-personal-white-album-sells-for-world-record-790000-62410/"
+  },
+  {
+   "claim": "FACT - Ringo's copy of the White Album sells for $790,000 (accessed 2026-10-24)",
+   "url": "https://factmag.com/2015/12/06/ringos-copy-of-the-white-album-sells-for-790000"
+  },
+  {
+   "claim": "Uncut - Ringo White Album auction (accessed 2026-10-24)",
+   "url": "https://uncut.co.uk/?p=71989"
+  },
+  {
+   "claim": "Peg source: The Beatles ('White Album') released 22 Nov 1968 (58th) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+  },
+  {
+   "claim": "Wikimedia pageviews The_Beatles_(album): 75112 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=The_Beatles_(album)&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Rolling Stone - Ringo's personal White Album sells for record $790,000",
+   "url": "https://www.rollingstone.com/music/music-news/ringo-starrs-personal-white-album-sells-for-world-record-790000-62410/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "FACT - Ringo's copy of the White Album sells for $790,000",
+   "url": "https://factmag.com/2015/12/06/ringos-copy-of-the-white-album-sells-for-790000",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Uncut - Ringo White Album auction",
+   "url": "https://uncut.co.uk/?p=71989",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The Beatles’ White Album #0000001 🎵",
+   "url": "https://youtube.com/shorts/qg_buA-N-y4",
+   "views": 1200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Inside Abbey Road: The Beatles' White Album Sessions Part 5 #shorts",
+   "url": "https://youtube.com/shorts/tckTQwh9e7o",
+   "views": 381,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Beatles - White Album on CD #shorts #tiktok #music",
+   "url": "https://youtube.com/shorts/NNxE4p6_uzM",
+   "views": 730,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a plain white sleeve stamped 'No. 0000001' + hook. Twist: the drummer had it. Loop: 'Check your record shelf.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Multiple pressing plants made other 'No. 1's - say 'the UK copy No. 0000001'. Beatles cluster: Lucy (Nov 24) also references the Beatles - keep both but not adjacent days if reordered. No Apple logo, no audio.",
+ "window": {
+  "notBefore": "2026-11-21T12:00:00Z",
+  "deadline": "2026-11-23T06:00:00Z",
+  "label": "The Beatles ('White Album') released 22 Nov 1968 (58th)",
+  "suggestedSlot": "2026-11-22T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

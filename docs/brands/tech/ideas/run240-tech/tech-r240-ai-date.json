@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why AI Sometimes Thinks It's Still Last Year",
+ "topic": "A model's knowledge freezes at its training cutoff; it only knows today's date if the app quietly pastes it in.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Everyone has seen an AI get the year wrong; only small Shorts (3.8K) explain it.",
+ "evidence": [
+  {
+   "claim": "Knowledge cutoff: models have no information after their training data ends (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Knowledge_cutoff"
+  },
+  {
+   "claim": "OpenAI model docs list a knowledge cutoff per model (accessed 2026-10-24)",
+   "url": "https://platform.openai.com/docs/models"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why doesn't ChatGPT know what day it is?",
+   "url": "https://youtube.com/shorts/JGdMNtmuklM",
+   "views": "3.8K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "ChatGPT refuses to Answer This question",
+   "url": "https://youtube.com/shorts/eaa9DghBXTM",
+   "views": "725K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Ask AI: what year is it?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: A model's knowledge freezes at its training cutoff; it only knows today's date if the app quietly pastes it in. Loop ending: re-ask the hook.",
+ "hook": "Ask AI: what year is it?",
+ "twist": "A model's knowledge freezes at its training cutoff; it only knows today's date if the app quietly pastes it in.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-14 18:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Why AI Forgets the Start of Long Chats'.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 23,
+ "score10": 8.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

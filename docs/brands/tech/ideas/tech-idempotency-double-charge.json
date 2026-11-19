@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "Why Double-Clicking 'Pay' Doesn't Charge You Twice (Idempotency)",
+ "topic": "Idempotency keys / safe retries",
+ "audience": "Junior backend devs, interview preppers, payments/SaaS builders",
+ "whyCare": "Retries happen constantly; without an idempotency key, a timeout becomes a double charge. Payment APIs use this pattern.",
+ "evidence": [
+  {
+   "claim": "Gap: idempotency long-form leaders are small: 16,864 views (Coder's Gyan, 11 months), 15,274 (Java Techie, 4 months), 1,734 ('How Idempotency Keys Actually Work', 5 months)",
+   "url": "https://www.youtube.com/results?search_query=idempotency%20key%20explained&sp=CAMSAggF"
+  },
+  {
+   "claim": "Shorts demand exists: 'Implement API Idempotency In 3 Simple Steps' 28K views; 'Idempotency in Spring Boot | Interview Question' 21K views",
+   "url": "https://www.youtube.com/results?search_query=idempotency%20%23shorts"
+  },
+  {
+   "claim": "Stripe API docs: idempotency keys let you safely retry requests \"without accidentally performing the same operation twice\"; retries with the same key return the saved response (checked 2026-10-20)",
+   "url": "https://docs.stripe.com/api/idempotent_requests"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Implement API Idempotency In 3 Simple Steps (Short)",
+   "url": "https://www.youtube.com/shorts/eXBX9ubqqJg",
+   "views": "28K",
+   "verified": true
+  },
+  {
+   "title": "Idempotent APIs - Why Idempotency Is Critical (Coder's Gyan, Hindi)",
+   "url": "https://www.youtube.com/watch?v=bKLL9ZbMvAc",
+   "views": "16,864",
+   "verified": true
+  },
+  {
+   "title": "How Idempotency Keys Actually Work (State & Flow)",
+   "url": "https://www.youtube.com/watch?v=vlJtT3zkBMw",
+   "views": "1,734",
+   "verified": true
+  }
+ ],
+ "angle": "Diagram: Phone -> Server -> Bank. First POST times out (cross), retry sends a second packet -> two charges (shake). Replay with key 'abc123': server checks its key table and returns the saved result (check). Code panel: one header line.",
+ "durationSec": 50,
+ "format": "short",
+ "hook": "Your payment timed out. You tap Pay again. Why aren't you charged twice?",
+ "difficulty": 2,
+ "estCostUsd": 3,
+ "strengths": "Best gap of the set; universal 'double charge' fear; fits the Webhooks / Rate-limit series",
+ "weaknesses": "Lower raw demand; 'idempotency' is jargon, so the title leads with the outcome",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 2,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

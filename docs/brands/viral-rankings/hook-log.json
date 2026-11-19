@@ -1,0 +1,5518 @@
+{
+ "brand": "viral-rankings",
+ "generated": "2026-11-19T08:21:00",
+ "snapshot_date": "2026-11-07",
+ "analytics_end": "2026-11-05",
+ "method": "scripts/hook-log-build.py: studio.db publishing + latest API snapshot (perVideo90d, 90-day window) + production hook/story/script-doctor/viral json; null = unknown",
+ "videos": [
+  {
+   "video_id": "GpoYncRwKFg",
+   "production_id": "rank-261108-zv6s",
+   "status": "scheduled",
+   "title": "TOP 5 DIVING-BOARD FAIL MOMENTS",
+   "published_at": "2026-11-21T23:00:00.000Z",
+   "views": null,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": null,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": null,
+   "retention_d7": null,
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": null,
+   "drop_seconds": null,
+   "retention_status": null,
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease + Mute-Proof Overlay",
+   "hook_premise": "Five divers whose best move was the splat, and the Olympic #1 scored zero.",
+   "payoff_ts": 31.0,
+   "story_structure": "verdict-countdown",
+   "story_spine": "Five dive fails, and each splat looks like the worst, but only one dive at the Olympics scored zero, therefore #1 is the flat landing that cost a diver everything.",
+   "doctor_verdict": "pass",
+   "forecast": 87,
+   "viral_score": null,
+   "viral_verdict": null,
+   "viral_version": null,
+   "viral_source": null,
+   "notes": null,
+   "script_forecast": 87,
+   "script_rounds": 5,
+   "fresh_eyes_S_verdict": "weak",
+   "fresh_eyes_S_viewer_score": 72,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": 1,
+   "panel_S_swipe_before_payoff_count": 2,
+   "panel_S_block": false,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": 93,
+   "chosen_title": "TOP 5 DIVING-BOARD FAIL MOMENTS",
+   "qa_score": null,
+   "insights": null,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null
+  },
+  {
+   "video_id": "wRV0PmGrOsw",
+   "production_id": "rank-261105-iahw",
+   "status": "scheduled",
+   "title": "TOP 5 SLIP FAIL MOMENTS",
+   "published_at": "2026-11-20T23:00:00.000Z",
+   "views": null,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": null,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": null,
+   "retention_d7": null,
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": null,
+   "drop_seconds": null,
+   "retention_status": null,
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease + Withheld Contact",
+   "hook_premise": "A woman vs one algae-covered stream rock: she is totally sure of her footing.",
+   "payoff_ts": 27.38,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": null,
+   "viral_verdict": null,
+   "viral_version": null,
+   "viral_source": null,
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": null,
+   "insights": null,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null
+  },
+  {
+   "video_id": "59dfdezxNQs",
+   "production_id": "rank-261108-fz6p",
+   "status": "scheduled",
+   "title": "TOP 5 BASKETBALL DUNK-FAIL MOMENTS",
+   "published_at": "2026-11-19T23:00:00.000Z",
+   "views": null,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": null,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": null,
+   "retention_d7": null,
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": null,
+   "drop_seconds": null,
+   "retention_status": null,
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Scripted Wrong-Guess (A) - benign violation",
+   "hook_premise": "One college dunker hangs on the rim, flips, and does not stick the landing, and he tops five dunks that went wrong.",
+   "payoff_ts": 35.5,
+   "story_structure": "verdict-countdown",
+   "story_spine": "Everyone thinks a dunk always lands, but five dunks show it does not, therefore #1 (the rim hang that ends without a stuck landing) is the one to send.",
+   "doctor_verdict": "pass",
+   "forecast": 85,
+   "viral_score": 66,
+   "viral_verdict": "record-only",
+   "viral_version": 20,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": 85,
+   "script_rounds": 6,
+   "fresh_eyes_S_verdict": "weak",
+   "fresh_eyes_S_viewer_score": 66,
+   "fresh_eyes_S_swipe_at_s": 16.5,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": 0,
+   "panel_S_swipe_before_payoff_count": 2,
+   "panel_S_block": false,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": 88,
+   "chosen_title": "TOP 5 BASKETBALL DUNK-FAIL MOMENTS",
+   "qa_score": 78.0,
+   "insights": 78,
+   "viral_forecast_delta": -19,
+   "radar_signal_id": null
+  },
+  {
+   "video_id": "RqvrAKTEIio",
+   "production_id": "rank-261108-i6f8",
+   "status": "published",
+   "title": "TOP 5 FREESTYLE-FOOTBALL TRICK MOMENTS",
+   "published_at": "2026-11-18T23:00:17.000Z",
+   "views": null,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": null,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": null,
+   "retention_d7": null,
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": null,
+   "drop_seconds": null,
+   "retention_status": null,
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease (#1) + Mute-Proof Overlay",
+   "hook_premise": "A freestyler flips upside down and the ball does not fall: five tricks, ranked by how much happens before the ball drops.",
+   "payoff_ts": 31.0,
+   "story_structure": "verdict-countdown",
+   "story_spine": "Five freestyle tricks ranked by what the ball survives; each rung adds a property (clean, two balls, a jump, a cartwheel), therefore #1 is a handstand with the ball still on her foot for two seconds.",
+   "doctor_verdict": "pass",
+   "forecast": 86,
+   "viral_score": 68,
+   "viral_verdict": "record-only until 2026-11-22",
+   "viral_version": 13,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": 86,
+   "script_rounds": 5,
+   "fresh_eyes_S_verdict": "weak",
+   "fresh_eyes_S_viewer_score": 62,
+   "fresh_eyes_S_swipe_at_s": 10.3,
+   "fresh_eyes_V_verdict": "weak",
+   "fresh_eyes_V_viewer_score": 68,
+   "fresh_eyes_V_swipe_at_s": 2.6,
+   "panel_S_hate_count": 0,
+   "panel_S_swipe_before_payoff_count": 1,
+   "panel_S_block": false,
+   "panel_V_hate_count": 1,
+   "panel_V_swipe_before_payoff_count": 3,
+   "panel_V_block": true,
+   "packaging_score": 86,
+   "chosen_title": "TOP 5 FREESTYLE-FOOTBALL TRICK MOMENTS",
+   "qa_score": 80.0,
+   "insights": 80,
+   "viral_forecast_delta": -18,
+   "radar_signal_id": null
+  },
+  {
+   "video_id": "gqS0MKWJ3Xc",
+   "production_id": "rank-261104-pse7",
+   "status": "published",
+   "title": "TOP 5 HOVERBOARD FAIL MOMENTS",
+   "published_at": "2026-11-17T23:00:22.000Z",
+   "views": null,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": null,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": null,
+   "retention_d7": null,
+   "views_24h": 37,
+   "views_72h": null,
+   "views_7d": null,
+   "drop_seconds": null,
+   "retention_status": null,
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease + Mute-Proof Overlay",
+   "hook_premise": "A backyard rider vs a patio and a pool",
+   "payoff_ts": 32.0,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 72,
+   "viral_verdict": "revise",
+   "viral_version": 4,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 78.0,
+   "insights": 80,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 37,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 0,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 33.3,
+     "at": "2026-11-19T08:21:21+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "J5qYWMygHJs",
+   "production_id": "rank-261108-3xjc",
+   "status": "published",
+   "title": "TOP 5 HALF-COURT SHOT MOMENTS",
+   "published_at": "2026-11-16T23:00:36.000Z",
+   "views": null,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": null,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": null,
+   "retention_d7": null,
+   "views_24h": 1049,
+   "views_72h": null,
+   "views_7d": null,
+   "drop_seconds": null,
+   "retention_status": null,
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Named-Outcome Question",
+   "hook_premise": "Five half-court heaves at the buzzer, and the last one ends the game",
+   "payoff_ts": 34.5,
+   "story_structure": "verdict-countdown",
+   "story_spine": "Five half-court heaves, and each one looks impossible, but only one lands at zero seconds with the game on the line, therefore #1 is Giddey's buzzer winner.",
+   "doctor_verdict": "pass",
+   "forecast": 86,
+   "viral_score": 64,
+   "viral_verdict": null,
+   "viral_version": 13,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": 86,
+   "script_rounds": 5,
+   "fresh_eyes_S_verdict": "weak",
+   "fresh_eyes_S_viewer_score": 62,
+   "fresh_eyes_S_swipe_at_s": 16.2,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": 1,
+   "panel_S_swipe_before_payoff_count": 2,
+   "panel_S_block": false,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": 88,
+   "chosen_title": "TOP 5 HALF-COURT SHOT MOMENTS",
+   "qa_score": 73.0,
+   "insights": 78,
+   "viral_forecast_delta": -22,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1049,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 14,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 33.4,
+     "at": "2026-11-18T08:23:39+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "MArbOg4yAZY",
+   "production_id": "rank-261108-ppt6",
+   "status": "published",
+   "title": "TOP 5 BACKFLIP FAIL MOMENTS",
+   "published_at": "2026-11-15T23:00:08.000Z",
+   "views": null,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": null,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/MArbOg4yAZY.json",
+   "retention_d7": null,
+   "views_24h": 631,
+   "views_72h": 1026,
+   "views_7d": null,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 10.9
+     },
+     {
+      "at_s": 5.3,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 8.4
+     },
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.13,
+      "drop_pct_pts": 7.2
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Withheld Contact (B) on rank 5",
+   "hook_premise": "Five backflips that did not stick, ranked by how hard the landing hit; #1 is a named star on the Coachella stage.",
+   "payoff_ts": 31.0,
+   "story_structure": "verdict-countdown",
+   "story_spine": "Five backflips that did not stick, and each one lands harder than the last, but only one is a star flat on a festival stage, therefore #1 is the Coachella crash.",
+   "doctor_verdict": "pass",
+   "forecast": 88,
+   "viral_score": 66,
+   "viral_verdict": "below 75 (record-only until 2026-11-22)",
+   "viral_version": 22,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": 88,
+   "script_rounds": 2,
+   "fresh_eyes_S_verdict": "weak",
+   "fresh_eyes_S_viewer_score": 68,
+   "fresh_eyes_S_swipe_at_s": 18.0,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": 1,
+   "panel_S_swipe_before_payoff_count": 1,
+   "panel_S_block": false,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": 88,
+   "chosen_title": "TOP 5 BACKFLIP FAIL MOMENTS",
+   "qa_score": 76.0,
+   "insights": 78,
+   "viral_forecast_delta": -22,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 631,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 4,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 33.4,
+     "at": "2026-11-17T08:24:19+00:00"
+    },
+    "72h": {
+     "views": 1026,
+     "engaged_views": 84,
+     "avg_view_pct": 29.609999999999996,
+     "likes": 7,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 81.4,
+     "at": "2026-11-19T08:21:21+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "0_3uoEB-638",
+   "production_id": "rank-261108-mok5",
+   "status": "published",
+   "title": "TOP 5 CHEERLEADING STUNT MOMENTS",
+   "published_at": "2026-11-14T23:00:03.000Z",
+   "views": null,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": null,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/0_3uoEB-638.json",
+   "retention_d7": null,
+   "views_24h": 2117,
+   "views_72h": 2292,
+   "views_7d": null,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 0.6,
+      "ratio_at": 0.02,
+      "drop_pct_pts": 5.4
+     },
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 5.4
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 4.5
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease + Mute-Proof Overlay (adapts brand default)",
+   "hook_premise": "Five cheer tosses, ranked by how high the flyer goes: #1 rises past the very top of the frame.",
+   "payoff_ts": 28.2,
+   "story_structure": "verdict-countdown",
+   "story_spine": "Five cheer tosses, and each looks high, but only one sends the flyer to the top edge of the frame, therefore #1 is the basket toss that leaves the screen.",
+   "doctor_verdict": "pass",
+   "forecast": 85,
+   "viral_score": null,
+   "viral_verdict": null,
+   "viral_version": null,
+   "viral_source": null,
+   "notes": null,
+   "script_forecast": 85,
+   "script_rounds": 4,
+   "fresh_eyes_S_verdict": "weak",
+   "fresh_eyes_S_viewer_score": 58,
+   "fresh_eyes_S_swipe_at_s": 11.1,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": 1,
+   "panel_S_swipe_before_payoff_count": 2,
+   "panel_S_block": false,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": 88,
+   "chosen_title": "TOP 5 CHEERLEADING STUNT MOMENTS",
+   "qa_score": 81.0,
+   "insights": null,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 2117,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 19,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 33.4,
+     "at": "2026-11-16T08:21:27+00:00"
+    },
+    "72h": {
+     "views": 2292,
+     "engaged_views": 1130,
+     "avg_view_pct": 58.32000000000001,
+     "likes": 19,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 81.4,
+     "at": "2026-11-18T08:23:39+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "M_6gfUMpM_A",
+   "production_id": "rank-261111-bk1z",
+   "status": "published",
+   "title": "TOP 5 SURF WIPEOUT MOMENTS",
+   "published_at": "2026-11-13T23:00:34.000Z",
+   "views": null,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": null,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/M_6gfUMpM_A.json",
+   "retention_d7": null,
+   "views_24h": 1031,
+   "views_72h": 1076,
+   "views_7d": null,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 6.3
+     },
+     {
+      "at_s": 4.5,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 4.9
+     },
+     {
+      "at_s": 8.7,
+      "ratio_at": 0.29,
+      "drop_pct_pts": 4.9
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": null,
+   "viral_verdict": null,
+   "viral_version": null,
+   "viral_source": null,
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": "TOP 5 SURF WIPEOUT MOMENTS",
+   "qa_score": null,
+   "insights": null,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1031,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 11,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 33.3,
+     "at": "2026-11-15T08:21:14+00:00"
+    },
+    "72h": {
+     "views": 1076,
+     "engaged_views": 347,
+     "avg_view_pct": 48.68,
+     "likes": 11,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 81.4,
+     "at": "2026-11-17T08:24:19+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "ht52Q2iAiT4",
+   "production_id": "rank-261108-35p5",
+   "status": "published",
+   "title": "TOP 5 MOUNTAIN-BIKE JUMP MOMENTS",
+   "published_at": "2026-11-12T23:00:20.000Z",
+   "views": null,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": null,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/ht52Q2iAiT4.json",
+   "retention_d7": null,
+   "views_24h": 929,
+   "views_72h": 1334,
+   "views_7d": null,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 0.9,
+      "ratio_at": 0.03,
+      "drop_pct_pts": 5.1
+     },
+     {
+      "at_s": 0.6,
+      "ratio_at": 0.02,
+      "drop_pct_pts": 4.8
+     },
+     {
+      "at_s": 4.5,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 3.2
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Number Gap (Challenge Caption)",
+   "hook_premise": "Five mountain bike flips ranked by ranked by hang time: #1 is a backflip that hangs high above a whole valley.",
+   "payoff_ts": 29.0,
+   "story_structure": "verdict-countdown",
+   "story_spine": "Five mountain bike flips, and each one stays up longer or drops farther, but a 75 foot canyon gap still is not the biggest, therefore #1 is the flip that hangs over a whole valley.",
+   "doctor_verdict": "pass",
+   "forecast": 88,
+   "viral_score": null,
+   "viral_verdict": null,
+   "viral_version": null,
+   "viral_source": null,
+   "notes": null,
+   "script_forecast": 88,
+   "script_rounds": 5,
+   "fresh_eyes_S_verdict": "weak",
+   "fresh_eyes_S_viewer_score": 62,
+   "fresh_eyes_S_swipe_at_s": 22.4,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": 0,
+   "panel_S_swipe_before_payoff_count": 0,
+   "panel_S_block": false,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": 88,
+   "chosen_title": "TOP 5 MOUNTAIN-BIKE JUMP MOMENTS",
+   "qa_score": 81.0,
+   "insights": null,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 929,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 16,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 33.3,
+     "at": "2026-11-14T08:21:18+00:00"
+    },
+    "72h": {
+     "views": 1334,
+     "engaged_views": 373,
+     "avg_view_pct": 63.17,
+     "likes": 21,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 81.4,
+     "at": "2026-11-16T08:21:27+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "nJJhcs3eh88",
+   "production_id": "rank-261104-0ayy",
+   "status": "published",
+   "title": "TOP 5 DANCE FAIL MOMENTS",
+   "published_at": "2026-11-11T20:00:39.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/nJJhcs3eh88.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/nJJhcs3eh88.json",
+   "views_24h": 1186,
+   "views_72h": 1247,
+   "views_7d": 1288,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 6.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 4.9
+     },
+     {
+      "at_s": 5.9,
+      "ratio_at": 0.19,
+      "drop_pct_pts": 4.6
+     },
+     {
+      "at_s": 5.3,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 4.4
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 6.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 4.7
+     },
+     {
+      "at_s": 5.9,
+      "ratio_at": 0.19,
+      "drop_pct_pts": 4.6
+     },
+     {
+      "at_s": 5.6,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 4.1
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Withheld Contact",
+   "hook_premise": "Five dancers whose best move was gravity: ranked by crash size vs how confident the move looked.",
+   "payoff_ts": 27.6,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 77,
+   "viral_verdict": "ok",
+   "viral_version": 11,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 87.0,
+   "insights": 86,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1186,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 20,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 36.3,
+     "at": "2026-11-13T08:21:16+00:00"
+    },
+    "72h": {
+     "views": 1247,
+     "engaged_views": 722,
+     "avg_view_pct": 58.14,
+     "likes": 20,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 66.3,
+     "at": "2026-11-14T14:21:19+00:00"
+    },
+    "7d": {
+     "views": 1288,
+     "engaged_views": 827,
+     "avg_view_pct": 58.540000000000006,
+     "likes": 20,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-18T08:23:39+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "1zQKJgJxOSI",
+   "production_id": "rank-261104-vu1k",
+   "status": "published",
+   "title": "TOP 5 KAYAK FLIP MOMENTS",
+   "published_at": "2026-11-11T17:00:06.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/1zQKJgJxOSI.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/1zQKJgJxOSI.json",
+   "views_24h": 971,
+   "views_72h": 1098,
+   "views_7d": 1140,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 11.2,
+      "ratio_at": 0.35,
+      "drop_pct_pts": 4.3
+     },
+     {
+      "at_s": 19.2,
+      "ratio_at": 0.6,
+      "drop_pct_pts": 3.9
+     },
+     {
+      "at_s": 6.7,
+      "ratio_at": 0.21,
+      "drop_pct_pts": 3.6
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 19.2,
+      "ratio_at": 0.6,
+      "drop_pct_pts": 4.5
+     },
+     {
+      "at_s": 11.2,
+      "ratio_at": 0.35,
+      "drop_pct_pts": 3.7
+     },
+     {
+      "at_s": 6.7,
+      "ratio_at": 0.21,
+      "drop_pct_pts": 3.5
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease + Mute-Proof Overlay",
+   "hook_premise": "Five paddlers go off a dock, steps or lock wall sure of it, and each flip gets wilder; #1 is a tumble down a weir into whitewater foam, and he comes up fine.",
+   "payoff_ts": 27.4,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 76,
+   "viral_verdict": "pass",
+   "viral_version": 8,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": 86,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 971,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 10,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 21.4,
+     "at": "2026-11-12T14:21:24+00:00"
+    },
+    "72h": {
+     "views": 1098,
+     "engaged_views": 457,
+     "avg_view_pct": 56.28999999999999,
+     "likes": 10,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 69.4,
+     "at": "2026-11-14T14:21:19+00:00"
+    },
+    "7d": {
+     "views": 1140,
+     "engaged_views": 572,
+     "avg_view_pct": 58.53,
+     "likes": 10,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-18T08:23:39+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "Ur8BL5ahtnI",
+   "production_id": "rank-261104-r8w6",
+   "status": "published",
+   "title": "TOP 5 WEDDING FAIL MOMENTS",
+   "published_at": "2026-11-11T02:00:05.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/Ur8BL5ahtnI.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/Ur8BL5ahtnI.json",
+   "views_24h": 966,
+   "views_72h": 1031,
+   "views_7d": 1029,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 5.6,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 4.3
+     },
+     {
+      "at_s": 1.2,
+      "ratio_at": 0.04,
+      "drop_pct_pts": 3.6
+     },
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 3.6
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 4.2
+     },
+     {
+      "at_s": 5.6,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 4.2
+     },
+     {
+      "at_s": 1.2,
+      "ratio_at": 0.04,
+      "drop_pct_pts": 3.5
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease + Mute-Proof Overlay",
+   "hook_premise": "A perfect wedding day, and five guests confidently prove it wrong; #1 is a bridesmaid who limbos under a bar and ends up laughing on the lawn.",
+   "payoff_ts": 28.6,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 79,
+   "viral_verdict": "pass",
+   "viral_version": 5,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 88.0,
+   "insights": 88,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 966,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 14,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 31.2,
+     "at": "2026-11-12T09:14:24+00:00"
+    },
+    "72h": {
+     "views": 1031,
+     "engaged_views": 138,
+     "avg_view_pct": 49.08,
+     "likes": 14,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 78.4,
+     "at": "2026-11-14T08:21:18+00:00"
+    },
+    "7d": {
+     "views": 1029,
+     "engaged_views": 142,
+     "avg_view_pct": 48.51,
+     "likes": 14,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-17T14:22:16+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "RNtdgUf-pZc",
+   "production_id": "rank-261104-srg3",
+   "status": "published",
+   "title": "TOP 5 REFLEX SAVE MOMENTS",
+   "published_at": "2026-11-10T23:00:23.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/RNtdgUf-pZc.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/RNtdgUf-pZc.json",
+   "views_24h": 902,
+   "views_72h": 1047,
+   "views_7d": 1042,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 6.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 5.6
+     },
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 5.2
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 5.2
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 6.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 5.7
+     },
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 5.2
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 5.0
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease + Mute-Proof Overlay",
+   "hook_premise": "Five saves nobody had time to think about, and #1 is a keeper in a full-stretch flying dive who tips it away with his fingertips.",
+   "payoff_ts": 27.55,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 79,
+   "viral_verdict": "pass",
+   "viral_version": 7,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 88.0,
+   "insights": 90,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 902,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 15,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 34.2,
+     "at": "2026-11-12T09:14:24+00:00"
+    },
+    "72h": {
+     "views": 1047,
+     "engaged_views": 443,
+     "avg_view_pct": 96.81,
+     "likes": 15,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 81.3,
+     "at": "2026-11-14T08:21:18+00:00"
+    },
+    "7d": {
+     "views": 1042,
+     "engaged_views": 477,
+     "avg_view_pct": 93.57,
+     "likes": 15,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-17T14:22:16+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "FkITLrC-qQo",
+   "production_id": "rank-261104-7ofk",
+   "status": "published",
+   "title": "TOP 5 ROLLER SKATE MOMENTS",
+   "published_at": "2026-11-10T20:00:18.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/FkITLrC-qQo.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/FkITLrC-qQo.json",
+   "views_24h": 1318,
+   "views_72h": 1342,
+   "views_7d": 1370,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 5.6,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 5.8
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 5.0
+     },
+     {
+      "at_s": 5.3,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 4.8
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 5.6,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 5.7
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 4.9
+     },
+     {
+      "at_s": 5.3,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 4.9
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease (B) + Mute-Proof Overlay",
+   "hook_premise": "A dad vs a whole roller rink: he goes full send and slides across it on his seat. Who wipes out biggest?",
+   "payoff_ts": 26.5,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 78,
+   "viral_verdict": "pass",
+   "viral_version": 5,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 88.0,
+   "insights": 87,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1318,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 13,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 37.2,
+     "at": "2026-11-12T09:14:24+00:00"
+    },
+    "72h": {
+     "views": 1342,
+     "engaged_views": 644,
+     "avg_view_pct": 47.17,
+     "likes": 13,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 66.4,
+     "at": "2026-11-13T14:21:30+00:00"
+    },
+    "7d": {
+     "views": 1370,
+     "engaged_views": 819,
+     "avg_view_pct": 91.38,
+     "likes": 13,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-17T08:24:19+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "jtWQKlk5GPo",
+   "production_id": "rank-261104-oxx5",
+   "status": "published",
+   "title": "TOP 5 TRICK SHOT MOMENTS",
+   "published_at": "2026-11-10T17:00:27.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/jtWQKlk5GPo.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/jtWQKlk5GPo.json",
+   "views_24h": 1380,
+   "views_72h": 1851,
+   "views_7d": 2532,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 5.1
+     },
+     {
+      "at_s": 6.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 4.3
+     },
+     {
+      "at_s": 5.3,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 3.9
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 4.6
+     },
+     {
+      "at_s": 6.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 4.2
+     },
+     {
+      "at_s": 5.3,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 3.6
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease + Mute-Proof Overlay",
+   "hook_premise": "A shooter far behind the court vs a rim-cam: the ball arcs into the camera and still goes through the net.",
+   "payoff_ts": 27.43,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 76,
+   "viral_verdict": "pass",
+   "viral_version": 9,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 87.0,
+   "insights": 85,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1380,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 14,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 21.4,
+     "at": "2026-11-11T14:21:55+00:00"
+    },
+    "72h": {
+     "views": 1851,
+     "engaged_views": 664,
+     "avg_view_pct": 50.29,
+     "likes": 17,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 69.4,
+     "at": "2026-11-13T14:21:30+00:00"
+    },
+    "7d": {
+     "views": 2532,
+     "engaged_views": 1442,
+     "avg_view_pct": 52.57999999999999,
+     "likes": 23,
+     "comments": 1,
+     "shares": 1,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-17T08:24:19+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "7UHl8svO93c",
+   "production_id": "rank-261104-0bk4",
+   "status": "published",
+   "title": "TOP 5 PARKOUR LANDING MOMENTS",
+   "published_at": "2026-11-10T02:00:15.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/7UHl8svO93c.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/7UHl8svO93c.json",
+   "views_24h": 976,
+   "views_72h": 1092,
+   "views_7d": 1095,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.13,
+      "drop_pct_pts": 9.1
+     },
+     {
+      "at_s": 12.2,
+      "ratio_at": 0.38,
+      "drop_pct_pts": 9.1
+     },
+     {
+      "at_s": 6.1,
+      "ratio_at": 0.19,
+      "drop_pct_pts": 6.1
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 12.2,
+      "ratio_at": 0.38,
+      "drop_pct_pts": 6.2
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.13,
+      "drop_pct_pts": 5.2
+     },
+     {
+      "at_s": 5.8,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 5.2
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease (B) + Mute-Proof Overlay",
+   "hook_premise": "Five parkour landings, one 11 m crane drop into a haystack: who sticks it cleanest?",
+   "payoff_ts": 29.3,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 74,
+   "viral_verdict": "borderline",
+   "viral_version": 17,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 88.0,
+   "insights": 85,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 976,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 7,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 30.4,
+     "at": "2026-11-11T08:21:36+00:00"
+    },
+    "72h": {
+     "views": 1092,
+     "engaged_views": 33,
+     "avg_view_pct": 50.79,
+     "likes": 8,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 78.4,
+     "at": "2026-11-13T08:21:16+00:00"
+    },
+    "7d": {
+     "views": 1095,
+     "engaged_views": 94,
+     "avg_view_pct": 41,
+     "likes": 8,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.3,
+     "at": "2026-11-16T14:21:04+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "_9gOG4xgiCs",
+   "production_id": "rank-261104-6a08",
+   "status": "published",
+   "title": "TOP 5 WATERSLIDE FAIL MOMENTS",
+   "published_at": "2026-11-09T23:00:04.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/_9gOG4xgiCs.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/_9gOG4xgiCs.json",
+   "views_24h": 1055,
+   "views_72h": 1177,
+   "views_7d": 1198,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 5.8,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 5.2
+     },
+     {
+      "at_s": 11.2,
+      "ratio_at": 0.35,
+      "drop_pct_pts": 4.8
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 4.6
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 5.8,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 4.9
+     },
+     {
+      "at_s": 11.2,
+      "ratio_at": 0.35,
+      "drop_pct_pts": 4.6
+     },
+     {
+      "at_s": 6.4,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 4.2
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Number Gap",
+   "hook_premise": "A water slide promises a gentle ride; #1 flings a woman airborne for 4 seconds before she lands.",
+   "payoff_ts": 32.0,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 76,
+   "viral_verdict": "pass",
+   "viral_version": 9,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 87.0,
+   "insights": 87,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1055,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 14,
+     "comments": 2,
+     "shares": null,
+     "hours_since_publish": 33.4,
+     "at": "2026-11-11T08:21:36+00:00"
+    },
+    "72h": {
+     "views": 1177,
+     "engaged_views": 499,
+     "avg_view_pct": 55.66,
+     "likes": 15,
+     "comments": 2,
+     "shares": 0,
+     "hours_since_publish": 81.4,
+     "at": "2026-11-13T08:21:16+00:00"
+    },
+    "7d": {
+     "views": 1198,
+     "engaged_views": 592,
+     "avg_view_pct": 55.230000000000004,
+     "likes": 15,
+     "comments": 2,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-16T14:21:04+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "TWRUZgHMeP8",
+   "production_id": "rank-261104-1j3i",
+   "status": "published",
+   "title": "TOP 5 SKI CRASH MOMENTS",
+   "published_at": "2026-11-09T20:00:36.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/TWRUZgHMeP8.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/TWRUZgHMeP8.json",
+   "views_24h": 1097,
+   "views_72h": 1158,
+   "views_7d": 1187,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 6.5
+     },
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 5.3
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 4.0
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 6.2
+     },
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 5.1
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 3.8
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Withheld Contact",
+   "hook_premise": "A helper vs one fallen skier: she tries to haul her friend up and goes down too.",
+   "payoff_ts": 27.3,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 76,
+   "viral_verdict": "pass gate 75 (narrow)",
+   "viral_version": 6,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": 91,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1097,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 11,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 36.4,
+     "at": "2026-11-11T08:21:36+00:00"
+    },
+    "72h": {
+     "views": 1158,
+     "engaged_views": 449,
+     "avg_view_pct": 45.49,
+     "likes": 11,
+     "comments": 0,
+     "shares": 1,
+     "hours_since_publish": 66.3,
+     "at": "2026-11-12T14:21:24+00:00"
+    },
+    "7d": {
+     "views": 1187,
+     "engaged_views": 554,
+     "avg_view_pct": 46.92,
+     "likes": 12,
+     "comments": 0,
+     "shares": 1,
+     "hours_since_publish": 156.3,
+     "at": "2026-11-16T08:21:27+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "iUTzirpSumg",
+   "production_id": "rank-261104-hsgk",
+   "status": "published",
+   "title": "TOP 5 GYM FAIL MOMENTS",
+   "published_at": "2026-11-09T17:00:27.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/iUTzirpSumg.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/iUTzirpSumg.json",
+   "views_24h": 1262,
+   "views_72h": 1355,
+   "views_7d": 1435,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 6.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 11.8
+     },
+     {
+      "at_s": 6.5,
+      "ratio_at": 0.21,
+      "drop_pct_pts": 6.9
+     },
+     {
+      "at_s": 6.8,
+      "ratio_at": 0.22,
+      "drop_pct_pts": 4.4
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 6.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 11.2
+     },
+     {
+      "at_s": 6.5,
+      "ratio_at": 0.21,
+      "drop_pct_pts": 6.3
+     },
+     {
+      "at_s": 6.8,
+      "ratio_at": 0.22,
+      "drop_pct_pts": 4.1
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease (Punch-In)",
+   "hook_premise": "Five gym fails ranked by how badly the machine wins: a treadmill row vs one man, and the treadmill throws him into a full flip.",
+   "payoff_ts": 27.3,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 71,
+   "viral_verdict": "weak",
+   "viral_version": 5,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 89.0,
+   "insights": 90,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1262,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 7,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 21.4,
+     "at": "2026-11-10T14:21:27+00:00"
+    },
+    "72h": {
+     "views": 1355,
+     "engaged_views": 649,
+     "avg_view_pct": 52.67000000000001,
+     "likes": 8,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 69.3,
+     "at": "2026-11-12T14:21:24+00:00"
+    },
+    "7d": {
+     "views": 1435,
+     "engaged_views": 764,
+     "avg_view_pct": 53.06999999999999,
+     "likes": 8,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-16T08:21:27+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "y2uF3GVKnAc",
+   "production_id": "rank-261104-qw95",
+   "status": "published",
+   "title": "TOP 5 POOL JUMP MOMENTS",
+   "published_at": "2026-11-09T02:00:27.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/y2uF3GVKnAc.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/y2uF3GVKnAc.json",
+   "views_24h": 1023,
+   "views_72h": 1124,
+   "views_7d": 1139,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 5.5,
+      "ratio_at": 0.19,
+      "drop_pct_pts": 7.4
+     },
+     {
+      "at_s": 5.2,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 6.1
+     },
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 5.6
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 5.5,
+      "ratio_at": 0.19,
+      "drop_pct_pts": 7.9
+     },
+     {
+      "at_s": 5.2,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 7.2
+     },
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 5.3
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease (#1 burst) + Mute-Proof Overlay",
+   "hook_premise": "A confident run-up vs a 3-foot kiddie pool: the pool wins and throws her onto the concrete",
+   "payoff_ts": 25.8,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 74,
+   "viral_verdict": "weak",
+   "viral_version": 11,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 85.0,
+   "insights": 87,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1023,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 8,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 34.5,
+     "at": "2026-11-10T12:27:31+00:00"
+    },
+    "72h": {
+     "views": 1124,
+     "engaged_views": 231,
+     "avg_view_pct": 48.28,
+     "likes": 7,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 79.2,
+     "at": "2026-11-12T09:14:24+00:00"
+    },
+    "7d": {
+     "views": 1139,
+     "engaged_views": 316,
+     "avg_view_pct": 48.98,
+     "likes": 7,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-15T14:21:29+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "vX6nN0EqM-c",
+   "production_id": "rank-261104-ewa7",
+   "status": "published",
+   "title": "TOP 5 SCOOTER FAIL MOMENTS",
+   "published_at": "2026-11-08T23:00:24.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/vX6nN0EqM-c.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/vX6nN0EqM-c.json",
+   "views_24h": 1328,
+   "views_72h": 1509,
+   "views_7d": 1581,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 15.5,
+      "ratio_at": 0.5,
+      "drop_pct_pts": 4.7
+     },
+     {
+      "at_s": 14.6,
+      "ratio_at": 0.47,
+      "drop_pct_pts": 3.4
+     },
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 3.1
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 15.5,
+      "ratio_at": 0.5,
+      "drop_pct_pts": 4.5
+     },
+     {
+      "at_s": 14.6,
+      "ratio_at": 0.47,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 3.4
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease + Withheld Contact",
+   "hook_premise": "Five scooter wipeouts, everyone gets up: how does the #1 bail off the coping end?",
+   "payoff_ts": 27.7,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 78,
+   "viral_verdict": "pass at the gate (75)",
+   "viral_version": 7,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 87.0,
+   "insights": 87,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1328,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 7,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 37.5,
+     "at": "2026-11-10T12:27:31+00:00"
+    },
+    "72h": {
+     "views": 1509,
+     "engaged_views": 772,
+     "avg_view_pct": 50.25999999999999,
+     "likes": 8,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 82.2,
+     "at": "2026-11-12T09:14:24+00:00"
+    },
+    "7d": {
+     "views": 1581,
+     "engaged_views": 951,
+     "avg_view_pct": 51.35999999999999,
+     "likes": 8,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-15T14:21:29+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "xVLvrivgpQA",
+   "production_id": "rank-261104-0sf9",
+   "status": "published",
+   "title": "TOP 5 ICE SLIP MOMENTS",
+   "published_at": "2026-11-08T20:00:13.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/xVLvrivgpQA.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/xVLvrivgpQA.json",
+   "views_24h": 1175,
+   "views_72h": 1225,
+   "views_7d": 1229,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.12,
+      "drop_pct_pts": 8.0
+     },
+     {
+      "at_s": 6.5,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 6.1
+     },
+     {
+      "at_s": 5.3,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 5.5
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.12,
+      "drop_pct_pts": 7.7
+     },
+     {
+      "at_s": 6.5,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 6.8
+     },
+     {
+      "at_s": 6.1,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 5.6
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease",
+   "hook_premise": "Ice always wins: five people confidently walking on ice, each beaten harder than the last; #1 dances on black ice trying not to fall.",
+   "payoff_ts": 34.3,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 78,
+   "viral_verdict": "pass",
+   "viral_version": 8,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 87.0,
+   "insights": 86,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1175,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 19,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 40.5,
+     "at": "2026-11-10T12:27:31+00:00"
+    },
+    "72h": {
+     "views": 1225,
+     "engaged_views": 607,
+     "avg_view_pct": 39.69,
+     "likes": 19,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 66.4,
+     "at": "2026-11-11T14:21:55+00:00"
+    },
+    "7d": {
+     "views": 1229,
+     "engaged_views": 680,
+     "avg_view_pct": 39.27,
+     "likes": 19,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-15T08:21:14+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "EPXZUiQg_4E",
+   "production_id": "rank-261104-ht3k",
+   "status": "published",
+   "title": "TOP 5 TRAMPOLINE FAIL MOMENTS",
+   "published_at": "2026-11-08T17:00:28.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/EPXZUiQg_4E.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/EPXZUiQg_4E.json",
+   "views_24h": 1179,
+   "views_72h": 1180,
+   "views_7d": 1180,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 17.2,
+      "ratio_at": 0.52,
+      "drop_pct_pts": 6.1
+     },
+     {
+      "at_s": 5.6,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 5.1
+     },
+     {
+      "at_s": 5.9,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 5.1
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 17.2,
+      "ratio_at": 0.52,
+      "drop_pct_pts": 6.1
+     },
+     {
+      "at_s": 5.6,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 5.1
+     },
+     {
+      "at_s": 5.9,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 5.1
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease (+ Mute-Proof Overlay)",
+   "hook_premise": "Five trampoline plans that went wrong; in #1 the whole trampoline gives up and tips over with him.",
+   "payoff_ts": 30.5,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 77,
+   "viral_verdict": "pass (borderline)",
+   "viral_version": 10,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 87.0,
+   "insights": 95,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1179,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 15,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 21.4,
+     "at": "2026-11-09T14:22:02+00:00"
+    },
+    "72h": {
+     "views": 1180,
+     "engaged_views": 585,
+     "avg_view_pct": 52.18000000000001,
+     "likes": 15,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 69.4,
+     "at": "2026-11-11T14:21:55+00:00"
+    },
+    "7d": {
+     "views": 1180,
+     "engaged_views": 591,
+     "avg_view_pct": 52.09,
+     "likes": 15,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.3,
+     "at": "2026-11-15T08:21:14+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "YGykNkLI1l8",
+   "production_id": "rank-261104-maa1",
+   "status": "published",
+   "title": "TOP 5 PARKOUR FAIL MOMENTS",
+   "published_at": "2026-11-08T02:00:35.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/YGykNkLI1l8.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/YGykNkLI1l8.json",
+   "views_24h": 2038,
+   "views_72h": 2206,
+   "views_7d": 2227,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 11.5,
+      "ratio_at": 0.36,
+      "drop_pct_pts": 4.0
+     },
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 3.7
+     },
+     {
+      "at_s": 7.0,
+      "ratio_at": 0.22,
+      "drop_pct_pts": 3.5
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 11.5,
+      "ratio_at": 0.36,
+      "drop_pct_pts": 3.6
+     },
+     {
+      "at_s": 4.5,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 3.4
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease + Mute-Proof Overlay",
+   "hook_premise": "Five parkour plans fall apart, every runner walks away, and #1 gets up with both arms raised.",
+   "payoff_ts": 30.0,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 80,
+   "viral_verdict": "pass",
+   "viral_version": 10,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 85.0,
+   "insights": 85,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 2038,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 17,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 30.4,
+     "at": "2026-11-09T08:24:14+00:00"
+    },
+    "72h": {
+     "views": 2206,
+     "engaged_views": 402,
+     "avg_view_pct": 144.77,
+     "likes": 20,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 78.4,
+     "at": "2026-11-11T08:21:36+00:00"
+    },
+    "7d": {
+     "views": 2227,
+     "engaged_views": 508,
+     "avg_view_pct": 124.93,
+     "likes": 21,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.3,
+     "at": "2026-11-14T14:21:19+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "ZJIhhh_Bx3g",
+   "production_id": "rank-261104-7kos",
+   "status": "published",
+   "title": "TOP 5 BIKE FAIL MOMENTS",
+   "published_at": "2026-11-07T23:00:29.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/ZJIhhh_Bx3g.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/ZJIhhh_Bx3g.json",
+   "views_24h": 1069,
+   "views_72h": 1069,
+   "views_7d": 1067,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 12.7
+     },
+     {
+      "at_s": 4.5,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 6.6
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 5.9
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 12.7
+     },
+     {
+      "at_s": 4.5,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 6.6
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 5.9
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease + Mute-Proof Overlay (brand default)",
+   "hook_premise": "Five riders go full send and the plan falls apart; #1 is a mega-ramp backflip that ends against the wall. Every rider walks away (confirm for #1).",
+   "payoff_ts": 30.0,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 79,
+   "viral_verdict": "pass",
+   "viral_version": 10,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 88.0,
+   "insights": 91,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1069,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 12,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 33.4,
+     "at": "2026-11-09T08:24:14+00:00"
+    },
+    "72h": {
+     "views": 1069,
+     "engaged_views": 574,
+     "avg_view_pct": 43.28,
+     "likes": 12,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 81.4,
+     "at": "2026-11-11T08:21:36+00:00"
+    },
+    "7d": {
+     "views": 1067,
+     "engaged_views": 574,
+     "avg_view_pct": 43.28,
+     "likes": 12,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.3,
+     "at": "2026-11-14T14:21:19+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "SjTFUIXeMn4",
+   "production_id": "rank-261104-jti1",
+   "status": "published",
+   "title": "TOP 5 MOUNTAIN FLIGHT MOMENTS",
+   "published_at": "2026-11-07T20:00:18.000Z",
+   "views": 0,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/SjTFUIXeMn4.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/SjTFUIXeMn4.json",
+   "views_24h": 1399,
+   "views_72h": 1408,
+   "views_7d": 1443,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 19.0,
+      "ratio_at": 0.56,
+      "drop_pct_pts": 4.0
+     },
+     {
+      "at_s": 6.1,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 3.7
+     },
+     {
+      "at_s": 8.5,
+      "ratio_at": 0.25,
+      "drop_pct_pts": 3.7
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 8.5,
+      "ratio_at": 0.25,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 19.0,
+      "ratio_at": 0.56,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 6.1,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 3.7
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease (#1 powder cloud beside the wing, 1.2 s) + Named-Outcome Question",
+   "hook_premise": "A speedrider with skis and a wing vs a snow face that lets go beside him: which of five mountain flights does the Judge rank first?",
+   "payoff_ts": 30.2,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 77,
+   "viral_verdict": "solid",
+   "viral_version": 5,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 90.0,
+   "insights": 94,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1399,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 21,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 36.4,
+     "at": "2026-11-09T08:24:14+00:00"
+    },
+    "72h": {
+     "views": 1408,
+     "engaged_views": 656,
+     "avg_view_pct": 54.89000000000001,
+     "likes": 19,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 66.4,
+     "at": "2026-11-10T14:21:27+00:00"
+    },
+    "7d": {
+     "views": 1443,
+     "engaged_views": 704,
+     "avg_view_pct": 54.47,
+     "likes": 20,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-14T08:21:18+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "mwrbW6cB7y4",
+   "production_id": "rank-261104-lq04",
+   "status": "published",
+   "title": "TOP 5 HUMAN FLIGHT MOMENTS",
+   "published_at": "2026-11-07T17:00:30.000Z",
+   "views": 312,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/mwrbW6cB7y4.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/mwrbW6cB7y4.json",
+   "views_24h": 1273,
+   "views_72h": 1514,
+   "views_7d": 1675,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.13,
+      "drop_pct_pts": 4.1
+     },
+     {
+      "at_s": 4.4,
+      "ratio_at": 0.12,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 5.5,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 3.7
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.13,
+      "drop_pct_pts": 4.1
+     },
+     {
+      "at_s": 4.4,
+      "ratio_at": 0.12,
+      "drop_pct_pts": 4.0
+     },
+     {
+      "at_s": 5.2,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 3.5
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Punch-In (#1 canyon pass) + Challenge Caption",
+   "hook_premise": "Five ways a human flies: which one does the Judge rank first, a canyon-wall pass or a bridge?",
+   "payoff_ts": 29.7,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 78,
+   "viral_verdict": "pass",
+   "viral_version": 16,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 89.0,
+   "insights": 86,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1273,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 17,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 21.3,
+     "at": "2026-11-08T14:21:12+00:00"
+    },
+    "72h": {
+     "views": 1514,
+     "engaged_views": 614,
+     "avg_view_pct": 45.01,
+     "likes": 23,
+     "comments": 0,
+     "shares": 1,
+     "hours_since_publish": 67.5,
+     "at": "2026-11-10T12:27:31+00:00"
+    },
+    "7d": {
+     "views": 1675,
+     "engaged_views": 799,
+     "avg_view_pct": 49.29,
+     "likes": 27,
+     "comments": 0,
+     "shares": 1,
+     "hours_since_publish": 159.3,
+     "at": "2026-11-14T08:21:18+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "uyej8PBxFzQ",
+   "production_id": "rank-261104-tpir",
+   "status": "published",
+   "title": "TOP 5 WINGSUIT FLIGHT MOMENTS",
+   "published_at": "2026-11-07T02:00:34.000Z",
+   "views": 1884,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/uyej8PBxFzQ.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/uyej8PBxFzQ.json",
+   "views_24h": 2104,
+   "views_72h": 2279,
+   "views_7d": 2331,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 0.3,
+      "ratio_at": 0.01,
+      "drop_pct_pts": 5.4
+     },
+     {
+      "at_s": 0.7,
+      "ratio_at": 0.02,
+      "drop_pct_pts": 4.3
+     },
+     {
+      "at_s": 5.3,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 4.3
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 0.3,
+      "ratio_at": 0.01,
+      "drop_pct_pts": 5.6
+     },
+     {
+      "at_s": 0.7,
+      "ratio_at": 0.02,
+      "drop_pct_pts": 4.2
+     },
+     {
+      "at_s": 5.3,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 4.1
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Honest Near-Miss (#4 granite wall skim, real proximity) + Named-Outcome Question",
+   "hook_premise": "A wingsuiter vs a granite wall: how close is too close, and which flight is #1?",
+   "payoff_ts": 29.8,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 80,
+   "viral_verdict": "pass",
+   "viral_version": 12,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 90.0,
+   "insights": 93,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 2104,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 20,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 23.5,
+     "at": "2026-11-08T01:31:06+00:00"
+    },
+    "72h": {
+     "views": 2279,
+     "engaged_views": 629,
+     "avg_view_pct": 59,
+     "likes": 22,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 82.4,
+     "at": "2026-11-10T12:27:31+00:00"
+    },
+    "7d": {
+     "views": 2331,
+     "engaged_views": 731,
+     "avg_view_pct": 58.099999999999994,
+     "likes": 23,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.3,
+     "at": "2026-11-13T14:21:30+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "m_L1BAPEXNg",
+   "production_id": "rank-261104-3gcs",
+   "status": "published",
+   "title": "TOP 5 CLIFF JUMP MOMENTS",
+   "published_at": "2026-11-06T23:00:15.000Z",
+   "views": 1079,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/m_L1BAPEXNg.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/m_L1BAPEXNg.json",
+   "views_24h": 1084,
+   "views_72h": 1143,
+   "views_7d": 1155,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 6.3,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 6.3
+     },
+     {
+      "at_s": 4.5,
+      "ratio_at": 0.13,
+      "drop_pct_pts": 5.6
+     },
+     {
+      "at_s": 4.9,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 5.2
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 6.3,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 6.5
+     },
+     {
+      "at_s": 4.5,
+      "ratio_at": 0.13,
+      "drop_pct_pts": 5.2
+     },
+     {
+      "at_s": 4.9,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 4.9
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Hard Open on the fall (Glimpse of #1 swan dive mid-air) + Named-Outcome Question",
+   "hook_premise": "Five cliff jumps, one judge: which jump is #1?",
+   "payoff_ts": 32.2,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 77,
+   "viral_verdict": "solid (gate 75)",
+   "viral_version": 18,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 88.0,
+   "insights": 89,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1084,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 13,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 26.5,
+     "at": "2026-11-08T01:31:06+00:00"
+    },
+    "72h": {
+     "views": 1143,
+     "engaged_views": 521,
+     "avg_view_pct": 47.6,
+     "likes": 14,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 85.5,
+     "at": "2026-11-10T12:27:31+00:00"
+    },
+    "7d": {
+     "views": 1155,
+     "engaged_views": 555,
+     "avg_view_pct": 47.29,
+     "likes": 14,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-13T14:21:30+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "oQa5v2zDpz8",
+   "production_id": "rank-261104-2x0j",
+   "status": "published",
+   "title": "TOP 5 FMX INVERTED MOMENTS",
+   "published_at": "2026-11-06T20:00:31.000Z",
+   "views": 1005,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/oQa5v2zDpz8.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/oQa5v2zDpz8.json",
+   "views_24h": 1018,
+   "views_72h": 1054,
+   "views_7d": 1070,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 7.6
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 7.5
+     },
+     {
+      "at_s": 6.7,
+      "ratio_at": 0.21,
+      "drop_pct_pts": 4.9
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 7.5
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 7.5
+     },
+     {
+      "at_s": 6.7,
+      "ratio_at": 0.21,
+      "drop_pct_pts": 4.7
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Glimpse Tease (#1 hold, 0.6 s) + Number Gap",
+   "hook_premise": "Five FMX riders go upside down on a dirt bike: which hold is #1?",
+   "payoff_ts": 27.2,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 78,
+   "viral_verdict": "pass",
+   "viral_version": 14,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 87.0,
+   "insights": 86,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1018,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 22,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 29.5,
+     "at": "2026-11-08T01:31:06+00:00"
+    },
+    "72h": {
+     "views": 1054,
+     "engaged_views": 460,
+     "avg_view_pct": 47.06,
+     "likes": 22,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 66.4,
+     "at": "2026-11-09T14:22:02+00:00"
+    },
+    "7d": {
+     "views": 1070,
+     "engaged_views": 509,
+     "avg_view_pct": 45.91,
+     "likes": 22,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.3,
+     "at": "2026-11-13T08:21:16+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "3s_1ZamOkU8",
+   "production_id": "rank-261104-ozok",
+   "status": "published",
+   "title": "TOP 5 AIR STUNT MOMENTS",
+   "published_at": "2026-11-06T17:00:06.000Z",
+   "views": 1110,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/3s_1ZamOkU8.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/3s_1ZamOkU8.json",
+   "views_24h": 1111,
+   "views_72h": 1123,
+   "views_7d": 1137,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 6.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 6.3
+     },
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 6.1
+     },
+     {
+      "at_s": 7.1,
+      "ratio_at": 0.23,
+      "drop_pct_pts": 4.7
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 6.4
+     },
+     {
+      "at_s": 6.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 6.1
+     },
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 4.6
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Punch-In on #1 flip + Named-Outcome Question",
+   "hook_premise": "Five airborne stunts, one judge: which flip is #1?",
+   "payoff_ts": 26.8,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 77,
+   "viral_verdict": "pass",
+   "viral_version": 6,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 85.0,
+   "insights": 86,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1111,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 10,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 32.5,
+     "at": "2026-11-08T01:31:06+00:00"
+    },
+    "72h": {
+     "views": 1123,
+     "engaged_views": 441,
+     "avg_view_pct": 58.31000000000001,
+     "likes": 10,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 69.4,
+     "at": "2026-11-09T14:22:02+00:00"
+    },
+    "7d": {
+     "views": 1137,
+     "engaged_views": 455,
+     "avg_view_pct": 58.5,
+     "likes": 10,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-13T08:21:16+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "FKl9ClELqGc",
+   "production_id": "rank-261103-m8x6",
+   "status": "published",
+   "title": "TOP 5 MBAPPE RUN MOMENTS",
+   "published_at": "2026-11-06T02:00:22.000Z",
+   "views": 1271,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/FKl9ClELqGc.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/FKl9ClELqGc.json",
+   "views_24h": 1274,
+   "views_72h": 1258,
+   "views_7d": 1294,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 7.4,
+      "ratio_at": 0.23,
+      "drop_pct_pts": 4.4
+     },
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 3.8
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 7.4,
+      "ratio_at": 0.23,
+      "drop_pct_pts": 4.4
+     },
+     {
+      "at_s": 0.3,
+      "ratio_at": 0.01,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 3.8
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Hard Open on #5 + Named-Outcome Question",
+   "hook_premise": "Five Mbappe runs ranked by how tight the gap was; #1 squeezes between two Atalanta defenders and keeps the ball.",
+   "payoff_ts": 26.35,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 78,
+   "viral_verdict": "solid",
+   "viral_version": 17,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 88.0,
+   "insights": 88,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1274,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 24,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 47.5,
+     "at": "2026-11-08T01:31:06+00:00"
+    },
+    "72h": {
+     "views": 1258,
+     "engaged_views": 340,
+     "avg_view_pct": 80.12,
+     "likes": 25,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 78.4,
+     "at": "2026-11-09T08:24:14+00:00"
+    },
+    "7d": {
+     "views": 1294,
+     "engaged_views": 365,
+     "avg_view_pct": 78.16,
+     "likes": 25,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-12T14:21:24+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "w058faz6pz4",
+   "production_id": "rank-261103-7svj",
+   "status": "published",
+   "title": "TOP 5 SALAH SKILL MOMENTS",
+   "published_at": "2026-11-05T23:00:29.000Z",
+   "views": 969,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/w058faz6pz4.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/w058faz6pz4.json",
+   "views_24h": null,
+   "views_72h": 1163,
+   "views_7d": 1165,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 7.0
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 7.0
+     },
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 5.6
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 7.0
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 6.3
+     },
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 5.2
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Hard Open on #5 run + Named-Outcome Question",
+   "hook_premise": "Five Salah moments ranked by how little the defender could do; #1 is a free kick that ends in the net.",
+   "payoff_ts": 33.5,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 75,
+   "viral_verdict": "pass (marginal)",
+   "viral_version": 14,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 90.0,
+   "insights": 88,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "72h": {
+     "views": 1163,
+     "engaged_views": 442,
+     "avg_view_pct": 41.24,
+     "likes": 7,
+     "comments": 0,
+     "shares": 1,
+     "hours_since_publish": 81.4,
+     "at": "2026-11-09T08:24:14+00:00"
+    },
+    "7d": {
+     "views": 1165,
+     "engaged_views": 543,
+     "avg_view_pct": 41.53,
+     "likes": 7,
+     "comments": 0,
+     "shares": 1,
+     "hours_since_publish": 159.3,
+     "at": "2026-11-12T14:21:24+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "CYJrQKbtfkc",
+   "production_id": "rank-261103-ogjg",
+   "status": "published",
+   "title": "TOP 5 RONALDO SKILL MOMENTS",
+   "published_at": "2026-11-05T20:00:18.000Z",
+   "views": 923,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/CYJrQKbtfkc.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/CYJrQKbtfkc.json",
+   "views_24h": null,
+   "views_72h": 930,
+   "views_7d": 942,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 6.9
+     },
+     {
+      "at_s": 5.8,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 6.6
+     },
+     {
+      "at_s": 6.1,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 5.7
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 6.7
+     },
+     {
+      "at_s": 5.8,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 6.6
+     },
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 5.5
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": "Scripted Wrong-Guess / benign violation (spoken, A)",
+   "hook_premise": "Ronaldo gets the defender to commit, then beats him: five of them, ranked by how far the defender is left behind, and the last one is not a dribble.",
+   "payoff_ts": 31.2,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 82,
+   "viral_verdict": null,
+   "viral_version": 12,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 90.0,
+   "insights": 94,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "72h": {
+     "views": 930,
+     "engaged_views": 151,
+     "avg_view_pct": 45.25,
+     "likes": 32,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 66.3,
+     "at": "2026-11-08T14:21:12+00:00"
+    },
+    "7d": {
+     "views": 942,
+     "engaged_views": 361,
+     "avg_view_pct": 56.2,
+     "likes": 33,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 157.2,
+     "at": "2026-11-12T09:14:24+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "ylcq_rjbbNw",
+   "production_id": "rank-261031-5d5e",
+   "status": "published",
+   "title": "TOP 5 MESSI DRIBBLE MOMENTS",
+   "published_at": "2026-11-05T17:00:13.000Z",
+   "views": 1172,
+   "engaged_views": null,
+   "avg_view_pct": null,
+   "comments": 0,
+   "shares": null,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/ylcq_rjbbNw.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/ylcq_rjbbNw.json",
+   "views_24h": null,
+   "views_72h": 1173,
+   "views_7d": 1186,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.12,
+      "drop_pct_pts": 4.6
+     },
+     {
+      "at_s": 4.9,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 4.6
+     },
+     {
+      "at_s": 6.0,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 4.3
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.9,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 4.9
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.12,
+      "drop_pct_pts": 4.5
+     },
+     {
+      "at_s": 6.0,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 4.4
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 78,
+   "viral_verdict": null,
+   "viral_version": 9,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 85.0,
+   "insights": 90,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "72h": {
+     "views": 1173,
+     "engaged_views": 530,
+     "avg_view_pct": 64.87,
+     "likes": 23,
+     "comments": 0,
+     "shares": 1,
+     "hours_since_publish": 69.3,
+     "at": "2026-11-08T14:21:12+00:00"
+    },
+    "7d": {
+     "views": 1186,
+     "engaged_views": 551,
+     "avg_view_pct": 64.4,
+     "likes": 24,
+     "comments": 0,
+     "shares": 1,
+     "hours_since_publish": 160.2,
+     "at": "2026-11-12T09:14:24+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "wL4omemrTSk",
+   "production_id": "rank-261102-r94q",
+   "status": "published",
+   "title": "TOP 5 BIKE SKY MOMENTS",
+   "published_at": "2026-11-05T02:00:13.000Z",
+   "views": 1121,
+   "engaged_views": 693,
+   "avg_view_pct": 45.5,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/wL4omemrTSk.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/wL4omemrTSk.json",
+   "views_24h": null,
+   "views_72h": 1367,
+   "views_7d": 1368,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 9.8
+     },
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 9.8
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 7.3
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 9.5
+     },
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 9.5
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 7.1
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 78,
+   "viral_verdict": null,
+   "viral_version": 9,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": 87,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "72h": {
+     "views": 1367,
+     "engaged_views": 164,
+     "avg_view_pct": 50.84000000000001,
+     "likes": 16,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 71.5,
+     "at": "2026-11-08T01:31:06+00:00"
+    },
+    "7d": {
+     "views": 1368,
+     "engaged_views": 169,
+     "avg_view_pct": 49.97,
+     "likes": 16,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-11T14:21:55+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "hKxjV_Blg7E",
+   "production_id": "rank-261102-zjqb",
+   "status": "published",
+   "title": "TOP 5 CAT VACUUM MOMENTS",
+   "published_at": "2026-11-04T23:00:15.000Z",
+   "views": 1111,
+   "engaged_views": 338,
+   "avg_view_pct": 70.75,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/hKxjV_Blg7E.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/hKxjV_Blg7E.json",
+   "views_24h": null,
+   "views_72h": 1335,
+   "views_7d": 1337,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 6.5,
+      "ratio_at": 0.38,
+      "drop_pct_pts": 4.1
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.25,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.3,
+      "drop_pct_pts": 3.8
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.25,
+      "drop_pct_pts": 3.9
+     },
+     {
+      "at_s": 4.4,
+      "ratio_at": 0.26,
+      "drop_pct_pts": 3.4
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.3,
+      "drop_pct_pts": 3.2
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": null,
+   "viral_verdict": null,
+   "viral_version": null,
+   "viral_source": null,
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 87.0,
+   "insights": 87,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "72h": {
+     "views": 1335,
+     "engaged_views": 343,
+     "avg_view_pct": 70.51,
+     "likes": 29,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 74.5,
+     "at": "2026-11-08T01:31:06+00:00"
+    },
+    "7d": {
+     "views": 1337,
+     "engaged_views": 407,
+     "avg_view_pct": 83.51,
+     "likes": 29,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-11T14:21:55+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "JLeAtP0u_cA",
+   "production_id": "rank-261102-a1c6",
+   "status": "published",
+   "title": "TOP 5 SKATEBOARD HANDRAIL MOMENTS",
+   "published_at": "2026-11-04T20:00:20.000Z",
+   "views": 1197,
+   "engaged_views": 528,
+   "avg_view_pct": 117.33,
+   "comments": 1,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/JLeAtP0u_cA.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/JLeAtP0u_cA.json",
+   "views_24h": null,
+   "views_72h": 1593,
+   "views_7d": 1613,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.4,
+      "ratio_at": 0.26,
+      "drop_pct_pts": 3.4
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.25,
+      "drop_pct_pts": 3.1
+     },
+     {
+      "at_s": 4.9,
+      "ratio_at": 0.29,
+      "drop_pct_pts": 3.1
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.4,
+      "ratio_at": 0.26,
+      "drop_pct_pts": 3.5
+     },
+     {
+      "at_s": 5.6,
+      "ratio_at": 0.33,
+      "drop_pct_pts": 3.1
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.25,
+      "drop_pct_pts": 3.0
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 77,
+   "viral_verdict": "pass",
+   "viral_version": 8,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": 85,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "72h": {
+     "views": 1593,
+     "engaged_views": 647,
+     "avg_view_pct": 110.15000000000002,
+     "likes": 23,
+     "comments": 2,
+     "shares": 0,
+     "hours_since_publish": 77.5,
+     "at": "2026-11-08T01:31:06+00:00"
+    },
+    "7d": {
+     "views": 1613,
+     "engaged_views": 736,
+     "avg_view_pct": 104.32,
+     "likes": 23,
+     "comments": 2,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-11T08:21:36+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "XD4zbSK5xVI",
+   "production_id": "rank-261102-948s",
+   "status": "published",
+   "title": "TOP 5 BRUCE LEE MOMENTS",
+   "published_at": "2026-11-04T17:00:29.000Z",
+   "views": 56,
+   "engaged_views": 10,
+   "avg_view_pct": 97.29,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/XD4zbSK5xVI.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/XD4zbSK5xVI.json",
+   "views_24h": null,
+   "views_72h": 78,
+   "views_7d": 80,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.1,
+      "ratio_at": 0.23,
+      "drop_pct_pts": 14.3
+     },
+     {
+      "at_s": 10.3,
+      "ratio_at": 0.57,
+      "drop_pct_pts": 14.3
+     },
+     {
+      "at_s": 15.8,
+      "ratio_at": 0.88,
+      "drop_pct_pts": 14.3
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.1,
+      "ratio_at": 0.23,
+      "drop_pct_pts": 11.8
+     },
+     {
+      "at_s": 10.3,
+      "ratio_at": 0.57,
+      "drop_pct_pts": 11.8
+     },
+     {
+      "at_s": 15.8,
+      "ratio_at": 0.88,
+      "drop_pct_pts": 11.8
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 78,
+   "viral_verdict": "pass",
+   "viral_version": 2,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": 86,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "72h": {
+     "views": 78,
+     "engaged_views": 14,
+     "avg_view_pct": 87.87,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 80.5,
+     "at": "2026-11-08T01:31:06+00:00"
+    },
+    "7d": {
+     "views": 80,
+     "engaged_views": 17,
+     "avg_view_pct": 81.31,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-11T08:21:36+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "02daH5lvmtY",
+   "production_id": "rank-261102-a2e1",
+   "status": "published",
+   "title": "TOP 5 NEYMAR SKILL MOMENTS",
+   "published_at": "2026-11-03T23:00:29.000Z",
+   "views": 1241,
+   "engaged_views": 478,
+   "avg_view_pct": 57.06,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/02daH5lvmtY.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/02daH5lvmtY.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 1242,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.4,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 4.0
+     },
+     {
+      "at_s": 5.7,
+      "ratio_at": 0.26,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.19,
+      "drop_pct_pts": 3.6
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.4,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 4.0
+     },
+     {
+      "at_s": 5.7,
+      "ratio_at": 0.26,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.19,
+      "drop_pct_pts": 3.6
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 76,
+   "viral_verdict": "pass",
+   "viral_version": 6,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": 86,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 1242,
+     "engaged_views": 480,
+     "avg_view_pct": 57.10999999999999,
+     "likes": 12,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 157.5,
+     "at": "2026-11-10T12:27:31+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "XeFtJJj_Esk",
+   "production_id": "rank-261102-77t9",
+   "status": "published",
+   "title": "TOP 5 CAT LASER-POINTER MOMENTS",
+   "published_at": "2026-11-03T20:00:12.000Z",
+   "views": 1631,
+   "engaged_views": 689,
+   "avg_view_pct": 81.44,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/XeFtJJj_Esk.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/XeFtJJj_Esk.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 1643,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.3,
+      "drop_pct_pts": 5.8
+     },
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.32,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 5.9,
+      "ratio_at": 0.35,
+      "drop_pct_pts": 3.8
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.3,
+      "drop_pct_pts": 5.7
+     },
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.32,
+      "drop_pct_pts": 4.0
+     },
+     {
+      "at_s": 5.9,
+      "ratio_at": 0.35,
+      "drop_pct_pts": 3.7
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 77,
+   "viral_verdict": null,
+   "viral_version": 17,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": 86,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 1643,
+     "engaged_views": 696,
+     "avg_view_pct": 81.12,
+     "likes": 33,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 160.5,
+     "at": "2026-11-10T12:27:31+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "lO0vBgNeoYQ",
+   "production_id": "rank-261101-3789",
+   "status": "published",
+   "title": "TOP 5 CRUISE STUNT MOMENTS",
+   "published_at": "2026-11-03T17:00:04.000Z",
+   "views": 907,
+   "engaged_views": 291,
+   "avg_view_pct": 57.16,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/lO0vBgNeoYQ.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/lO0vBgNeoYQ.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 1070,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.3,
+      "drop_pct_pts": 4.7
+     },
+     {
+      "at_s": 5.2,
+      "ratio_at": 0.29,
+      "drop_pct_pts": 4.4
+     },
+     {
+      "at_s": 6.3,
+      "ratio_at": 0.35,
+      "drop_pct_pts": 4.1
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.3,
+      "drop_pct_pts": 4.7
+     },
+     {
+      "at_s": 6.3,
+      "ratio_at": 0.35,
+      "drop_pct_pts": 4.2
+     },
+     {
+      "at_s": 5.2,
+      "ratio_at": 0.29,
+      "drop_pct_pts": 4.1
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 79,
+   "viral_verdict": "pass",
+   "viral_version": 5,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 85.0,
+   "insights": 87,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 1070,
+     "engaged_views": 361,
+     "avg_view_pct": 56.71000000000001,
+     "likes": 16,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 163.5,
+     "at": "2026-11-10T12:27:31+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "daJnJoLY8vY",
+   "production_id": "rank-261101-3fw3",
+   "status": "published",
+   "title": "TOP 5 WELCOME-HOME DOG MOMENTS",
+   "published_at": "2026-11-03T02:00:00.000Z",
+   "views": 1308,
+   "engaged_views": 631,
+   "avg_view_pct": 78.3,
+   "comments": 0,
+   "shares": 2,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": null,
+   "retention_d7": null,
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 1304,
+   "drop_seconds": null,
+   "retention_status": null,
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 77,
+   "viral_verdict": "pass",
+   "viral_version": 7,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": 87,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 1304,
+     "engaged_views": 7,
+     "avg_view_pct": 70.58,
+     "likes": 32,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-09T14:22:02+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "dIzfRZqsoYA",
+   "production_id": "rank-261101-oxiz",
+   "status": "published",
+   "title": "TOP 5 SCARED CAT MOMENTS",
+   "published_at": "2026-11-02T23:00:15.000Z",
+   "views": 1706,
+   "engaged_views": 1034,
+   "avg_view_pct": 60.27,
+   "comments": 1,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/dIzfRZqsoYA.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/dIzfRZqsoYA.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 1831,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.23,
+      "drop_pct_pts": 4.0
+     },
+     {
+      "at_s": 5.3,
+      "ratio_at": 0.24,
+      "drop_pct_pts": 3.6
+     },
+     {
+      "at_s": 8.8,
+      "ratio_at": 0.4,
+      "drop_pct_pts": 3.5
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.23,
+      "drop_pct_pts": 4.0
+     },
+     {
+      "at_s": 5.3,
+      "ratio_at": 0.24,
+      "drop_pct_pts": 3.5
+     },
+     {
+      "at_s": 8.8,
+      "ratio_at": 0.4,
+      "drop_pct_pts": 3.4
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 76,
+   "viral_verdict": "pass (>=75)",
+   "viral_version": 5,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 85.0,
+   "insights": 85,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 1831,
+     "engaged_views": 1110,
+     "avg_view_pct": 59.540000000000006,
+     "likes": 42,
+     "comments": 2,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-09T14:22:02+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "iuNhKQuvd9A",
+   "production_id": "rank-261101-1o63",
+   "status": "published",
+   "title": "TOP 5 BEAN EXAM MOMENTS",
+   "published_at": "2026-11-02T20:00:27.000Z",
+   "views": 1423,
+   "engaged_views": 700,
+   "avg_view_pct": 69.6,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/iuNhKQuvd9A.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/iuNhKQuvd9A.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 1630,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 3.7
+     },
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 3.6
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.19,
+      "drop_pct_pts": 3.2
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 4.0
+     },
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 3.5
+     },
+     {
+      "at_s": 5.1,
+      "ratio_at": 0.19,
+      "drop_pct_pts": 3.1
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 77,
+   "viral_verdict": "pass",
+   "viral_version": 4,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": 86,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 1630,
+     "engaged_views": 806,
+     "avg_view_pct": 68.1,
+     "likes": 43,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-09T08:24:14+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "S7fMXS0-4As",
+   "production_id": "rank-261031-luib",
+   "status": "published",
+   "title": "TOP 5 RONALDO STRIKE MOMENTS",
+   "published_at": "2026-11-02T17:00:20.000Z",
+   "views": 1185,
+   "engaged_views": 560,
+   "avg_view_pct": 85.43,
+   "comments": 1,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/S7fMXS0-4As.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/S7fMXS0-4As.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 1189,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.22,
+      "drop_pct_pts": 4.7
+     },
+     {
+      "at_s": 4.4,
+      "ratio_at": 0.21,
+      "drop_pct_pts": 4.3
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 3.6
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.22,
+      "drop_pct_pts": 4.6
+     },
+     {
+      "at_s": 4.4,
+      "ratio_at": 0.21,
+      "drop_pct_pts": 4.4
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 3.7
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 77,
+   "viral_verdict": "pass",
+   "viral_version": 15,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 87.0,
+   "insights": 86,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 1189,
+     "engaged_views": 560,
+     "avg_view_pct": 85.43,
+     "likes": 16,
+     "comments": 2,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-09T08:24:14+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "wgwwUSZURDA",
+   "production_id": "rank-261031-1nrn",
+   "status": "published",
+   "title": "TOP 5 RONALDO CELEBRATION MOMENTS",
+   "published_at": "2026-11-02T02:00:12.000Z",
+   "views": 47,
+   "engaged_views": 19,
+   "avg_view_pct": 48.87,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/wgwwUSZURDA.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/wgwwUSZURDA.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 48,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 1.7,
+      "ratio_at": 0.07,
+      "drop_pct_pts": 7.7
+     },
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 7.7
+     },
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.19,
+      "drop_pct_pts": 7.7
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 1.7,
+      "ratio_at": 0.07,
+      "drop_pct_pts": 7.7
+     },
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 7.7
+     },
+     {
+      "at_s": 4.6,
+      "ratio_at": 0.19,
+      "drop_pct_pts": 7.7
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": 79,
+   "viral_verdict": "ok",
+   "viral_version": 11,
+   "viral_source": "qa/viral.json",
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": 85,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 48,
+     "engaged_views": 14,
+     "avg_view_pct": 50.85000000000001,
+     "likes": 3,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-08T14:21:12+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "OtHMUjURilQ",
+   "production_id": "rank-261031-7wdo",
+   "status": "published",
+   "title": "TOP 5 MESSI FREE-KICK MOMENTS",
+   "published_at": "2026-11-01T23:00:28.000Z",
+   "views": 1588,
+   "engaged_views": 948,
+   "avg_view_pct": 57.14,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/OtHMUjURilQ.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/OtHMUjURilQ.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 1606,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 7.6
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.21,
+      "drop_pct_pts": 5.6
+     },
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 4.5
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 7.6
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.21,
+      "drop_pct_pts": 5.6
+     },
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 4.5
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": null,
+   "viral_verdict": null,
+   "viral_version": null,
+   "viral_source": null,
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 85.0,
+   "insights": null,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 1606,
+     "engaged_views": 966,
+     "avg_view_pct": 57.10000000000001,
+     "likes": 20,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.3,
+     "at": "2026-11-08T14:21:12+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "kPJBjxe_6h4",
+   "production_id": "rank-261031-zztw",
+   "status": "published",
+   "title": "TOP 5 RONALDO DRIBBLE MOMENTS",
+   "published_at": "2026-11-01T20:00:24.000Z",
+   "views": 1549,
+   "engaged_views": 781,
+   "avg_view_pct": 77.83,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/kPJBjxe_6h4.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/kPJBjxe_6h4.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 1562,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 0.6,
+      "ratio_at": 0.03,
+      "drop_pct_pts": 2.6
+     },
+     {
+      "at_s": 0.4,
+      "ratio_at": 0.02,
+      "drop_pct_pts": 2.5
+     },
+     {
+      "at_s": 7.0,
+      "ratio_at": 0.35,
+      "drop_pct_pts": 2.5
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 0.6,
+      "ratio_at": 0.03,
+      "drop_pct_pts": 2.6
+     },
+     {
+      "at_s": 0.4,
+      "ratio_at": 0.02,
+      "drop_pct_pts": 2.5
+     },
+     {
+      "at_s": 7.0,
+      "ratio_at": 0.35,
+      "drop_pct_pts": 2.5
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": null,
+   "viral_verdict": null,
+   "viral_version": null,
+   "viral_source": null,
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": null,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 1562,
+     "engaged_views": 791,
+     "avg_view_pct": 77.58,
+     "likes": 17,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 156.4,
+     "at": "2026-11-08T08:24:06+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "N_r7fnHk6_8",
+   "production_id": "rank-261031-faqv",
+   "status": "published",
+   "title": "TOP 5 UNLIKELY-FRIEND PET MOMENTS",
+   "published_at": "2026-11-01T17:00:12.000Z",
+   "views": 1430,
+   "engaged_views": 498,
+   "avg_view_pct": 43.95,
+   "comments": 1,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/N_r7fnHk6_8.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/N_r7fnHk6_8.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 1433,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 8.4
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 7.6
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 6.0
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 8.4
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 7.6
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 6.2
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": null,
+   "viral_verdict": null,
+   "viral_version": null,
+   "viral_source": null,
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": null,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 1433,
+     "engaged_views": 498,
+     "avg_view_pct": 43.95,
+     "likes": 29,
+     "comments": 2,
+     "shares": 0,
+     "hours_since_publish": 159.4,
+     "at": "2026-11-08T08:24:06+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "e3hskvFhmU4",
+   "production_id": "rank-261031-1t5r",
+   "status": "published",
+   "title": "TOP 5 JACKIE STUNT MOMENTS",
+   "published_at": "2026-11-01T02:00:01.000Z",
+   "views": 2838,
+   "engaged_views": 1377,
+   "avg_view_pct": 57.35,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/e3hskvFhmU4.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/e3hskvFhmU4.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 2837,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.4,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 6.0
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 4.7
+     },
+     {
+      "at_s": 4.7,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 4.0
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.4,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 6.0
+     },
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.16,
+      "drop_pct_pts": 4.7
+     },
+     {
+      "at_s": 4.7,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 4.0
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": null,
+   "viral_verdict": null,
+   "viral_version": null,
+   "viral_source": null,
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": null,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 2837,
+     "engaged_views": 895,
+     "avg_view_pct": 59.48,
+     "likes": 25,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 167.5,
+     "at": "2026-11-08T01:31:06+00:00"
+    }
+   }
+  },
+  {
+   "video_id": "JhruQpKR4f8",
+   "production_id": "rank-261031-ohdc",
+   "status": "published",
+   "title": "TOP 5 MESSI KEEPER-BAFFLING MOMENTS",
+   "published_at": "2026-10-31T23:33:20.000Z",
+   "views": 2653,
+   "engaged_views": 1457,
+   "avg_view_pct": 58.550000000000004,
+   "comments": 0,
+   "shares": 0,
+   "viewed_vs_swiped_pct": null,
+   "retention_d3": "docs/brands/viral-rankings/retention/JhruQpKR4f8.json",
+   "retention_d7": "docs/brands/viral-rankings/retention/JhruQpKR4f8.json",
+   "views_24h": null,
+   "views_72h": null,
+   "views_7d": 2654,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 6.1
+     },
+     {
+      "at_s": 4.5,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 5.1
+     },
+     {
+      "at_s": 9.0,
+      "ratio_at": 0.36,
+      "drop_pct_pts": 4.7
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.2,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 6.1
+     },
+     {
+      "at_s": 4.5,
+      "ratio_at": 0.18,
+      "drop_pct_pts": 5.1
+     },
+     {
+      "at_s": 9.0,
+      "ratio_at": 0.36,
+      "drop_pct_pts": 4.7
+     }
+    ]
+   },
+   "retention_status": "ok",
+   "viewed_vs_swiped": null,
+   "hook_mechanism": null,
+   "hook_premise": null,
+   "payoff_ts": null,
+   "story_structure": null,
+   "story_spine": null,
+   "doctor_verdict": null,
+   "forecast": null,
+   "viral_score": null,
+   "viral_verdict": null,
+   "viral_version": null,
+   "viral_source": null,
+   "notes": null,
+   "script_forecast": null,
+   "script_rounds": null,
+   "fresh_eyes_S_verdict": null,
+   "fresh_eyes_S_viewer_score": null,
+   "fresh_eyes_S_swipe_at_s": null,
+   "fresh_eyes_V_verdict": null,
+   "fresh_eyes_V_viewer_score": null,
+   "fresh_eyes_V_swipe_at_s": null,
+   "panel_S_hate_count": null,
+   "panel_S_swipe_before_payoff_count": null,
+   "panel_S_block": null,
+   "panel_V_hate_count": null,
+   "panel_V_swipe_before_payoff_count": null,
+   "panel_V_block": null,
+   "packaging_score": null,
+   "chosen_title": null,
+   "qa_score": 86.0,
+   "insights": null,
+   "viral_forecast_delta": null,
+   "radar_signal_id": null,
+   "snapshots": {
+    "7d": {
+     "views": 2654,
+     "engaged_views": 1458,
+     "avg_view_pct": 58.489999999999995,
+     "likes": 24,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 170.0,
+     "at": "2026-11-08T01:31:06+00:00"
+    }
+   }
+  }
+ ]
+}

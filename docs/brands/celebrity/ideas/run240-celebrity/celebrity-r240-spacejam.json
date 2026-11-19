@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Space Jam at 30: The Movie Began as a Shoe Ad",
+ "topic": "A 1992 Super Bowl Nike ad paired Jordan with Bugs ('Hare Jordan'); his agent pitched it to Warner Bros. as a film.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Space Jam released 15 Nov 1996 (30th anniversary) (2026-11-15). Wikipedia Space_Jam 48,279 views Sept 2026.",
+ "hook": "Space Jam started as a sneaker ad?",
+ "twist": "A 1992 Super Bowl Nike ad paired Jordan with Bugs ('Hare Jordan'); his agent pitched it to Warner Bros. as a film.",
+ "peg": {
+  "event": "Space Jam released 15 Nov 1996 (30th anniversary)",
+  "date": "2026-11-15",
+  "url": "https://en.wikipedia.org/wiki/Space_Jam",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Biography.com - Michael Jordan and Space Jam (accessed 2026-10-24)",
+   "url": "https://www.biography.com/movies-tv/michael-jordan-space-jam"
+  },
+  {
+   "claim": "Far Out - The random Nike commercial that would birth Space Jam (accessed 2026-10-24)",
+   "url": "https://faroutmagazine.co.uk/random-nike-commercial-birth-space-jam/"
+  },
+  {
+   "claim": "Highsnobiety - Space Jam Nike commercial (accessed 2026-10-24)",
+   "url": "https://www.highsnobiety.com/p/space-jam-nike-commercial/"
+  },
+  {
+   "claim": "Peg source: Space Jam released 15 Nov 1996 (30th anniversary) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Space_Jam"
+  },
+  {
+   "claim": "Wikimedia pageviews Space_Jam: 48279 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Space_Jam&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Biography.com - Michael Jordan and Space Jam",
+   "url": "https://www.biography.com/movies-tv/michael-jordan-space-jam",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Far Out - The random Nike commercial that would birth Space Jam",
+   "url": "https://faroutmagazine.co.uk/random-nike-commercial-birth-space-jam/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Highsnobiety - Space Jam Nike commercial",
+   "url": "https://www.highsnobiety.com/p/space-jam-nike-commercial/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "🎥: Space Jam (1996) #michaeljordan #behindthescenes #spacejam #filmmaking",
+   "url": "https://youtube.com/shorts/-za4jdgvj5I",
+   "views": 1000000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Space Jam 🟢👽🛸🚀 #sneakers #airjordan #spacejam #nike #90s #goat #shorts #chicagobulls #nba #green",
+   "url": "https://youtube.com/shorts/BmY7PqiGuT8",
+   "views": 234,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Michael Jordan Was Playing Against INVISIBLE Aliens 💀👽 #basketball #nba #shortsfeed",
+   "url": "https://youtube.com/shorts/yQBXPOEQdEg",
+   "views": 486,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a sneaker box labelled '1992 AD' turning into a film reel + hook. Twist: a 60-second ad became a movie. Loop: 'Next ad you skip...'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Heavy IP: no Looney Tunes characters, no Jumpman/Nike swoosh, no Jordan likeness. Use a generic sneaker + cartoon rabbit-ear shadow? (avoid Bugs silhouette) - use a basketball with a cartoon star burst.",
+ "window": {
+  "notBefore": "2026-11-14T12:00:00Z",
+  "deadline": "2026-11-17T00:00:00Z",
+  "label": "Space Jam released 15 Nov 1996 (30th anniversary)",
+  "suggestedSlot": "2026-11-15T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

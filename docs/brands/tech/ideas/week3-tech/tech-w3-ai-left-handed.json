@@ -1,0 +1,45 @@
+{
+ "channel": "tech",
+ "title": "Why AI Can't Draw a Left-Handed Writer",
+ "topic": "Image-model data bias (right-handed majority)",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "AI-fail family with checkable demo; 0.1-1K Shorts.",
+ "evidence": [
+  {
+   "claim": "Shorts search \"AI can't draw left handed\": 107-1K view Shorts (gap) (accessed 2026-10-23)",
+   "url": "https://www.youtube.com/results?search_query=AI%20can't%20draw%20left%20handed%20%23shorts"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why AI Can’t Draw Left-Handed People",
+   "url": "https://youtube.com/shorts/g4X1NtwxUMQ",
+   "views": "1K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: AI image of someone 'writing with their left hand' - holding the pen in the right + hook. Why: most photos of writing show right hands, so the model follows the data over the words. Generate our own test with image:gen. Loop.",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Ask AI: left hand writing. Look.",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Needs a primary source on handedness share and our own test result before it can be built.",
+ "window": null,
+ "novelty": {
+  "overlap": "same family as 10:10 clocks / wine / elephant - spare only",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": true,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

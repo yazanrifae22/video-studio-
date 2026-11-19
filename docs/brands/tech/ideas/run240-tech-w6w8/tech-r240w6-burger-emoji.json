@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Where Does the Cheese Go on the Burger Emoji?",
+ "topic": "Google's burger had the cheese under the patty; after a 2017 tweet went viral, Google's CEO promised a fix and Android 8.1 moved it.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Emoji-comparison Shorts reach 4.7-6.6M; debate frame (T9: comment 'above' or 'below').",
+ "evidence": [
+  {
+   "claim": "Engadget (Nov 2017): Google finally fixes burger emoji (accessed 2026-10-24)",
+   "url": "https://engadget.com/2017/11/28/google-finally-fixes-burger-emoji"
+  },
+  {
+   "claim": "Dezeen (May 2018): Google fixes burger emoji (Pichai at I/O) (accessed 2026-10-24)",
+   "url": "https://www.dezeen.com/2018/05/10/google-fixes-burger-emoji-design/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Apple vs Android (Emoji Battle)",
+   "url": "https://youtube.com/shorts/rOQJol8RwT0",
+   "views": "6.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Apple vs Android Emojis",
+   "url": "https://youtube.com/shorts/_SsCA8hiess",
+   "views": "4.7M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Burger emoji: cheese above or below?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Google's burger had the cheese under the patty; after a 2017 tweet went viral, Google's CEO promised a fix and Android 8.1 moved it. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Burger emoji: cheese above or below?",
+ "twist": "Google's burger had the cheese under the patty; after a 2017 tweet went viral, Google's CEO promised a fix and Android 8.1 moved it.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-11-26 18:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Why the Gun Emoji Became a Water Pistol' (Nov 15) and seahorse/11-character emoji. Draw our own burgers; no vendor emoji art.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 4,
+ "score10": 9.0,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

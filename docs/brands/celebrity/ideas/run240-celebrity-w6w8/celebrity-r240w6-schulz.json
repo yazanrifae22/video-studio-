@@ -1,0 +1,109 @@
+{
+ "channel": "celebrity",
+ "title": "Peanuts' Creator Was Rejected by His School Yearbook",
+ "topic": "Charles M. Schulz's drawings were turned down by his St. Paul Central High yearbook; about 60 years later the school put a five-foot Snoopy statue in its main office.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Charles M. Schulz born 26 Nov 1922 (2026-11-26). Wikipedia Charles_M._Schulz 35,731 views Sept 2026.",
+ "hook": "Rejected by his own yearbook?",
+ "twist": "Charles M. Schulz's drawings were turned down by his St. Paul Central High yearbook; about 60 years later the school put a five-foot Snoopy statue in its main office.",
+ "peg": {
+  "event": "Charles M. Schulz born 26 Nov 1922",
+  "date": "2026-11-26",
+  "url": "https://en.wikipedia.org/wiki/Charles_M._Schulz",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Charles M. Schulz (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Charles_M._Schulz"
+  },
+  {
+   "claim": "Minnesota Monthly - Happy 94th birthday, Charles Schulz (accessed 2026-10-24)",
+   "url": "https://www.minnesotamonthly.com/lifestyle/happy-94th-birthday-charles-schulz/"
+  },
+  {
+   "claim": "Author Adventures - Charles Schulz (Minnesota) (accessed 2026-10-24)",
+   "url": "https://authoradventures.org/trails/search-by-state-h-o/minnesota/schulz-charles/"
+  },
+  {
+   "claim": "Peg source: Charles M. Schulz born 26 Nov 1922 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Charles_M._Schulz"
+  },
+  {
+   "claim": "Wikimedia pageviews Charles_M._Schulz: 35731 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Charles_M._Schulz&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Charles M. Schulz",
+   "url": "https://en.wikipedia.org/wiki/Charles_M._Schulz",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Minnesota Monthly - Happy 94th birthday, Charles Schulz",
+   "url": "https://www.minnesotamonthly.com/lifestyle/happy-94th-birthday-charles-schulz/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Author Adventures - Charles Schulz (Minnesota)",
+   "url": "https://authoradventures.org/trails/search-by-state-h-o/minnesota/schulz-charles/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Charles Schulz Had Every Cartoon Rejected By His Own Yearbook | Morning Motivation",
+   "url": "https://youtube.com/shorts/vkQk9tyEvj8",
+   "views": 348,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Charles Schulz rejected yearbook #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "His School Yearbook Rejected Every Drawing, So He Created…",
+   "url": "https://youtube.com/shorts/VBVx6KyAOV4",
+   "views": 17000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Charles Schulz rejected yearbook #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Charles Schulz: How \"Failure\" Created Charlie Brown | EVERYONE REJECTED HIS  LITTLE CARTOON |#viral",
+   "url": "https://youtube.com/shorts/E8Zo6QWXu6M",
+   "views": 51,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Charles Schulz rejected yearbook #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A yearbook page with an empty, crossed-out drawing box + hook. Twist by 2.5 s. Loop: 'Rejected by a yearbook. Then the world's favourite comic?'",
+ "cta": "C2+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Spare: same creator as the Dec 9 Charlie Brown idea; use only if that one is dropped or 7+ days apart. No Peanuts characters.",
+ "window": {
+  "notBefore": "2026-11-25T12:00:00Z",
+  "deadline": "2026-11-28T00:00:00Z",
+  "label": "Charles M. Schulz born 26 Nov 1922"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Charles M. Schulz"
+ ],
+ "spare": true,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

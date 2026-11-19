@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "This AI Image Has an Invisible Signature",
+ "topic": "Google's image AI hides a SynthID watermark in the pixels; you can't see it, but the Gemini app can check for it. It only works for Google-made images.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Strong demand (415K) but the frame-0 image is hard (invisible thing). Spare.",
+ "evidence": [
+  {
+   "claim": "Google blog (Nov 2025): AI image verification in the Gemini app (SynthID) (accessed 2026-10-24)",
+   "url": "https://blog.google/technology/ai/ai-image-verification-gemini-app/"
+  },
+  {
+   "claim": "The Register (Nov 2025): Gemini tries to sniff out AI images (limits: Google images only) (accessed 2026-10-24)",
+   "url": "https://www.theregister.com/2025/11/20/google_ai_image_detector/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Someone Just Reverse-Engineered Google's 'Unhackable' AI Watermark",
+   "url": "https://youtube.com/shorts/FSohDQBm2Sw",
+   "views": "415K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "ChatGPT just started leaving watermarks on everything it creates",
+   "url": "https://youtube.com/shorts/F4k9UbHjm4g",
+   "views": "25K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Looks normal. Hidden signature inside?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Google's image AI hides a SynthID watermark in the pixels; you can't see it, but the Gemini app can check for it. It only works for Google-made images. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Looks normal. Hidden signature inside?",
+ "twist": "Google's image AI hides a SynthID watermark in the pixels; you can't see it, but the Gemini app can check for it. It only works for Google-made images.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": null,
+ "novelty": {
+  "overlap": "none.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": true,
+ "week": null,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 65,
+ "score10": 7.5,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

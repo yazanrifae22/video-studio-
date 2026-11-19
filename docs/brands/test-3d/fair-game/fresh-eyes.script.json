@@ -1,0 +1,55 @@
+{
+  "stage": "S",
+  "verdict": "weak",
+  "stay_after_30s": true,
+  "leave_at": "Then two more players. And two more. That's the whole game. No skill. No strategy. Just the coin. (chapter 2 rules: the one-fifth-of-the-poorer-stack stake is explained in one breath; I start skimming until the four hats appear)",
+  "lost_at": [
+    "Two players are picked at random. Each one puts the same stake on the table: one fifth of the poorer player's stack. (had to re-read: whose stack, which stake)",
+    "Take a player with a hundred coins, playing someone richer. Lose one flip: eighty. Win the next one: ninety-six. (maths in the head; 'a fifth down and a fifth up' needs the numbers on screen and one more beat)",
+    "The Worker plays twice as often... Worker ends with less than ten coins (the odds in 'forty-seven worlds out of a hundred', 'six', 'two', 'seventy' come too fast; I lose which number belongs to who)",
+    "Heads, your stack grows by half. Tails, it shrinks by forty percent... board almost seven times richer, yet nine above start (two ideas stacked: average vs people)",
+    "Bruce Boghosian ... fitted it to twenty-seven years of data (jargon wall, I tune out)",
+    "Skeptic appears in the last chapter and was never introduced (who is that?)"
+  ],
+  "comment": "The Worker ending below the Fool is the bit that got me. But you picked the numbers. Give the Scholar a 55% edge and ten lifetimes and tell me again that luck decides it. Also: the tax vote line feels like it was added to pick a side.",
+  "quote": "Being rich does not prove you were better. It proves you were at the table, you were good enough to play, and the coin liked you early.",
+  "not_believed": [
+    "A fair coin gives one winner every time (until the stake rule is explained in the 'trick' chapter; the 'I promise' helps but the claim sat unproven for about 3 minutes)",
+    "That the Scholar with a 55% edge wins only 6 in 100 (and then 'let it run ten times longer and the Scholar wins' undercuts the whole point)",
+    "The Worker playing twice as often ends worse than the Fool (the reason is not said)",
+    "The model board ends worse than real life, yet is used as proof about the real top 1%",
+    "The ending's 'tax stops the king' read as a policy pitch, even with the 'not a real tax' disclaimer"
+  ],
+  "gap_to_gate": [
+    {
+      "where": "Chapter 2, sentences 2-4 (the stake rule)",
+      "problem_in_viewer_words": "I did not get who bets what. One fifth of the poorer player's stack, and I was skimming by then.",
+      "suggestion": "Give one worked example with numbers: a 100-coin player against a 400-coin player, both put in 20. Cut the 'why the poorer one' explanation to one line."
+    },
+    {
+      "where": "Chapter 5 (real advantages), the run of statistics",
+      "problem_in_viewer_words": "Too many numbers in a row (47, 6, 2, less than 1, 70, 45). I forgot who was who.",
+      "suggestion": "Say two or three numbers only: Heir 47, Scholar 6, one of the nobodies 45. Move the Worker's 70 and the Fool's number to the picture. Explain why working more hurts: more flips means more chances to hit zero."
+    },
+    {
+      "where": "Chapter 5 last paragraph, 'let the game run ten times longer and the Scholar becomes the most likely winner'",
+      "problem_in_viewer_words": "That sounds like you are walking back your own point. I stopped trusting the setup.",
+      "suggestion": "Either show the talent result clearly and say what it takes (ten lifetimes), or cut it. Do not leave it as half an aside."
+    },
+    {
+      "where": "Chapter 6 (growth coin), sentences 3-8",
+      "problem_in_viewer_words": "Seven times richer but most people poorer: I had to re-read it. It is the best twist and it flies past.",
+      "suggestion": "Slow down. Say: the pile grew seven times, and 55 of 64 people lost. Pause, then give the one-line takeaway."
+    },
+    {
+      "where": "Chapter 7, from 'A mathematician named Bruce Boghosian' to the California vote",
+      "problem_in_viewer_words": "A name, a data fit, then suddenly a state ballot. It feels like a push to take a side.",
+      "suggestion": "Cut the name and keep it to one sentence: 'a researcher fitted a rule like this to US wealth data, and it matched'. Drop the California line, or say it flatly with no 'that argument sits under every fight'. End on the board."
+    },
+    {
+      "where": "Chapter 8, the Skeptic line",
+      "problem_in_viewer_words": "Who is the Skeptic? He was never on the board, so the choice 'which one are you' has a fifth option I never met.",
+      "suggestion": "Introduce the Skeptic in chapter 2, or cut the line and let the four hats close the video."
+    }
+  ]
+}

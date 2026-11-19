@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "A Teacher Called Him 'Idle.' He Became Billy Idol",
+ "topic": "A chemistry teacher wrote 'idle' on William Broad's report; he respelled it 'Idol' to avoid clashing with Monty Python's Eric Idle.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Rock & Roll Hall of Fame induction (Billy Idol inducted), Los Angeles (2026-11-14). Wikipedia Billy_Idol 112,302 views Sept 2026.",
+ "hook": "A school report named a rock star?",
+ "twist": "A chemistry teacher wrote 'idle' on William Broad's report; he respelled it 'Idol' to avoid clashing with Monty Python's Eric Idle.",
+ "peg": {
+  "event": "Rock & Roll Hall of Fame induction (Billy Idol inducted), Los Angeles",
+  "date": "2026-11-14",
+  "url": "https://au.variety.com/2026/music/news/rock-roll-hall-fame-2026-inductees-oasis-phil-collins-sade-35301/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Billy Idol (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Billy_Idol"
+  },
+  {
+   "claim": "Songfacts - Billy Idol (accessed 2026-10-24)",
+   "url": "https://www.songfacts.com/facts/billy-idol"
+  },
+  {
+   "claim": "NBC Chicago - Billy Idol Walk of Fame star (accessed 2026-10-24)",
+   "url": "https://www.nbcchicago.com/entertainment/entertainment-news/hollywood-walk-of-fame-star-billy-idol/3038713/"
+  },
+  {
+   "claim": "Peg source: Rock & Roll Hall of Fame induction (Billy Idol inducted), Los Angeles (accessed 2026-10-24)",
+   "url": "https://au.variety.com/2026/music/news/rock-roll-hall-fame-2026-inductees-oasis-phil-collins-sade-35301/"
+  },
+  {
+   "claim": "Wikimedia pageviews Billy_Idol: 112302 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Billy_Idol&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Billy Idol",
+   "url": "https://en.wikipedia.org/wiki/Billy_Idol",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Songfacts - Billy Idol",
+   "url": "https://www.songfacts.com/facts/billy-idol",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "NBC Chicago - Billy Idol Walk of Fame star",
+   "url": "https://www.nbcchicago.com/entertainment/entertainment-news/hollywood-walk-of-fame-star-billy-idol/3038713/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Billy Idol: How Generation X got its name #billyidol #generationx #70spunk #ukpunk #punkrock",
+   "url": "https://youtube.com/shorts/e3hlKwYHmnM",
+   "views": 35000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "🖤Nearly Lost His Leg, Never Lost the Snarl: Billy Idol",
+   "url": "https://youtube.com/shorts/AeN1GLzbWGQ",
+   "views": 15000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Strange Story Behind Billy Idol",
+   "url": "https://youtube.com/shorts/E76JHcLk0Fk",
+   "views": 2000000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a school report with 'IDLE' circled in red + hook. Twist: crossed out, 'IDOL' written in. Loop: 'What did your report card say?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Report card vs test paper: say 'a school report'. No likeness, no sneer caricature; use a report card + marker.",
+ "window": {
+  "notBefore": "2026-11-13T12:00:00Z",
+  "deadline": "2026-11-16T00:00:00Z",
+  "label": "Rock & Roll Hall of Fame induction (Billy Idol inducted), Los Angeles",
+  "suggestedSlot": "2026-11-14T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

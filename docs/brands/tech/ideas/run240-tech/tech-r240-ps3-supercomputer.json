@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "The US Air Force Built a Supercomputer From PS3s",
+ "topic": "The PS3's Cell chip was a cheap number-cruncher, so in 2010 the Air Force linked 1,760 of them into the Condor Cluster.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "20th anniversary; proven topic (120K) with a clear frame-0 image (wall of consoles).",
+ "evidence": [
+  {
+   "claim": "PS3 released Nov 11 2006 (Japan), Nov 17 2006 (North America) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/PlayStation_3"
+  },
+  {
+   "claim": "PlayStation 3 cluster article, incl. the AFRL Condor Cluster of 1,760 PS3s (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/PlayStation_3_cluster"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Air Force PS3 Supercomputer",
+   "url": "https://youtube.com/shorts/xlwBCHtMNvg",
+   "views": "120K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "The U.S. Air Force Built a Supercomputer From 1,760 PS3s",
+   "url": "https://youtube.com/shorts/uS38M_LTFOY",
+   "views": "12K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('1,760 PS3s. One computer?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: The PS3's Cell chip was a cheap number-cruncher, so in 2010 the Air Force linked 1,760 of them into the Condor Cluster. Loop ending: re-ask the hook.",
+ "hook": "1,760 PS3s. One computer?",
+ "twist": "The PS3's Cell chip was a cheap number-cruncher, so in 2010 the Air Force linked 1,760 of them into the Condor Cluster.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": {
+  "notBefore": "2026-11-17",
+  "deadline": "2026-11-20",
+  "event": "PlayStation 3 20th anniversary (Nov 17 2006 North America)"
+ },
+ "newsPeg": "PlayStation 3 20th anniversary (Nov 17 2006 North America)",
+ "suggestedSlot": "2026-11-17 15:00 UTC",
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 54,
+ "score10": 7.5,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

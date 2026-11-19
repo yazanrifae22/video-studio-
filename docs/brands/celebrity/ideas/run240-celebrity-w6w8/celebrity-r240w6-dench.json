@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "Judi Dench Was Told She'd Never Make a Film. Why?",
+ "topic": "In the 1960s a filmmaker told Judi Dench she would never make a film because she had 'the wrong face'; she went on to an Oscar and seven Bond films as M.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Judi Dench turns 92 (2026-12-09). Wikipedia Judi_Dench 139,065 views Sept 2026.",
+ "hook": "'Wrong face for film'?",
+ "twist": "In the 1960s a filmmaker told Judi Dench she would never make a film because she had 'the wrong face'; she went on to an Oscar and seven Bond films as M.",
+ "peg": {
+  "event": "Judi Dench turns 92",
+  "date": "2026-12-09",
+  "url": "https://en.wikipedia.org/wiki/Judi_Dench",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "The Breeze NZ - Dench told she had the wrong face (accessed 2026-10-24)",
+   "url": "https://thebreeze.co.nz/home/must-see/2022/07/judi-dench-reveals-she-was-told-shed-never-make-a-film-because-she-had-the-wrong-face.html"
+  },
+  {
+   "claim": "Yahoo - Dench told she didn't have the face for film (accessed 2026-10-24)",
+   "url": "https://ca.news.yahoo.com/judi-dench-says-she-told-083449994.html"
+  },
+  {
+   "claim": "The New Daily - Dench Times interview (Oct 2026) (accessed 2026-10-24)",
+   "url": "https://www.thenewdaily.com.au/life/entertainment/celebrity/2026/10/12/judi-dench-times-interview"
+  },
+  {
+   "claim": "Peg source: Judi Dench turns 92 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Judi_Dench"
+  },
+  {
+   "claim": "Wikimedia pageviews Judi_Dench: 139065 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Judi_Dench&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "The Breeze NZ - Dench told she had the wrong face",
+   "url": "https://thebreeze.co.nz/home/must-see/2022/07/judi-dench-reveals-she-was-told-shed-never-make-a-film-because-she-had-the-wrong-face.html",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Yahoo - Dench told she didn't have the face for film",
+   "url": "https://ca.news.yahoo.com/judi-dench-says-she-told-083449994.html",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "The New Daily - Dench Times interview (Oct 2026)",
+   "url": "https://www.thenewdaily.com.au/life/entertainment/celebrity/2026/10/12/judi-dench-times-interview",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Judi Dench was rejected from film because there was everything wrong with her face. #judidench",
+   "url": "https://youtube.com/shorts/x04twqlZOhw",
+   "views": 26000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Judi Dench told wrong face for film #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Judi Dench Wasn't Asked To Do Movies Due To Her Looks #shorts",
+   "url": "https://youtube.com/shorts/0znNlEmOryo",
+   "views": 5600,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Judi Dench told wrong face for film #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Dame Judi Dench unable to work due to eye condition",
+   "url": "https://youtube.com/shorts/TO2WaIuefRs",
+   "views": 26000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Judi Dench told wrong face for film #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A theatre mask in front of a film camera that is turned away + hook. Twist by 2.5 s. Loop: ''The wrong face'. Did they get that wrong?'",
+ "cta": "C2+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Director (2018/2022 reports) vs producer (2026 report): say 'a filmmaker'. Bond count: she played M in seven films (check Wikipedia before saying). Skip her eyesight.",
+ "window": {
+  "notBefore": "2026-12-05T12:00:00Z",
+  "deadline": "2026-12-11T00:00:00Z",
+  "label": "Judi Dench turns 92",
+  "suggestedSlot": "2026-12-06T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Judi Dench"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

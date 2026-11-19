@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "Why the Xbox 360 Got the Red Ring of Death",
+ "topic": "Heat cycles flexed the board until solder joints under the chips cracked; Microsoft set aside $1.15 billion to fix it.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Proven demand (several 5.9M Shorts) but saturated; anniversary is weak (21st). Use only if the hook is stronger than competitors'.",
+ "evidence": [
+  {
+   "claim": "Xbox 360 technical problems: RRoD, $1.15bn extended warranty charge (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Xbox_360_technical_problems"
+  },
+  {
+   "claim": "Xbox 360 launch Nov 22 2005 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Xbox_360"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The red ring of death cost Microsoft $1.15 billion",
+   "url": "https://youtube.com/shorts/8UftNrZ3XkY",
+   "views": "5.9M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "The Red Ring Of Death Explained...",
+   "url": "https://youtube.com/shorts/Ld3WPhuHf8c",
+   "views": "1.8M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Three red lights. What broke?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Heat cycles flexed the board until solder joints under the chips cracked; Microsoft set aside $1.15 billion to fix it. Loop ending: re-ask the hook.",
+ "hook": "Three red lights. What broke?",
+ "twist": "Heat cycles flexed the board until solder joints under the chips cracked; Microsoft set aside $1.15 billion to fix it.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": {
+  "notBefore": "2026-11-22",
+  "deadline": "2026-11-24",
+  "event": "Xbox 360 21st anniversary (Nov 22 2005 North America)"
+ },
+ "newsPeg": "Xbox 360 21st anniversary (Nov 22 2005 North America)",
+ "suggestedSlot": "2026-11-22 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW with Xbox name (Nov 15).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 50,
+ "score10": 7.7,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 1,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

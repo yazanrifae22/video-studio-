@@ -1,0 +1,1243 @@
+{
+ "_doc": "Studio workflow versions for the dashboard #workflow page and /api/productions/<id>/progress. Steps are a catalog; each version lists its flow (an inner array = steps that run in parallel), loops and per-step overrides. Gate thresholds are NOT stored here: `gate` names a key of config/gates.json (single source, packages/shared/src/gates.ts). soft_gates = playbook bars that no code enforces yet.",
+ "current": "v3.1",
+ "lanes": [
+  {
+   "id": "idea",
+   "label": "Idea",
+   "color": "#45b7ff"
+  },
+  {
+   "id": "script",
+   "label": "Script",
+   "color": "#9b8cff"
+  },
+  {
+   "id": "build",
+   "label": "Build",
+   "color": "#c48bff"
+  },
+  {
+   "id": "videoqa",
+   "label": "Video QA",
+   "color": "#f5a524"
+  },
+  {
+   "id": "publish",
+   "label": "Publish",
+   "color": "#2fd27a"
+  },
+  {
+   "id": "learn",
+   "label": "Learn",
+   "color": "#20c997"
+  }
+ ],
+ "soft_gates": {},
+ "gates_meta": {
+  "script_forecast": {
+   "label": "Script forecast",
+   "op": ">=",
+   "where": "script:approve (script-doctor.json forecast)",
+   "doc": "docs/gates.md"
+  },
+  "script_rounds_max": {
+   "label": "Script rounds max",
+   "op": "<=",
+   "where": "script:approve (script-doctor.json round); over the cap = orchestrator decides",
+   "doc": "docs/gates.md"
+  },
+  "qa": {
+   "label": "QA rubric",
+   "op": ">=",
+   "where": "review:add verdict pass, no blockers; approve needs the latest QA pass",
+   "doc": "docs/review-rubric.md"
+  },
+  "insights": {
+   "label": "YouTube insights",
+   "op": ">=",
+   "where": "approve: latest vN/qa/insights-score.json",
+   "doc": "docs/insights-rubric.md"
+  },
+  "viral": {
+   "label": "Viral check",
+   "op": ">=",
+   "where": "approve: latest vN/qa/viral.json (story.json productions, not kids)",
+   "doc": "docs/viral-check.md"
+  },
+  "retention": {
+   "label": "Retention",
+   "op": ">=",
+   "where": "QA Retention section (Mission Voices / Podium Pop)",
+   "doc": "docs/review-rubric.md"
+  },
+  "video_rounds_max": {
+   "label": "Video QA rounds max",
+   "op": "<=",
+   "where": "orchestrator rule (CLAUDE.md): round 2 with score < 78 = keep or shelve",
+   "doc": "CLAUDE.md"
+  },
+  "panel_block_hate": {
+   "label": "Panel block: hate/boring",
+   "op": "blocks at >=",
+   "where": "panel.script.json (script:approve) and vN/qa/panel.json (approve)",
+   "doc": "research/council/2026-11-08-workflow/CONTRACT.md"
+  },
+  "panel_block_swipe": {
+   "label": "Panel block: swipe before payoff",
+   "op": "blocks at >=",
+   "where": "panel.script.json and vN/qa/panel.json",
+   "doc": "research/council/2026-11-08-workflow/CONTRACT.md"
+  },
+  "fresh_eyes_block": {
+   "label": "Fresh-eyes block verdict",
+   "op": "blocks on",
+   "where": "fresh-eyes.script.json (script:approve) and vN/qa/fresh-eyes.json (approve)",
+   "doc": "research/council/2026-11-08-workflow/CONTRACT.md"
+  },
+  "packaging": {
+   "label": "Packaging score",
+   "op": ">=",
+   "where": "script:approve (packaging.json score + chosen_title; code-enforced, audit #2 F10)",
+   "doc": "docs/packaging-playbook.md"
+  }
+ },
+ "steps": {
+  "radar": {
+   "short": "Radar",
+   "label": "Viral radar",
+   "lane": "idea",
+   "agents": [
+    "trend-hunter"
+   ],
+   "artifacts": [
+    "research/radar/<date>/<brand>.json",
+    "research/ideas/<idea_id>.json"
+   ],
+   "gate": null,
+   "gate_text": "dated signal or evergreen line",
+   "rules": [
+    "Every idea starts from a signal <= 14 days old or a real evergreen search line",
+    "No signal and no demand line = idea parked",
+    "Showrunner reads the latest radar file before the draft brief"
+   ],
+   "doc": "docs/viral-radar.md",
+   "next": {
+    "agent": "trend-hunter",
+    "command": "npm run -s cli -- idea:add ... (trend_evidence from the radar signal)"
+   }
+  },
+  "brief": {
+   "short": "Brief",
+   "label": "Draft brief",
+   "lane": "idea",
+   "agents": [
+    "showrunner-<brand>"
+   ],
+   "artifacts": [
+    "productions/<id>/brief.json"
+   ],
+   "gate": null,
+   "rules": [
+    "Moments / selection / ranking with timestamps",
+    "Cite signal_id or evergreen in brief.json",
+    "Topic lanes: MV = human astronaut moments, WIM = named hardware, Podium Pop = football stars + stunts"
+   ],
+   "doc": "docs/showrunner-base.md",
+   "next": {
+    "agent": "showrunner-<brand>",
+    "command": "write productions/<id>/brief.json (draft brief)"
+   }
+  },
+  "sources": {
+   "short": "Sources",
+   "label": "Sources + rights",
+   "lane": "idea",
+   "agents": [
+    "showrunner-<brand>",
+    "rights-scout"
+   ],
+   "artifacts": [
+    "data/studio.db sources + rights_log",
+    "data/media/"
+   ],
+   "gate": null,
+   "gate_text": "rights approved",
+   "rules": [
+    "YouTube is discovery-only: never download from it",
+    "rights:set \"proposed by <tag>\"; rights-scout countersigns every new source",
+    "Check primary pages, not Commons tags"
+   ],
+   "doc": "AGENTS.md",
+   "next": {
+    "agent": "showrunner-<brand>",
+    "command": "npm run -s cli -- rights:set <asset> proposed ..."
+   }
+  },
+  "analyze": {
+   "short": "Analyze",
+   "label": "Analyze",
+   "lane": "idea",
+   "agents": [
+    "viral-analyst"
+   ],
+   "artifacts": [
+    "data/cache/<fingerprint>/ (transcript, scenes)",
+    "data/studio.db candidates"
+   ],
+   "gate": null,
+   "rules": [
+    "GPU transcription in .venv-asr (python, never python3)",
+    "8-20 candidates per long-form source, 20-50 per ranking topic",
+    "Every score carries evidence"
+   ],
+   "doc": "AGENTS.md",
+   "next": {
+    "agent": "viral-analyst",
+    "command": "npm run -s cli -- analyze <asset>"
+   }
+  },
+  "hook": {
+   "short": "Hook",
+   "label": "Hook",
+   "lane": "script",
+   "agents": [
+    "hook-architect"
+   ],
+   "artifacts": [
+    "productions/<id>/hook.json"
+   ],
+   "gate": null,
+   "gate_text": "T1 · T2 · T3",
+   "rules": [
+    "3 options that differ by mechanism, pick 1",
+    "T1 glance · T2 mute pull · T3 honest payoff",
+    "payoff_ts = where the promise is paid; no bait"
+   ],
+   "doc": "docs/hook-playbook.md",
+   "next": {
+    "agent": "hook-architect",
+    "command": "write productions/<id>/hook.json"
+   }
+  },
+  "story": {
+   "short": "Story",
+   "label": "Story",
+   "lane": "script",
+   "agents": [
+    "story-architect"
+   ],
+   "artifacts": [
+    "productions/<id>/story.json"
+   ],
+   "gate": null,
+   "rules": [
+    "One-sentence spine; every beat has a job and a but/therefore link",
+    "Open loops with pay times, mid-payoff, one peak",
+    "Ending reframes the hook; honest comment trigger + send reason"
+   ],
+   "doc": "docs/story-playbook.md",
+   "next": {
+    "agent": "story-architect",
+    "command": "write productions/<id>/story.json"
+   }
+  },
+  "script": {
+   "short": "Script",
+   "label": "Script",
+   "lane": "script",
+   "agents": [
+    "showrunner-<brand>",
+    "script-localization",
+    "comedy-voice-writer",
+    "punchline-critic",
+    "persona-keeper"
+   ],
+   "artifacts": [
+    "productions/<id>/script.json",
+    "quiz-ar: quiz.json",
+    "kids: episode.json"
+   ],
+   "gate": null,
+   "rules": [
+    "Written on story.json + the chosen hook card",
+    "Podium Pop: comedy-voice-writer drafts, punchline-critic scores",
+    "persona-keeper check for Podium Pop / quiz-ar",
+    "Claim -> evidence lines; never AI-generation text in descriptions"
+   ],
+   "doc": "docs/story-playbook.md",
+   "next": {
+    "agent": "showrunner-<brand>",
+    "command": "write the script files (script.json / quiz.json / episode.json)"
+   }
+  },
+  "packaging": {
+   "short": "Packaging",
+   "label": "Packaging",
+   "lane": "script",
+   "agents": [
+    "packaging-director"
+   ],
+   "artifacts": [
+    "productions/<id>/packaging.json"
+   ],
+   "gate": "packaging",
+   "gate_text": "chosen_title",
+   "rules": [
+    "3 titles from real search terms; chosen_title required",
+    "Cover = frame 0; description line 1 <= 90 chars",
+    "Packaging score /100 with gap_to_gate fixes",
+    "Part of the script round; gate 85; packaging.json is the publish source"
+   ],
+   "doc": "docs/packaging-playbook.md",
+   "next": {
+    "agent": "packaging-director",
+    "command": "write productions/<id>/packaging.json"
+   }
+  },
+  "doctor": {
+   "short": "Doctor",
+   "label": "Script doctor",
+   "lane": "script",
+   "agents": [
+    "script-doctor"
+   ],
+   "artifacts": [
+    "productions/<id>/script-doctor.json"
+   ],
+   "gate": "script_forecast",
+   "rules": [
+    "Spine test, every line has a job, read-aloud at TTS speed",
+    "Viral FORECAST (docs/viral-check.md) must reach the gate",
+    "gap_to_gate items must sum to the gate (or say ceiling)",
+    "Runs FIRST each round (cheap-first); FE + panel only once forecast >= 85"
+   ],
+   "doc": "docs/viral-check.md",
+   "next": {
+    "agent": "script-doctor",
+    "command": "write productions/<id>/script-doctor.json (round n)"
+   }
+  },
+  "fresh_s": {
+   "short": "Fresh eyes S",
+   "label": "Fresh eyes (script)",
+   "lane": "script",
+   "agents": [
+    "fresh-eyes"
+   ],
+   "artifacts": [
+    "productions/<id>/fresh-eyes.script.json"
+   ],
+   "gate": "fresh_eyes_block",
+   "rules": [
+    "Zero context: reads only the script export (scripts/fresh-eyes-export.py)",
+    "What is it in 1 s, when would I swipe, would I share",
+    "Verdict hate blocks",
+    "Starts only after script-doctor forecast >= 85; weak verdict needs fix-ledger answers"
+   ],
+   "doc": "research/council/2026-11-08-workflow/CONTRACT.md",
+   "next": {
+    "agent": "fresh-eyes",
+    "command": "python scripts/fresh-eyes-export.py <id>  -> fresh-eyes.script.json"
+   }
+  },
+  "panel_s": {
+   "short": "Panel S",
+   "label": "Panel (script)",
+   "lane": "script",
+   "agents": [
+    "audience-panel"
+   ],
+   "artifacts": [
+    "productions/<id>/panel.script.json"
+   ],
+   "gate": "panel_block_hate",
+   "gate2": "panel_block_swipe",
+   "rules": [
+    "5 personas from the channel's real audience (docs/audience/<brand>.md)",
+    "Blocks at 3+ hate/boring or 3+ swipe before the payoff",
+    "Lists issues + gap_to_gate fixes",
+    "Starts only after forecast >= 85; >= 2 swipes before payoff needs fix-ledger answers"
+   ],
+   "doc": "research/council/2026-11-08-workflow/CONTRACT.md",
+   "next": {
+    "agent": "audience-panel",
+    "command": "write productions/<id>/panel.script.json"
+   }
+  },
+  "script_approve": {
+   "short": "Script OK",
+   "label": "Script approve",
+   "lane": "script",
+   "agents": [
+    "orchestrator"
+   ],
+   "artifacts": [
+    "productions/<id>/script-approval.json"
+   ],
+   "gate": null,
+   "gate_text": "hash lock",
+   "rules": [
+    "Only `script:approve` writes script-approval.json",
+    "Hash lock on the brand script files: any edit = new script round",
+    "Round over the cap = orchestrator decides (rework / shelve) or --force --note",
+    "`--delta` for video-round script fixes (recheck changed lines; FE/panel only if hook/payoff/ending changed)"
+   ],
+   "doc": "docs/gates.md",
+   "next": {
+    "agent": "orchestrator",
+    "command": "npm run -s cli -- script:approve <id>"
+   }
+  },
+  "build": {
+   "short": "Build",
+   "label": "Build (TTS + render)",
+   "lane": "build",
+   "agents": [
+    "showrunner-<brand>"
+   ],
+   "artifacts": [
+    "productions/<id>/v<N>/timeline.json",
+    "productions/<id>/v<N>/render.raw.mp4",
+    "productions/<id>/v<N>/render.mp4"
+   ],
+   "gate": null,
+   "gate_text": "approved script hash",
+   "rules": [
+    "Builders refuse without an approved script-approval.json whose hash matches",
+    "packages/render: chunked h264_nvenc; master -14 LUFS, <= -1.6 dBTP",
+    "Draft modes (--no-tts / --plan) spend nothing and cannot pass stage qa",
+    "Every build passes --reason; 4th build without new QA = stop and ask the orchestrator",
+    "4th build since the last QA-reviewed version is REFUSED (hard stop, owner 2026-11-08); --force --note logged"
+   ],
+   "doc": "docs/gates.md",
+   "next": {
+    "agent": "showrunner-<brand>",
+    "command": "npm run -s cli -- build <id> --agent <showrunner>  (quiz:build / kids:build / tech:build / celebrity:build)"
+   }
+  },
+  "techqa": {
+   "short": "Techqa",
+   "label": "Techqa + prelint",
+   "lane": "build",
+   "agents": [
+    "showrunner-<brand>"
+   ],
+   "artifacts": [
+    "productions/<id>/v<N>/qa/techqa.json",
+    "productions/<id>/v<N>/qa/prelint.json",
+    "productions/<id>/v<N>/qa/captions_audit.json",
+    "productions/<id>/v<N>/qa/text-safety.json"
+   ],
+   "gate": null,
+   "gate_text": "prelint pass",
+   "rules": [
+    "techqa: black / freeze / silence, loudness, answer-leak guards",
+    "prelint: captions vs ASR, frame 0, claims, credit wording, AI text, mojibake, text safety (vN/qa/text-safety.json)",
+    "Fix every finding before staging"
+   ],
+   "doc": "docs/showrunner-base.md",
+   "next": {
+    "agent": "showrunner-<brand>",
+    "command": "npm run -s cli -- prelint <id>  (fix findings)"
+   }
+  },
+  "stage_qa": {
+   "short": "Stage qa",
+   "label": "Stage qa",
+   "lane": "build",
+   "agents": [
+    "showrunner-<brand>"
+   ],
+   "artifacts": [
+    "data/studio.db productions.current_state = qa"
+   ],
+   "gate": null,
+   "gate_text": "code guard",
+   "rules": [
+    "Code guard: story.json + script-doctor pass + script approval + passing prelint + passing text-safety.json",
+    "Own frame check before staging"
+   ],
+   "doc": "docs/gates.md",
+   "next": {
+    "agent": "showrunner-<brand>",
+    "command": "npm run -s cli -- production:stage <id> qa"
+   }
+  },
+  "qa": {
+   "short": "QA",
+   "label": "QA rubric",
+   "lane": "videoqa",
+   "agents": [
+    "qa-director"
+   ],
+   "artifacts": [
+    "data/studio.db reviews (review:add)",
+    "productions/<id>/v<N>/qa/review.json"
+   ],
+   "gate": "qa",
+   "rules": [
+    "100-point rubric on the real MP4, timestamped defects + gap_to_gate",
+    "Re-runs T1/T2/T3 on the render (T3 no = blocker)",
+    "<= 12 frames at 360 px; re-QA = listed defects + regression diff"
+   ],
+   "doc": "docs/review-rubric.md",
+   "next": {
+    "agent": "qa-director",
+    "command": "review the latest render -> npm run -s cli -- review:add <id> ..."
+   }
+  },
+  "insights": {
+   "short": "Insights",
+   "label": "Insights score",
+   "lane": "videoqa",
+   "agents": [
+    "qa-director"
+   ],
+   "artifacts": [
+    "productions/<id>/v<N>/qa/insights-score.json"
+   ],
+   "gate": "insights",
+   "rules": [
+    "YouTube-insights rubric (frame 0, text 0, ...) on the latest version",
+    "Approve refuses below the gate"
+   ],
+   "doc": "docs/insights-rubric.md",
+   "next": {
+    "agent": "qa-director",
+    "command": "write productions/<id>/v<N>/qa/insights-score.json"
+   }
+  },
+  "viral": {
+   "short": "Viral",
+   "label": "Viral check",
+   "lane": "videoqa",
+   "agents": [
+    "qa-director"
+   ],
+   "artifacts": [
+    "productions/<id>/v<N>/qa/viral.json"
+   ],
+   "gate": "viral",
+   "rules": [
+    "Will a stranger stop, stay, finish and talk?",
+    "Hard gate only with story.json; Sunny Hill = record only",
+    "Record-only until 2026-11-22, then bar set from real-view calibration; forecast_delta logged; shelve at video round 2 if viral < 65 (PAUSED until 2026-11-22, owner)"
+   ],
+   "doc": "docs/viral-check.md",
+   "next": {
+    "agent": "qa-director",
+    "command": "write productions/<id>/v<N>/qa/viral.json"
+   }
+  },
+  "retention": {
+   "short": "Retention",
+   "label": "Retention",
+   "lane": "videoqa",
+   "agents": [
+    "qa-director"
+   ],
+   "artifacts": [
+    "productions/<id>/v<N>/qa/retention-review.json"
+   ],
+   "gate": "retention",
+   "rules": [
+    "Retention section inside QA for Mission Voices / Podium Pop (retention-reviewer retired)",
+    "Rules R1-R8 from the owner's Studio data"
+   ],
+   "doc": "docs/review-rubric.md",
+   "next": {
+    "agent": "qa-director",
+    "command": "Retention section in the same QA pass"
+   }
+  },
+  "rights_cs": {
+   "short": "Rights",
+   "label": "Rights countersign",
+   "lane": "videoqa",
+   "agents": [
+    "rights-scout"
+   ],
+   "artifacts": [
+    "data/studio.db rights_log (countersign)"
+   ],
+   "gate": null,
+   "gate_text": "all sources cleared",
+   "rules": [
+    "Countersign every new source; again when windows / quotes change",
+    "Per render: sha / copy lint, not a full re-view",
+    "Network TV, contractor reels and citizen-processed imagery get overturned"
+   ],
+   "doc": "AGENTS.md",
+   "next": {
+    "agent": "rights-scout",
+    "command": "countersign the sources (rights:set approved + evidence)"
+   }
+  },
+  "fresh_v": {
+   "short": "Fresh eyes V",
+   "label": "Fresh eyes (video)",
+   "lane": "videoqa",
+   "agents": [
+    "fresh-eyes"
+   ],
+   "artifacts": [
+    "productions/<id>/v<N>/qa/fresh-eyes.json"
+   ],
+   "gate": "fresh_eyes_block",
+   "rules": [
+    "Reads <= 12 frames at 360 px + the transcript only",
+    "Verdict hate blocks approval"
+   ],
+   "doc": "research/council/2026-11-08-workflow/CONTRACT.md",
+   "next": {
+    "agent": "fresh-eyes",
+    "command": "write productions/<id>/v<N>/qa/fresh-eyes.json"
+   }
+  },
+  "text_v": {
+   "short": "Text check V",
+   "label": "Frame text check (video)",
+   "lane": "videoqa",
+   "agents": [
+    "frame-text-inspector"
+   ],
+   "artifacts": [
+    "productions/<id>/v<N>/qa/text-safety.json",
+    "productions/<id>/v<N>/qa/text-check.json"
+   ],
+   "gate": null,
+   "gate_text": "text-safety pass (stage qa) + text-check pass (approve)",
+   "rules": [
+    "Code: every build measures every on-screen text in Chrome -> vN/qa/text-safety.json (clipped, offcanvas, unsafe_margin, ui_zone, too_small, overlap, rtl; config/text-safety.json)",
+    "Reads text-safety.json + <= 16 frames at 360 px at each text's first/last moment",
+    "Any cut / unreadable / UI-covered text = blocker; approve needs text-check.json pass:true (new loop)",
+    "Audit #2 F6a (2026-11-08): frame-text-inspector checks only what code cannot measure (text over faces/subject/payoff, readability by eye, unmeasured[], painted layers, burned-in text) and skips items text-safety passed; approve accepts text-safety pass alone when nothing is unmeasured and there are no painted layers"
+   ],
+   "doc": "docs/gates.md",
+   "next": {
+    "agent": "frame-text-inspector",
+    "command": "npm run -s cli -- text-safety <id>  -> write productions/<id>/v<N>/qa/text-check.json"
+   }
+  },
+  "panel_v": {
+   "short": "Panel V",
+   "label": "Panel (video)",
+   "lane": "videoqa",
+   "agents": [
+    "audience-panel"
+   ],
+   "artifacts": [
+    "productions/<id>/v<N>/qa/panel.json"
+   ],
+   "gate": "panel_block_hate",
+   "gate2": "panel_block_swipe",
+   "rules": [
+    "Same 5 personas on the render",
+    "Blocks at 3+ hate/boring or 3+ swipe before the payoff (kids too)"
+   ],
+   "doc": "research/council/2026-11-08-workflow/CONTRACT.md",
+   "next": {
+    "agent": "audience-panel",
+    "command": "write productions/<id>/v<N>/qa/panel.json"
+   }
+  },
+  "approve": {
+   "short": "Approve",
+   "label": "Approve",
+   "lane": "publish",
+   "agents": [
+    "orchestrator"
+   ],
+   "artifacts": [
+    "data/studio.db approval_status (POST /api/productions/<id>/decision)"
+   ],
+   "gate": null,
+   "gate_text": "all video gates",
+   "rules": [
+    "Latest QA pass (no blockers), insights and viral at their gates",
+    "New loop: panel V not blocked, fresh-eyes V not hate",
+    "New loop: vN/qa/text-check.json pass:true (frame-text-inspector)",
+    "All sources countersigned; approve only on {\"ok\":true}",
+    "Code checks reviewed version = approved version and rights countersign",
+    "Story loop: Podium Pop cut-judge / quiz-ar puzzle-judge pass at stage V, or stage C/P pass with input_sha256 = review:hash (unchanged input -> stage V skipped)",
+    "Target: 2 approved videos per channel per day (config/gates.json daily_target_approved; /api/throughput)"
+   ],
+   "doc": "docs/gates.md",
+   "next": {
+    "agent": "orchestrator",
+    "command": "curl -X POST http://127.0.0.1:4320/api/productions/<id>/decision -H \"x-studio: 1\" -d '{\"decision\":\"approve\",\"by\":\"orchestrator\"}'"
+   }
+  },
+  "publish": {
+   "short": "Publish",
+   "label": "Schedule + publish",
+   "lane": "publish",
+   "agents": [
+    "growth-director",
+    "owner"
+   ],
+   "artifacts": [
+    "data/publish-plan.json",
+    "data/studio.db publishing + slots"
+   ],
+   "gate": null,
+   "rules": [
+    "Daily uploader / owner's Chrome; explicit OK per post (Podium Pop auto-schedules 4/day)",
+    "Title/description/hashtags from packaging.json (fallback script.json); credits from the rights record; no AI-generation text",
+    "One shared YouTube Cloud quota across all channels"
+   ],
+   "doc": "CLAUDE.md",
+   "next": {
+    "agent": "growth-director",
+    "command": "python scripts/publish-plan.py  (ClipsViral-DailyUploads uploads it)"
+   }
+  },
+  "learn": {
+   "short": "Learn",
+   "label": "Learn",
+   "lane": "learn",
+   "agents": [
+    "growth-director"
+   ],
+   "artifacts": [
+    "data/learning/<brand>.json",
+    "hook-log.json",
+    "research/radar signal results (24 h / 7 d)"
+   ],
+   "gate": null,
+   "rules": [
+    "Turn each published video into the next decision within 48 h",
+    "Write 24 h / 7 d results back into the radar signal",
+    "Lessons become SR rules and QA checks",
+    "analytics-snapshots 24h/72h/7d daily; scripts/calibrate-scores.py Mondays -> research/calibration/; FE vs panel agreement at 20 videos"
+   ],
+   "doc": "docs/north-star.md",
+   "next": {
+    "agent": "growth-director",
+    "command": "read Studio analytics -> data/learning/<brand>.json"
+   }
+  },
+  "escalate": {
+   "short": "No-progress stop",
+   "label": "No-progress escalation",
+   "lane": "script",
+   "agents": [
+    "orchestrator"
+   ],
+   "artifacts": [
+    "productions/<id>/script-doctor.json (escalate flag)",
+    "productions/<id>/fix-ledger.json"
+   ],
+   "gate": null,
+   "gate_text": "< 3 points / 2 rounds",
+   "rules": [
+    "Forecast gains < 3 points over 2 rounds, or round >= 4 with forecast < 75: orchestrator decides rework or shelve",
+    "Fix ledger (fix-ledger.json) when fresh-eyes weak or panel swipes >= 2",
+    "Numbers in docs/gates.md"
+   ],
+   "doc": "docs/gap-to-gate.md",
+   "next": {
+    "agent": "orchestrator",
+    "command": "decide: rework premise | shelve | continue"
+   }
+  }
+ },
+ "versions": [
+  {
+   "id": "v1",
+   "date": "2026-10-22",
+   "title": "Showrunner loop",
+   "changed": [
+    "One showrunner per channel runs the production end to end",
+    "OpenChatCut (OCC) builds the edit",
+    "Independent QA rubric >= 85 + rights countersign before approval",
+    "2026-10-28: YouTube-insights score >= 85 added to approval",
+    "No QA round cap: clipping/compilations averaged ~11 rebuilds"
+   ],
+   "flow": [
+    "brief",
+    "sources",
+    "analyze",
+    "script",
+    "build",
+    "techqa",
+    [
+     "qa",
+     "insights",
+     "rights_cs"
+    ],
+    "approve",
+    "publish"
+   ],
+   "overrides": {
+    "brief": {
+     "label": "Showrunner brief"
+    },
+    "build": {
+     "label": "OCC build",
+     "agents": [
+      "occ-producer"
+     ],
+     "artifacts": [
+      "productions/<id>/v<N>/render.occ.mp4",
+      "occ.json",
+      "occ-pool.json"
+     ],
+     "gate_text": null,
+     "rules": [
+      "OpenChatCut project per version (retired 2026-11-02)",
+      "No script gate: the script went straight to TTS + edit"
+     ]
+    },
+    "techqa": {
+     "label": "Techqa",
+     "artifacts": [
+      "productions/<id>/v<N>/qa/techqa.json"
+     ],
+     "gate_text": null
+    },
+    "insights": {
+     "note": "added 2026-10-28"
+    }
+   },
+   "loops": [
+    {
+     "id": "video_round",
+     "label": "QA rounds (no cap)",
+     "steps": [
+      "qa",
+      "insights",
+      "rights_cs"
+     ],
+     "back_to": "build",
+     "max_gate": null
+    }
+   ]
+  },
+  {
+   "id": "v1.5",
+   "date": "2026-11-02",
+   "title": "Own renderer",
+   "changed": [
+    "ffmpeg renderer packages/render replaces OCC (timeline.json -> NVENC)",
+    "prelint gate before staging",
+    "Max 3 QA rounds per video",
+    "Retention scored inside QA (retention-reviewer retired)"
+   ],
+   "flow": [
+    "brief",
+    "sources",
+    "analyze",
+    "script",
+    "build",
+    "techqa",
+    [
+     "qa",
+     "insights",
+     "retention",
+     "rights_cs"
+    ],
+    "approve",
+    "publish"
+   ],
+   "overrides": {
+    "build": {
+     "label": "Build (ffmpeg render)",
+     "gate_text": null,
+     "rules": [
+      "timeline.json -> packages/render (chunked h264_nvenc)",
+      "master -14 LUFS, <= -1.6 dBTP"
+     ]
+    }
+   },
+   "loops": [
+    {
+     "id": "video_round",
+     "label": "Video round",
+     "steps": [
+      "qa",
+      "insights",
+      "retention",
+      "rights_cs"
+     ],
+     "back_to": "build",
+     "max_gate": "video_rounds_max"
+    }
+   ]
+  },
+  {
+   "id": "v2",
+   "date": "2026-11-03",
+   "title": "Hook council",
+   "changed": [
+    "hook-architect writes hook.json (premise, chosen hook, payoff_ts) before the script",
+    "persona-keeper text check for Podium Pop / quiz-ar",
+    "Channel learning checks (data/learning) feed SR rules and QA checks"
+   ],
+   "flow": [
+    "brief",
+    "sources",
+    "analyze",
+    "hook",
+    "script",
+    "build",
+    "techqa",
+    [
+     "qa",
+     "insights",
+     "retention",
+     "rights_cs"
+    ],
+    "approve",
+    "publish",
+    "learn"
+   ],
+   "overrides": {
+    "build": {
+     "gate_text": null
+    }
+   },
+   "loops": [
+    {
+     "id": "video_round",
+     "label": "Video round",
+     "steps": [
+      "qa",
+      "insights",
+      "retention",
+      "rights_cs"
+     ],
+     "back_to": "build",
+     "max_gate": "video_rounds_max"
+    }
+   ]
+  },
+  {
+   "id": "v2.1",
+   "date": "2026-11-08",
+   "title": "Story council",
+   "changed": [
+    "story-architect writes story.json (spine, beats, peak, ending)",
+    "script-doctor checks the script + scores the viral forecast",
+    "Viral check >= 75 at approval (story.json productions)"
+   ],
+   "flow": [
+    "brief",
+    "sources",
+    "analyze",
+    "hook",
+    "story",
+    "script",
+    "doctor",
+    "build",
+    "techqa",
+    [
+     "qa",
+     "insights",
+     "viral",
+     "retention",
+     "rights_cs"
+    ],
+    "approve",
+    "publish",
+    "learn"
+   ],
+   "overrides": {
+    "build": {
+     "gate_text": null
+    },
+    "doctor": {
+     "rules": [
+      "One pass and one recheck max",
+      "Forecast before TTS; verdict pass needed for stage qa"
+     ]
+    }
+   },
+   "loops": [
+    {
+     "id": "video_round",
+     "label": "Video round",
+     "steps": [
+      "qa",
+      "insights",
+      "viral",
+      "retention",
+      "rights_cs"
+     ],
+     "back_to": "build",
+     "max_gate": "video_rounds_max"
+    }
+   ]
+  },
+  {
+   "id": "v2.2",
+   "date": "2026-11-08",
+   "title": "North star + radar",
+   "changed": [
+    "North star: every video built for 1M+ views, honestly",
+    "Viral radar -> trend-hunter: ideas need a dated signal or evergreen demand",
+    "Code guards on stage qa and approve",
+    "hook-log.json closes the loop on results"
+   ],
+   "flow": [
+    "radar",
+    "brief",
+    "sources",
+    "analyze",
+    "hook",
+    "story",
+    "script",
+    "doctor",
+    "build",
+    "techqa",
+    "stage_qa",
+    [
+     "qa",
+     "insights",
+     "viral",
+     "retention",
+     "rights_cs"
+    ],
+    "approve",
+    "publish",
+    "learn"
+   ],
+   "overrides": {
+    "build": {
+     "gate_text": null
+    },
+    "stage_qa": {
+     "rules": [
+      "Code guard: story.json + script-doctor pass + passing prelint"
+     ]
+    }
+   },
+   "loops": [
+    {
+     "id": "video_round",
+     "label": "Video round",
+     "steps": [
+      "qa",
+      "insights",
+      "viral",
+      "retention",
+      "rights_cs"
+     ],
+     "back_to": "build",
+     "max_gate": "video_rounds_max"
+    }
+   ]
+  },
+  {
+   "id": "v3",
+   "date": "2026-11-08",
+   "title": "Script-approved build",
+   "changed": [
+    "packaging-director: titles, description, cover, search terms",
+    "Script round <= 10: script-doctor forecast + fresh-eyes + audience-panel, every reviewer returns gap_to_gate",
+    "script:approve writes script-approval.json with a hash lock; builders refuse without it",
+    "Video round <= 3 adds fresh-eyes + audience-panel on the render"
+   ],
+   "flow": [
+    "radar",
+    "brief",
+    "sources",
+    "analyze",
+    "hook",
+    "story",
+    "script",
+    "packaging",
+    [
+     "doctor",
+     "fresh_s",
+     "panel_s"
+    ],
+    "script_approve",
+    "build",
+    "techqa",
+    "stage_qa",
+    [
+     "qa",
+     "insights",
+     "viral",
+     "retention",
+     "rights_cs",
+     "fresh_v",
+     "panel_v"
+    ],
+    "approve",
+    "publish",
+    "learn"
+   ],
+   "overrides": {},
+   "loops": [
+    {
+     "id": "script_round",
+     "label": "Script round",
+     "steps": [
+      "doctor",
+      "fresh_s",
+      "panel_s"
+     ],
+     "back_to": "script",
+     "max_gate": "script_rounds_max"
+    },
+    {
+     "id": "video_round",
+     "label": "Video round",
+     "steps": [
+      "qa",
+      "insights",
+      "viral",
+      "retention",
+      "rights_cs",
+      "fresh_v",
+      "panel_v"
+     ],
+     "back_to": "build",
+     "max_gate": "video_rounds_max"
+    }
+   ]
+  },
+  {
+   "id": "v3.1",
+   "date": "2026-11-08",
+   "title": "Audit fixes",
+   "changed": [
+    "Script round cheap-first: script-doctor first; fresh-eyes S + panel S only at forecast >= 85",
+    "No-progress escalation: < 3 points over 2 rounds, or round >= 4 with forecast < 75 -> orchestrator decides",
+    "fix-ledger.json: every gap_to_gate item applied or rejected when FE weak / panel swipes >= 2",
+    "script:approve --delta for video-round script fixes; build --reason; 4th build without QA = stop",
+    "packaging gate 85, published from packaging.json; approve checks reviewed version + rights countersign in code",
+    "Render viral gate record-only until 2026-11-22; shelve at video round 2 if viral < 65; forecast_delta logged",
+    "Learn lane: analytics snapshots 24h/72h/7d, weekly calibration, FE vs panel agreement",
+    "Frame text check (owner 2026-11-08): build writes vN/qa/text-safety.json (prelint + stage qa refuse a failing one); frame-text-inspector writes text-check.json in the video round; approve needs it (new loop)",
+    "No AI-creation text anywhere (owner 2026-11-08): shared guard packages/shared/src/ai-text.ts + scripts/ai_text.py on titles, descriptions, tags, packaging, comments, plans, on-screen text and the exact upload payload",
+    "quiz-ar (owner 2026-11-08): puzzle-judge P (script lane) + V (video lane), gate puzzle_enjoy 7; big hook line + end open question in quiz.json",
+    "Podium Pop (2026-11-08): clip-hunter (TikTok-only Video Hunter -> library:register -> hunt.json) in the idea lane; cut-judge C (cut-review.json, before hook) + V (video lane), gate cut_entry_min 8 + #1 strongest"
+   ],
+   "flow": [
+    "radar",
+    "brief",
+    "sources",
+    "analyze",
+    "hook",
+    "story",
+    "script",
+    "packaging",
+    "doctor",
+    "escalate",
+    [
+     "fresh_s",
+     "panel_s"
+    ],
+    "script_approve",
+    "build",
+    "techqa",
+    "stage_qa",
+    [
+     "qa",
+     "insights",
+     "viral",
+     "retention",
+     "rights_cs",
+     "fresh_v",
+     "text_v",
+     "panel_v"
+    ],
+    "approve",
+    "publish",
+    "learn"
+   ],
+   "overrides": {
+    "sources": {
+     "agents": [
+      "showrunner-<brand>",
+      "rights-scout",
+      "clip-hunter"
+     ],
+     "rules": [
+      "YouTube is discovery-only: never download from it",
+      "rights:set \"proposed by <tag>\"; rights-scout countersigns every new source",
+      "Check primary pages, not Commons tags",
+      "Podium Pop (2026-11-08): library short of 8 strong clips for the idea = clip-hunter: Video Hunter --platform tiktok only (YouTube hunts owner-run), picks via library:register --propose -> productions/<id>/hunt.json"
+     ]
+    },
+    "analyze": {
+     "agents": [
+      "viral-analyst",
+      "cut-judge"
+     ],
+     "rules": [
+      "GPU transcription in .venv-asr (python, never python3)",
+      "8-20 candidates per long-form source, 20-50 per ranking topic",
+      "Every score carries evidence",
+      "Podium Pop (2026-11-08): cut-judge stage C on the WHOLE source of every entry after moments + draft plan and BEFORE hook-architect -> productions/<id>/cut-review.json; gate every entry >= cut_entry_min (8) and number1_strongest; payoff cut off or weaker #1 = blocker"
+     ]
+    },
+    "script": {
+     "agents": [
+      "showrunner-<brand>",
+      "script-localization",
+      "comedy-voice-writer",
+      "punchline-critic",
+      "persona-keeper",
+      "puzzle-judge"
+     ],
+     "rules": [
+      "Written on story.json + the chosen hook card",
+      "Podium Pop: comedy-voice-writer drafts, punchline-critic scores",
+      "persona-keeper check for Podium Pop / quiz-ar",
+      "Claim -> evidence lines; never AI-generation text in descriptions",
+      "quiz-ar only (owner 2026-11-08): puzzle-judge stage P on the puzzle art + quiz.json BEFORE the script round -> productions/<id>/puzzle-judge.json; blockers wrong/ambiguous/leaking round, difficulty <= 3, broken visual; gate pass + mean enjoyable >= puzzle_enjoy (7)",
+      "quiz-ar: hook_line from hook-lines.md + end_question from end-questions.md in quiz.json (no repeat within 10 videos)"
+     ]
+    },
+    "qa": {
+     "agents": [
+      "qa-director",
+      "puzzle-judge",
+      "cut-judge"
+     ],
+     "rules": [
+      "100-point rubric on the real MP4, timestamped defects + gap_to_gate",
+      "Re-runs T1/T2/T3 on the render (T3 no = blocker)",
+      "<= 12 frames at 360 px; re-QA = listed defects + regression diff",
+      "quiz-ar only (owner 2026-11-08): puzzle-judge stage V next to qa-director -> v<N>/qa/puzzle-judge.json (question start/middle/end + reveal frames per round at 360 px); its blockers go into the same batched fix",
+      "Podium Pop (2026-11-08): cut-judge stage V -> v<N>/qa/cut-review.json (payoff inside the footage box, no cropped heads, stage-C windows applied); qa-director cites its blockers"
+     ]
+    }
+   },
+   "loops": [
+    {
+     "id": "script_round",
+     "label": "Script round",
+     "steps": [
+      "doctor",
+      "escalate",
+      "fresh_s",
+      "panel_s"
+     ],
+     "back_to": "script",
+     "max_gate": "script_rounds_max"
+    },
+    {
+     "id": "video_round",
+     "label": "Video round",
+     "steps": [
+      "qa",
+      "insights",
+      "viral",
+      "retention",
+      "rights_cs",
+      "fresh_v",
+      "panel_v"
+     ],
+     "back_to": "build",
+     "max_gate": "video_rounds_max"
+    }
+   ]
+  }
+ ]
+}

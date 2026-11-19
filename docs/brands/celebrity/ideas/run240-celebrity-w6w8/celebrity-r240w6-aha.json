@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Take On Me Flopped Twice. Then a Pencil Sketch Saved It",
+ "topic": "a-ha's 'Take On Me' flopped in 1984 and again in 1985; Warner then paid for a hand-drawn, rotoscoped video, and the re-release went to US No. 1 on 19 Oct 1985.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: a-ha singer Morten Harket releases album \"Human Grace\" (2026-11-27). Wikipedia Take_On_Me 21,316 views Sept 2026.",
+ "hook": "A flop… twice. Then pencils?",
+ "twist": "a-ha's 'Take On Me' flopped in 1984 and again in 1985; Warner then paid for a hand-drawn, rotoscoped video, and the re-release went to US No. 1 on 19 Oct 1985.",
+ "peg": {
+  "event": "a-ha singer Morten Harket releases album \"Human Grace\"",
+  "date": "2026-11-27",
+  "url": "https://en.wikipedia.org/wiki/List_of_2026_albums_(July%E2%80%93December)",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Take On Me (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Take_On_Me"
+  },
+  {
+   "claim": "Rolling Stone - The secret history of Take On Me (accessed 2026-10-24)",
+   "url": "https://www.rollingstone.com/music/news/the-secret-history-of-a-has-smash-take-on-me-20100514"
+  },
+  {
+   "claim": "History.com - Take On Me video takes a-ha to No. 1 (accessed 2026-10-24)",
+   "url": "https://www.history.com/this-day-in-history/October-19/take-on-me-music-video-helps-norways-a-ha-reach-the-top-the-u-s-pop-charts"
+  },
+  {
+   "claim": "Peg source: a-ha singer Morten Harket releases album \"Human Grace\" (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_albums_(July%E2%80%93December)"
+  },
+  {
+   "claim": "Wikimedia pageviews Take_On_Me: 21316 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Take_On_Me&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Take On Me",
+   "url": "https://en.wikipedia.org/wiki/Take_On_Me",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Rolling Stone - The secret history of Take On Me",
+   "url": "https://www.rollingstone.com/music/news/the-secret-history-of-a-has-smash-take-on-me-20100514",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "History.com - Take On Me video takes a-ha to No. 1",
+   "url": "https://www.history.com/this-day-in-history/October-19/take-on-me-music-video-helps-norways-a-ha-reach-the-top-the-u-s-pop-charts",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "A flop that had to be recorded twice: Take On Me #Shorts",
+   "url": "https://youtube.com/shorts/SEIONR9upnY",
+   "views": 2,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Take On Me flopped twice music video #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Take On Me Flopped Twice Before It Hit No. 1 #shorts #80smusic",
+   "url": "https://youtube.com/shorts/9QaWruoj_m4",
+   "views": 67,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Take On Me flopped twice music video #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "a-ha's \"Take On Me\" Flopped Twice Before Hitting Number 1 #shorts",
+   "url": "https://youtube.com/shorts/wdp3sVlURII",
+   "views": 1000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Take On Me flopped twice music video #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A pencil-sketched hand reaching out of a comic page + hook. Twist by 2.5 s. Loop: 'Two flops, then No. 1. Would you have tried a third time?'",
+ "cta": "C3+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Count of versions differs ('fourth attempt' in one source): say 'flopped twice'. Original pencil-style art only, no video frames, no audio. Skip Harket's health.",
+ "window": {
+  "notBefore": "2026-11-26T12:00:00Z",
+  "deadline": "2026-12-02T00:00:00Z",
+  "label": "a-ha singer Morten Harket releases album \"Human Grace\"",
+  "suggestedSlot": "2026-11-30T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "a-ha",
+  "Morten Harket"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

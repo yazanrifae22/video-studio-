@@ -1,0 +1,45 @@
+{
+ "channel": "tech",
+ "title": "The Game Is on Your Console. Why Can't You Play?",
+ "topic": "Encrypted preloads and release-day keys",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "GTA VI pre-load week; general gamer question.",
+ "evidence": [
+  {
+   "claim": "SteamDB: preload = normal download with decryption key withheld until release (accessed 2026-10-23)",
+   "url": "https://steamdb.info/blog/steam-download-system"
+  },
+  {
+   "claim": "Wikipedia GTA VI: pre-loading opens a week before the game unlocks (Nov 12) (accessed 2026-10-23)",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+  }
+ ],
+ "competitors": [],
+ "angle": "Frame 0: a 100% download bar with a padlock + hook. Answer: preloaded files are encrypted; the key arrives at unlock time (Steam documents this), so the whole game sits there unreadable. Peg: GTA VI pre-loading opens Nov 12. Loop.",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "It's downloaded. Why won't it start?",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Console (PS/Xbox) preload mechanics are not publicly documented; say \"on PC stores like Steam\". No competitor Shorts found (search returned none).",
+ "window": {
+  "notBefore": "2026-11-04T00:00:00Z",
+  "deadline": "2026-11-19T00:00:00Z",
+  "label": "GTA VI pre-load Nov 12, launch Nov 19"
+ },
+ "novelty": {
+  "overlap": "HIGH topic cluster with GTA box idea - never same or adjacent day",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": true,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

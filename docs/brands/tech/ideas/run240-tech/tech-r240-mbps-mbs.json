@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Paying for 100 Mbps, Downloading at 12. Why?",
+ "topic": "Internet speed is sold in megabits; downloads show megabytes; 8 bits make a byte, so 100 / 8 = 12.5.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Everyone sees it; competitors under 7K. Strong frame-0 number contradiction.",
+ "evidence": [
+  {
+   "claim": "Data-rate units: Mbit/s vs MB/s (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Data-rate_units"
+  },
+  {
+   "claim": "FCC broadband speed guide (speeds in Mbps) (accessed 2026-10-24)",
+   "url": "https://www.fcc.gov/consumers/guides/broadband-speed-guide"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "MBps vs Mbps",
+   "url": "https://youtube.com/shorts/1tHUtM4ZfaU",
+   "views": "6.7K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Internet Companies are Scamming You! Mbps vs MB/s",
+   "url": "https://youtube.com/shorts/HU9ytdIg9Fc",
+   "views": "3.3K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('100 Mbps plan. Download: 12. Why?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Internet speed is sold in megabits; downloads show megabytes; 8 bits make a byte, so 100 / 8 = 12.5. Loop ending: re-ask the hook.",
+ "hook": "100 Mbps plan. Download: 12. Why?",
+ "twist": "Internet speed is sold in megabits; downloads show megabytes; 8 bits make a byte, so 100 / 8 = 12.5.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-14 12:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Why Your 1 TB Drive Shows Only 931 GB' (units). Keep >= 7 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 8,
+ "score10": 8.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

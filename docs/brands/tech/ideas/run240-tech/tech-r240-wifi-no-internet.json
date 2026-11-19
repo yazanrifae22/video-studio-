@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Full Wi-Fi Bars, No Internet. How?",
+ "topic": "The bars only measure your phone-to-router signal, not the router's line to the internet.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Massive demand (fix-it Shorts 1.6M-4.7M); explain the why, not a fix.",
+ "evidence": [
+  {
+   "claim": "Received signal strength indicator (what Wi-Fi bars show) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Received_signal_strength_indicator"
+  },
+  {
+   "claim": "Microsoft support: fix Wi-Fi connection issues (connected, no internet) (accessed 2026-10-24)",
+   "url": "https://support.microsoft.com/en-us/windows/fix-wi-fi-connection-issues-in-windows-9424a1f7-6a3b-65a6-4d78-7f07eee84d2c"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Fix WiFi Connected But No Internet Problem in 30 Sec",
+   "url": "https://youtube.com/shorts/m-qd-QFWHtQ",
+   "views": "4.7M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "WiFi Connected but No Internet? Fix It Now!",
+   "url": "https://youtube.com/shorts/AlIWb8DbAtc",
+   "views": "1.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Full bars. Nothing loads. Why?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: The bars only measure your phone-to-router signal, not the router's line to the internet. Loop ending: re-ask the hook.",
+ "hook": "Full bars. Nothing loads. Why?",
+ "twist": "The bars only measure your phone-to-router signal, not the router's line to the internet.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-12 18:00 UTC",
+ "novelty": {
+  "overlap": "LOW-MEDIUM with 'Why Your Microwave Kills Your Wi-Fi'. Keep >= 4 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 4,
+ "score10": 8.8,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

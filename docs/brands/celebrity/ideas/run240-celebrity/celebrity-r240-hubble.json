@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Before Galaxies, Edwin Hubble Coached High School Basketball",
+ "topic": "Hubble studied law at Oxford for his dying father, then taught Spanish and coached basketball in Indiana before turning to astronomy.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Edwin Hubble born 20 Nov 1889 (2026-11-20). Wikipedia Edwin_Hubble 13,299 views Sept 2026.",
+ "hook": "Basketball coach to galaxy hunter?",
+ "twist": "Hubble studied law at Oxford for his dying father, then taught Spanish and coached basketball in Indiana before turning to astronomy.",
+ "peg": {
+  "event": "Edwin Hubble born 20 Nov 1889",
+  "date": "2026-11-20",
+  "url": "https://en.wikipedia.org/wiki/Edwin_Hubble",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "ESA/Hubble - Edwin Powell Hubble, the man who discovered the cosmos (accessed 2026-10-24)",
+   "url": "https://esahubble.org/about/history/the_scientist_behind_the_name/"
+  },
+  {
+   "claim": "AIP - Cosmic journey: Edwin Hubble (accessed 2026-10-24)",
+   "url": "https://history.aip.org/exhibits/cosmology/ideas/hubble.htm"
+  },
+  {
+   "claim": "Wikipedia - Edwin Hubble (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Edwin_Hubble"
+  },
+  {
+   "claim": "Peg source: Edwin Hubble born 20 Nov 1889 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Edwin_Hubble"
+  },
+  {
+   "claim": "Wikimedia pageviews Edwin_Hubble: 13299 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Edwin_Hubble&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "ESA/Hubble - Edwin Powell Hubble, the man who discovered the cosmos",
+   "url": "https://esahubble.org/about/history/the_scientist_behind_the_name/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "AIP - Cosmic journey: Edwin Hubble",
+   "url": "https://history.aip.org/exhibits/cosmology/ideas/hubble.htm",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Edwin Hubble",
+   "url": "https://en.wikipedia.org/wiki/Edwin_Hubble",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "College basketball LEGEND Edwin Hubble 🏀",
+   "url": "https://youtube.com/shorts/rm22rz6Jwa4",
+   "views": 204,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Coach & Teacher: Winning in Law, Hoops & Life! #shorts",
+   "url": "https://youtube.com/shorts/RE-5ICwlqcU",
+   "views": 1200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Teacher wasn’t playing 😂 (via Coach_HugginsJr/X) #shorts",
+   "url": "https://youtube.com/shorts/_cydtOw1hmk",
+   "views": 3600000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a basketball hoop whose net turns into a spiral galaxy + hook. Twist: the coach became Hubble. Loop: 'Next coach you meet...'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Practised law? Sources conflict (AIP: never practised) - say 'trained in law'. Space cluster Nov 18-20; lead with the basketball visual.",
+ "window": {
+  "notBefore": "2026-11-19T12:00:00Z",
+  "deadline": "2026-11-21T06:00:00Z",
+  "label": "Edwin Hubble born 20 Nov 1889",
+  "suggestedSlot": "2026-11-20T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

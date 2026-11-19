@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Treasure Island Started as a Map on a Rainy Day",
+ "topic": "On a rainy 1881 holiday Stevenson embellished his stepson's painted map; three chapters followed within days, and the lost map was redrawn from memory.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Evergreen with a twist hook. Wikipedia Treasure_Island 51,308 views Sept 2026.",
+ "hook": "A doodled map became which classic?",
+ "twist": "On a rainy 1881 holiday Stevenson embellished his stepson's painted map; three chapters followed within days, and the lost map was redrawn from memory.",
+ "peg": {
+  "event": "Evergreen (Stevenson born 13 Nov 1850)",
+  "date": null,
+  "url": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson",
+  "pegged": false
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Moral Emblems (Treasure Island map history) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Moral_Emblems"
+  },
+  {
+   "claim": "3 Quarks Daily - The magic and mystery of literary maps (accessed 2026-10-24)",
+   "url": "https://3quarksdaily.com/?p=145818"
+  },
+  {
+   "claim": "Archive.org - Treasure Island (with Stevenson's \"My First Book\" essay) (accessed 2026-10-24)",
+   "url": "https://www.archive.org/download/treasureisland00stev2/treasureisland00stev2_bw.pdf"
+  },
+  {
+   "claim": "Peg source: Evergreen (Stevenson born 13 Nov 1850) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"
+  },
+  {
+   "claim": "Wikimedia pageviews Treasure_Island: 51308 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Treasure_Island&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Moral Emblems (Treasure Island map history)",
+   "url": "https://en.wikipedia.org/wiki/Moral_Emblems",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "3 Quarks Daily - The magic and mystery of literary maps",
+   "url": "https://3quarksdaily.com/?p=145818",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Archive.org - Treasure Island (with Stevenson's \"My First Book\" essay)",
+   "url": "https://www.archive.org/download/treasureisland00stev2/treasureisland00stev2_bw.pdf",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Treasure Island by Robert Louis Stevenson in the stunning MinaLima edition",
+   "url": "https://youtube.com/shorts/84QGbxu0zY0",
+   "views": 650,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Treasure Island Didn't Exist in 1895 🗺️ #shorts",
+   "url": "https://youtube.com/shorts/Lbzhy0hdlo8",
+   "views": 632,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "New Map 🔥 *TREASURE ISLAND*#shorts #stumbleguys #viral @Aniket_sonu",
+   "url": "https://youtube.com/shorts/CVS_lmAmB-4",
+   "views": 4700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a hand-painted island map with an X + hook. Twist: a rainy-day doodle became Treasure Island. Loop: 'Draw a map. See what happens.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); evergreen filler with twist",
+ "weaknesses": "Stepson Lloyd Osbourne was 12-13: keep him off-screen (just hands/map). Don't copy the book's map - draw an original island.",
+ "window": {
+  "notBefore": "2026-11-13T00:00:00Z",
+  "deadline": null,
+  "label": "Evergreen (Stevenson born 13 Nov 1850)",
+  "suggestedSlot": "2026-11-19T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

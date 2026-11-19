@@ -1,0 +1,61 @@
+{
+ "channel": "tech",
+ "title": "Why Mario Has a Mustache",
+ "topic": "Pixels: on a tiny 1980s sprite a mouth was unreadable, so Miyamoto gave him a mustache (and a cap instead of hair) to make the face clear.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Mario searches are enormous; the mustache reason is a perfect frame-0 question.",
+ "evidence": [
+  {
+   "claim": "The Ringer (2020): Mario's design and spin-offs (mouths hard on a 16x16 grid) (accessed 2026-10-24)",
+   "url": "https://www.theringer.com/2020/9/9/21428984/mario-spinoffs-franchises-kart-tennis-dr"
+  },
+  {
+   "claim": "Wikipedia: Mario (design: mustache, cap, overalls due to hardware limits) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Mario"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "(no explainer Short in top results; Mario animation reaches 65M)",
+   "url": "https://www.youtube.com/watch?v=_vugVmLpqM4",
+   "views": "65M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Why does Mario have a mustache?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Pixels: on a tiny 1980s sprite a mouth was unreadable, so Miyamoto gave him a mustache (and a cap instead of hair) to make the face clear. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Why does Mario have a mustache?",
+ "twist": "Pixels: on a tiny 1980s sprite a mouth was unreadable, so Miyamoto gave him a mustache (and a cap instead of hair) to make the face clear.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-12-07",
+  "deadline": "2026-12-10",
+  "event": "The Game Awards week (show Dec 10 2026)"
+ },
+ "newsPeg": "The Game Awards week (show Dec 10 2026)",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-08 12:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Why Old 3D Games Were Full of Fog' (hardware-limit design): 5+ weeks apart. Draw an original plumber-ish silhouette, never Mario himself.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 9,
+ "score10": 9.0,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

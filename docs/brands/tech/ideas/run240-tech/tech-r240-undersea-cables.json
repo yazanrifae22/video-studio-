@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Your Video Crossed the Ocean on the Sea Floor",
+ "topic": "About 99% of intercontinental data runs through undersea cables about as thick as a garden hose.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Proven demand (2.9M) and a strong visual; answer contradicts the common 'satellites' guess.",
+ "evidence": [
+  {
+   "claim": "TeleGeography submarine cable FAQ (99% of international data) (accessed 2026-10-24)",
+   "url": "https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions"
+  },
+  {
+   "claim": "Submarine communications cable (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How Underwater Internet Cables Survive Shark Bites and Ship Anchors",
+   "url": "https://youtube.com/shorts/8F494-0-iYE",
+   "views": "2.9M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "POV: A Shark Cut the Internet Cable",
+   "url": "https://youtube.com/shorts/7xC3mIOEyhA",
+   "views": "35K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Internet across oceans? Satellites? No.') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: About 99% of intercontinental data runs through undersea cables about as thick as a garden hose. Loop ending: re-ask the hook.",
+ "hook": "Internet across oceans? Satellites? No.",
+ "twist": "About 99% of intercontinental data runs through undersea cables about as thick as a garden hose.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-15 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW with plane Wi-Fi (satellite) - keep apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 22,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

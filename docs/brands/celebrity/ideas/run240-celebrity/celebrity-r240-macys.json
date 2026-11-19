@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Macy's Parade at 100: They Used to Let Balloons Fly Away",
+ "topic": "From 1928 Macy's released the giant balloons with a return address and a $100 reward, until one hit a plane's wing in 1932.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: 100th Macy's Thanksgiving Day Parade, Thu Nov 26 (pre-event) (2026-11-26). Wikipedia Macy's_Thanksgiving_Day_Parade 9,121 views Sept 2026.",
+ "hook": "Where did the parade balloons go?",
+ "twist": "From 1928 Macy's released the giant balloons with a return address and a $100 reward, until one hit a plane's wing in 1932.",
+ "peg": {
+  "event": "100th Macy's Thanksgiving Day Parade, Thu Nov 26 (pre-event)",
+  "date": "2026-11-26",
+  "url": "https://www.aol.com/lifestyle/marching-100-everything-know-2026-231200984.html",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Now I Know - Thanks for the helium (accessed 2026-10-24)",
+   "url": "https://nowiknow.com/?p=5360"
+  },
+  {
+   "claim": "Hawaii News Now (Stacker) - 100 years of the Macy's Thanksgiving Day Parade (accessed 2026-10-24)",
+   "url": "https://www.hawaiinewsnow.com/2024/11/28/100-years-macys-thanksgiving-day-parade"
+  },
+  {
+   "claim": "The Daily Meal - Facts you didn't know about the Macy's parade (accessed 2026-10-24)",
+   "url": "https://www.thedailymeal.com/macys-thanksgiving-day-parade-fun-facts/"
+  },
+  {
+   "claim": "Peg source: 100th Macy's Thanksgiving Day Parade, Thu Nov 26 (pre-event) (accessed 2026-10-24)",
+   "url": "https://www.aol.com/lifestyle/marching-100-everything-know-2026-231200984.html"
+  },
+  {
+   "claim": "Wikimedia pageviews Macy's_Thanksgiving_Day_Parade: 9121 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Macy's_Thanksgiving_Day_Parade&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Now I Know - Thanks for the helium",
+   "url": "https://nowiknow.com/?p=5360",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Hawaii News Now (Stacker) - 100 years of the Macy's Thanksgiving Day Parade",
+   "url": "https://www.hawaiinewsnow.com/2024/11/28/100-years-macys-thanksgiving-day-parade",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "The Daily Meal - Facts you didn't know about the Macy's parade",
+   "url": "https://www.thedailymeal.com/macys-thanksgiving-day-parade-fun-facts/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Macy's Thanksgiving Day Parade 2025 BALLOONS 🎈#shorts #macysparade #thanksgiving #balloons #ny",
+   "url": "https://youtube.com/shorts/vUdpFJpI7xY",
+   "views": 2800,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Macy's Parade balloons #shorts #macys #macysthanksgivingdayparade",
+   "url": "https://youtube.com/shorts/sMgt85W4E04",
+   "views": 1300,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Macy’s Once Released Parade Balloons—Until One Downed a Plane",
+   "url": "https://youtube.com/shorts/F9Gebc55bok",
+   "views": 1000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a giant balloon drifting over 1920s rooftops with a reward tag + hook. Twist: they let them go - on purpose. Loop: 'Look up on Thursday.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Reward $100 ($500 in a fan wiki - ignore). No Macy's star logo, no licensed character balloons: draw a generic tiger/elephant balloon.",
+ "window": {
+  "notBefore": "2026-11-22T00:00:00Z",
+  "deadline": "2026-11-26T14:00:00Z",
+  "label": "100th Macy's Thanksgiving Day Parade, Thu Nov 26 (pre-event)",
+  "suggestedSlot": "2026-11-24T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "kids",
+ "name": "Tiko & Pip",
+ "format": "episode",
+ "positioning": "Original 3D animated learning episodes for ages 2-5 (Made for Kids)",
+ "audience": "Preschoolers 2-5 and parents",
+ "language": "en",
+ "status": "active",
+ "data": {
+  "voice": {
+   "name": "Leda",
+   "tiko": "Puck",
+   "alt": [
+    "Aoede",
+    "Achernar"
+   ]
+  },
+  "music": "kids3d procedural bed (packages/kids3d/src/audio.ts)",
+  "palette": [
+   "#7FD3FF",
+   "#FF7A45",
+   "#27C281",
+   "#FFC93C"
+  ],
+  "strategy": "Restart 2026-11-02 (owner): long-form 16:9 1920x1080 3D episodes, 2-3 min each, one learning goal + a tiny story, lots of gentle motion. First goal: 4 episodes. Every episode has its own concept and payoff.",
+  "titleStyle": "Simple, parent-searchable (\"Count 10 Pumpkins with Tiko! | Learn Numbers\")",
+  "thumbnail": "Bright sky, Tiko/Pip big faces, one object, 2 words max",
+  "safety": "Made for Kids. No flashing >3Hz, no scary content, gentle SFX, slower pacing than adult channels.",
+  "origin": "merged from the old explainer studio (video-automation) 2026-11-02",
+  "engine": "packages/kids3d (Three.js kit rendered in headless Chrome on the GPU, WebCodecs H.264) -> timeline.json -> packages/render; see docs/brands/kids/3d-pipeline.md",
+  "youtube": {
+   "handle": "@TikoAndPipLearn",
+   "channel_id": "UC94OOegtu_4mngD49Qhm2Ew",
+   "token": "data/tokens/kids.json"
+  },
+  "docs": "docs/brands/kids/",
+  "made_for_kids": true,
+  "resumed": {
+   "since": "2026-11-02",
+   "by": "owner",
+   "note": "un-retired for 4 long-form 3D episodes; uploads must be Made for Kids; no uploads without owner OK"
+  },
+  "recipe": "docs/brands/kids/episode-recipe.md"
+ }
+}

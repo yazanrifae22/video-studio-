@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "A Typo Started the Military's Santa Tracker",
+ "topic": "A 1955 store ad printed the wrong number; kids reached a US air-defence hotline, and the colonel on duty played along. NORAD still tracks Santa.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Proven 6.5M demand; it's a phone-tech story (misprinted number) for the start of December.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: NORAD Tracks Santa (1955 Sears ad misprint, CONAD) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/NORAD_Tracks_Santa"
+  },
+  {
+   "claim": "NORAD Tracks Santa official site (accessed 2026-10-24)",
+   "url": "https://www.noradsanta.org/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "This Typo Made the Military Track Santa",
+   "url": "https://youtube.com/shorts/SAPiMgMWVuo",
+   "views": "6.5M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "This holiday tradition started because of a TYPO",
+   "url": "https://youtube.com/shorts/8-6rq1aCDUs",
+   "views": "15K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Kids called the military. Why?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: A 1955 store ad printed the wrong number; kids reached a US air-defence hotline, and the colonel on duty played along. NORAD still tracks Santa. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Kids called the military. Why?",
+ "twist": "A 1955 store ad printed the wrong number; kids reached a US air-defence hotline, and the colonel on duty played along. NORAD still tracks Santa.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": {
+  "notBefore": "2026-12-01",
+  "deadline": "2026-12-24",
+  "event": "NORAD Tracks Santa season opens (site live Dec 1)"
+ },
+ "newsPeg": "NORAD Tracks Santa season opens (site live Dec 1)",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-01 12:00 UTC",
+ "novelty": {
+  "overlap": "none. Saturated: win on hook; some details are disputed (who printed it): say 'the story goes'.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 16,
+ "score10": 8.8,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

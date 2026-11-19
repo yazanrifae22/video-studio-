@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why Do So Many AI Images Look Yellow?",
+ "topic": "Nobody has fully confirmed it; leading theories are warm-graded training photos and edits that compound the tint each round.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Fresh meme (725K long-form in 3 weeks). Cause is UNVERIFIED - script must present theories as theories. Avoid the meme's crude name.",
+ "evidence": [
+  {
+   "claim": "YouTube explainer 'The AI Piss Filter, Explained' (725K views, 3 weeks old) - documents the meme; cause unverified (accessed 2026-10-24)",
+   "url": "https://www.youtube.com/watch?v=5xD8OjRl8xQ"
+  },
+  {
+   "claim": "OpenAI 4o image generation launch (Mar 2025), the model the meme is about (accessed 2026-10-24)",
+   "url": "https://openai.com/index/introducing-4o-image-generation/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "why is chatgpt images so yellow",
+   "url": "https://youtube.com/shorts/7M3f11nO9DM",
+   "views": "11K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "The AI Piss Filter, Explained (long)",
+   "url": "https://www.youtube.com/watch?v=5xD8OjRl8xQ",
+   "views": "725K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Why is every AI photo yellow?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Nobody has fully confirmed it; leading theories are warm-graded training photos and edits that compound the tint each round. Loop ending: re-ask the hook.",
+ "hook": "Why is every AI photo yellow?",
+ "twist": "Nobody has fully confirmed it; leading theories are warm-graded training photos and edits that compound the tint each round.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 3,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-19 22:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with the AI-image family (wine, clocks, left hand, elephant). Keep >= 5 days from any.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 33,
+ "score10": 8.1,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 3,
+  "policyRisk": 2
+ }
+}

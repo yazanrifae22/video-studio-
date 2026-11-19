@@ -1,0 +1,60 @@
+{
+ "channel": "tech",
+ "title": "Why a USB Plug Takes Three Tries",
+ "topic": "USB-A design trade-off (cost) and USB-C reversibility",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Universal joke; 1-28K competitor Shorts; USB-C ~29k Wikipedia views/30d.",
+ "evidence": [
+  {
+   "claim": "PC Gamer: USB inventor explains why the connector was not reversible (cost) (accessed 2026-10-23)",
+   "url": "https://www.pcgamer.com/au/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible"
+  },
+  {
+   "claim": "PCWorld: Ajay Bhatt on USB at 20 (accessed 2026-10-23)",
+   "url": "https://www.pcworld.com/article/424209/happy-birthday-usb-the-standard-turns-20-and-proud-inventor-ajay-bhatt-tells-all.html"
+  },
+  {
+   "claim": "Pageviews USB-C 29,296 in 30 days (accessed 2026-10-23)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=USB-C&range=latest-30"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Does USB Need Three Attempts?",
+   "url": "https://youtube.com/shorts/Ql7LMsiD3iE",
+   "views": "28K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why Does a USB Always Take 3 Tries?!",
+   "url": "https://youtube.com/shorts/9CG2mVHMyhY",
+   "views": "1.6K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a USB-A plug at a port + hook. Answer: it was a cost decision - a reversible plug needed double the wires and circuits, inventor Ajay Bhatt said. USB-C fixed it in 2014. Loop: 'Which way is up?'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Which way is up? Wrong. Again.",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Crowded; \"third try\" physics is folk explanation - keep it light.",
+ "window": null,
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

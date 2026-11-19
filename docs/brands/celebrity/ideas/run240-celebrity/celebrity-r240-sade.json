@@ -1,0 +1,102 @@
+{
+ "channel": "celebrity",
+ "title": "Rock Hall Twist: Sade Isn't Just a Singer, It's a Band",
+ "topic": "Sade is a four-piece band named after singer Sade Adu - and the Rock Hall inducted the whole band.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Rock & Roll Hall of Fame induction, Nov 14 (spare) (2026-11-14). Wikipedia Sade_(band) views n/a.",
+ "hook": "Sade: a singer or a band?",
+ "twist": "Sade is a four-piece band named after singer Sade Adu - and the Rock Hall inducted the whole band.",
+ "peg": {
+  "event": "Rock & Roll Hall of Fame induction, Nov 14 (spare)",
+  "date": "2026-11-14",
+  "url": "https://au.variety.com/2026/music/news/rock-roll-hall-fame-2026-inductees-oasis-phil-collins-sade-35301/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Sade (band) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Sade_(band)"
+  },
+  {
+   "claim": "Variety AU - Rock Hall 2026 inductees (accessed 2026-10-24)",
+   "url": "https://au.variety.com/2026/music/news/rock-roll-hall-fame-2026-inductees-oasis-phil-collins-sade-35301/"
+  },
+  {
+   "claim": "Last.fm - Sade biography (accessed 2026-10-24)",
+   "url": "https://last.fm/music/Sade/+wiki"
+  },
+  {
+   "claim": "Peg source: Rock & Roll Hall of Fame induction, Nov 14 (spare) (accessed 2026-10-24)",
+   "url": "https://au.variety.com/2026/music/news/rock-roll-hall-fame-2026-inductees-oasis-phil-collins-sade-35301/"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Sade (band)",
+   "url": "https://en.wikipedia.org/wiki/Sade_(band)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Variety AU - Rock Hall 2026 inductees",
+   "url": "https://au.variety.com/2026/music/news/rock-roll-hall-fame-2026-inductees-oasis-phil-collins-sade-35301/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Last.fm - Sade biography",
+   "url": "https://last.fm/music/Sade/+wiki",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Sade's Smooth Saxophone Serenade Under Blue Lights #shorts",
+   "url": "https://youtube.com/shorts/SDHpv03ch8Q",
+   "views": 18000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Sade  -  Is It A Crime (Live at Rocknight, 1984) #shorts #sade",
+   "url": "https://youtube.com/shorts/QRwt_x9IUdE",
+   "views": 29,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Sade - Is it a crime (Live)",
+   "url": "https://youtube.com/shorts/b_9S3dqFhzc",
+   "views": 318000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: one microphone and three instruments under a single name sign + hook. Twist: four people. Loop: 'Name the other three?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Rock Hall cluster (Idol, Oasis, Blue Monday): use only to replace one of them. No likeness, no audio.",
+ "window": {
+  "notBefore": "2026-11-13T00:00:00Z",
+  "deadline": "2026-11-17T00:00:00Z",
+  "label": "Rock & Roll Hall of Fame induction, Nov 14 (spare)",
+  "suggestedSlot": "spare"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": true,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 5,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

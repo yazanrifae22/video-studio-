@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why Your Keyboard Isn't in ABC Order",
+ "topic": "QWERTY came from 1870s typewriters, shaped by jams and telegraph operators, and then everyone was locked in.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Huge demand (4.5M) but saturated - spare only.",
+ "evidence": [
+  {
+   "claim": "QWERTY history (Sholes & Glidden typewriter, 1873) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/QWERTY"
+  },
+  {
+   "claim": "Yasuoka & Yasuoka 2011, 'On the Prehistory of QWERTY' (telegraph-operator theory) (accessed 2026-10-24)",
+   "url": "https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/139379"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Keyboards AREN'T In Order?",
+   "url": "https://youtube.com/shorts/hVI6pK-9n_I",
+   "views": "4.5M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why Keyboards Use QWERTY Instead of ABC?",
+   "url": "https://youtube.com/shorts/WTFGlY3IyEI",
+   "views": "263K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Why isn't it ABCDEF?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: QWERTY came from 1870s typewriters, shaped by jams and telegraph operators, and then everyone was locked in. Loop ending: re-ask the hook.",
+ "hook": "Why isn't it ABCDEF?",
+ "twist": "QWERTY came from 1870s typewriters, shaped by jams and telegraph operators, and then everyone was locked in.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": null,
+ "novelty": {
+  "overlap": "LOW with F-J bumps (same keyboard; never both scheduled).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": true,
+ "week": null,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 49,
+ "score10": 7.7,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 1,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

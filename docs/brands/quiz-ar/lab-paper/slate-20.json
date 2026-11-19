@@ -1,0 +1,1042 @@
+{
+  "doc": "quiz-ar LAB Paper - slate of 20 Short ideas (design only, nothing built)",
+  "created": "2026-11-17",
+  "by": "orchestrator subagent (slate design)",
+  "look": "docs/brands/quiz-ar/lab-paper/CONTRACT.md + data/brand/shu-lab/README.md (cut paper on a desk; paper/kraft/ink/vermilion/chalk/night only; Lalezar + IBM Plex Sans Arabic; Eastern digits)",
+  "inputs_read": [
+    "productions/quiz-261114-csbw (Jastrow, magician monologue, QA 88)",
+    "productions/quiz-261114-vafk (lying narrator story, QA 85, insights 83)",
+    "productions/quiz-261114-adqi (fold twice + edge cut = 2 holes, two voices, QA 87, insights 84)",
+    "docs/brands/quiz-ar/used-heroes.md, memory quiz-difficulty + quiz-open-ending"
+  ],
+  "lessons_from_the_three": [
+    "QA praised: puzzle complete at frame 0, proof is physical (stack / ruler / unfold), last frame == frame 0.",
+    "QA docked: 'one idea with no second beat' (csbw) -> every idea below has a second beat (open puzzle or twist).",
+    "QA docked: first spoken line was setup, not hook (adqi) -> hook line is the question/bet itself, inside 0-2 s.",
+    "QA docked: strip hand-over clutter and edge clipping at the loop (adqi v4) -> one strip at a time, loop = hard cut.",
+    "Nobody listened to the audio on any of the three -> every build needs one human/ASR listen of the voices."
+  ],
+  "global_rules": {
+    "frame0": "puzzle complete and readable at 0.0 s, already moving (settle, wobble, spin, slide); no title card",
+    "hook": "spoken line starts <= 0.3 s and ends <= 2.2 s",
+    "pace": "something moves every <= 1.5 s; shuffles 0.4 s/swap; memory flashes <= 1.0 s; never name a memory target before the question",
+    "fairness": "exactly one answer, provable from the render geometry (proof.txt per production, computed from ONE definition in code)",
+    "ending": "most end on an open second puzzle + comment/share ask; answer goes to the owner's pinned comment later (never say so in the video)",
+    "loop": "last frame hard-cuts to the frame-0 layout",
+    "voices": "Gemini voice names are suggestions; Zephyr banned by the LAB contract; ASR the opening of every take"
+  },
+  "families": {
+    "size_illusion": [
+      2,
+      9
+    ],
+    "line_illusion": [
+      1,
+      15
+    ],
+    "fold_cut": [
+      3,
+      10
+    ],
+    "rotation": [
+      4,
+      14
+    ],
+    "tracking_count": [
+      5,
+      6
+    ],
+    "memory_change": [
+      12,
+      17
+    ],
+    "possible_or_impossible": [
+      7,
+      20
+    ],
+    "counting": [
+      8
+    ],
+    "balance": [
+      11
+    ],
+    "odd_one_out": [
+      13
+    ],
+    "lying_narrator": [
+      16
+    ],
+    "overlay_stencil": [
+      18
+    ],
+    "sequence": [
+      19
+    ]
+  },
+  "script_types": {
+    "i_bet_you_get_it_wrong": [
+      1,
+      3,
+      15
+    ],
+    "two_voices_betting": [
+      2,
+      4,
+      7,
+      10,
+      18,
+      20
+    ],
+    "teacher_vs_student": [
+      19
+    ],
+    "magician_confession": [
+      9
+    ],
+    "confession_whisper": [
+      12
+    ],
+    "sports_commentator": [
+      5
+    ],
+    "story_with_sabotage": [
+      6
+    ],
+    "challenge_countdown": [
+      8,
+      13,
+      17
+    ],
+    "market_seller": [
+      11
+    ],
+    "detective": [
+      14
+    ],
+    "bad_gameshow_host": [
+      16
+    ]
+  },
+  "build_first": [
+    1,
+    3,
+    4
+  ],
+  "ideas": [
+    {
+      "n": 1,
+      "slug": "poggendorff-which-exit",
+      "family": "line_illusion",
+      "effect_or_puzzle": "Poggendorff illusion. An ink paper strip (34 px wide) rises left->right at 32 deg from horizontal and passes BEHIND a vertical kraft band (280 px wide, x 400-680, y 520-1300). On the right three strip ends exit: أ (top, exactly collinear), ب (40 px lower, measured vertically at the band edge), ج (80 px lower). The acute-angle effect makes the true continuation look too high, so most eyes pick ب. Tune ب's offset at 360 px so it 'looks right' (3-person glance test on a still) while أ stays mathematically collinear.",
+      "script_type": "i_bet_you_get_it_wrong",
+      "voices": "1 - a cheeky carpenter's apprentice who loves winning small bets (Puck, tempo 1.06)",
+      "hook_line_ar": "هالشريطة السودا… لوين بتطلع؟ أ، ب، ولا ج؟",
+      "beats": [
+        {
+          "t": "0-2.2",
+          "picture": "Frame 0: whole puzzle on the cream sheet; the band does a 4 px settle-thud at 0.1 s; label tapes أ ب ج already on.",
+          "line_ar": "هالشريطة السودا… لوين بتطلع؟ أ، ب، ولا ج؟"
+        },
+        {
+          "t": "2.2-5.5",
+          "picture": "Pencil prop taps each exit (tick x3), headline strip «لوين بتطلع؟».",
+          "line_ar": "وحدة بس منهن هيّ الكمّلة… وعينك رح تختار غلط."
+        },
+        {
+          "t": "5.5-7",
+          "picture": "Think beat 1.2 s, bed only, two ticks.",
+          "line_ar": "اختار… هلّق."
+        },
+        {
+          "t": "7-12",
+          "picture": "Band lifts in 3D (shadow grows) and slides off right; a paper ruler slides along the left strip and keeps going across the gap: it lands exactly on أ. Marker circle on أ, stamp «أ».",
+          "line_ar": "شلنا الورقة… والمسطرة ما بتكذب: أ!"
+        },
+        {
+          "t": "12-15",
+          "picture": "Ruler stays; small strip «ب كانت أوطى».",
+          "line_ar": "إذا قلت ب… عينك غشّتك."
+        },
+        {
+          "t": "15-21",
+          "picture": "Band slides back over (illusion returns) - ruler gone. Strip «جرّبها على رفيقك».",
+          "line_ar": "بعتها لرفيقك… وقلّي بالتعليقات شو اختار قبل المسطرة."
+        }
+      ],
+      "answer": "أ",
+      "proof": "Left strip centreline y = m*x + b from the SVG; أ's centreline satisfies the same equation within 1 px; ب and ج miss by 40/80 px at x=680. Debug still with the band at 30 % opacity shows one straight line through أ.",
+      "ending": "Reveal + share bet: «بعتها لرفيقك… وقلّي شو اختار قبل المسطرة» (comment = friend's pick).",
+      "frame0": "Cream sheet on kraft desk, band over the strip, three labelled exits, headline strip «لوين بتطلع؟», channel tag; band mid-settle.",
+      "kit_needs": "Strips + tapes + stamp + markerCircle (kit). Ruler prop: drawn in csbw/adqi page folders, copy into the page (kit has no ruler builder - small gap).",
+      "risk": "Illusion strength depends on angle/band width: verify at 360 px before script lock. Labels must not sit at different heights that hint (align tapes on one vertical). Strip ends must be same length and thickness.",
+      "why_viral": "Classic 'your eye lies' bet with a physical ruler proof; people send it to test friends.",
+      "source_url": "https://en.wikipedia.org/wiki/Poggendorff_illusion"
+    },
+    {
+      "n": 2,
+      "slug": "shepard-tables-carpenter",
+      "family": "size_illusion",
+      "effect_or_puzzle": "Shepard tables. Two paper tables (kraft tops, ink leg strips). Both tops are the SAME parallelogram (long side 480 px, short side 190 px, interior angle 64 deg); table B's top = table A's top rotated 90 deg. A looks long and narrow, B short and wide. Second puzzle: B's legs are really 22 px LONGER than A's (measurable).",
+      "script_type": "two_voices_betting",
+      "voices": "2 - customer (Kore, picky, sure of herself) vs carpenter (Charon, calm, amused)",
+      "hook_line_ar": "بدّي الطاولة الأطول… أكيد هيّ يلي فوق!",
+      "beats": [
+        {
+          "t": "0-2.2",
+          "picture": "Frame 0: both tables on the cream mat (A top y 420-760, B y 900-1260); a price tag sways on A.",
+          "line_ar": "(زبونة) بدّي الطاولة الأطول… أكيد هيّ يلي فوق!"
+        },
+        {
+          "t": "2.2-5",
+          "picture": "Carpenter's tape «أي سطح أطول؟» slaps on.",
+          "line_ar": "(نجّار) متأكدة؟ سطحن نفس الخشبة."
+        },
+        {
+          "t": "5-7",
+          "picture": "Think beat, pencil ticks.",
+          "line_ar": "(زبونة) مستحيل!"
+        },
+        {
+          "t": "7-12",
+          "picture": "A's top lifts off its legs (3D lift), rotates 90 deg in the air (0.5 s, back ease), slides down and drops onto B's top: one outline, zero overhang; shifts 12 px and back to show two pieces. Stamp «نفس القياس».",
+          "line_ar": "(نجّار) شيلي… ودوّري… وحطّي. نفس الشي بالملّي."
+        },
+        {
+          "t": "12-15",
+          "picture": "Top flies back to A.",
+          "line_ar": "(زبونة) طيب… عيني كذبت."
+        },
+        {
+          "t": "15-22",
+          "picture": "Marker underlines both legs sets; strip «أي إجرين أطول؟». No reveal.",
+          "line_ar": "(نجّار) طيب هلّق الإجرين… أي طاولة إجريها أطول فعلاً؟ اكتبيلي."
+        }
+      ],
+      "answer": "Tops identical (rotation proof). Open puzzle: table B's legs are 22 px longer.",
+      "proof": "Both tops built from one polygon const, B = rotate(90). Stack still at 50 % alpha = one outline. Leg rect heights in the DOM: A 160 px, B 182 px.",
+      "ending": "Open second puzzle: «أي طاولة إجريها أطول فعلاً؟ اكتبلي بالتعليقات».",
+      "frame0": "Two tables on the mat, price tag swinging, headline «أي سطح أطول؟».",
+      "kit_needs": "Paper pieces with clip-path parallelograms (paper() takes html; use a clipped inner div or SVG path). Rotation + lift exist. Leg strips = paper pieces.",
+      "risk": "Lift scale (+6 %) must be cancelled while the top is over B (size must match exactly at the stack moment). Legs difference must be clearly measurable at 360 px (22 px = 7 px on phone - keep a ruler proof ready for the pinned comment).",
+      "why_viral": "One of the strongest size illusions known; the 'rotate and it fits' moment is satisfying and rewatchable.",
+      "source_url": "https://en.wikipedia.org/wiki/Shepard_tables"
+    },
+    {
+      "n": 3,
+      "slug": "fold-cut-corner-one-hole",
+      "family": "fold_cut",
+      "effect_or_puzzle": "Unit square; fold right half over left (hinge x=0.5), then top half down (hinge y=0.5) -> 4-layer quarter, crease corner at (0.5,0.5). Scissors cut off the CREASE corner: triangle (0.5,0.5),(0.40,0.5),(0.5,0.60). Unfold -> ONE diamond hole in the centre, vertices (0.4,0.5),(0.5,0.4),(0.6,0.5),(0.5,0.6). Second puzzle: cut the FREE corner (0,1) of the quarter instead -> 4 separate triangles fall (no hole).",
+      "script_type": "i_bet_you_get_it_wrong",
+      "voices": "1 - a teasing older cousin (Sadachbia, quick, smiling)",
+      "hook_line_ar": "طويناها مرّتين… وقصّينا زاوية. كم فتحة رح تطلع؟",
+      "beats": [
+        {
+          "t": "0-2.2",
+          "picture": "Frame 0: open cream sheet on the night desk, dashed fold lines; fold 1 starts at 0.25 s.",
+          "line_ar": "طويناها مرّتين… وقصّينا زاوية. كم فتحة رح تطلع؟"
+        },
+        {
+          "t": "2.2-5",
+          "picture": "Fold 2 lands (thud); scissors snip the crease corner; the small piece drops.",
+          "line_ar": "أربعة؟ أكيد أربعة… مو؟"
+        },
+        {
+          "t": "5-7",
+          "picture": "Think beat, ticks, marker circle on the cut corner.",
+          "line_ar": "فكّر منيح وين الطيّة."
+        },
+        {
+          "t": "7-12",
+          "picture": "Unfold 2 (0.8 s), unfold 1 (0.8 s): one diamond, night desk shows through. Stamp «فتحة وحدة».",
+          "line_ar": "وحدة بس! بالنص."
+        },
+        {
+          "t": "12-17",
+          "picture": "Fresh sheet refolds fast (0.4 s each); scissors move to the opposite (free) corner and snip; the cut piece lands as one small stack.",
+          "line_ar": "طيب… وإذا قصّينا هالزاوية؟"
+        },
+        {
+          "t": "17-22",
+          "picture": "Stack stays closed, marker circle on it, strip «كم شقفة بالكومة؟».",
+          "line_ar": "كم شقفة صغيرة وقعت عالطاولة؟ اكتب الرقم."
+        }
+      ],
+      "answer": "1 hole. Open puzzle: 4 pieces.",
+      "proof": "Same 4-quadrant clip-path engine as adqi: ONE triangle definition, reflected by the two folds; proof.txt prints the reflected polygons (one merged diamond). Free-corner cut: the 4 reflected triangles sit at the 4 sheet corners and share no crease -> 4 disconnected pieces.",
+      "ending": "Open: «كم شقفة صغيرة وقعت عالطاولة؟ اكتب الرقم بالتعليقات».",
+      "frame0": "Open sheet, dashed creases, paper scissors parked right, headline «كم فتحة؟».",
+      "kit_needs": "Reuse adqi page fold/clip-path code (copy into the new page folder). Scissors prop from adqi.",
+      "risk": "Same fold sequence as adqi -> space it at least a week from adqi in the schedule; different cut location and answer, so not a repeat. Pile of 4 must not be countable on screen (one stacked outline).",
+      "why_viral": "Most people say 4; the single centre hole is a clean surprise, and the second cut keeps comments going."
+    },
+    {
+      "n": 4,
+      "slug": "coin-rotation-paradox",
+      "family": "rotation",
+      "effect_or_puzzle": "Coin rotation paradox. Two equal chalk discs (r = 150 px). The outer disc carries a vermilion arrow and rolls without slipping once around the fixed disc. Question: how many times does the arrow point straight up again during one lap? Answer 2 (self-rotation = (R+r)/r = 2 turns). Open puzzle: rolling disc with half the radius -> 3.",
+      "script_type": "two_voices_betting",
+      "voices": "2 - sister (Aoede, sharp, teasing) vs brother (Orus, overconfident)",
+      "hook_line_ar": "هالدائرة رح تلفّ حوالين أختها لفّة وحدة… كم مرّة بتدور حول حالها؟",
+      "beats": [
+        {
+          "t": "0-2.4",
+          "picture": "Frame 0: both discs touching at the top, arrow up; the rolling disc rocks ±6 deg (motion, no progress).",
+          "line_ar": "(أخت) هالدائرة رح تلفّ حوالين أختها لفّة وحدة… كم مرّة بتدور حول حالها؟"
+        },
+        {
+          "t": "2.4-4.5",
+          "picture": "Brother's tab flips to «١».",
+          "line_ar": "(أخ) مرّة وحدة. سهلة."
+        },
+        {
+          "t": "4.5-6.5",
+          "picture": "Strip «وإنت؟», think beat, ticks.",
+          "line_ar": "(أخت) وإنت؟ عدّ السهم كم مرّة بيرجع لفوق."
+        },
+        {
+          "t": "6.5-12",
+          "picture": "One lap in 5.0 s, linear; each time the arrow is exactly vertical a chalk tally tape pops (١ at 2.5 s, ٢ at 5.0 s of the lap). Contact point marked by a small vermilion tick on both rims.",
+          "line_ar": ""
+        },
+        {
+          "t": "12-15",
+          "picture": "Stamp «مرّتين»; brother's «١» struck through.",
+          "line_ar": "(أخ) كيف يعني مرّتين؟!"
+        },
+        {
+          "t": "15-22",
+          "picture": "A half-size disc slides in next to the big one, arrow up, no roll.",
+          "line_ar": "(أخت) طيب إذا الصغيرة نصّ حجمها… كم مرّة؟ اكتبها."
+        }
+      ],
+      "answer": "2 (open puzzle: 3)",
+      "proof": "Render uses rotation = 2*theta for orbit angle theta (equal radii); proof.txt logs arrow angle per frame: vertical at theta = 180 and 360 deg only. Half disc: rotation = 3*theta (R/r + 1).",
+      "ending": "Open: «إذا الصغيرة نصّ حجمها… كم مرّة؟ اكتبها بالتعليقات».",
+      "frame0": "Two discs on the night desk, arrow up, rocking; headline «كم مرّة بتدور؟».",
+      "kit_needs": "Discs = round paper pieces (border-radius on paper or SVG circle inside); orbit via tl.fn (pure function of t). Tally tapes exist.",
+      "risk": "Wording must define the count as 'the arrow points up again' (removes the 'relative to what' argument). Rolling must look non-slipping: contact ticks must meet each other at contact.",
+      "why_viral": "A famous paradox people fight about (even an exam got it wrong); a 5-second lap anyone can count.",
+      "source_url": "https://en.wikipedia.org/wiki/Coin_rotation_paradox"
+    },
+    {
+      "n": 5,
+      "slug": "envelope-shell-commentator",
+      "family": "tracking_count",
+      "effect_or_puzzle": "Shell game with 3 kraft envelopes (flap closed). A vermilion ticket «١» slides into the middle one at 0-0.8 s. 8 swaps at 0.4 s each (pairs: L-M, M-R, L-R crossing, M-R, L-M, L-R, M-R, L-M - final position computed in the plan; the crossing envelope always lifts higher with a bigger shadow). Commentator bets wrong and opens an empty one; the other two stay closed.",
+      "script_type": "sports_commentator",
+      "voices": "1 - football-match commentator, breathless, over the top (Sadaltager, tempo 1.12)",
+      "hook_line_ar": "الورقة الحمرا بالظرف النص… لا تشيل عينك!",
+      "beats": [
+        {
+          "t": "0-2",
+          "picture": "Frame 0: three envelopes, ticket already half inside the middle one, sliding in.",
+          "line_ar": "الورقة الحمرا بالظرف النص… لا تشيل عينك!"
+        },
+        {
+          "t": "2-6",
+          "picture": "8 swaps x 0.4 s, crossing lifts, thuds.",
+          "line_ar": "وبتلفّ… وبترجع… يا سلااام شو سريعة!"
+        },
+        {
+          "t": "6-8",
+          "picture": "Envelopes still; strip «وين صارت؟», ticks.",
+          "line_ar": "وين صارت؟"
+        },
+        {
+          "t": "8-12",
+          "picture": "Commentator's paper hand flips the RIGHT envelope open: empty. Stamp «فاضي».",
+          "line_ar": "أنا بقول… اليمين! لا لا لا… فاضي!"
+        },
+        {
+          "t": "12-20",
+          "picture": "Two closed envelopes left; marker circles both.",
+          "line_ar": "يعني يا النص يا الشمال… إنت شفتها؟ اكتب جوابك!"
+        }
+      ],
+      "answer": "Whichever envelope the swap log ends on (design it to be the LEFT one; the commentator opens the right).",
+      "proof": "Plan exports the swap list and a per-frame owner index; checker tracks the ticket envelope frame by frame at 30 fps (no envelope fully hidden behind another for > 1 frame).",
+      "ending": "Open: «يا النص يا الشمال… اكتب جوابك!» (owner pins the answer later).",
+      "frame0": "Envelopes on the cream desk, ticket mid-slide into the middle one, headline «لا تشيل عينك».",
+      "kit_needs": "Envelope prop (paper + triangular flap that can flip open) - not in kit, simple to build. Paper hand prop optional (can be a flip without a hand).",
+      "risk": "Envelopes must be identical (no grain or shadow difference that lets you track by texture - use the same seed). 0.4 s swaps must stay trackable at 360 px (no motion blur, clear lift).",
+      "why_viral": "Shell game + a commentator who fails = comedy and a comment split between two answers.",
+      "source_url": ""
+    },
+    {
+      "n": 6,
+      "slug": "count-drops-sabotage",
+      "family": "tracking_count",
+      "effect_or_puzzle": "11 paper squares (mixed vermilion/ink/chalk, 90 px) drop one by one into a kraft box with walls (pile not visible) at irregular gaps 0.5-1.4 s; at one moment TWO drop together 120 px apart. The narrator 'helps' by counting out loud with wrong numbers off the beat. Lid closes. Question: how many are in the box? Answer 11.",
+      "script_type": "story_with_sabotage",
+      "voices": "1 - a mischievous grandma-style storyteller who openly tries to mess you up (Schedar)",
+      "hook_line_ar": "عدّ الورقات اللي بتوقع… بس أنا رح خرّبلك.",
+      "beats": [
+        {
+          "t": "0-2",
+          "picture": "Frame 0: open box, first square already falling (piece 1 lands at 0.6 s).",
+          "line_ar": "عدّ الورقات اللي بتوقع… بس أنا رح خرّبلك."
+        },
+        {
+          "t": "2-13",
+          "picture": "Pieces 2-11 drop (thud each); the double drop at ~8 s.",
+          "line_ar": "تلاتة… سبعة… لا لحظة… تنين… ستي كانت تعدّ المصاري هيك… خمسة…"
+        },
+        {
+          "t": "13-15",
+          "picture": "Lid slams shut (stamp-like thud, shake).",
+          "line_ar": "خلصوا!"
+        },
+        {
+          "t": "15-17",
+          "picture": "Strip «كم وحدة بالعلبة؟», ticks.",
+          "line_ar": "كم وحدة بالعلبة؟"
+        },
+        {
+          "t": "17-22",
+          "picture": "Lid stays shut; marker circle around the box.",
+          "line_ar": "أنا عدّيت غلط عن قصد… إنت كم عدّيت؟ اكتب الرقم."
+        }
+      ],
+      "answer": "11",
+      "proof": "Plan drop list = 11 events (each piece fully visible >= 0.3 s above the box, never overlapping another piece); one identical thud SFX per piece (double drop = two thuds 0.08 s apart) so ears can count too.",
+      "ending": "Open: «أنا عدّيت غلط عن قصد… إنت كم عدّيت؟ اكتب الرقم».",
+      "frame0": "Kraft box on the cream desk, first piece mid-fall, headline «عدّ معي».",
+      "kit_needs": "Box with front wall (two paper layers: back + front wall in front of pieces). Drop motion exists.",
+      "risk": "Voice must NOT say 11 at any point; wrong numbers only. The double drop must be visibly two pieces at 360 px. Check TTS keeps the off-beat counting.",
+      "why_viral": "Interference challenge ('I will make you lose count') - viewers compete in comments and rewatch.",
+      "source_url": ""
+    },
+    {
+      "n": 7,
+      "slug": "gear-ring-jam",
+      "family": "possible_or_impossible",
+      "effect_or_puzzle": "5 paper gears (kraft, 14 teeth, r 120 px) in a closed pentagon ring, each meshing its two neighbours; gear 1 has a crank handle, gear 3 is vermilion. Options: «مع الساعة» / «عكس الساعة» / «ما بتدور». An odd ring of meshed gears cannot turn at all. Open puzzle: same with a ring of 6 -> turns.",
+      "script_type": "two_voices_betting",
+      "voices": "2 - kid (Puck, eager) vs uncle mechanic (Charon, dry)",
+      "hook_line_ar": "إذا دوّرت هالمسكة… الحمرا لوين بتدور؟",
+      "beats": [
+        {
+          "t": "0-2.2",
+          "picture": "Frame 0: ring of 5 gears, handle twitching (grabbed), option tapes below.",
+          "line_ar": "(ولد) إذا دوّرت هالمسكة… الحمرا لوين بتدور؟"
+        },
+        {
+          "t": "2.2-5.5",
+          "picture": "Kid's tab «مع الساعة», uncle's tab «عكسها».",
+          "line_ar": "(ولد) مع الساعة! (عمّو) لأ… عكسها."
+        },
+        {
+          "t": "5.5-7.5",
+          "picture": "Strip «وإنت؟», ticks.",
+          "line_ar": "(ولد) وإنت؟"
+        },
+        {
+          "t": "7.5-11",
+          "picture": "Handle pushed: all gears jerk 3 deg and lock, hard shake, stamp «ما بتدور».",
+          "line_ar": ""
+        },
+        {
+          "t": "11-16",
+          "picture": "Chalk arrows drop on each gear alternating ↻ ↺ around the ring; gears 5 and 1 get the SAME arrow -> marker X at their mesh.",
+          "line_ar": "(عمّو) خمسة بحلقة… كل وحدة بتعاكس جارتها، والأخيرة بتعلق مع الأولى."
+        },
+        {
+          "t": "16-23",
+          "picture": "A 6th gear slides in (ring of 6), arrows removed.",
+          "line_ar": "(ولد) طيب إذا صاروا ستة؟ بتدور ولا بتعلق؟ اكتبلي."
+        }
+      ],
+      "answer": "ما بتدور (locked). Open puzzle: ring of 6 turns.",
+      "proof": "Meshing graph is a 5-cycle (odd) -> no alternating direction assignment exists. Render: gear centres on a regular pentagon with centre distance = 2 x pitch radius; checker verifies every neighbour pair meshes and no non-neighbours touch.",
+      "ending": "Open: «إذا صاروا ستة؟ بتدور ولا بتعلق؟ اكتبلي».",
+      "frame0": "Five gears on the night desk, handle twitch, headline «لوين بتدور؟».",
+      "kit_needs": "GAP: no gear builder - needs an SVG gear-path generator (teeth count, pitch radius) and meshed phase alignment.",
+      "risk": "Teeth must visibly interleave at every mesh at 360 px, else viewers say 'they do not touch'. Expect some 'paper bends' comments - harmless.",
+      "why_viral": "Third option 'it does not turn' is the one almost nobody picks; engineers will argue in comments.",
+      "source_url": "https://en.wikipedia.org/wiki/Gear_train"
+    },
+    {
+      "n": 8,
+      "slug": "count-triangles-20",
+      "family": "counting",
+      "effect_or_puzzle": "A big triangle made of ink paper strips: 2 sides + 3 interior lines from the apex to the base (base split into 4 equal segments) + 1 horizontal strip across at mid-height. Every triangle = 2 of the 5 apex lines + 1 of the 2 horizontals -> C(5,2) x 2 = 20.",
+      "script_type": "challenge_countdown",
+      "voices": "1 - strict but funny maths teacher (Gacrux)",
+      "hook_line_ar": "كم مثلث بالصورة؟ معك عشر ثواني.",
+      "beats": [
+        {
+          "t": "0-2",
+          "picture": "Frame 0: full figure on a chalk sheet; desk push-in 1.00->1.03; tear-off paper pad «١٠» at the top right.",
+          "line_ar": "كم مثلث بالصورة؟ معك عشر ثواني."
+        },
+        {
+          "t": "2-12",
+          "picture": "Pad tears one page per second ٩…١ (rip SFX), sheet shifts slightly with each tear.",
+          "line_ar": "عدّ منيح… (at 7 s) نصّ الوقت راح."
+        },
+        {
+          "t": "12-14",
+          "picture": "Stamp «خلص الوقت!».",
+          "line_ar": "خلص!"
+        },
+        {
+          "t": "14-20",
+          "picture": "Marker circles the whole figure (no individual triangles shown).",
+          "line_ar": "إذا طلعلك عشرة… ارجع عدّ. اكتب رقمك بالتعليقات."
+        }
+      ],
+      "answer": "20",
+      "proof": "Line set from code: 5 lines through the apex, 2 horizontals; checker enumerates all line triples, keeps non-concurrent ones forming a bounded triangle inside the figure = 20, prints them.",
+      "ending": "Open: «إذا طلعلك عشرة… ارجع عدّ. اكتب رقمك بالتعليقات» (10 is wrong, true hint).",
+      "frame0": "Figure complete, pad at ١٠, headline «كم مثلث؟».",
+      "kit_needs": "Strips as lines (paper pieces rotated). Tear-off countdown pad = NEW prop (stack of paper pages, top page rips away).",
+      "risk": "Strip joints must meet exactly (gaps make people dispute whether a triangle 'closes'). Strip width <= 18 px so small triangles stay readable at 360 px.",
+      "why_viral": "Counting puzzles are the classic comment war; 20 is high enough that most undercount.",
+      "source_url": ""
+    },
+    {
+      "n": 9,
+      "slug": "ebbinghaus-real-cheat",
+      "family": "size_illusion",
+      "effect_or_puzzle": "Ebbinghaus illusion. Two vermilion discs d = 140 px: left ringed by 6 ink discs d = 230, right ringed by 8 ink discs d = 50. Look different, are equal. Twist: the magician then really swaps the LEFT centre disc for one with d = 154 (+10 %); with the big ring it still looks smaller or equal. Open question: which one is really bigger now?",
+      "script_type": "magician_confession",
+      "voices": "1 - smooth magician who confesses to cheating (Umbriel)",
+      "hook_line_ar": "الدايرتين الحمر… أي وحدة أكبر؟",
+      "beats": [
+        {
+          "t": "0-2",
+          "picture": "Frame 0: both clusters, surrounding rings slowly orbit their centres (geometry unchanged).",
+          "line_ar": "الدايرتين الحمر… أي وحدة أكبر؟"
+        },
+        {
+          "t": "2-5",
+          "picture": "Label tapes «اليمين» / «الشمال».",
+          "line_ar": "اليمين باينة أكبر… مو؟"
+        },
+        {
+          "t": "5-10",
+          "picture": "Rings slide away; the two discs slide to the centre and stack exactly. Stamp «نفس القياس».",
+          "line_ar": "ولا شي… نفس الحجم بالضبط."
+        },
+        {
+          "t": "10-14",
+          "picture": "Discs and rings return; the magician's paper hand swaps the left disc for one from his pocket (quick slide in/out, 0.4 s).",
+          "line_ar": "بس هلّق… رح غشّك عن جد."
+        },
+        {
+          "t": "14-21",
+          "picture": "Hold the illusion with the new disc; strip «وحدة أكبر فعلاً».",
+          "line_ar": "هلّق وحدة منهن أكبر فعلاً. أيّا؟ اكتبلي."
+        }
+      ],
+      "answer": "Round 1: equal. Open: the LEFT disc (d 154 vs 140).",
+      "proof": "SVG circle r attributes: 70/70 in round 1, 77/70 after the swap; stack still at the 5-10 s beat shows one outline.",
+      "ending": "Open: «هلّق وحدة منهن أكبر فعلاً. أيّا؟ اكتبلي».",
+      "frame0": "Two clusters on a cream sheet, rings orbiting, headline «أي وحدة أكبر؟».",
+      "kit_needs": "Discs as paper pieces / SVG; orbit via tl.fn. Paper hand prop (optional).",
+      "risk": "Loop: last frame shows the swapped disc, so hard-cut to the frame-0 state (accept the 10 % jump). Must be clear the swap happened (visible hand move), not hidden.",
+      "why_viral": "Two layers: the famous illusion, then a real difference hidden by the same illusion - smart viewers still lose.",
+      "source_url": "https://en.wikipedia.org/wiki/Ebbinghaus_illusion"
+    },
+    {
+      "n": 10,
+      "slug": "strip-fold-3-cut-9",
+      "family": "fold_cut",
+      "effect_or_puzzle": "A kraft strip 880 x 80 px is folded in half 3 times (8 layers, 110 px packet), then cut once straight across the middle of the packet. Cuts land at (2k-1)/16 of the length, k = 1..8 -> 9 pieces (2 end pieces of 1/16, 7 pieces of 1/8). Open: fold 4 times -> 17.",
+      "script_type": "two_voices_betting",
+      "voices": "2 - sister (Despina, careful) vs brother (Orus, loud)",
+      "hook_line_ar": "طوينا الشريطة تلات مرات… وقصّة وحدة بالنص. كم شقفة؟",
+      "beats": [
+        {
+          "t": "0-2.4",
+          "picture": "Frame 0: the long strip across the desk, first fold already lifting.",
+          "line_ar": "(أخت) طوينا الشريطة تلات مرات… وقصّة وحدة بالنص. كم شقفة؟"
+        },
+        {
+          "t": "2.4-6.5",
+          "picture": "Folds 2 and 3 (0.5 s each, thud), packet shows 8 edges; scissors snip once.",
+          "line_ar": ""
+        },
+        {
+          "t": "6.5-9.5",
+          "picture": "Tabs flip: brother «١٦», sister «٨».",
+          "line_ar": "(أخ) ستعش! (أخت) لأ… تمانية."
+        },
+        {
+          "t": "9.5-11.5",
+          "picture": "Strip «وإنت؟», ticks.",
+          "line_ar": "(أخت) وإنت؟"
+        },
+        {
+          "t": "11.5-17",
+          "picture": "Packet unfolds; pieces slide apart in a row; number tapes ١…٩ pop on each (0.15 s apart). Stamp «٩». Both tabs struck.",
+          "line_ar": "(أخ) تسعة؟! ولا واحد فينا."
+        },
+        {
+          "t": "17-23",
+          "picture": "New strip, 4 fold-crease marks drawn, no fold.",
+          "line_ar": "(أخت) طيب إذا طويناها أربع مرات؟ كم؟ اكتبها."
+        }
+      ],
+      "answer": "9 (open: 17)",
+      "proof": "Pieces generated from the cut list x_k = (2k-1)/16 * L; proof.txt prints 9 intervals; unfold animation uses the same intervals.",
+      "ending": "Open: «إذا طويناها أربع مرات؟ كم؟ اكتبها».",
+      "frame0": "Strip on the night desk, first fold lifting, headline «كم شقفة؟».",
+      "kit_needs": "Multi-segment fold of one strip (segments as hinged paper pieces with 3D rotation). GAP: kit flip is single-piece; chained hinges need a small helper (same need as #20).",
+      "risk": "The 8-layer packet must read as 8 layers (edge offsets). Unfold must be readable fast; if 3 nested hinges are too costly, unfold as a 'pull apart' slide (pieces separating) - still fair because the count is shown on the pieces.",
+      "why_viral": "Two confident wrong answers (8, 16) that almost everyone shares; 9 is a 'wait, what?' result.",
+      "source_url": ""
+    },
+    {
+      "n": 11,
+      "slug": "balance-scales-seller",
+      "family": "balance",
+      "effect_or_puzzle": "Two small reference scales, both level: (a) 1 vermilion square = 2 kraft discs; (b) 1 kraft disc = 3 ink triangles. Big scale: 1 square vs 5 triangles -> square = 6 triangles -> square side goes down. Open: square vs 1 disc + 3 triangles (= 6) -> the beam stays LEVEL (the answer few people pick).",
+      "script_type": "market_seller",
+      "voices": "1 - sly souk seller weighing goods (Sadachbia, Damascus market tone)",
+      "hook_line_ar": "مربّع أحمر قصاد خمس مثلثات… مين أتقل؟",
+      "beats": [
+        {
+          "t": "0-2.2",
+          "picture": "Frame 0: big scale wobbling ±3 deg, held level by the seller's paper hand; two reference scales above, level.",
+          "line_ar": "مربّع أحمر قصاد خمس مثلثات… مين أتقل؟"
+        },
+        {
+          "t": "2.2-8",
+          "picture": "Marker underlines scale (a) then (b); tapes «=».",
+          "line_ar": "شوف فوق: المربّع بيوزن دايرتين… والدايرة بتوزن تلات مثلثات."
+        },
+        {
+          "t": "8-10",
+          "picture": "Strip «لوين بتميل؟», ticks.",
+          "line_ar": "لوين بتميل؟"
+        },
+        {
+          "t": "10-15",
+          "picture": "Hand lets go: beam tips square side down (thud). Square splits into 2 discs, each disc into 3 triangles: 6 vs 5. Stamp «المربّع».",
+          "line_ar": "ستّة قصاد خمسة… المربّع أتقل."
+        },
+        {
+          "t": "15-22",
+          "picture": "Big scale reset: square vs 1 disc + 3 triangles, hand holding it; option tapes «يمين» «شمال» «متوازن».",
+          "line_ar": "طيب هلّق؟ مربّع قصاد دايرة وتلات مثلثات… لوين بتميل؟ اكتبلي."
+        }
+      ],
+      "answer": "Square side down (open: level, 6 = 6)",
+      "proof": "Weights as integers in code (triangle 1, disc 3, square 6); reference beams exactly 0 deg; big beam angle sign from the weight sum. Open round: 3+3 = 6 = square -> beam 0 deg.",
+      "ending": "Open: «مربّع قصاد دايرة وتلات مثلثات… لوين بتميل؟ اكتبلي» (answer: متوازن).",
+      "frame0": "Three scales on the cream desk, big one wobbling, headline «مين أتقل؟».",
+      "kit_needs": "Balance-scale prop (beam + post + two pans) - not in kit, simple paper pieces.",
+      "risk": "Visual size must not decide weight (big triangles, small square = the trap) but reference beams must be exactly level. Open round answer 'level' must be offered as a visible option tape.",
+      "why_viral": "Simple maths dressed as a market trick; open round splits viewers between 'left', 'right' and 'level'.",
+      "source_url": ""
+    },
+    {
+      "n": 12,
+      "slug": "flicker-change-blindness",
+      "family": "memory_change",
+      "effect_or_puzzle": "Change blindness, flicker paradigm. Desk scene A with 12 paper items; scene A' differs in exactly two places: (1) the thread spool (120 px) turns from vermilion to ink; (2) the paper clip rotates 90 deg. Cycle: A 0.6 s -> a full-frame chalk sheet slaps over 0.2 s -> A' 0.6 s -> sheet 0.2 s ...",
+      "script_type": "confession_whisper",
+      "voices": "1 - whispering prankster confessing 'I am changing it in front of you' (Achird)",
+      "hook_line_ar": "في شي عم يتغيّر قدّامك… وإنت عم تتطلّع.",
+      "beats": [
+        {
+          "t": "0-2",
+          "picture": "Frame 0: scene A; first chalk-sheet slap at 0.6 s.",
+          "line_ar": "في شي عم يتغيّر قدّامك… وإنت عم تتطلّع."
+        },
+        {
+          "t": "2-14",
+          "picture": "~7 flicker cycles; voice lines between slaps.",
+          "line_ar": "لقيتو؟… عم يتغيّر كل مرّة… لسّا؟"
+        },
+        {
+          "t": "14-17",
+          "picture": "Flicker stops on A'; marker circle on the spool; stamp «هون».",
+          "line_ar": "البكرة! كانت حمرا."
+        },
+        {
+          "t": "17-23",
+          "picture": "Flicker resumes for 3 cycles, no ring.",
+          "line_ar": "بس في تغيير تاني… أصغر. شفتو؟ اكتبلي شو هو."
+        }
+      ],
+      "answer": "Spool colour (revealed); open: the paper clip rotation.",
+      "proof": "Pixel diff of a still of A vs A' = exactly two regions (spool, clip); all other items share seeds and positions.",
+      "ending": "Open: «في تغيير تاني… أصغر. شفتو؟ اكتبلي شو هو».",
+      "frame0": "Busy desk scene (scissors, ruler, notebook, envelope, ticket, spool, clip, eraser, stamp pad, string, matchbox-like box with no brand, pencil stub).",
+      "kit_needs": "12 small paper props (simple shapes; no brand marks). Full-frame slap sheet = paper piece over the world.",
+      "risk": "The blank MUST cover the whole scene, or the change shows as a pop (no blindness). Item list must avoid trademarked look-alikes (no branded matchbox or stapler shape).",
+      "why_viral": "A documented effect where people feel cheated and rewatch; the second hidden change doubles rewatches.",
+      "source_url": "https://doi.org/10.1111/j.1467-9280.1997.tb00427.x"
+    },
+    {
+      "n": 13,
+      "slug": "digit-hunt-two",
+      "family": "odd_one_out",
+      "effect_or_puzzle": "Grid of 8 x 11 = 88 Eastern digits «٣» (IBM Plex Sans Arabic 700, 72 px, ink on a chalk sheet) with exactly ONE «٢» at row 8, column 3 (from the right). Open puzzle: one «٣» elsewhere (row 3, column 6) is rotated 180 deg.",
+      "script_type": "challenge_countdown",
+      "voices": "1 - strict exam proctor with a dry joke (Iapetus)",
+      "hook_line_ar": "بين كل هالتلاتات… في «٢» وحدة. معك سبع ثواني.",
+      "beats": [
+        {
+          "t": "0-2.4",
+          "picture": "Frame 0: grid sheet settling (thud at 0.1 s), tear-off pad «٧».",
+          "line_ar": "بين كل هالتلاتات… في تنين وحدة. معك سبع ثواني."
+        },
+        {
+          "t": "2.4-9.5",
+          "picture": "Pad tears ٦…١; push-in 1.00 -> 1.04 drifting across the sheet.",
+          "line_ar": "(at 6 s) يلّا…"
+        },
+        {
+          "t": "9.5-13",
+          "picture": "Stamp «وقت!»; marker circle on the ٢.",
+          "line_ar": "هون كانت."
+        },
+        {
+          "t": "13-21",
+          "picture": "Hold full grid, no ring.",
+          "line_ar": "بس في كمان تلاتة مقلوبة بالشبكة… لقيتها؟ اكتب رقم السطر."
+        }
+      ],
+      "answer": "The ٢ at row 8, col 3 (revealed); open: rotated ٣ at row 3, col 6.",
+      "proof": "Grid generated from one array; checker greps the DOM: 87 x «٣», 1 x «٢», one cell with rotate(180deg).",
+      "ending": "Open: «في كمان تلاتة مقلوبة… لقيتها؟ اكتب رقم السطر».",
+      "frame0": "Full grid inside x 100-920, y 330-1420; pad top-left under the tag.",
+      "kit_needs": "Grid of text in the DOM (allowed); tear-off pad (new prop, shared with #8 and #17).",
+      "risk": "At 360 px glyphs are ~24 px: check ٢ vs ٣ still differ clearly; rotated ٣ must be fully inside the safe zone and not under the pad.",
+      "why_viral": "Arabic-only puzzle (digit shapes) the audience feels is theirs; timed search is easy to replay."
+    },
+    {
+      "n": 14,
+      "slug": "mirror-piece-detective",
+      "family": "rotation",
+      "effect_or_puzzle": "Five vermilion F-pentomino pieces (cell 70 px), labelled أ ب ج د هـ, at rotations 0/72/150/215/290 deg, all slowly spinning at the same rate. Four are the reference shape rotated; د is the reference MIRRORED. Both faces of every piece are vermilion (no back-colour leak). Proof: each piece rotates onto the reference outline; د only fits after a 3D flip.",
+      "script_type": "detective",
+      "voices": "1 - noir-style detective, slow and sure (Rasalgethi)",
+      "hook_line_ar": "خمس قطع… وحدة منهن مش متل خواتها. مين؟",
+      "beats": [
+        {
+          "t": "0-2.2",
+          "picture": "Frame 0: five pieces spinning slowly on the night desk; reference outline on a tape at the top.",
+          "line_ar": "خمس قطع… وحدة منهن مش متل خواتها. مين؟"
+        },
+        {
+          "t": "2.2-6.5",
+          "picture": "Marker underlines the reference.",
+          "line_ar": "كلهن نفس الشكل… إلا وحدة، هيّ صورتها بالمراية."
+        },
+        {
+          "t": "6.5-8.5",
+          "picture": "Strip «مين؟», ticks.",
+          "line_ar": "مين؟"
+        },
+        {
+          "t": "8.5-15",
+          "picture": "Pieces in turn rotate onto the reference: أ ب ج هـ snap in; د shakes (no fit), then flips in 3D and fits. Stamp «د».",
+          "line_ar": "هاي… وهاي… وهاي… بس د؟ لازم تقلبها. هي المجرمة."
+        },
+        {
+          "t": "15-22",
+          "picture": "Four new pieces (different shape) spinning faster, labels ١-٤.",
+          "line_ar": "قضية جديدة: وحدة مقلوبة كمان… رقم كم؟ اكتبلي."
+        }
+      ],
+      "answer": "د (open: the mirrored piece in set 2, fixed in code, e.g. ٣)",
+      "proof": "Pieces = reference polygon x rotation matrix (det +1); د = reference x reflection (det -1); proof.txt prints matrices.",
+      "ending": "Open: «وحدة مقلوبة كمان… رقم كم؟ اكتبلي».",
+      "frame0": "Five spinning pieces, reference tape, headline «مين المختلفة؟».",
+      "kit_needs": "Polyomino pieces via clip-path or SVG inside paper; flip exists (plain vermilion back).",
+      "risk": "Grain texture seeds must be identical per piece and rotation-invariant (a mirrored texture could leak). Labels must not rotate with pieces (place on tapes beside).",
+      "why_viral": "Mental rotation is genuinely hard at speed; the 3D flip proof is very satisfying.",
+      "source_url": "https://doi.org/10.1126/science.171.3972.701"
+    },
+    {
+      "n": 15,
+      "slug": "cafe-wall-straight",
+      "family": "line_illusion",
+      "effect_or_puzzle": "Café wall illusion. 8 columns x 9 rows of 104 px paper tiles alternating ink / chalk, kraft 'mortar' strips 6 px; row offsets cycle 0, 1/4, 1/2, 1/4 tile. Mortar lines look tilted, all are exactly horizontal. Trap open question: how many lines are tilted? -> 0.",
+      "script_type": "i_bet_you_get_it_wrong",
+      "voices": "1 - smug builder who loves his wall (Alnilam)",
+      "hook_line_ar": "هالخطوط مايلة… ولا دغري؟",
+      "beats": [
+        {
+          "t": "0-2",
+          "picture": "Frame 0: the wall; one row still sliding into its offset (lands 0.4 s).",
+          "line_ar": "هالخطوط مايلة… ولا دغري؟"
+        },
+        {
+          "t": "2-5",
+          "picture": "Tapes «مايلة؟» / «دغري؟».",
+          "line_ar": "عينك بتقلّك مايلة… صح؟"
+        },
+        {
+          "t": "5-7",
+          "picture": "Ticks.",
+          "line_ar": "راهن."
+        },
+        {
+          "t": "7-12",
+          "picture": "Paper ruler slides along mortar line 4, perfectly flush end to end. Stamp «دغري».",
+          "line_ar": "ولا خط مايل. المسطرة شاهدة."
+        },
+        {
+          "t": "12-16",
+          "picture": "Rows slide to offset 0: the lines look straight.",
+          "line_ar": "حرّكنا الحجار بس… والخطوط نفسها."
+        },
+        {
+          "t": "16-22",
+          "picture": "Rows slide back into the illusion; ruler gone.",
+          "line_ar": "هلّق قلّي… كم خط مايل؟ اكتب الرقم."
+        }
+      ],
+      "answer": "All mortar lines horizontal (open trap: 0 tilted)",
+      "proof": "Mortar strip y values constant per row in code; ruler still shows zero gap along the full line.",
+      "ending": "Open trap: «كم خط مايل؟ اكتب الرقم» (honest answer 0).",
+      "frame0": "Full wall inside the safe zone, sliding row, headline «مايلة؟».",
+      "kit_needs": "Tile grid of paper pieces (no grain variation on tiles - grain can weaken the effect; test). Ruler prop.",
+      "risk": "Effect strength needs mortar luminance between ink and chalk (kraft OK) and thin mortar; must survive 360 px - test 3 tile sizes. Open trap question could feel like a cheat - it is honest because the proof was shown earlier.",
+      "why_viral": "Well-known but still shocking; the trap question catches people who forgot the proof.",
+      "source_url": "https://en.wikipedia.org/wiki/Caf%C3%A9_wall_illusion"
+    },
+    {
+      "n": 16,
+      "slug": "truth-count-bad-host",
+      "family": "lying_narrator",
+      "effect_or_puzzle": "A paper shelf with 5 vermilion hearts, 7 bunting flags (6 vermilion + 1 ink, 4th from the right), 3 kraft envelopes, 3 chalk paper cranes. The host says 5 claims: (1) «خمس قلوب» TRUE; (2) «كل الأعلام حمرا» FALSE; (3) «تلات ظروف» TRUE; (4) «طيرين ورق» FALSE (3); (5) «سبع أعلام» TRUE. Question: how many claims are true? -> 3. Unlike vafk: count the truths, not find the lies.",
+      "script_type": "bad_gameshow_host",
+      "voices": "1 - overexcited, unreliable TV-quiz host parody (Enceladus)",
+      "hook_line_ar": "خمس جمل عن هالرف… كم وحدة منهن صح؟",
+      "beats": [
+        {
+          "t": "0-2",
+          "picture": "Frame 0: shelf, cranes bobbing on strings, flags fluttering 2 deg.",
+          "line_ar": "خمس جمل عن هالرف… كم وحدة منهن صح؟"
+        },
+        {
+          "t": "2-14",
+          "picture": "Claims 1-5, one strip at a time in the lower band with number tapes ١-٥; every claim word vermilion (no leak). 2.2-2.6 s each.",
+          "line_ar": "خمس قلوب… كل الأعلام حمرا… تلات ظروف… طيرين ورق… وسبع أعلام!"
+        },
+        {
+          "t": "14-16",
+          "picture": "Strip «كم جملة صح؟», ticks.",
+          "line_ar": "كم وحدة صح؟"
+        },
+        {
+          "t": "16-22",
+          "picture": "Host's stamp «١٠٠٪ صح» slams then wobbles and peels half off.",
+          "line_ar": "أنا؟ ولا مرّة بغلط!… اكتب كم وحدة صح بالتعليقات."
+        }
+      ],
+      "answer": "3",
+      "proof": "Item counts from the DOM: hearts 5, flags 7 (one ink), envelopes 3, cranes 3; claim truth table in proof.txt.",
+      "ending": "Open: «اكتب كم وحدة صح بالتعليقات» + the host's peeling stamp as the payoff joke.",
+      "frame0": "Shelf full, cranes bobbing, headline «كم جملة صح؟».",
+      "kit_needs": "Shelf, heart, flag (bunting on string), envelope, simple crane silhouette (origami crane is a generic form, not a trademark).",
+      "risk": "Every counted item must be separated >= 30 px and never cropped by safe zones; the ink flag must be obvious at 360 px. Do not reuse vafk's street/clock look.",
+      "why_viral": "Two answers (2 and 3) split comments; the arrogant host is a recurring-character seed.",
+      "source_url": ""
+    },
+    {
+      "n": 17,
+      "slug": "flash-count-red-triangles",
+      "family": "memory_change",
+      "effect_or_puzzle": "Memory flash 1.0 s of 10 paper shapes: 3 vermilion circles, 2 vermilion triangles, 2 ink triangles, 2 ink squares, 1 kraft circle, scattered at fixed seed. A kraft cover sheet slams over at 1.0 s. Target named only after: «كم مثلث أحمر كان؟» -> 2. Open: «وكم شكل أسود؟» -> 4 (visible again only in the reveal hold).",
+      "script_type": "challenge_countdown",
+      "voices": "1 - fast referee voice with a whistle-like snap (Laomedeia)",
+      "hook_line_ar": "ثانية وحدة بس… تطلّع منيح.",
+      "beats": [
+        {
+          "t": "0-1.0",
+          "picture": "Frame 0: the 10 shapes; cover already sliding in from the right edge.",
+          "line_ar": "ثانية وحدة بس… تطلّع منيح."
+        },
+        {
+          "t": "1.0-3",
+          "picture": "Cover slams (thud, shake).",
+          "line_ar": ""
+        },
+        {
+          "t": "3-6",
+          "picture": "Strip «سؤال واحد».",
+          "line_ar": "سؤال واحد بس… كم مثلث أحمر كان؟"
+        },
+        {
+          "t": "6-8",
+          "picture": "Pad tears ٢, ١.",
+          "line_ar": ""
+        },
+        {
+          "t": "8-12",
+          "picture": "Cover lifts (2.4 s hold): marker circles on both vermilion triangles; stamp «٢».",
+          "line_ar": "تنين!"
+        },
+        {
+          "t": "12-20",
+          "picture": "Cover slams again; strip «وكم شكل أسود؟».",
+          "line_ar": "طيب… وكم شكل أسود كان؟ اكتبها من ذاكرتك."
+        }
+      ],
+      "answer": "2 (open: 4)",
+      "proof": "Shape list in code; counts printed in proof.txt; reveal hold shows all shapes uncovered for >= 2 s.",
+      "ending": "Open: «وكم شكل أسود كان؟ اكتبها من ذاكرتك».",
+      "frame0": "Ten shapes on a cream sheet, cover entering, no headline (time is short) - channel tag only.",
+      "kit_needs": "Shapes (paper pieces with clip-path). Cover sheet = big kraft paper piece. Pad prop shared.",
+      "risk": "1.0 s must still be fair at 360 px (shapes >= 120 px). Hook line must not name colour/shape. Short video (~18 s) - keep >= 20 s with the reveal hold.",
+      "why_viral": "Fast memory flash (owner's preferred difficulty), short and replayable."
+    },
+    {
+      "n": 18,
+      "slug": "fold-overlay-stencil",
+      "family": "overlay_stencil",
+      "effect_or_puzzle": "Two cream sheets 400 x 400 hinged side by side (A left x 0-400, B right x 400-800, local coords). A has a square hole 220 x 220 centred (x 90-310, y 90-310). B has a circle hole r 140 centred at (510, 200) (90 px from the hinge). B folds over onto A about x = 400 -> circle centre lands at (290, 200). Visible through both holes = intersection: flat right edge at x 310, flat top/bottom from x 203 to 310, arc on the left out to x 150 = a 'D' with the flat side on the RIGHT. Options: أ = that D (correct), ب = mirrored D (forgot the flip), ج = union shape, د = full circle.",
+      "script_type": "two_voices_betting",
+      "voices": "2 - two flatmates doing a crafts bet (Leda, Fenrir - reuse of the adqi pair is fine as recurring characters)",
+      "hook_line_ar": "بنطوي اليمين عالشمال… شو الشكل اللي رح يبيّن من الفتحتين؟",
+      "beats": [
+        {
+          "t": "0-2.4",
+          "picture": "Frame 0: the two hinged sheets on the night desk (desk visible through both holes), sheets settle; option tapes أ ب ج د with mini cut shapes below.",
+          "line_ar": "(ليلى) بنطوي اليمين عالشمال… شو الشكل اللي رح يبيّن من الفتحتين؟"
+        },
+        {
+          "t": "2.4-5.5",
+          "picture": "Tabs: Karam «ب», Layla «أ».",
+          "line_ar": "(كرم) ب! الدايرة عاليسار. (ليلى) لأ… أ."
+        },
+        {
+          "t": "5.5-7.5",
+          "picture": "Strip «وإنت؟», ticks.",
+          "line_ar": "(ليلى) وإنت؟"
+        },
+        {
+          "t": "7.5-12",
+          "picture": "B folds over A in 3D (0.7 s, thud); only the D shows the desk; option أ slides onto it: exact fit. Stamp «أ».",
+          "line_ar": ""
+        },
+        {
+          "t": "12-16",
+          "picture": "Fold opens halfway and closes again to show the circle crossing sides.",
+          "line_ar": "(كرم) ليش؟! (ليلى) لما طويناها… الدايرة انقلبت."
+        },
+        {
+          "t": "16-23",
+          "picture": "New pair: A with a triangle hole, B with a square hole offset; options shown, no fold.",
+          "line_ar": "(كرم) طيب وهي؟ شو بيطلع؟ اكتبولنا."
+        }
+      ],
+      "answer": "أ (D with flat side on the right)",
+      "proof": "Circle centre mirrored by x' = 800 - x in code; intersection polygon computed (square ∩ circle) and the same polygon is used for option أ's outline; proof.txt prints both.",
+      "ending": "Open: second stencil pair «شو بيطلع؟ اكتبولنا».",
+      "frame0": "Hinged sheets with holes on the night desk, option tapes, headline «شو بيبيّن؟».",
+      "kit_needs": "Holes via clip-path / SVG mask (adqi engine); hinge fold = flip on a half-sheet (kit flip with transform-origin at the hinge - check kit supports origin).",
+      "risk": "Four options with small cut shapes must be readable at 360 px (>= 140 px each). Second pair answer must be computed and logged before build.",
+      "why_viral": "The flip mirrors the hole - a real 'gotcha' that clever people miss; two characters already introduced in adqi."
+    },
+    {
+      "n": 19,
+      "slug": "sequence-breaker-cards",
+      "family": "sequence",
+      "effect_or_puzzle": "7 chalk cards (150 px) with two rules: a vermilion dot moves clockwise one corner per card (TR, BR, BL, TL, TR, BR, BL) and an ink bar turns +45 deg per card (0, 45, 90, 135, 0, 45, 90). Card ٥ breaks the bar rule: it shows 90 instead of 0. Open: what is card ٨? (dot TL, bar 135) from 3 option cards.",
+      "script_type": "teacher_vs_student",
+      "voices": "2 - teacher (Kore, patient) vs cheeky student (Puck, too fast)",
+      "hook_line_ar": "سبع ورقات… وحدة منهن خربانة. أيّا؟",
+      "beats": [
+        {
+          "t": "0-2.2",
+          "picture": "Frame 0: 4 + 3 cards in two rows with number tapes; card ٧ flipping into place.",
+          "line_ar": "(أستاذة) سبع ورقات… وحدة منهن خربانة. أيّا؟"
+        },
+        {
+          "t": "2.2-5.5",
+          "picture": "Student tab «٣».",
+          "line_ar": "(طالب) سهلة! التالتة، الخط واقف. (أستاذة) متأكد؟"
+        },
+        {
+          "t": "5.5-7.5",
+          "picture": "Strip «وإنت؟», ticks.",
+          "line_ar": "(أستاذة) وإنت؟"
+        },
+        {
+          "t": "7.5-13",
+          "picture": "A chalk arrow hops card to card showing the dot path, then a small protractor tape shows +45 each step; at ٥ the bar is wrong -> marker circle, stamp «٥».",
+          "line_ar": "(أستاذة) النقطة بتمشي مع الساعة… والخط بيلفّ شوي كل مرّة. الخامسة غلط."
+        },
+        {
+          "t": "13-20",
+          "picture": "Empty slot ٨ + three option cards.",
+          "line_ar": "(طالب) طيب… شو الورقة التامنة؟ اكتبولي الحرف."
+        }
+      ],
+      "answer": "Card ٥ (open: option with dot TL + bar 135)",
+      "proof": "Card states generated from the two rules; card 5 override logged; checker reads bar rotation and dot corner from the DOM.",
+      "ending": "Open: «شو الورقة التامنة؟ اكتبولي الحرف».",
+      "frame0": "Seven cards on the cream desk, last one landing, headline «أي ورقة غلط؟».",
+      "kit_needs": "Cards = paper pieces; dot + bar = child elements. Option cards labelled أ ب ج.",
+      "risk": "Bar has 180-deg symmetry: keep the sequence in 0-135 so it is unambiguous. Student's wrong pick must be a plausible miss, not a hint.",
+      "why_viral": "Two simultaneous rules make most people pick the wrong card; open next-card question is easy to comment.",
+      "source_url": ""
+    },
+    {
+      "n": 20,
+      "slug": "cube-net-wont-close",
+      "family": "possible_or_impossible",
+      "effect_or_puzzle": "A paper net of 6 squares (130 px): a row of 4 + two flaps above squares 1 and 2 (contains a 2 x 2 block). Folding: the row of 4 becomes the sleeve, both flaps fold to the SAME top face and collide; the bottom stays open -> it does not close. A cube has exactly 11 nets and this shape is not one. Open: a 2-2-2 staircase net -> closes.",
+      "script_type": "two_voices_betting",
+      "voices": "2 - girl (Aoede) sure it closes vs grandpa (Charon) sure it doesn't",
+      "hook_line_ar": "هالورقة… بتسكّر علبة ولا لأ؟",
+      "beats": [
+        {
+          "t": "0-2",
+          "picture": "Frame 0: net flat on the cream desk; one flap lifting 10 deg (motion).",
+          "line_ar": "(بنت) هالورقة… بتسكّر علبة ولا لأ؟"
+        },
+        {
+          "t": "2-5.5",
+          "picture": "Tabs «بتسكّر» / «ما بتسكّر».",
+          "line_ar": "(بنت) أكيد بتسكّر! ستّ مربعات! (جدّو) لأ يا بنتي."
+        },
+        {
+          "t": "5.5-7.5",
+          "picture": "Strip «وإنت؟», ticks.",
+          "line_ar": "(جدّو) وإنت؟"
+        },
+        {
+          "t": "7.5-14",
+          "picture": "3D fold: sleeve rises (0.5 s per face), flap 1 closes the top, flap 2 swings into it and bounces (shake); push-in shows the open bottom. Stamp «ما بتسكّر».",
+          "line_ar": "(جدّو) شفتي؟ تنين راحوا لنفس المحل… والقاع مفتوح."
+        },
+        {
+          "t": "14-17",
+          "picture": "Net unfolds flat again.",
+          "line_ar": "(بنت) مش معقول!"
+        },
+        {
+          "t": "17-24",
+          "picture": "Second net (2-2-2 staircase) slides in, flat.",
+          "line_ar": "(بنت) طيب وهي؟ بتسكّر؟ اكتبولنا."
+        }
+      ],
+      "answer": "Does not close (open: the staircase closes)",
+      "proof": "Fold simulation assigns each square a cube face; two squares map to the same face (top) and none to the bottom; net is not in the 11-net list. Staircase net maps 6 squares to 6 distinct faces.",
+      "ending": "Open: «طيب وهي؟ بتسكّر؟ اكتبولنا».",
+      "frame0": "Flat net, lifting flap, headline «بتسكّر؟».",
+      "kit_needs": "GAP: chained 3D hinges (a face rotating about an edge of a face that is itself rotating) - kit flip is single-level; needs nested preserve-3d wrappers and a hinge helper. Heaviest build of the slate.",
+      "risk": "3D readability at 360 px (perspective, shading per face). Collision must read as two faces meeting, not a render glitch.",
+      "why_viral": "'Six squares = a box' feels obvious and is wrong here; spatial puzzles get long comment debates.",
+      "source_url": "https://en.wikipedia.org/wiki/Net_(polyhedron)"
+    }
+  ],
+  "kit_gaps": [
+    "Ruler, pencil, scissors, paper hand props live in the csbw/adqi page folders, not the kit - promote them to kit builders (used by #1, #3, #5, #9, #11, #15, #18).",
+    "Tear-off countdown pad (new prop) for #8, #13, #17.",
+    "SVG gear generator with meshed phase alignment for #7.",
+    "Chained/nested 3D hinge helper (fold about an edge of a moving face) for #10 and #20; #3 and #18 reuse the adqi quadrant fold.",
+    "Clip-path / mask shape helper (polygon, circle, polyomino, holes) for #2, #14, #17, #18 - adqi has one inline.",
+    "Small props: envelope with flip flap (#5), box with front wall (#6), balance scale (#11), shelf + bunting + crane (#16), 12 desk items (#12).",
+    "Check Lab.flip supports a custom transform-origin (hinge at a sheet edge) for #18."
+  ]
+}

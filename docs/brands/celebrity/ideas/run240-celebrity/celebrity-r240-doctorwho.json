@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Doctor Who's First Episode Aired the Day After JFK Died",
+ "topic": "An Unearthly Child aired Nov 23, 1963, overshadowed by the assassination news and power cuts; the BBC re-ran it a week later.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Doctor Who 63rd anniversary (2026-11-23). Wikipedia Doctor_Who 130,162 views Sept 2026.",
+ "hook": "TV's longest sci-fi had a flop debut?",
+ "twist": "An Unearthly Child aired Nov 23, 1963, overshadowed by the assassination news and power cuts; the BBC re-ran it a week later.",
+ "peg": {
+  "event": "Doctor Who 63rd anniversary",
+  "date": "2026-11-23",
+  "url": "https://en.wikipedia.org/wiki/1963_in_British_television",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - 1963 in British television (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/1963_in_British_television"
+  },
+  {
+   "claim": "Shortlist - Doctor Who facts (accessed 2026-10-24)",
+   "url": "https://www.shortlist.com/news/doctor-who-facts"
+  },
+  {
+   "claim": "Sunday Post (PressReader) - Doctor Who launch (accessed 2026-10-24)",
+   "url": "https://www.pressreader.com/uk/the-sunday-post-newcastle/20181118/288548793621280"
+  },
+  {
+   "claim": "Peg source: Doctor Who 63rd anniversary (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/1963_in_British_television"
+  },
+  {
+   "claim": "Wikimedia pageviews Doctor_Who: 130162 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Doctor_Who&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - 1963 in British television",
+   "url": "https://en.wikipedia.org/wiki/1963_in_British_television",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Shortlist - Doctor Who facts",
+   "url": "https://www.shortlist.com/news/doctor-who-facts",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Sunday Post (PressReader) - Doctor Who launch",
+   "url": "https://www.pressreader.com/uk/the-sunday-post-newcastle/20181118/288548793621280",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Doctor Who (TVRip, TV Show, 1963)",
+   "url": "https://youtube.com/shorts/Uaw808ep6lc",
+   "views": 3300,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Doctor Who Intro from 1963 - 1966 when William Hartnell was The Doctor #shorts",
+   "url": "https://youtube.com/shorts/OJCzYCWbwSk",
+   "views": 186,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "\\\"Until we meet again, Sarah\\\" 🥹 #DoctorWho #Shorts",
+   "url": "https://youtube.com/shorts/zuPEmzzZILE",
+   "views": 19000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a 1963 TV set showing static and '4.4M' + hook. Twist: the news buried it, a repeat saved it. Loop: 'Lucky second chance?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "No TARDIS/police-box (BBC trademark) and no assassination imagery: an old TV set + a clock. Delay length (80 s to 25 min) conflicts - skip it.",
+ "window": {
+  "notBefore": "2026-11-22T12:00:00Z",
+  "deadline": "2026-11-24T06:00:00Z",
+  "label": "Doctor Who 63rd anniversary",
+  "suggestedSlot": "2026-11-23T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

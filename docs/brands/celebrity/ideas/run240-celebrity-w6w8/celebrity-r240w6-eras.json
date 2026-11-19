@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "$2.2 Billion, 149 Shows: Will Any Tour Beat the Eras Tour?",
+ "topic": "Taylor Swift's Eras Tour ended in Vancouver on 8 Dec 2024 after 149 shows; Pollstar estimates $2.2 billion, nearly double the next-biggest tour.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Eras Tour final show, Vancouver, 8 Dec 2024 (2nd anniversary) (2026-12-08). Wikipedia The_Eras_Tour 58,103 views Sept 2026.",
+ "hook": "$2.2 billion. Can anyone beat it?",
+ "twist": "Taylor Swift's Eras Tour ended in Vancouver on 8 Dec 2024 after 149 shows; Pollstar estimates $2.2 billion, nearly double the next-biggest tour.",
+ "peg": {
+  "event": "Eras Tour final show, Vancouver, 8 Dec 2024 (2nd anniversary)",
+  "date": "2026-12-08",
+  "url": "https://www.nbcnewyork.com/entertainment/entertainment-news/taylor-swifts-eras-tour-ends-record-2-2-billion/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "NBC New York (AP) - Eras Tour ends with record $2.2B (accessed 2026-10-24)",
+   "url": "https://www.nbcnewyork.com/entertainment/entertainment-news/taylor-swifts-eras-tour-ends-record-2-2-billion/"
+  },
+  {
+   "claim": "Click2Houston (AP) - Eras Tour shatters own record, Pollstar says (accessed 2026-10-24)",
+   "url": "https://www.click2houston.com/business/2024/12/09/taylor-swifts-eras-tour-ends-by-shattering-own-record-grossing-an-estimated-22b-pollstar-says/"
+  },
+  {
+   "claim": "CFJC Today - Taylor Swift wraps up Eras Tour in Vancouver (accessed 2026-10-24)",
+   "url": "https://cfjctoday.com/2024/12/09/taylor-swift-wraps-up-eras-tour-in-vancouver/"
+  },
+  {
+   "claim": "Peg source: Eras Tour final show, Vancouver, 8 Dec 2024 (2nd anniversary) (accessed 2026-10-24)",
+   "url": "https://www.nbcnewyork.com/entertainment/entertainment-news/taylor-swifts-eras-tour-ends-record-2-2-billion/"
+  },
+  {
+   "claim": "Wikimedia pageviews The_Eras_Tour: 58103 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=The_Eras_Tour&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "NBC New York (AP) - Eras Tour ends with record $2.2B",
+   "url": "https://www.nbcnewyork.com/entertainment/entertainment-news/taylor-swifts-eras-tour-ends-record-2-2-billion/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Click2Houston (AP) - Eras Tour shatters own record, Pollstar says",
+   "url": "https://www.click2houston.com/business/2024/12/09/taylor-swifts-eras-tour-ends-by-shattering-own-record-grossing-an-estimated-22b-pollstar-says/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "CFJC Today - Taylor Swift wraps up Eras Tour in Vancouver",
+   "url": "https://cfjctoday.com/2024/12/09/taylor-swift-wraps-up-eras-tour-in-vancouver/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The Eras Tour Made Me Fall in Love With Taylor Swift All Over Again 💖 #Shorts",
+   "url": "https://youtube.com/shorts/_L-iNM0PNCk",
+   "views": 88,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Eras Tour highest grossing tour ever #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Eras Tour Just Became the Highest Grossing Tour Ever",
+   "url": "https://youtube.com/shorts/Lbo-ZWPdByo",
+   "views": 1000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Eras Tour highest grossing tour ever #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Taylor Swift's Eras Tour grossed $2.08 billion in tickets #shorts",
+   "url": "https://youtube.com/shorts/qvLgldYAPVo",
+   "views": 576,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Eras Tour highest grossing tour ever #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A stadium of phone lights forming a '$2.2B' + hook. Twist by 2.5 s. Loop: '$2.2 billion. Who's next?'",
+ "cta": "C7+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Pollstar figures are estimates: say 'an estimated'. Taylor also appears Dec 3 13:00 (7 days 10 h earlier): don't move this one earlier. No likeness, no tour logo; a stadium of phone lights.",
+ "window": {
+  "notBefore": "2026-12-07T12:00:00Z",
+  "deadline": "2026-12-12T00:00:00Z",
+  "label": "Eras Tour final show, Vancouver, 8 Dec 2024 (2nd anniversary)",
+  "suggestedSlot": "2026-12-10T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Taylor Swift"
+ ],
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

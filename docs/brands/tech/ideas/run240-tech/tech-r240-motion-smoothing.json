@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "Why Your New TV Makes Movies Look Cheap",
+ "topic": "Motion smoothing invents extra frames between the real ones, so 24-frame film looks like cheap 60-frame video.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Biggest TV-buying week of the year starts; competitors are old long-form, no strong Short.",
+ "evidence": [
+  {
+   "claim": "Motion interpolation / 'soap opera effect' on TVs (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Motion_interpolation"
+  },
+  {
+   "claim": "UHD Alliance Filmmaker Mode: switches off motion smoothing (accessed 2026-10-24)",
+   "url": "https://filmmakermode.com/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Motion Smoothing - Why Your New TV Looks So Bad (long)",
+   "url": "https://www.youtube.com/watch?v=sor5qTTsOOQ",
+   "views": "552K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  },
+  {
+   "title": "Soap Opera Effect in Slow Motion (long)",
+   "url": "https://www.youtube.com/watch?v=B_dE6HPIAJM",
+   "views": "1.2M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Movie looks like a soap opera. Why?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Motion smoothing invents extra frames between the real ones, so 24-frame film looks like cheap 60-frame video. Loop ending: re-ask the hook.",
+ "hook": "Movie looks like a soap opera. Why?",
+ "twist": "Motion smoothing invents extra frames between the real ones, so 24-frame film looks like cheap 60-frame video.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-21",
+  "deadline": "2026-11-30",
+  "event": "World Television Day (Nov 21, UN) + Black Friday TV-buying week"
+ },
+ "newsPeg": "World Television Day (Nov 21, UN) + Black Friday TV-buying week",
+ "suggestedSlot": "2026-11-21 15:00 UTC",
+ "novelty": {
+  "overlap": "none (Hold-hands with smart-TV idea: >= 1 day apart).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 17,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

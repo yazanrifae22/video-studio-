@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "How ChatGPT Reads YOUR PDFs: RAG in 50 Seconds",
+ "topic": "Retrieval-Augmented Generation (RAG)",
+ "audience": "Junior devs, PMs, no-code/AI-automation builders",
+ "whyCare": "Every 'chat with your docs' product is RAG; most explainers are 12-17 min long-form, and few RAG Shorts break 30K views.",
+ "evidence": [
+  {
+   "claim": "'What is RAG? Completely Explained in 15 Minutes' (Apna College) 1,110,250 views, ~5 months old (YouTube search, scraped 2026-10-20)",
+   "url": "https://www.youtube.com/watch?v=Ty8gcCKuwNI"
+  },
+  {
+   "claim": "'RAG Explained in 12 Minutes' 785,014 views (~6 months); 'Is RAG Still Needed?' (IBM) 1,067,089 views (~7 months)",
+   "url": "https://www.youtube.com/results?search_query=what%20is%20RAG%20explained&sp=CAMSAggF"
+  },
+  {
+   "claim": "Short 'What is Retrieval Augmented Generation (RAG)? Simplified Explanation' shows 840K views; other RAG Shorts in the same search show 9-26K (Shorts results show no upload date)",
+   "url": "https://www.youtube.com/results?search_query=RAG%20explained%20%23shorts"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "What is Retrieval Augmented Generation (RAG)? Simplified Explanation (Short)",
+   "url": "https://www.youtube.com/shorts/CbAQUqnrDcA",
+   "views": "840K",
+   "verified": true
+  },
+  {
+   "title": "What is RAG? | Completely Explained in 15 Minutes (Apna College)",
+   "url": "https://www.youtube.com/watch?v=Ty8gcCKuwNI",
+   "views": "1,110,250",
+   "verified": true
+  },
+  {
+   "title": "RAG Explained in 12 Minutes (Aishwarya Srinivasan)",
+   "url": "https://www.youtube.com/watch?v=v0ynfDPpe4E",
+   "views": "785,014",
+   "verified": true
+  }
+ ],
+ "angle": "Open-book exam analogy as one diagram: Question -> Search (vector DB) -> top 3 chunks travel as packets into the prompt -> LLM -> answer with a citation. 'Where it breaks': wrong chunk retrieved = confident wrong answer.",
+ "durationSec": 50,
+ "format": "short",
+ "hook": "ChatGPT never read your PDF. So how does it quote page 12?",
+ "difficulty": 2,
+ "estCostUsd": 3,
+ "strengths": "Highest-demand AI topic; moving-packet diagram is what the engine does best; feeds a later long-form",
+ "weaknesses": "Crowded long-form; many tiny RAG Shorts exist, so packaging must stand out",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

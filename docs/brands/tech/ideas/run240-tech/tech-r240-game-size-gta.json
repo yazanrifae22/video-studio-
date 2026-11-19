@@ -1,0 +1,74 @@
+{
+ "channel": "tech",
+ "title": "Mario 64 Was 8 MB. Why Is GTA 6 ~200 GB?",
+ "topic": "The code is still small; the size is textures, audio and cutscenes, often stored less compressed so the console loads them fast.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "GTA VI launch trailer 63M views in 9 days (YouTube search, 2026-10-24); install size is the top pre-load question. Replace ~200 GB with the official number on Nov 12.",
+ "evidence": [
+  {
+   "claim": "GTA VI ~200 GB figure is an unconfirmed leak; Rockstar has not published a size (as of Oct 2026) (accessed 2026-10-24)",
+   "url": "https://upcomer.com/gta-6-file-size-leak-points-to-nearly-200-gb-on-ps5/"
+  },
+  {
+   "claim": "Super Mario 64 shipped on an 8 MB (64 Mbit) cartridge (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Super_Mario_64"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why do new Games Take up so Much Storage?",
+   "url": "https://youtube.com/shorts/za0O3MHw_tA",
+   "views": "5.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why modern games are big",
+   "url": "https://youtube.com/shorts/wE7UF4M3fGE",
+   "views": "1.1M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Video Games Could Be Tiny. Why Aren't They? (long, 6 days old)",
+   "url": "https://www.youtube.com/watch?v=VRZ3H_FWwxI",
+   "views": "1.1M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('8 MB then. ~200 GB now?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: The code is still small; the size is textures, audio and cutscenes, often stored less compressed so the console loads them fast. Loop ending: re-ask the hook.",
+ "hook": "8 MB then. ~200 GB now?",
+ "twist": "The code is still small; the size is textures, audio and cutscenes, often stored less compressed so the console loads them fast.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": {
+  "notBefore": "2026-11-12",
+  "deadline": "2026-11-22",
+  "event": "GTA VI pre-load opens Nov 12 (official install size becomes visible); launch Nov 19"
+ },
+ "newsPeg": "GTA VI pre-load opens Nov 12 (official install size becomes visible); launch Nov 19",
+ "suggestedSlot": "2026-11-12 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Why GTA 6's Box Has No Disc Inside' (week 3) and spare 'The Game Is on Your Console...'. Keep >= 5 days apart from both.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 34,
+ "score10": 8.1,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "viral-rankings",
+  "name": "Viral Rankings (working name)",
+  "format": "ranking",
+  "positioning": "Short TOP 3 / TOP 5 rankings of funny, surprising and impressive real moments, with original narration and a non-sequential reveal. Rights-cleared footage only.",
+  "audience": "General entertainment Shorts/Reels viewers, 13-45, English first",
+  "language": "en",
+  "status": "draft",
+  "data": {
+    "public_name": null,
+    "public_name_note": "Owner decision pending: public brand name, handles and channel accounts. Registered with --no-accounts (2026-10-31).",
+    "formats": [
+      "top3",
+      "top5"
+    ],
+    "duration_hypotheses": {
+      "top3": "15-30 s",
+      "top5": "25-45 s"
+    },
+    "title_styles_default": {
+      "primary": "yellow",
+      "secondary": "red",
+      "connector": "white"
+    },
+    "tone": "playful, quick, original one-liners; editorial rankings are opinion, never stated as fact",
+    "rights_pools": [
+      "pexels",
+      "pixabay",
+      "mixkit",
+      "wikimedia",
+      "internet_archive",
+      "us_federal_pd",
+      "creator_permission"
+    ],
+    "docs": "docs/brands/viral-rankings/",
+    "alt_names": [
+      "Rank Rascals",
+      "Top Chaos"
+    ],
+    "proposed_public_name": "Podium Pop (provisional, owner decision)",
+    "proposed_handle": "@podiumpop",
+    "tokens": {
+      "ink": "#0B0F1C",
+      "white": "#FFFFFF",
+      "accent_a": "#FFD60A",
+      "accent_b": "#FF3B47",
+      "title_presets": {
+        "default": [
+          "#FFD60A",
+          "#FF3B47"
+        ],
+        "nature": [
+          "#2EE6A6",
+          "#FF8A1F"
+        ],
+        "skill": [
+          "#19D3FF",
+          "#FF3DB8"
+        ]
+      },
+      "text_outline": "ink, 7% of font size"
+    },
+    "fonts": {
+      "display": "data/brand/viral-rankings/fonts/Anton-Regular.ttf",
+      "caption": "data/brand/viral-rankings/fonts/Montserrat[wght].ttf"
+    },
+    "safe_zone_1080x1920": {
+      "text_safe_box": [
+        64,
+        270,
+        936,
+        1420
+      ],
+      "logo_top_left": [
+        40,
+        150
+      ],
+      "rail_x": 36
+    },
+    "assets": {
+      "mark": "data/brand/viral-rankings/logo/mark-1024.png",
+      "mark_64": "data/brand/viral-rankings/logo/mark-64.png",
+      "watermark": "data/brand/viral-rankings/logo/watermark.png",
+      "watermark_mark": "data/brand/viral-rankings/logo/watermark-mark.png",
+      "avatar": "data/brand/viral-rankings/social/avatar-800.png",
+      "banner": "data/brand/viral-rankings/social/banner-2560x1440.png",
+      "mockup": "data/brand/viral-rankings/mockups/layout-1080x1920.png",
+      "mockup_safezones": "data/brand/viral-rankings/mockups/layout-1080x1920-safezones.png"
+    },
+    "brand_guide": "docs/brands/viral-rankings/BRAND-GUIDE.md"
+  },
+  "public_name": "Podium Pop",
+  "youtube": {
+    "handle": "@podiumpop22",
+    "channel_id": "UCj8LvxbqsD9tslbAaIncXVQ"
+  }
+}

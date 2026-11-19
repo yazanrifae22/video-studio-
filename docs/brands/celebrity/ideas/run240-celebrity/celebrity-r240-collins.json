@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Hunger Games: The Idea Came From Flipping TV Channels",
+ "topic": "Suzanne Collins was flipping between a reality competition and war coverage; she said the two 'began to blur in this very unsettling way'.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: 'The Hunger Games: Sunrise on the Reaping' global release (2026-11-20). Wikipedia Suzanne_Collins 46,784 views Sept 2026.",
+ "hook": "What sparked The Hunger Games?",
+ "twist": "Suzanne Collins was flipping between a reality competition and war coverage; she said the two 'began to blur in this very unsettling way'.",
+ "peg": {
+  "event": "'The Hunger Games: Sunrise on the Reaping' global release",
+  "date": "2026-11-20",
+  "url": "https://www.boxofficemojo.com/title/tt32558705",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Fox News - Who is Suzanne Collins? (accessed 2026-10-24)",
+   "url": "https://www.foxnews.com/entertainment/who-is-suzanne-collins-author-of-the-hunger-games"
+  },
+  {
+   "claim": "Interesting Literature - Five fascinating facts about The Hunger Games (accessed 2026-10-24)",
+   "url": "https://interestingliterature.com/tag/the-hunger-games/"
+  },
+  {
+   "claim": "LitCharts - Catching Fire (background) (accessed 2026-10-24)",
+   "url": "https://litcharts.com/lit/catching-fire"
+  },
+  {
+   "claim": "Peg source: 'The Hunger Games: Sunrise on the Reaping' global release (accessed 2026-10-24)",
+   "url": "https://www.boxofficemojo.com/title/tt32558705"
+  },
+  {
+   "claim": "Wikimedia pageviews Suzanne_Collins: 46784 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Suzanne_Collins&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Fox News - Who is Suzanne Collins?",
+   "url": "https://www.foxnews.com/entertainment/who-is-suzanne-collins-author-of-the-hunger-games",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Interesting Literature - Five fascinating facts about The Hunger Games",
+   "url": "https://interestingliterature.com/tag/the-hunger-games/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "LitCharts - Catching Fire (background)",
+   "url": "https://litcharts.com/lit/catching-fire",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "katniss knowing how to swim #thehungergames #sunriseonthereaping #subscribe #fyp",
+   "url": "https://youtube.com/shorts/57JgZgzY-7k",
+   "views": 4700000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "#harrystyles #hungergames #fashion #shorts #hungergamestiktok",
+   "url": "https://youtube.com/shorts/olX-sdIA0Yo",
+   "views": 12000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "A Wild Game of Survival 🔥 #hungergames #capcut #edit #fyp",
+   "url": "https://youtube.com/shorts/B7oHjgyQm1o",
+   "views": 1100,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a remote pointing at two TVs, a game show and a news ticker + hook. Twist: they blurred into Panem. Loop: 'Change the channel?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Iraq vs Iraq+Afghanistan differs: say 'war coverage'. No war imagery, no film stills/mockingjay; two TV screens blending. Cast details unverified - don't mention.",
+ "window": {
+  "notBefore": "2026-11-19T12:00:00Z",
+  "deadline": "2026-11-22T00:00:00Z",
+  "label": "'The Hunger Games: Sunrise on the Reaping' global release",
+  "suggestedSlot": "2026-11-20T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

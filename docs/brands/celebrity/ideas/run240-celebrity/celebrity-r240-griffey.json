@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Father and Son Hit Back-to-Back Home Runs in One Game",
+ "topic": "On Sept 14, 1990 Ken Griffey Sr. and Ken Griffey Jr. homered back to back for Seattle - still the only father-son pair to do it.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Ken Griffey Jr. turns 57 (2026-11-21). Wikipedia Ken_Griffey_Jr. 38,738 views Sept 2026.",
+ "hook": "Dad homers. Next batter: his son?",
+ "twist": "On Sept 14, 1990 Ken Griffey Sr. and Ken Griffey Jr. homered back to back for Seattle - still the only father-son pair to do it.",
+ "peg": {
+  "event": "Ken Griffey Jr. turns 57",
+  "date": "2026-11-21",
+  "url": "https://en.wikipedia.org/wiki/Ken_Griffey_Jr.",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "MLB.com - On this day in 1990, the Griffeys went back to back (accessed 2026-10-24)",
+   "url": "https://www.mlb.com/news/ken-griffey-jr-and-sr-hit-back-to-back-home-runs"
+  },
+  {
+   "claim": "Baseball Hall of Fame - Griffeys hit back-to-back home runs (accessed 2026-10-24)",
+   "url": "https://www.baseballhall.org/discover-more/stories/inside-pitch/griffeys-hit-back-to-back-home-runs"
+  },
+  {
+   "claim": "Seattle Times - Top 10 Griffey moments (accessed 2026-10-24)",
+   "url": "https://projects.seattletimes.com/2015/sports/Griffey-top-moments"
+  },
+  {
+   "claim": "Peg source: Ken Griffey Jr. turns 57 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Ken_Griffey_Jr."
+  },
+  {
+   "claim": "Wikimedia pageviews Ken_Griffey_Jr.: 38738 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Ken_Griffey_Jr.&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "MLB.com - On this day in 1990, the Griffeys went back to back",
+   "url": "https://www.mlb.com/news/ken-griffey-jr-and-sr-hit-back-to-back-home-runs",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Baseball Hall of Fame - Griffeys hit back-to-back home runs",
+   "url": "https://www.baseballhall.org/discover-more/stories/inside-pitch/griffeys-hit-back-to-back-home-runs",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Seattle Times - Top 10 Griffey moments",
+   "url": "https://projects.seattletimes.com/2015/sports/Griffey-top-moments",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Ken Griffey Jr and Father Hit Back To Back Home Runs",
+   "url": "https://youtube.com/shorts/6ATMwqpgX8I",
+   "views": 54000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The ONLY Father & Son to Hit Back-to-Back Home Runs 😳 Ken Griffey Jr. #shorts",
+   "url": "https://youtube.com/shorts/0Wc_aszCS5g",
+   "views": 1200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Father and Son GO BACK-TO-BACK — A Historic MLB Moment",
+   "url": "https://youtube.com/shorts/1Ye41XC8wtM",
+   "views": 14000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: two baseball bats, one big one slightly smaller, on a scoreboard 'HR / HR' + hook. Twist: father, then son. Loop: 'Could you and your dad?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "A 54K-view Short covers this: win with frame-0 participation ('guess who batted next'). No Mariners logos/uniform likeness.",
+ "window": {
+  "notBefore": "2026-11-20T12:00:00Z",
+  "deadline": "2026-11-22T06:00:00Z",
+  "label": "Ken Griffey Jr. turns 57",
+  "suggestedSlot": "2026-11-21T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

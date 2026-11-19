@@ -1,0 +1,57 @@
+{
+  "channel": "celebrity",
+  "audience": "General Shorts viewers",
+  "format": "short",
+  "durationSec": 35,
+  "estCostUsd": 0,
+  "spare": false,
+  "run": 240,
+  "researchDate": "2026-10-25",
+  "brief": "Owner ideas from YouTube Studio advice, 2026-10-25; docs/run240-protocol.md Engagement enhancements v2",
+  "enhancements": "v2",
+  "window": null,
+  "newsPeg": null,
+  "competitors": [],
+  "title": "Messi vs Ronaldo's First Meeting: A Missed Penalty, 0-0",
+  "topic": "Their first meeting was the 2008 Champions League semi-final, Barcelona v Manchester United: 0-0 at Camp Nou with a Ronaldo penalty missed, then United won 1-0 at Old Trafford (Scholes).",
+  "hook": "The greatest rivalry ever started 0-0. With a missed penalty.",
+  "twist": "No goals from either star in their first meeting; Ronaldo missed a penalty and United went through 1-0 on aggregate.",
+  "pinnedComment": "Team Messi or team Ronaldo, and why? 👇",
+  "commentPrompt": "Messi or Ronaldo: who won that first night? Pick a side.",
+  "loop": "So... who really won their first meeting?",
+  "difficulty": 2,
+  "category": "rivalry",
+  "sources": [
+    {
+      "label": "Sportskeeda - Ronaldo and Messi's historic first meeting in 2008",
+      "url": "https://sportskeeda.com/football/news-cristiano-ronaldo-lionel-messi-s-historic-first-meeting-2008",
+      "accessed": "2026-10-25"
+    },
+    {
+      "label": "CBS Sports - Messi vs Ronaldo game history",
+      "url": "https://www.cbssports.com/soccer/news/lionel-messi-vs-cristiano-ronaldo-game-history-every-game-from-barcelona-real-madrid-to-inter-miami-al-nassr",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "weaknesses": "Do NOT claim a 2004 friendly. Some sites misplace the first leg at Old Trafford; accepted accounts say Camp Nou (23 Apr 2008). Verify penalty taker/keeper and second-leg date on script day.",
+  "scores": {
+    "demand": 5,
+    "competitionGap": 3,
+    "visualPotential": 4,
+    "productionEase": 4,
+    "policyRisk": 1
+  },
+  "evidence": [
+    {
+      "claim": "Sportskeeda - Ronaldo and Messi's historic first meeting in 2008 (accessed 2026-10-25)",
+      "url": "https://sportskeeda.com/football/news-cristiano-ronaldo-lionel-messi-s-historic-first-meeting-2008"
+    },
+    {
+      "claim": "CBS Sports - Messi vs Ronaldo game history (accessed 2026-10-25)",
+      "url": "https://www.cbssports.com/soccer/news/lionel-messi-vs-cristiano-ronaldo-game-history-every-game-from-barcelona-real-madrid-to-inter-miami-al-nassr"
+    }
+  ],
+  "whyCare": "Owner idea from YouTube Studio advice",
+  "angle": "The greatest rivalry ever started 0-0. With a missed penalty.",
+  "strengths": "Contradiction hook, pick-a-side comment, debate loop (v2)"
+}

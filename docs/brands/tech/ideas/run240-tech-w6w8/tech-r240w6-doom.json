@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "'It Runs Doom' on a Pregnancy Test? Not Quite",
+ "topic": "The viral 2020 hack swapped in a new screen and a chip that streamed Doom from a PC; the test's own chip never ran it. 'Can it run Doom?' is a 33-year-old hacker joke.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "11M on the meme; nobody says it wasn't really running Doom. Anniversary + Game Awards day.",
+ "evidence": [
+  {
+   "claim": "Gigazine (Sep 2020): Foone played Doom/Bad Apple on a pregnancy-test screen (replaced display, streamed) (accessed 2026-10-24)",
+   "url": "https://wbgsv0a.gigazine.net/gsc_news/en/20200908-doom-pregnancy-test"
+  },
+  {
+   "claim": "Wikipedia: Doom (1993 video game) (released Dec 10 1993; ports to unusual devices) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Doom_(1993_video_game)"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Running DOOM on pregnancy test",
+   "url": "https://youtube.com/shorts/g-lvRlFS67Y",
+   "views": "11M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Someone Ran Doom on a Pregnancy Test",
+   "url": "https://youtube.com/shorts/12KSyOT2UNc",
+   "views": "2.7M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Doom on a pregnancy test?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: The viral 2020 hack swapped in a new screen and a chip that streamed Doom from a PC; the test's own chip never ran it. 'Can it run Doom?' is a 33-year-old hacker joke. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Doom on a pregnancy test?",
+ "twist": "The viral 2020 hack swapped in a new screen and a chip that streamed Doom from a PC; the test's own chip never ran it. 'Can it run Doom?' is a 33-year-old hacker joke.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-12-10",
+  "deadline": "2026-12-11",
+  "event": "Doom released Dec 10 1993 (33rd anniversary)"
+ },
+ "newsPeg": "Doom released Dec 10 1993 (33rd anniversary)",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-10 12:00 UTC",
+ "novelty": {
+  "overlap": "none. No Doom game footage or art; draw a pixel 'demon-free' corridor. Keep it non-gory.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 11,
+ "score10": 8.9,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

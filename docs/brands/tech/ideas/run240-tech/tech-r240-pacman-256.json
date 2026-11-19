@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why Pac-Man Breaks at Level 256",
+ "topic": "The level counter fit in one byte; past 255 the fruit-drawing routine overflowed and scribbled garbage over half the screen.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Proven long-form demand (2-3M); few Shorts. Draw our own maze (no Namco sprites).",
+ "evidence": [
+  {
+   "claim": "Pac-Man kill screen at level 256 (8-bit level counter overflow) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Kill_screen"
+  },
+  {
+   "claim": "Pac-Man (1980) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Pac-Man"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Pac-Man Kill Screen Explained (long)",
+   "url": "https://www.youtube.com/watch?v=NKKfW8X9uYk",
+   "views": "2.4M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  },
+  {
+   "title": "Pac-Man : Level 256 Glitch Madness (long)",
+   "url": "https://www.youtube.com/watch?v=JQE14cAi_0A",
+   "views": "3.4M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Level 256. Half the maze breaks?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: The level counter fit in one byte; past 255 the fruit-drawing routine overflowed and scribbled garbage over half the screen. Loop ending: re-ask the hook.",
+ "hook": "Level 256. Half the maze breaks?",
+ "twist": "The level counter fit in one byte; past 255 the fruit-drawing routine overflowed and scribbled garbage over half the screen.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 3,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-22 22:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Why Some Computers Will Think It's 1901 in 2038' (overflow). >= 5 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 48,
+ "score10": 7.7,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 3,
+  "policyRisk": 2
+ }
+}

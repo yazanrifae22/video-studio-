@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "Google's AI Said to Put Glue on Pizza. Why?",
+ "topic": "Google's AI Overview repeated an 11-year-old Reddit joke as advice: it can't tell a joke post from a real tip, it just finds text that matches.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Famous AI fail, but every Short found is < 2K views: the 'why' (it can't tell a joke from advice) is uncovered. Thanksgiving = peak 'ask AI for a recipe' week.",
+ "evidence": [
+  {
+   "claim": "The Verge (May 2024): Google AI Overviews suggested glue on pizza; traced to an old Reddit comment (accessed 2026-10-24)",
+   "url": "https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza"
+  },
+  {
+   "claim": "Google Search blog 'AI Overviews: About last week' (May 30 2024): admits satirical/forum content caused odd answers (accessed 2026-10-24)",
+   "url": "https://blog.google/products/search/ai-overviews-update-may-2024/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Google's AI Told People to Put Glue on Their Pizza",
+   "url": "https://youtube.com/shorts/SbXoEXsa2b8",
+   "views": "1.5K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Google AI tells users to put glue in pizza sauce (long, 4 days old)",
+   "url": "https://www.youtube.com/watch?v=Apimkx7Tw1Y",
+   "views": "2.9K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('AI says: add glue to pizza?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Google's AI Overview repeated an 11-year-old Reddit joke as advice: it can't tell a joke post from a real tip, it just finds text that matches. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "AI says: add glue to pizza?",
+ "twist": "Google's AI Overview repeated an 11-year-old Reddit joke as advice: it can't tell a joke post from a real tip, it just finds text that matches.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-23",
+  "deadline": "2026-11-27",
+  "event": "Thanksgiving cooking week: people ask AI for recipes (Thanksgiving Nov 26 2026)"
+ },
+ "newsPeg": "Thanksgiving cooking week: people ask AI for recipes (Thanksgiving Nov 26 2026)",
+ "category": "AI quirk",
+ "suggestedSlot": "2026-11-25 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW-MEDIUM with 'The Newspaper That Recommended Books That Don't Exist' (made-up AI answers): here the cause is a joke source, not invention.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 7,
+ "score10": 9.0,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

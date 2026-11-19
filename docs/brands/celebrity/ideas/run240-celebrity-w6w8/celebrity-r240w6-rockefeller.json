@@ -1,0 +1,108 @@
+{
+ "channel": "celebrity",
+ "title": "Rockefeller's First Christmas Tree Wore Tin Cans",
+ "topic": "On Christmas Eve 1931, in the Depression, construction workers on the Rockefeller Center site pooled money for a fir and hung cranberries, paper garlands and tin cans on it; the first official lighting came in 1933.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Rockefeller Center tree lighting (2026-12-02). Wikipedia Rockefeller_Center 20,651 views Sept 2026.",
+ "hook": "The famous tree… began with tin cans?",
+ "twist": "On Christmas Eve 1931, in the Depression, construction workers on the Rockefeller Center site pooled money for a fir and hung cranberries, paper garlands and tin cans on it; the first official lighting came in 1933.",
+ "peg": {
+  "event": "Rockefeller Center tree lighting",
+  "date": "2026-12-02",
+  "url": "https://rockefellercenter.com/holidays/rockefeller-center-christmas-tree-lighting",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Untapped Cities - 1931 first Rockefeller tree started by construction workers (accessed 2026-10-24)",
+   "url": "https://untappedcities.com/2016/12/15/throw-back-thursday-1931-first-rockefeller-center-christmas-tree-started-by-site-construction-workers/"
+  },
+  {
+   "claim": "KTVU - Rockefeller Center Christmas tree has humble roots (accessed 2026-10-24)",
+   "url": "https://www.ktvu.com/news/rockefeller-center-christmas-tree-has-humble-roots"
+  },
+  {
+   "claim": "Time Out NY - 2026 tree lighting date (accessed 2026-10-24)",
+   "url": "https://www.timeout.com/newyork/news/the-2026-rockefeller-center-christmas-tree-lighting-has-officially-been-announced-and-its-happening-earlier-than-you-think-092926"
+  },
+  {
+   "claim": "Peg source: Rockefeller Center tree lighting (accessed 2026-10-24)",
+   "url": "https://rockefellercenter.com/holidays/rockefeller-center-christmas-tree-lighting"
+  },
+  {
+   "claim": "Wikimedia pageviews Rockefeller_Center: 20651 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Rockefeller_Center&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Untapped Cities - 1931 first Rockefeller tree started by construction workers",
+   "url": "https://untappedcities.com/2016/12/15/throw-back-thursday-1931-first-rockefeller-center-christmas-tree-started-by-site-construction-workers/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "KTVU - Rockefeller Center Christmas tree has humble roots",
+   "url": "https://www.ktvu.com/news/rockefeller-center-christmas-tree-has-humble-roots",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Time Out NY - 2026 tree lighting date",
+   "url": "https://www.timeout.com/newyork/news/the-2026-rockefeller-center-christmas-tree-lighting-has-officially-been-announced-and-its-happening-earlier-than-you-think-092926",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Construction workers line up for pay beside the first Rockefeller Center Christmas tree, 1931.",
+   "url": "https://youtube.com/shorts/oEI-MKUgibk",
+   "views": 544,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"first Rockefeller Christmas tree 1931 workers #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The First Rockefeller Christmas Tree — 1931",
+   "url": "https://youtube.com/shorts/65w5gS0PrW4",
+   "views": 552,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"first Rockefeller Christmas tree 1931 workers #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The First Rockefeller Center Christmas Tree Put Up by Construction Workers in  #history #truestory",
+   "url": "https://youtube.com/shorts/0HsdYkoUIbA",
+   "views": 66,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"first Rockefeller Christmas tree 1931 workers #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A scrappy fir hung with tin cans at a steel-girder building site + hook. Twist by 2.5 s. Loop: 'Tin cans to 50,000 lights. Did you know?'",
+ "cta": "C2+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Height 18 vs 20 ft: say 'a small fir'. No Rockefeller Center logo or trademark star.",
+ "window": {
+  "notBefore": "2026-12-01T12:00:00Z",
+  "deadline": "2026-12-04T00:00:00Z",
+  "label": "Rockefeller Center tree lighting",
+  "suggestedSlot": "2026-12-02T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

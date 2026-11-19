@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why Earbuds Lag in Games but Not on YouTube",
+ "topic": "Bluetooth audio arrives ~0.2 s late; video apps quietly delay the picture to match, games can't wait.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Gamers search this (2.9M fix Shorts); nobody explains the YouTube-vs-game difference.",
+ "evidence": [
+  {
+   "claim": "Android developers: audio latency (accessed 2026-10-24)",
+   "url": "https://developer.android.com/ndk/guides/audio/audio-latency"
+  },
+  {
+   "claim": "Audio-to-video synchronization (players delay video to match audio latency) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Audio-to-video_synchronization"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "HEADPHONE DELAY SOUND SOLVE",
+   "url": "https://youtube.com/shorts/fq6KHgL-zf0",
+   "views": "2.9M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Wireless Earphone Gaming Headsets 65ms Low Latency",
+   "url": "https://youtube.com/shorts/KL0ipYJJ42k",
+   "views": "1.2M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('YouTube: in sync. Games: late. Why?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Bluetooth audio arrives ~0.2 s late; video apps quietly delay the picture to match, games can't wait. Loop ending: re-ask the hook.",
+ "hook": "YouTube: in sync. Games: late. Why?",
+ "twist": "Bluetooth audio arrives ~0.2 s late; video apps quietly delay the picture to match, games can't wait.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-15 18:00 UTC",
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 16,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "99 Phones in a Wagon Faked a Traffic Jam",
+ "topic": "Google Maps guesses traffic from phones' speed; in 2020 an artist pulled 99 phones slowly down a street and the road turned red.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Proven viral story (10M); our angle explains the mechanism with a frame-0 contradiction.",
+ "evidence": [
+  {
+   "claim": "Simon Weckert, 'Google Maps Hacks' (2020) artist page (accessed 2026-10-24)",
+   "url": "https://www.simonweckert.com/googlemapshacks.html"
+  },
+  {
+   "claim": "Google blog: how Google Maps predicts traffic (accessed 2026-10-24)",
+   "url": "https://blog.google/products/maps/google-maps-101-how-ai-helps-predict-traffic-and-determine-routes/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Man Fakes Traffic Using 99 Phones",
+   "url": "https://youtube.com/shorts/nBlGnqJwqbo",
+   "views": "10M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "ONE GUY FAKED A TRAFFIC JAM USING 99 PHONES",
+   "url": "https://youtube.com/shorts/hR1TzGMoIdI",
+   "views": "38K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Empty street. Map says traffic jam?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Google Maps guesses traffic from phones' speed; in 2020 an artist pulled 99 phones slowly down a street and the road turned red. Loop ending: re-ask the hook.",
+ "hook": "Empty street. Map says traffic jam?",
+ "twist": "Google Maps guesses traffic from phones' speed; in 2020 an artist pulled 99 phones slowly down a street and the road turned red.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-14 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Why GPS Still Works With No Signal Bars'.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 11,
+ "score10": 8.5,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

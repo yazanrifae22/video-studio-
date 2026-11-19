@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why F and J Have Tiny Bumps",
+ "topic": "They mark the home row, so touch typists can find their position without looking.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Huge demand (3.9M) but saturated - spare only.",
+ "evidence": [
+  {
+   "claim": "Touch typing and home-row markers (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Touch_typing"
+  },
+  {
+   "claim": "Computer keyboard: home-row bumps (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Computer_keyboard"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why do F & J keys have bumps?",
+   "url": "https://youtube.com/shorts/j4W9psghezU",
+   "views": "3.9M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why there are lines under F and j keys?",
+   "url": "https://youtube.com/shorts/mObeoVZ6pL0",
+   "views": "11K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Feel your F and J keys.') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: They mark the home row, so touch typists can find their position without looking. Loop ending: re-ask the hook.",
+ "hook": "Feel your F and J keys.",
+ "twist": "They mark the home row, so touch typists can find their position without looking.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": null,
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": true,
+ "week": null,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 37,
+ "score10": 8.0,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 1,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "The Wii Sensor Bar Doesn't Sense Anything",
+ "topic": "Nothing: it is just two clusters of infrared lights; the camera that does the sensing is inside the remote.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "20th anniversary; candle-as-sensor-bar Shorts reach millions but rarely say why. Callback to our 'phone camera sees TV remote light' Short.",
+ "evidence": [
+  {
+   "claim": "Wii released Nov 19 2006 in North America (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Wii"
+  },
+  {
+   "claim": "Wii Remote: IR camera in the remote tracks the sensor bar's IR LEDs (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Wii_Remote"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "No Wii sensor? No problem!",
+   "url": "https://youtube.com/shorts/y1ONp2EfEyk",
+   "views": "5.5M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Wii Sensor Bar Trick!",
+   "url": "https://youtube.com/shorts/F8tnPnfkQKU",
+   "views": "1.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('What does the sensor bar sense?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Nothing: it is just two clusters of infrared lights; the camera that does the sensing is inside the remote. Loop ending: re-ask the hook.",
+ "hook": "What does the sensor bar sense?",
+ "twist": "Nothing: it is just two clusters of infrared lights; the camera that does the sensing is inside the remote.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-19",
+  "deadline": "2026-11-22",
+  "event": "Wii 20th anniversary (Nov 19 2006 North America)"
+ },
+ "newsPeg": "Wii 20th anniversary (Nov 19 2006 North America)",
+ "suggestedSlot": "2026-11-19 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW-MEDIUM with 'Your Phone Camera Can See Your TV Remote's Light' (IR). Callback, not repeat.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 6,
+ "score10": 8.7,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

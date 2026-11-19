@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "One Bad Review Made Harpo Marx Go Silent for Life",
+ "topic": "A critic wrote that his pantomime was great until he opened his mouth; Harpo stopped speaking on stage and screen.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Harpo Marx born 23 Nov 1888 (2026-11-23). Wikipedia Harpo_Marx 26,478 views Sept 2026.",
+ "hook": "Why did Harpo never speak?",
+ "twist": "A critic wrote that his pantomime was great until he opened his mouth; Harpo stopped speaking on stage and screen.",
+ "peg": {
+  "event": "Harpo Marx born 23 Nov 1888",
+  "date": "2026-11-23",
+  "url": "https://en.wikipedia.org/wiki/Harpo_Marx",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Marx-brothers.org - Harpo biography (accessed 2026-10-24)",
+   "url": "https://marx-brothers.org/biography/harpo.htm"
+  },
+  {
+   "claim": "Wikipedia - Harpo Marx (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Harpo_Marx"
+  },
+  {
+   "claim": "IMDb news - Harpo Marx (accessed 2026-10-24)",
+   "url": "https://www.imdb.com/news/ni54262607"
+  },
+  {
+   "claim": "Peg source: Harpo Marx born 23 Nov 1888 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Harpo_Marx"
+  },
+  {
+   "claim": "Wikimedia pageviews Harpo_Marx: 26478 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Harpo_Marx&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Marx-brothers.org - Harpo biography",
+   "url": "https://marx-brothers.org/biography/harpo.htm",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Harpo Marx",
+   "url": "https://en.wikipedia.org/wiki/Harpo_Marx",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "IMDb news - Harpo Marx",
+   "url": "https://www.imdb.com/news/ni54262607",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Did Harpo Marx REFUSE To Speak? The Real Reason! #shorts",
+   "url": "https://youtube.com/shorts/upDYImwGvbM",
+   "views": 867,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Marx Brother Who Never Spoke Was the Smartest of Them All #hollywood",
+   "url": "https://youtube.com/shorts/ecc8JaFsOrQ",
+   "views": 63,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Harpo Marx's That Turned Out To Be True",
+   "url": "https://youtube.com/shorts/p9VqT5wTduo",
+   "views": 225000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a bicycle horn and a curly wig on a harp + hook. Twist: one review. Loop: 'Honk if you'd stay silent.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Exact review wording is not primary-sourced: paraphrase. He did speak on stage occasionally - say 'stopped speaking in his act'. Horn + harp visuals, no likeness.",
+ "window": {
+  "notBefore": "2026-11-22T12:00:00Z",
+  "deadline": "2026-11-24T06:00:00Z",
+  "label": "Harpo Marx born 23 Nov 1888",
+  "suggestedSlot": "2026-11-23T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

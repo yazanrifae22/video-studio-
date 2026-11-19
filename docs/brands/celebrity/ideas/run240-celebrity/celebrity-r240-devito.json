@@ -1,0 +1,97 @@
+{
+ "channel": "celebrity",
+ "title": "Before Hollywood, He Was a Hairdresser: Danny DeVito",
+ "topic": "DeVito worked in his sister's salon and enrolled at drama school to learn makeup - then a monologue class turned him into an actor.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Danny DeVito turns 82 (2026-11-17). Wikipedia Danny_DeVito 213,184 views Sept 2026.",
+ "hook": "Hairdresser to Hollywood: how?",
+ "twist": "DeVito worked in his sister's salon and enrolled at drama school to learn makeup - then a monologue class turned him into an actor.",
+ "peg": {
+  "event": "Danny DeVito turns 82",
+  "date": "2026-11-17",
+  "url": "https://en.wikipedia.org/wiki/Danny_DeVito",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Biography.com - Danny DeVito (accessed 2026-10-24)",
+   "url": "https://www.biography.com/actors/danny-devito"
+  },
+  {
+   "claim": "Wikipedia - Danny DeVito (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Danny_DeVito"
+  },
+  {
+   "claim": "Peg source: Danny DeVito turns 82 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Danny_DeVito"
+  },
+  {
+   "claim": "Wikimedia pageviews Danny_DeVito: 213184 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Danny_DeVito&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Biography.com - Danny DeVito",
+   "url": "https://www.biography.com/actors/danny-devito",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Danny DeVito",
+   "url": "https://en.wikipedia.org/wiki/Danny_DeVito",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Danny DeVito Did Hair for Dead People 💇‍♂️ #celebrity  #facts #hollywood",
+   "url": "https://youtube.com/shorts/rLLO0_6_skI",
+   "views": 4400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Danny DeVito: From Hairdresser to Hollywood Star! #shorts",
+   "url": "https://youtube.com/shorts/CMYp8p8bCNo",
+   "views": 4400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Danny DeVito: peluquero, se hizo amigo de una leyenda y triunfó en los escenarios #Shorts",
+   "url": "https://youtube.com/shorts/5yRi4yqIGgA",
+   "views": 1400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: salon scissors crossed with a theatre mask + hook. Twist: he went to drama school for makeup. Loop: 'Ever signed up for the wrong class?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Drop 'Mr. Dan' (unsourced). Morgue-cosmetologist detail is Wikipedia-only: skip or attribute. Competing Shorts (4.4K) use the hairdresser angle - lead with the makeup-class twist.",
+ "window": {
+  "notBefore": "2026-11-16T12:00:00Z",
+  "deadline": "2026-11-18T06:00:00Z",
+  "label": "Danny DeVito turns 82",
+  "suggestedSlot": "2026-11-17T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

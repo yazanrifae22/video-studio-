@@ -1,0 +1,44 @@
+{
+  "verdict": "fix",
+  "score_10": 7,
+  "leave_at": "l033",
+  "liked": [
+    "l067 - ما حدا بيفتح بسطة ليموناضة جنب بركان (lands in any dialect)",
+    "l078 - يعني استنوا تلاتعشر سنة، ليقولولهم: استنوا (best Skip line)",
+    "l089 - والشباب بيردوا: شكراً عالدعاية"
+  ],
+  "name_policy": "Say «جي تي إيه» everywhere, with the number only where it matters (ستة for this game, خمسة for the old one). Do not use «جاتا» (Egypt/Gulf slang, Maghreb viewers may not know it) or «قراند» (reads as a different word to TTS). Never write the digit 6 next to the letters, and never «سكس». Spell it the same way in every line so the TTS voice says it the same way each time.",
+  "global_rules": [
+    "Replace المصاري with الفلوس in all lines (l006, l022, l028, l029, l030): المصاري is Levantine only.",
+    "Replace حضر/يحضر (watch) with تتفرّج/يتفرّجوا (l014, l015, l043, l045, l053, l058): حضر means attend for Egyptians.",
+    "Spell teens as تلاتاشر / تسعتاشر / ألفين وتلاتاشر (not تلاتعشر / تسعتعش) so the TTS voice reads one clean word; same fix everywhere (l012, l019, l064, l068, l078, l093, l098).",
+    "Replace the possessive ـو with ـه where it can be read as a name or is too Syrian: عمرو -> عمره, تبعو -> use لابتوبه, نفسو -> نفسه.",
+    "Use مستشفى not مشفى (l047, l047a); use الصحف not الجرايد (l086); use ماما not إمي/إمك everywhere.",
+    "Use التريلر for the trailer (l050, l053, l058, l059) and keep «إعلان» only in the joke lines l057/l058 'for an advert'.",
+    "Month names, first mention only: l012 «أيلول، يعني سبتمبر»; l050 «كانون الأول، يعني ديسمبر»; l056 «أيار، يعني مايو»; l064 «تشرين التاني، يعني نوفمبر». Later mentions stay Levantine only.",
+    "Jokes: keep l069 (ورقة صفرا يا طيّوبة, works), keep l094 idea of the wallet (word changed), l098/l097 edited, l099 replaced because «أنا أصفر» reads as colour or coward, not as a sticky note.",
+    "TTS: keep روكستار, بلايستيشن, فريم, فاين, يوتيوب. For لابسوس write «لابسوس» as is (fine). iPhone 5S: say الآيفون خمسة إس with إس. Add no diacritics except where listed in fixes."
+  ],
+  "fixes": [
+    {"line": "l033", "problem": "«لزقة» means plaster/sticker, and for Egyptians a clingy person; English is caution tape.", "new_ar": "[l033] KARTO: هالرقم تخمين، مشان هيك عم لصّق عليه شريط تحذير. الشركة ما أعطت رقم من عندها أبداً. بس حتى أقل تخمين بيخليها من أغلى الأشياء يلي انعملت لشاشة بالتاريخ."},
+    {"line": "l041", "problem": "«معتقل» has a heavy political meaning for Arab viewers (detention); English says arrested. «تبعو» is too Syrian.", "new_ar": "[l041] KARTO: كانوا قابضين عليه أصلاً قبلها، لأنو اخترق شركات عملاقة تانية. والشرطة كانت آخدة لابتوبه. وكان قاعد بفندق، بلا كمبيوتر."},
+    {"line": "l055", "problem": "Garbled: the double negative/comma order breaks the fact (no non-music video had a bigger first day).", "new_ar": "[l055] KARTO: بوقتها، ما في فيديو على يوتيوب جاب أكتر من هيك بأول يوم، إلا الأغاني."},
+    {"line": "l091", "problem": "«بهي» is not a word (TTS will stumble); «إمك» can sound like the start of an insult.", "new_ar": "[l091] KARTO: بس هي لعبة معمولة للكبار. ومكتوب هالشي عالعلبة. بهاي النقطة، ماما معها حق."},
+    {"line": "l043", "problem": "«ستريمنغ ستيك» is unknown to many; «تحضر» means attend; «وزاد عليها» refers to wrong gender after the fix.", "new_ar": "[l043] KARTO: الغرفة كان فيها تلفزيون. جاب جهاز ستريمنغ صغير بحجم الفلاشة، بتركّبو بالتلفزيون لتتفرّج على مسلسلات. ركّبو، وزاد عليه موبايل."},
+    {"line": "l016", "problem": "«عمرو» is read by TTS as the name Amr.", "new_ar": "[l016] KARTO: الولد يلي كان عمره عشر سنين بهداك اليوم، صار عمره تلاتة وعشرين. خلّص مدرسة وصار يشتغل."},
+    {"line": "l019", "problem": "Drift: English says 'the most wanted sequel', Arabic says 'most wanted game', and drops 'other'. Teens spelling.", "new_ar": "[l019] KARTO: وروكستار، الشركة يلي ورا جي تي إيه، نزّلت بهالسنين لعبة عملاقة جديدة وحدة بس غيرها. فهون السؤال الحقيقي: ليش حدا بيقعد تلاتاشر سنة فوق أكتر جزء تاني مطلوب بالعالم؟"},
+    {"line": "l026", "problem": "Drift: English is 'three generations of consoles' and 'again'; Arabic limits it to PlayStation and drops 'again'.", "new_ar": "[l026] KARTO: حتى إنهم باعوا نفس اللعبة من جديد على تلات أجيال من أجهزة الألعاب."},
+    {"line": "l065", "problem": "«أنا سكيب» does not mean 'I am skipping'; the line is then confusing right before l066.", "new_ar": "[l065] SKIP: مرتين؟ هالقطعة بطيئة. إيدي عالزر."},
+    {"line": "l099", "problem": "«أنا أصفر» reads as a colour or 'coward', the sticky-note gag dies.", "new_ar": "[l099] SKIP: أنا ما بغلط. أنا ورقة لاصقة، وجوابي لاصق."},
+    {"line": "l097", "problem": "«فأيمت» and «ختيرت» are Syrian-only; egg-carton gag is weak without the recycling link.", "new_ar": "[l097] SKIP: إذا هاي أخدت تلاتاشر سنة، فمتى الجاية؟ ألفين وتسعة وتلاتين؟ رح أكون عجوز. ويمكن يكونوا حوّلوني لكرتونة بيض."},
+    {"line": "l094", "problem": "«جزدانك» is Syrian/Gulf; Egyptians say محفظة. «إي» for yes is not universal; 'trailers' not 'ads'.", "new_ar": "[l094] KARTO: طيب، كانت بتستاهل؟ تلاتاشر سنة تريلرات بتقول أيوه. والتمانين دولار بتقلك: اسأل محفظتك."},
+    {"line": "l070", "problem": "«حقها» in Levantine means 'its right', not its price.", "new_ar": "[l070] KARTO: القطعة السادسة. السعر. لسنين، اللعبة الكبيرة كان سعرها ستين دولار. وبعدين صارت سبعين."},
+    {"line": "l002", "problem": "«أعمل سكيب» is read as an English borrowing; the name gag is not clear.", "new_ar": "[l002] SKIP: تلاتاشر سنة مشان لعبة؟ قصة حلوة. أنا رح أعمل سكيب. اسمي مو عالفاضي."},
+    {"line": "l012", "problem": "First mention of month needs the common name; teen spelling for TTS.", "new_ar": "[l012] KARTO: القطعة الأولى. الانتظار. أيلول، يعني سبتمبر، ألفين وتلاتاشر. بتنزل جي تي إيه خمسة."},
+    {"line": "l001", "problem": "Teen spelling for a clean TTS read in the very first second.", "new_ar": "[l001] KARTO: تلاتاشر سنة. لعبة وحدة. جي تي إيه ستة."},
+    {"line": "l080", "problem": "Use «ماما» (universal, kind) instead of «إمي».", "new_ar": "[l080] SKIP: ماشي، بس ماما بتقول إنو هاللعبة بتخرّب عقلي."},
+    {"line": "l081", "problem": "Same: «إمك» can sound like an insult opener.", "new_ar": "[l081] KARTO: ماما هي القطعة السابعة."},
+    {"line": "l007", "problem": "المصاري is Levantine only; «الإعلان» is ambiguous (ad vs trailer).", "new_ar": "[l007] KARTO: سبع قطع. الانتظار. الفلوس. الهاكر. التريلر. التأجيل. السعر. والذعر."},
+    {"line": "l056", "problem": "«إجا» is Levantine; first mention of May needs «يعني مايو»; «الإعلان التاني» = trailer two.", "new_ar": "[l056] KARTO: وبعدين نزل التريلر التاني. أيار، يعني مايو، ألفين وخمسة وعشرين. والتقارير حكت عن أربعمية وخمسة وسبعين مليون مشاهدة بيوم واحد، على كل المنصات."}
+  ]
+}

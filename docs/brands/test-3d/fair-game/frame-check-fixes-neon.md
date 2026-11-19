@@ -1,0 +1,13 @@
+# Frame-check fixes: NEON look
+Production `expl-261115-1yab`; file `packages/test3d/web/parable/view-neon.js`.
+Read `frame-check-fixes-common.md` (same folder) first. Raw checker list (unverified): `frame-check-defects.md`, section Neon. The black background is the style.
+
+1. Closing, 10:41-10:53 (l65 + tail): the text covered the Worker's hat and half of the Heir's crown. It is now at the top (2-23 %): move the end band in view-neon.js to match, let the line-up use the freed height (bigger pawns), and make the four names clearly readable on a phone (they were small) without touching each other.
+2. Subjects cut by the top edge: 2:33-2:35 l19 the Fool's head and cone (and the big coin at 2:34); 2:51-3:00 l21 / l22a the Fool's tower tip, then the tower grows out of the frame and the hat is gone; 7:00-7:02 l45a the 90% tower top; 10:27-10:35 l64 / l64a the great tower runs off the top for nine seconds so the king and cone hat are not visible; 2:04-2:05 l15 the Scholar's head; 3:21 l24 the winning tower.
+3. Tags on hats and towers: 2:36-2:38 l19 "782" and "#1" on the Fool's cone; 2:52-2:55 l21 "55%" over the hat; 8:18-8:21 l51 "36 under one coin" across the giant tower and "71%" on its top; 7:52-7:59 l49 "-40%" on the hats (the model engineers restaged l49: check after).
+4. 1:02-1:04 (l08): three seconds of a huge two-coin close-up before the 100 and 400 towers appear.
+5. 4:31-4:42 (l31): "THE SKEPTIC" floats over the pawn crowd far from the Skeptic pawn with pawn outlines through the letters.
+6. 2:21-2:24 (l17): the board shrinks to about a fifth of the frame width.
+7. 0:46-0:50 (l05): "THE WORKER" runs into the Scholar's cap; the four pawns are tiny and the coin hides the Heir.
+8. After the model change (c08/c09): l49 demo shot is framed too far (the demo tower is small) and the "150" tag collides with the coin around 7:53; l53 the block camera is high and steep so the four hats on the centre squares look packed together, and the hovering coin must stay clear of the hats; l56 (one tall tower, one short tower, the middle pile): frame the three as the subject.
+9. After the model change (c04/c07): l23 has a new close cut on the king at the landing (a player shot whose subject is only {king: true}); Neon frames it from the board up, so it comes out wide instead of the tower top with the king and its cone hat. l45: the 2.3-disc small stack (23 coins) draws as one thick flat disc (drawing, the data is right); at the start of l45 the half-board layer shows only as a strip along the front edge. l24: two more worlds now play as time-lapses from "But", then a tilt up the winner tower: check the framing.

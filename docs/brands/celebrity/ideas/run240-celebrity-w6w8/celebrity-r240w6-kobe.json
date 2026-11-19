@@ -1,0 +1,112 @@
+{
+ "channel": "celebrity",
+ "title": "The NBA Legend Who Won an Oscar. How?",
+ "topic": "On 29 Nov 2015 Kobe Bryant announced his retirement with a poem, 'Dear Basketball'; Disney veteran Glen Keane animated it, John Williams scored it, and it won Best Animated Short in 2018.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Kobe Bryant published \"Dear Basketball\", 29 Nov 2015 (2026-11-29). Wikipedia Kobe_Bryant 172,040 views Sept 2026.",
+ "hook": "An NBA star with an Oscar?",
+ "twist": "On 29 Nov 2015 Kobe Bryant announced his retirement with a poem, 'Dear Basketball'; Disney veteran Glen Keane animated it, John Williams scored it, and it won Best Animated Short in 2018.",
+ "peg": {
+  "event": "Kobe Bryant published \"Dear Basketball\", 29 Nov 2015",
+  "date": "2026-11-29",
+  "url": "https://www.si.com/nba/2018/03/05/kobe-bryant-dear-basketball-wins-oscar-best-animated-short-film",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Sports Illustrated - Dear Basketball wins Oscar (accessed 2026-10-24)",
+   "url": "https://www.si.com/nba/2018/03/05/kobe-bryant-dear-basketball-wins-oscar-best-animated-short-film"
+  },
+  {
+   "claim": "CBS Sports - Kobe nominated for an Oscar (accessed 2026-10-24)",
+   "url": "https://www.cbssports.com/nba/news/kobe-bryant-nominated-for-an-oscar-for-his-animated-short-film-dear-basketball"
+  },
+  {
+   "claim": "Washington Times - NBA MVP, 5-time champion, Oscar winner? (accessed 2026-10-24)",
+   "url": "https://m.washingtontimes.com/news/2018/jan/23/kobe-bryant-gets-nominated-for-an-oscar/"
+  },
+  {
+   "claim": "Peg source: Kobe Bryant published \"Dear Basketball\", 29 Nov 2015 (accessed 2026-10-24)",
+   "url": "https://www.si.com/nba/2018/03/05/kobe-bryant-dear-basketball-wins-oscar-best-animated-short-film"
+  },
+  {
+   "claim": "Wikimedia pageviews Kobe_Bryant: 172040 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Kobe_Bryant&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Sports Illustrated - Dear Basketball wins Oscar",
+   "url": "https://www.si.com/nba/2018/03/05/kobe-bryant-dear-basketball-wins-oscar-best-animated-short-film",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "CBS Sports - Kobe nominated for an Oscar",
+   "url": "https://www.cbssports.com/nba/news/kobe-bryant-nominated-for-an-oscar-for-his-animated-short-film-dear-basketball",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Washington Times - NBA MVP, 5-time champion, Oscar winner?",
+   "url": "https://m.washingtontimes.com/news/2018/jan/23/kobe-bryant-gets-nominated-for-an-oscar/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Kobe Bryant accepts first Oscar for 'Dear Basketball' | ABC News",
+   "url": "https://youtube.com/shorts/QjZgvt_3Cn8",
+   "views": 199000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Kobe Bryant Oscar Dear Basketball #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Dear Basketball #jiggy #selah #rizz #dearbasketball #kobebryant",
+   "url": "https://youtube.com/shorts/QouzFpi-OCs",
+   "views": 321000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Kobe Bryant Oscar Dear Basketball #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Kobe Bryant & Glen Keane Win Best Animated Short Film for \"Dear Basketball\" | 90th #Oscars (2018)",
+   "url": "https://youtube.com/shorts/iWTpdEwpEzY",
+   "views": 24000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Kobe Bryant Oscar Dear Basketball #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A rolled-up sock 'ball' beside a pencil-drawn hoop + hook. Twist by 2.5 s. Loop: 'An NBA legend with an Oscar. Did you know?'",
+ "cta": "C2+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Respectful: no mention of the 2020 crash; skip the 2003 case. No likeness, no Lakers logo, no Oscar statuette (trademark): a pencil sketch of a hoop and a golden glow.",
+ "window": {
+  "notBefore": "2026-11-28T12:00:00Z",
+  "deadline": "2026-12-01T00:00:00Z",
+  "label": "Kobe Bryant published \"Dear Basketball\", 29 Nov 2015",
+  "suggestedSlot": "2026-11-29T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Kobe Bryant",
+  "Glen Keane",
+  "John Williams"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

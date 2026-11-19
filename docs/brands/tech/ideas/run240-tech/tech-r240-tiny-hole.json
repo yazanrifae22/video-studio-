@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "What's the Tiny Hole Next to Your Camera?",
+ "topic": "It's a microphone, used for video sound and noise cancelling.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Viewer checks their own phone at frame 0; competitors <10K Shorts.",
+ "evidence": [
+  {
+   "claim": "Apple iPhone tech specs list multiple microphones (accessed 2026-10-24)",
+   "url": "https://support.apple.com/en-us/111831"
+  },
+  {
+   "claim": "Noise-cancelling microphone (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Noise-cancelling_microphone"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "What's That Tiny iPhone Camera Hole?",
+   "url": "https://youtube.com/shorts/8RzKNPSGcCw",
+   "views": "9.4K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why your iPhone has a tiny hole next to the camera (long)",
+   "url": "https://www.youtube.com/watch?v=hdEdlfS7aFY",
+   "views": "92K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('What is this tiny hole?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: It's a microphone, used for video sound and noise cancelling. Loop ending: re-ask the hook.",
+ "hook": "What is this tiny hole?",
+ "twist": "It's a microphone, used for video sound and noise cancelling.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-16 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW with green-dot idea (keep >= 3 days apart).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 31,
+ "score10": 8.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

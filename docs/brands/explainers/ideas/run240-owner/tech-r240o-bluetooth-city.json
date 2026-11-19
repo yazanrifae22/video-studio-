@@ -1,0 +1,57 @@
+{
+  "channel": "tech",
+  "audience": "General Shorts viewers",
+  "format": "short",
+  "durationSec": 35,
+  "estCostUsd": 0,
+  "spare": false,
+  "run": 240,
+  "researchDate": "2026-10-25",
+  "brief": "Owner ideas from YouTube Studio advice, 2026-10-25; docs/run240-protocol.md Engagement enhancements v2",
+  "enhancements": "v2",
+  "window": null,
+  "newsPeg": null,
+  "competitors": [],
+  "title": "Why Bluetooth Audio Cuts Out When You Walk Around Cities",
+  "topic": "Bluetooth shares the crowded 2.4 GHz band with Wi-Fi and more; in dense areas interference plus physical obstacles (a body between phone and earbud) can cause dropouts.",
+  "hook": "Your earbuds work at home. Walk downtown and they stutter.",
+  "twist": "The same 2.4 GHz band is shared by Bluetooth and Wi-Fi, and a city is packed with both.",
+  "pinnedComment": "Earbuds that cut out outside: do you blame the earbuds or the city? 👇",
+  "commentPrompt": "Phone in front pocket or back pocket: which cuts out more for you?",
+  "loop": "So... is it the earbuds, or the city?",
+  "difficulty": 1,
+  "category": "device/web quirk",
+  "sources": [
+    {
+      "label": "Cult of Mac - AirPods might not like busy city streets",
+      "url": "https://www.cultofmac.com/news/airpods-might-not-like-busy-city-streets",
+      "accessed": "2026-10-25"
+    },
+    {
+      "label": "Access Partnership - Bluetooth interference: causes and solutions",
+      "url": "https://accesspartnership.com/bluetooth-interference-causes-and-potential-solutions",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "weaknesses": "Body blocking is general physics (2.4 GHz is absorbed by water) but no source tested it: frame as 'can', and verify against Bluetooth SIG docs on script day. Avoid unsourced percentages.",
+  "scores": {
+    "demand": 4,
+    "competitionGap": 4,
+    "visualPotential": 4,
+    "productionEase": 4,
+    "policyRisk": 1
+  },
+  "evidence": [
+    {
+      "claim": "Cult of Mac - AirPods might not like busy city streets (accessed 2026-10-25)",
+      "url": "https://www.cultofmac.com/news/airpods-might-not-like-busy-city-streets"
+    },
+    {
+      "claim": "Access Partnership - Bluetooth interference: causes and solutions (accessed 2026-10-25)",
+      "url": "https://accesspartnership.com/bluetooth-interference-causes-and-potential-solutions"
+    }
+  ],
+  "whyCare": "Owner idea from YouTube Studio advice",
+  "angle": "Your earbuds work at home. Walk downtown and they stutter.",
+  "strengths": "Contradiction hook, pick-a-side comment, debate loop (v2)"
+}

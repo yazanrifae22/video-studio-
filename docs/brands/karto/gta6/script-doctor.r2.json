@@ -1,0 +1,61 @@
+{
+  "round": 2,
+  "production_id": "karto-gta6",
+  "verdict": "pass",
+  "forecast": {
+    "score": 87,
+    "verdict": "pass (gate 85; scored from script text, no story.json, peak not scored)",
+    "items": [
+      {"key": "stop", "got": 14, "max": 15, "note": "Game named in l001 (5 s); hotel TV lands in l003 (~12 s). Honest, no overstatement."},
+      {"key": "subject", "got": 10, "max": 10, "note": "GTA 6 launches 19 Nov 2026."},
+      {"key": "promise", "got": 10, "max": 12, "note": "Hotel TV promised l003, paid l043 (~3 min). Skip names the hold in l034, so it reads as a joke not a stall. Title no longer overclaims."},
+      {"key": "drive", "got": 15, "max": 18, "note": "Handoffs hold; piece 5 now has a cause for 'do not touch that button' (l065-l066). Pieces 1-2 are still stat-led, softened by Skip's objections."},
+      {"key": "ending", "got": 8, "max": 10, "note": "l094 now means something (wallet). l097-l098 open fight is woven."},
+      {"key": "talk", "got": 12, "max": 15, "note": "l098 is a real fight. l100 score line is weak (see fix 5)."},
+      {"key": "retell", "got": 9, "max": 10, "note": "Hotel TV, the 1997 planned scandal, and the guilty plea this month are retellable; fact-check applied."}
+    ],
+    "points": "78 of 90 = 87",
+    "caps": []
+  },
+  "verified": [
+    {"id": "l001", "status": "applied differently (fine)", "note": "Names the game; hotel TV in l003 is the honest placement."},
+    {"id": "l005+l006", "status": "applied", "note": "Wall cut; l006 24 words; pieces count at l007 (~37 s). Slightly past the 30 s target, acceptable."},
+    {"id": "l021", "status": "applied"},
+    {"id": "l020", "status": "applied"},
+    {"id": "l019", "status": "applied"},
+    {"id": "l016", "status": "applied"},
+    {"id": "l054", "status": "applied"},
+    {"id": "l065+l066", "status": "applied (l066 reworded softer, fine)"},
+    {"id": "l047", "status": "not applied, by design (medical reason kept)", "note": "Accepted: accuracy and respect. Cost is 9 words after the peak, offset by l047a."},
+    {"id": "l089", "status": "applied"},
+    {"id": "l083", "status": "applied differently (fine)", "note": "No 'every GTA scandal'; 'as old as GTA itself' is fine."},
+    {"id": "l094", "status": "applied"}
+  ],
+  "new_issues": [
+    {"line_id": "l055", "issue": "Double negative 'no video that was not a music video' is clumsy aloud and hard for TTS.", "rewrite": "At that time, only music videos had ever had a bigger first day on YouTube."},
+    {"line_id": "l047a", "issue": "'This year he was released' does not say from where; reads as prison.", "rewrite": "This year he was let out of the hospital. And this month, days before the game finally came out, he stood in court and pleaded guilty."},
+    {"line_id": "l061", "issue": "Repeats the promise from l059-l060 (third 'twenty twenty-five' in four lines).", "rewrite": "Piece five. The delays."},
+    {"line_id": "l005", "issue": "'it cost more than any film' is firmer than l033 'one of the most expensive'; tape-marked guess should be consistent.", "rewrite": "If the estimates are right, it may have cost more than any film ever made. It was delayed twice. And launch week, the whole internet started fighting about it."},
+    {"line_id": "l100", "issue": "'already know' does not match persona ('guess before Karto') and Skip never gave the viewer guess moments.", "rewrite": "How many of the seven did you guess before Karto said it? Write your score out of seven."},
+    {"line_id": "l013", "issue": "none blocking; 'iPhone five S' may be read 'five S' by TTS. Fine, no change."}
+  ],
+  "gap_to_gate": [],
+  "fixes_remaining": [
+    {"line_id": "l055", "points": 0.5, "text": "At that time, only music videos had ever had a bigger first day on YouTube."},
+    {"line_id": "l047a", "points": 0.5, "text": "This year he was let out of the hospital. And this month, days before the game finally came out, he stood in court and pleaded guilty."},
+    {"line_id": "l061", "points": 0.5, "text": "Piece five. The delays."},
+    {"line_id": "l005", "points": 0.5, "text": "If the estimates are right, it may have cost more than any film ever made. It was delayed twice. And launch week, the whole internet started fighting about it."},
+    {"line_id": "l100", "points": 0.5, "text": "How many of the seven did you guess before Karto said it? Write your score out of seven."}
+  ],
+  "word_count": "1,549 now (all 101 lines incl. l047a); net change of the five fixes is about -1 word, stays inside 1,480-1,600",
+  "shorts": {
+    "note": "Piece 5 left out (weakest). Durations at 2.5 words/s + 0.4 s per line. Each Short ends with the persona tag line added by the builder.",
+    "piece1": {"from": "l013", "to": "l018", "est_s": 40, "hook_text": "NO TIKTOK. 13 YEARS AGO."},
+    "piece2": {"from": "l022", "to": "l029", "est_s": 45, "hook_text": "$800 MILLION. ONE DAY."},
+    "piece3": {"from": "l041", "to": "l046", "est_s": 46, "hook_text": "NO COMPUTER. ONE HOTEL TV."},
+    "piece4": {"from": "l050", "to": "l057", "est_s": 49, "hook_text": "93 MILLION VIEWS. ONE DAY."},
+    "piece6": {"from": "l070", "to": "l076", "est_s": 52, "hook_text": "$79.99 FOR ONE GAME?"},
+    "piece7": {"from": "l082", "to": "l088", "est_s": 51, "hook_text": "GTA'S FIRST SCANDAL WAS PLANNED", "caution": "hook is a strong claim; keep only if the fact-check source for l083-l087 is locked"}
+  },
+  "escalate": false
+}

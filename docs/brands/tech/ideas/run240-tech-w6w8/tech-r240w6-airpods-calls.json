@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Music Sounds Great. Calls Sound Awful. Why?",
+ "topic": "Bluetooth can't carry hi-fi music and your mic at the same time on classic headsets; on a call it drops to a narrow 'hands-free' mode built for voice.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Earbud fix-it Shorts reach 4-7M; the profile-switch 'why' is missing.",
+ "evidence": [
+  {
+   "claim": "BGR: why your Bluetooth headphones sound so much worse on calls (A2DP vs HFP) (accessed 2026-10-24)",
+   "url": "https://www.bgr.com/2158391/how-to-fix-bluetooth-bad-sound-quality-call/"
+  },
+  {
+   "claim": "Daily.co: why Bluetooth audio quality suffers in video calls (accessed 2026-10-24)",
+   "url": "https://www.daily.co/blog/why-bluetooth-audio-quality-suffers-in-video-calls/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Muffled/Quiet Airpods Fix...",
+   "url": "https://youtube.com/shorts/ojzIT1wrWnU",
+   "views": "4.1M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Improve Sound Quality on Headphones",
+   "url": "https://youtube.com/shorts/c1wPgniEjSk",
+   "views": "6.9M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Music: great. Calls: 1995. Why?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Bluetooth can't carry hi-fi music and your mic at the same time on classic headsets; on a call it drops to a narrow 'hands-free' mode built for voice. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Music: great. Calls: 1995. Why?",
+ "twist": "Bluetooth can't carry hi-fi music and your mic at the same time on classic headsets; on a call it drops to a narrow 'hands-free' mode built for voice.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-06 22:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Why Earbuds Lag in Games but Not on YouTube' (Nov 15): 3 weeks apart. Newer LE Audio improves this: say 'classic Bluetooth'.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 40,
+ "score10": 8.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

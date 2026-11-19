@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "Why Is Your Mouse Cursor Tilted?",
+ "topic": "The first mouse pointer (Engelbart's 1968 demo) pointed straight up; on the Xerox Alto's low-res screen it was hard to see, so they tilted it, and everyone copied.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Proven 501K demand + a fresh 324K long-form (7 days old) shows a live trend; anniversary gives the reason now.",
+ "evidence": [
+  {
+   "claim": "9to5Mac (2014): ever wondered why your mouse pointer is angled? (accessed 2026-10-24)",
+   "url": "https://9to5mac.com/2014/02/26/ever-wondered-why-your-mouse-pointer-is-angled-not-straight/"
+  },
+  {
+   "claim": "Wikipedia: The Mother of All Demos (Dec 9 1968) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/The_Mother_of_All_Demos"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why is The Mouse Cursor Tilted?",
+   "url": "https://youtube.com/shorts/SKHaaQViKgQ",
+   "views": "501K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why Your Mouse Cursor Is Tilted (long, 7 days old)",
+   "url": "https://www.youtube.com/watch?v=DeUaK2Rhddw",
+   "views": "324K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Why is the arrow tilted?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: The first mouse pointer (Engelbart's 1968 demo) pointed straight up; on the Xerox Alto's low-res screen it was hard to see, so they tilted it, and everyone copied. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Why is the arrow tilted?",
+ "twist": "The first mouse pointer (Engelbart's 1968 demo) pointed straight up; on the Xerox Alto's low-res screen it was hard to see, so they tilted it, and everyone copied.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-12-09",
+  "deadline": "2026-12-10",
+  "event": "Mother of All Demos, Dec 9 1968 (58th anniversary)"
+ },
+ "newsPeg": "Mother of All Demos, Dec 9 1968 (58th anniversary)",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-09 12:00 UTC",
+ "novelty": {
+  "overlap": "none.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 2,
+ "score10": 9.2,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

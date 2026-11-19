@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "Your Watch Counts Steps While You Brush Your Teeth",
+ "topic": "Wrist trackers don't feel your feet: they count rhythmic arm swings, and brushing looks just like walking to the accelerometer.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Try-it-yourself (T3) with any smartwatch; no competitor.",
+ "evidence": [
+  {
+   "claim": "Epson support: Pulsense may count steps when you brush your teeth or dry your hair (accessed 2026-10-24)",
+   "url": "https://epson.com/faq/SPT_E11E205012~faq-270408"
+  },
+  {
+   "claim": "Carol Torgan: why it's easy to fool your activity tracker (accessed 2026-10-24)",
+   "url": "https://caroltorgan.com/activity-tracker-accuracy/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "(no on-topic Short found)",
+   "url": "https://www.youtube.com/watch?v=WvEY56EPZ5s",
+   "views": "2.9M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Brushing teeth. Watch: +40 steps?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Wrist trackers don't feel your feet: they count rhythmic arm swings, and brushing looks just like walking to the accelerometer. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Brushing teeth. Watch: +40 steps?",
+ "twist": "Wrist trackers don't feel your feet: they count rhythmic arm swings, and brushing looks just like walking to the accelerometer.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-09 18:00 UTC",
+ "novelty": {
+  "overlap": "LOW-MEDIUM with ten-thousand-steps (Nov 28): 11 days apart.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 35,
+ "score10": 8.4,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

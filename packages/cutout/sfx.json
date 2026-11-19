@@ -1,0 +1,172 @@
+{
+ "schema": "cutout-sfx/1",
+ "note": "Cue names the page may return from __load (cues[].name) = the keys of sfx. db = peak level of the sound in dBFS (default -12); dur only for uses_dur sounds. Unknown names fail the build. Regenerate: npx tsx packages/cutout/src/cli.ts sfx-table",
+ "sfx": {
+  "slide": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/slide.wav",
+   "seconds": 0.35,
+   "description": "paper foley: paper sliding across a desk, grainy swish that slows at the end"
+  },
+  "slide-long": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/slide-long.wav",
+   "seconds": 0.7,
+   "description": "paper foley: longer paper drag with a small edge catch in the middle"
+  },
+  "rustle": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/rustle.wav",
+   "seconds": 0.62,
+   "description": "paper foley: loose paper rustling, crackly fibres"
+  },
+  "flip": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/flip.wav",
+   "seconds": 0.5,
+   "description": "paper foley: a sheet turned over: air swish then a soft landing tap"
+  },
+  "fold": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/fold.wav",
+   "seconds": 0.4,
+   "description": "paper foley: paper crease: crackle plus pressed-paper shhk and soft body"
+  },
+  "unfold": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/unfold.wav",
+   "seconds": 0.45,
+   "description": "paper foley: paper opening up, gentler crackle with a swell"
+  },
+  "snip": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/snip.wav",
+   "seconds": 0.34,
+   "description": "paper foley: scissors: two metal blade clicks with the paper tear between"
+  },
+  "thud": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/thud.wav",
+   "seconds": 0.32,
+   "description": "paper foley: a cut piece dropped flat on the desk, low and short"
+  },
+  "stamp": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/stamp.wav",
+   "seconds": 0.7,
+   "description": "paper foley: heavy rubber stamp slam: low body, ink smack and a wet squish"
+  },
+  "scratch": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/scratch.wav",
+   "seconds": 0.5,
+   "description": "paper foley: marker drawing a loop, friction rising and turning"
+  },
+  "rip": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/rip.wav",
+   "seconds": 0.45,
+   "description": "paper foley: tape or paper tear, ragged teeth getting faster"
+  },
+  "tap": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/tap.wav",
+   "seconds": 0.16,
+   "description": "paper foley: finger tap on the desk, warm and dull"
+  },
+  "tick": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/tick.wav",
+   "seconds": 0.09,
+   "description": "paper foley: dry pencil tap, short woody ring"
+  },
+  "pop": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/pop.wav",
+   "seconds": 0.14,
+   "description": "paper foley: small cardboard pop"
+  },
+  "whoosh": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/whoosh.wav",
+   "seconds": 0.5,
+   "description": "paper foley: paper swished through the air, soft"
+  },
+  "rewind": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/rewind.wav",
+   "seconds": 0.8,
+   "description": "paper foley: fast tape scrub with flutter, rising"
+  },
+  "sting": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/sting.wav",
+   "seconds": 1,
+   "description": "paper foley: two upright-bass notes (G2 then D2) with a rim hit: verdict accent"
+  },
+  "tick-synth": {
+   "source": "synth",
+   "gen": "tick",
+   "description": "procedural (packages/test3d/src/audio.ts): one tiny dry click (4 variants rotated, cues closer than 12 ms merge)"
+  },
+  "pour": {
+   "source": "synth",
+   "gen": "pour",
+   "uses_dur": true,
+   "description": "procedural (packages/test3d/src/audio.ts): grains pouring, uses dur"
+  },
+  "thud-synth": {
+   "source": "synth",
+   "gen": "thud",
+   "description": "procedural (packages/test3d/src/audio.ts): heavy piece falls on stone and rolls"
+  },
+  "whoosh-synth": {
+   "source": "synth",
+   "gen": "whoosh",
+   "description": "procedural (packages/test3d/src/audio.ts): airy whoosh"
+  },
+  "riser": {
+   "source": "synth",
+   "gen": "riser",
+   "uses_dur": true,
+   "description": "procedural (packages/test3d/src/audio.ts): tension riser, uses dur"
+  },
+  "hit": {
+   "source": "synth",
+   "gen": "hit",
+   "description": "procedural (packages/test3d/src/audio.ts): low cinematic impact"
+  },
+  "ding": {
+   "source": "synth",
+   "gen": "ding",
+   "description": "procedural (packages/test3d/src/audio.ts): bright ding"
+  },
+  "coin": {
+   "source": "synth",
+   "gen": "coin",
+   "description": "procedural (packages/test3d/src/audio.ts): coin clink with a short ring (4 variants)"
+  },
+  "tap-synth": {
+   "source": "synth",
+   "gen": "tap",
+   "description": "procedural (packages/test3d/src/audio.ts): small piece set down: dull knock"
+  },
+  "chime": {
+   "source": "synth",
+   "gen": "chime",
+   "description": "procedural (packages/test3d/src/audio.ts): soft two-note chime, long decay (chapter mark)"
+  },
+  "swell": {
+   "source": "synth",
+   "gen": "swell",
+   "uses_dur": true,
+   "description": "procedural (packages/test3d/src/audio.ts): airy filtered-noise swell, uses dur"
+  },
+  "tape": {
+   "source": "file",
+   "file": "data/brand/shu-lab/sfx/rip.wav",
+   "seconds": 0.45,
+   "description": "masking-tape strip pulled and pressed (same file as rip)"
+  }
+ }
+}

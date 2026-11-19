@@ -1,0 +1,1520 @@
+Fair Game state dump - score score.json (653.1 s, 75 lines, 101 shots, 567 beats)
+
+== l01 [c01] 0.14-8.38 (+0.76 s silence)  "This player owns ninety percent of the money in this game. He is not smarter than the othe..."
+   storyboard tags: "90%"
+  start t=0.19
+    shot s001-l01 tower/push [players:fool king] u=0.07
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN hat=0.00, worker 0 #46 DOWN hat=0.00, heir 282 #3 hat=0.00, fool 5788 #1 hat=0.00 | top fool 5788
+    tags "90%"@player:fool(1.0)
+    king on fool drop 1.00 swap 1.00 hat 1.00
+  mid t=4.26
+    shot s003-l01 low/push [board players:fool] u=0.03
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN hat=0.00, worker 0 #46 DOWN hat=0.00, heir 282 #3 hat=0.00, fool 5788 #1 hat=0.00 | top fool 5788
+    tags "90%"@player:fool(1.0)
+    king on fool drop 1.00 swap 1.00 hat 1.00
+  end t=9.02
+    shot s004-l01 tower/hold [players:fool king coins:main] u=0.95
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN hat=0.00, worker 0 #46 DOWN hat=0.00, heir 282 #3 hat=0.00, fool 5788 #1 hat=0.00 | top fool 5788
+    tags "90%"@player:fool(1.0)
+    king on fool drop 1.00 swap 1.00 hat 1.00
+== l02 [c01] 9.14-17.86 (+1.35 s silence)  "Sixty-four players started equal. One hundred gold coins each. One fair coin. Run it long ..."
+   storyboard tags: "64 players" "100" "FLIPS EACH"
+  start t=9.19
+    shot s005-l02 high/push [board] u=0.02
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN hat=0.00, worker 0 #46 DOWN hat=0.00, heir 282 #3 hat=0.00, fool 5788 #1 hat=0.00 | top fool 5788
+    counter "FLIPS EACH 6,000" (0.50)
+    tags "64 players"@screen(0.9)
+    king on fool drop 1.00 swap 1.00 hat 1.00
+  mid t=13.50
+    shot s005-l02 high/push [board] u=0.93
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #60 hat=0.00, heir 100 #28 hat=0.00, fool 100 #47 hat=0.00 | top a1 100
+    tags "64 players"@screen(1.0) "100"@player:heir(1.0) "100"@player:d3(1.0) "100"@player:e6(1.0) "100"@player:b2(1.0) "100"@player:g7(1.0)
+    coin main rest lift=0.00 angle=0.00 face=heads at=4.5,4.5
+  end t=19.09
+    shot s009-l02 wide/hold [board players:e3] u=0.96
+    world again x=192000 | present 64 standing 4 down 60
+    hats scholar 0 #60 DOWN hat=0.00, worker 0 #58 DOWN hat=0.00, heir 0 #36 DOWN hat=0.00, fool 0 #54 DOWN hat=0.00 | top e3 5454
+== l03 [c01] 19.21-26.00 (+1.34 s silence)  "In America, the richest one percent hold a third of all wealth. Does that prove they were ..."
+   storyboard tags: "bottom 50%" "1%" "a third of all wealth" "BETTER?"
+  start t=19.26
+    shot s010-l03 demo/push [extras:real1/real50] u=0.03
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #60 hat=0.00, heir 100 #28 hat=0.00, fool 100 #47 hat=0.00 | top a1 100
+    extras real1(tower 0) real50(layer 23 gather 1.00)
+  mid t=22.60
+    shot s010-l03 demo/push [extras:real1/real50] u=0.91
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #60 hat=0.00, heir 100 #28 hat=0.00, fool 100 #47 hat=0.00 | top a1 100
+    tags "bottom 50%"@extra(1.0) "1%"@extra(1.0) "a third of all wealth"@screen(1.0)
+    extras real1(tower 325) real50(layer 23 gather 1.00)
+  end t=27.22
+    shot s011-l03 tower/push [players:fool king] u=0.98
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN hat=0.00, worker 0 #46 DOWN hat=0.00, heir 282 #3 hat=0.00, fool 5788 #1 hat=0.00 | top fool 5788
+    tags "BETTER?"@player:fool(0.5)
+    king on fool drop 1.00 swap 1.00 hat 1.00
+== l04 [c01] 27.34-38.52 (+0.75 s silence)  "So we test it. Four players get real advantages. The Scholar wins more flips. The Worker p..."
+   storyboard tags: "THE SCHOLAR" "THE WORKER" "THE HEIR" "THE FOOL" "55 in 100" "2x" "1,000 coins" "nothing"
+  start t=27.39
+    shot s012-l04 wide/hold [board] u=0.04
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #60 hat=0.00, heir 100 #28 hat=0.00, fool 100 #47 hat=0.00 | top a1 100
+  mid t=32.93
+    shot s013-l04 block/hold [players:scholar/worker/heir/fool] u=0.26
+    world fair x=0 | present 4 standing 4 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    lit worker
+    tags "55 in 100"@player:scholar(1.0) "THE WORKER"@player:worker(1.0)
+  end t=39.15
+    shot s013-l04 block/hold [players:scholar/worker/heir/fool] u=0.74
+    world fair x=0 | present 4 standing 4 down 0
+    hats scholar 100 #19, worker 100 #60, heir 1000 #1, fool 100 #47 | top heir 1000
+    lit fool
+    tags "55 in 100"@player:scholar(1.0) "2x"@player:worker(1.0) "1,000 coins"@player:heir(1.0) "THE FOOL"@player:fool(1.0) "nothing"@player:fool(1.0)
+== l05 [c01] 39.27-49.34 (+2.20 s silence)  "We run it ten thousand times. Then I'll show you the one rule that stops the king. Before ..."
+   storyboard tags: "WORLDS 10,000" "?" "PICK ONE" "THE SCHOLAR" "THE WORKER" "THE HEIR" "THE FOOL"
+  start t=39.32
+    shot s013-l04 block/hold [players:scholar/worker/heir/fool] u=0.76
+    world fair x=0 | present 4 standing 4 down 0
+    hats scholar 100 #19, worker 100 #60, heir 1000 #1, fool 100 #47 | top heir 1000
+    lit fool
+    counter "WORLDS 0" (0.35)
+    tags "55 in 100"@player:scholar(1.0) "2x"@player:worker(1.0) "1,000 coins"@player:heir(1.0) "THE FOOL"@player:fool(1.0) "nothing"@player:fool(1.0)
+  mid t=44.31
+    shot s014-l05 tower/push [players:fool king] u=0.69
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN hat=0.00, worker 0 #46 DOWN hat=0.00, heir 282 #3 hat=0.00, fool 4920 #1 hat=0.00 | top fool 4920
+    counter "WORLDS 10,000" (1.00)
+    tags "?"@player:fool(1.0)
+    king on fool drop 1.00 swap 1.00 hat 1.00
+  end t=51.42
+    shot s015-l05 block/hold [players:scholar/worker/heir/fool coins:main] u=0.99
+    world fair x=0 | present 4 standing 4 down 0
+    hats scholar 100 #19, worker 100 #60, heir 1000 #1, fool 100 #47 | top heir 1000
+    counter "WORLDS 10,000" (0.22)
+    tags "THE SCHOLAR"@player:scholar(0.5) "THE WORKER"@player:worker(0.5) "THE HEIR"@player:heir(0.5) "THE FOOL"@player:fool(0.5) "PICK ONE"@screen(0.5)
+    coin main hover lift=0.45 angle=3.00 face=heads at=4,1.4
+== l06 [c02] 51.54-53.70 (+0.74 s silence)  "Here is the whole game. It is short."
+   storyboard tags: "THE GAME"
+  start t=51.59
+    shot s016-l06 low/hold [board] u=0.03
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #60 hat=0.00, heir 100 #28 hat=0.00, fool 100 #47 hat=0.00 | top a1 100
+    tags "THE GAME"@screen(0.4)
+  mid t=52.62
+    shot s016-l06 low/hold [board] u=0.39
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #60 hat=0.00, heir 100 #28 hat=0.00, fool 100 #47 hat=0.00 | top a1 100
+    tags "THE GAME"@screen(1.0)
+  end t=54.32
+    shot s016-l06 low/hold [board] u=0.98
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #60 hat=0.00, heir 100 #28 hat=0.00, fool 100 #47 hat=0.00 | top a1 100
+    tags "THE GAME"@screen(1.0)
+== l07 [c02] 54.44-61.69 (+0.75 s silence)  "Two players are picked at random. Each one puts the same stake on the table: one fifth of ..."
+   storyboard tags: "20" "20"
+  start t=54.49
+    shot s017-l07 pair/push [players:c8/g3] u=0.01
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #60 hat=0.00, heir 100 #28 hat=0.00, fool 100 #47 hat=0.00 | top a1 100
+    lit g3 c8
+  mid t=58.06
+    shot s017-l07 pair/push [players:c8/g3] u=0.46
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #58 hat=0.00, heir 100 #27 hat=0.00, fool 100 #46 hat=0.00 | top a1 100
+    lit g3 c8
+    tags "20"@move(1.0) "20"@move(1.0)
+    moves 2: stake1a 20c u=0.99, stake1b 20c u=0.99
+  end t=62.32
+    shot s017-l07 pair/push [players:c8/g3] u=0.99
+    world fair x=0.2 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #58 hat=0.00, heir 100 #27 hat=0.00, fool 100 #46 hat=0.00 | top a1 100
+    lit g3 c8
+    tags "20"@move(1.0) "20"@move(1.0)
+    moves 2: stake1a 20c u=1.00, stake1b 20c u=1.00
+== l08 [c02] 62.44-75.39 (+0.72 s silence)  "Why the poorer one? Because nobody can bet what they don't have. A player with a hundred c..."
+   storyboard tags: "100" "400" "20" "20" "1/5 of the smaller stack"
+  start t=62.49
+    shot s018-l08 pair/push [moves:stake1a/stake1b] u=0.03
+    world fair x=0.2 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #58 hat=0.00, heir 100 #27 hat=0.00, fool 100 #46 hat=0.00 | top a1 100
+    lit g3 c8
+    moves 2: stake1a 20c u=1.00, stake1b 20c u=1.00
+  mid t=68.91
+    shot s019-l08 demo/push [extras:d100/d400 moves:d100s/d400s] u=0.29
+    world fair x=0.5 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #58 hat=0.00, heir 100 #27 hat=0.00, fool 100 #46 hat=0.00 | top a1 100
+    lit g3 c8
+    tags "100"@extra(1.0) "400"@extra(1.0)
+    moves 2: stake1a 20c u=1.00, stake1b 20c u=1.00
+    extras d100(pawn 100) d400(pawn 400)
+  end t=75.99
+    shot s019-l08 demo/push [extras:d100/d400 moves:d100s/d400s] u=0.99
+    world fair x=0.8 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #58 hat=0.00, heir 100 #27 hat=0.00, fool 100 #46 hat=0.00 | top a1 100
+    lit g3 c8
+    tags "100"@extra(1.0) "400"@extra(1.0) "20"@move(1.0) "20"@move(1.0) "1/5 of the smaller stack"@screen(1.0)
+    coin main rest lift=0.00 angle=0.00 face=heads at=5,4.8
+    moves 4: stake1a 20c u=1.00, stake1b 20c u=1.00, d100s 20c u=1.00, d400s 20c u=1.00
+    extras d100(pawn 80) d400(pawn 380)
+== l09 [c02] 76.11-81.34 (+2.24 s silence)  "Then the coin. Heads, the first player takes both stakes. Tails, the second one does."
+   storyboard tags: "120" "80"
+  start t=76.16
+    shot s020-l09 pair/hold [players:c8/g3 coins:main] u=0.01
+    world fair x=0.9 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #58 hat=0.00, heir 100 #27 hat=0.00, fool 100 #46 hat=0.00 | top a1 100
+    lit g3 c8
+    coin main air lift=0.14 angle=0.15 face=heads at=5,4.8
+    moves 2: stake1a 20c u=1.00, stake1b 20c u=1.00
+  mid t=78.72
+    shot s020-l09 pair/hold [players:c8/g3 coins:main] u=0.36
+    world fair x=1 | present 64 standing 64 down 0
+    hats scholar 100 #18 hat=0.00, worker 100 #58 hat=0.00, heir 100 #27 hat=0.00, fool 100 #46 hat=0.00 | top a1 100
+    lit g3 c8
+    coin main hover lift=0.45 angle=4.00 face=heads at=5,4.8
+    moves 2: stake1a 20c u=0.10, stake1b 20c u=0.10
+  end t=83.45
+    shot s020-l09 pair/hold [players:c8/g3 coins:main] u=0.99
+    world fair x=1 | present 64 standing 64 down 0
+    hats scholar 100 #19 hat=0.00, worker 100 #59 hat=0.00, heir 100 #28 hat=0.00, fool 100 #47 hat=0.00 | top c8 120
+    lit g3 c8
+    tags "120"@player:c8(1.0) "80"@player:g3(1.0)
+    coin main hover lift=0.45 angle=4.00 face=heads at=5,4.8
+== l10 [c02] 83.57-90.04 (+0.73 s silence)  "Then two more players. And two more. That's the whole game. No skill. No strategy. Just th..."
+  start t=83.62
+    shot s021-l10 high/hold [board coins:main] u=0.01
+    world fair x=1 | present 64 standing 64 down 0
+    hats scholar 100 #19 hat=0.00, worker 100 #59 hat=0.00, heir 100 #28 hat=0.00, fool 100 #47 hat=0.00 | top c8 120
+    coin main rest lift=0.42 angle=4.00 face=heads at=5.2,4.9
+  mid t=86.81
+    shot s021-l10 high/hold [board coins:main] u=0.46
+    world fair x=2.8 | present 64 standing 64 down 0
+    hats scholar 100 #19 hat=0.00, worker 100 #57 hat=0.00, heir 100 #27 hat=0.00, fool 100 #45 hat=0.00 | top f5 120
+    lit a1 b4
+    coin main rest lift=0.00 angle=10.00 face=heads at=1.5,2.5
+    moves 2: stake3a 20c u=0.39, stake3b 20c u=0.39
+  end t=90.65
+    shot s021-l10 high/hold [board coins:main] u=0.99
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20 hat=0.00, worker 120 #6 hat=0.00, heir 100 #27 hat=0.00, fool 100 #44 hat=0.00 | top d1 120
+    coin main rest lift=0.00 angle=19.00 face=heads at=3,2.5
+== l11 [c02] 90.77-92.40 (+0.74 s silence)  "Now put the hats on our four."
+  start t=90.82
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.01
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20 hat=0.00, worker 120 #6 hat=0.00, heir 100 #27 hat=0.00, fool 100 #44 hat=0.00 | top d1 120
+  mid t=91.59
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.10
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20 hat=0.00, worker 120 #6 hat=0.00, heir 100 #27 hat=0.00, fool 100 #44 hat=0.00 | top d1 120
+  end t=93.02
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.26
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20 hat=0.23, worker 120 #6 hat=0.00, heir 100 #27 hat=0.00, fool 100 #44 hat=0.00 | top d1 120
+    lit scholar
+== l11a [c02] 93.14-93.51 (+1.26 s silence)  "The Scholar."
+   storyboard tags: "THE SCHOLAR"
+  start t=93.19
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.28
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20 hat=0.60, worker 120 #6 hat=0.00, heir 100 #27 hat=0.00, fool 100 #44 hat=0.00 | top d1 120
+    lit scholar
+    tags "THE SCHOLAR"@player:scholar(1.0)
+  mid t=93.33
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.29
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20 hat=0.86, worker 120 #6 hat=0.00, heir 100 #27 hat=0.00, fool 100 #44 hat=0.00 | top d1 120
+    lit scholar
+    tags "THE SCHOLAR"@player:scholar(1.0)
+  end t=94.65
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.44
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6 hat=0.27, heir 100 #27 hat=0.00, fool 100 #44 hat=0.00 | top d1 120
+    lit scholar worker
+    tags "THE SCHOLAR"@player:scholar(1.0)
+== l11b [c02] 94.77-95.12 (+1.25 s silence)  "The Worker."
+   storyboard tags: "THE WORKER"
+  start t=94.82
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.46
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6 hat=0.64, heir 100 #27 hat=0.00, fool 100 #44 hat=0.00 | top d1 120
+    lit worker
+    tags "THE SCHOLAR"@player:scholar(1.0)
+  mid t=94.95
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.47
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6 hat=0.88, heir 100 #27 hat=0.00, fool 100 #44 hat=0.00 | top d1 120
+    lit worker
+    tags "THE SCHOLAR"@player:scholar(1.0) "THE WORKER"@player:worker(0.7)
+  end t=96.25
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.62
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6, heir 100 #27 hat=0.27, fool 100 #44 hat=0.00 | top d1 120
+    lit heir worker
+    tags "THE SCHOLAR"@player:scholar(1.0) "THE WORKER"@player:worker(1.0)
+== l11c [c02] 96.37-96.72 (+1.25 s silence)  "The Heir."
+   storyboard tags: "THE HEIR"
+  start t=96.42
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.64
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6, heir 100 #27 hat=0.64, fool 100 #44 hat=0.00 | top d1 120
+    lit heir
+    tags "THE SCHOLAR"@player:scholar(1.0) "THE WORKER"@player:worker(1.0)
+  mid t=96.55
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.65
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6, heir 100 #27 hat=0.88, fool 100 #44 hat=0.00 | top d1 120
+    lit heir
+    tags "THE SCHOLAR"@player:scholar(1.0) "THE WORKER"@player:worker(1.0) "THE HEIR"@player:heir(0.7)
+  end t=97.85
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.80
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6, heir 100 #27, fool 100 #44 hat=0.25 | top d1 120
+    lit heir fool
+    tags "THE SCHOLAR"@player:scholar(1.0) "THE WORKER"@player:worker(1.0) "THE HEIR"@player:heir(1.0)
+== l11d [c02] 97.97-98.42 (+1.28 s silence)  "And the Fool."
+   storyboard tags: "THE FOOL"
+  start t=98.02
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.82
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6, heir 100 #27, fool 100 #44 hat=0.61 | top d1 120
+    lit fool
+    tags "THE SCHOLAR"@player:scholar(1.0) "THE WORKER"@player:worker(1.0) "THE HEIR"@player:heir(1.0)
+  mid t=98.20
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.84
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6, heir 100 #27, fool 100 #44 hat=0.92 | top d1 120
+    lit fool
+    tags "THE SCHOLAR"@player:scholar(1.0) "THE WORKER"@player:worker(1.0) "THE HEIR"@player:heir(1.0) "THE FOOL"@player:fool(0.1)
+  end t=99.59
+    shot s022-l11 block/push [players:heir/fool/scholar/worker] u=0.99
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6, heir 100 #27, fool 100 #44 | top d1 120
+    lit fool
+    tags "THE SCHOLAR"@player:scholar(1.0) "THE WORKER"@player:worker(1.0) "THE HEIR"@player:heir(1.0) "THE FOOL"@player:fool(1.0)
+== l12 [c02] 99.71-103.40 (+1.21 s silence)  "For now, the hats mean nothing. All four play by the same rules as everyone else."
+  start t=99.76
+    shot s023-l12 block/crane (cont) [players:heir/fool/scholar/worker] -> [board] u=0.05
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6, heir 100 #27, fool 100 #44 | top d1 120
+    tags "THE SCHOLAR"@player:scholar(1.0) "THE WORKER"@player:worker(1.0) "THE HEIR"@player:heir(1.0) "THE FOOL"@player:fool(1.0)
+  mid t=101.55
+    shot s024-l12 wide/hold (cont) [board] u=0.00
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6, heir 100 #27, fool 100 #44 | top d1 120
+  end t=104.49
+    shot s024-l12 wide/hold (cont) [board] u=0.98
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6, heir 100 #27, fool 100 #44 | top d1 120
+    coin main rest lift=0.00 angle=0.50 face=heads at=4.5,4.5
+== l13a [c03] 104.61-105.52 (+3.26 s silence)  "Twenty flips each."
+   storyboard tags: "FLIPS EACH 20"
+  start t=104.66
+    shot s025-l13a wide/hold [board] u=0.02
+    world fair x=6 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 120 #6, heir 100 #27, fool 100 #44 | top d1 120
+    counter "FLIPS EACH 0" (0.50)
+    coin main rest lift=0.00 angle=0.50 face=heads at=4.5,4.5
+  mid t=105.06
+    shot s025-l13a wide/hold [board] u=0.12
+    world fair x=6.1 | present 64 standing 64 down 0
+    hats scholar 100 #19, worker 120 #6, heir 100 #26, fool 100 #43 | top d1 120
+    counter "FLIPS EACH 0" (1.00)
+    coin main air lift=0.68 angle=1.39 face=heads at=4.5,4.5
+  end t=108.65
+    shot s025-l13a wide/hold [board] u=0.98
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+    counter "FLIPS EACH 20" (1.00)
+    coin main rest lift=0.00 angle=2.00 face=heads at=4.5,4.5
+== l13 [c03] 108.77-113.20 (+0.74 s silence)  "Twenty-two players are ahead. Twenty have already lost more than half their coins."
+   storyboard tags: "22 ahead" "20 lost half"
+  start t=108.82
+    shot s026-l13 high/hold [board] u=0.02
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+    lit 22 players
+    counter "FLIPS EACH 20" (1.00)
+    tags "22 ahead"@screen(0.9)
+  mid t=110.99
+    shot s026-l13 high/hold [board] u=0.44
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+    lit 20 players
+    tags "22 ahead"@screen(1.0) "20 lost half"@screen(1.0)
+  end t=113.82
+    shot s026-l13 high/hold [board] u=0.99
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+    lit 20 players
+    tags "22 ahead"@screen(1.0) "20 lost half"@screen(1.0)
+== l14 [c03] 113.94-120.57 (+0.74 s silence)  "And our four? The Scholar is having a great day. Three hundred and forty-four coins. The r..."
+   storyboard tags: "344" "#1"
+  start t=113.99
+    shot s027-l14 player/push [players:scholar] u=0.01
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+  mid t=117.25
+    shot s027-l14 player/push [players:scholar] u=0.46
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+    lit scholar
+  end t=121.19
+    shot s027-l14 player/push [players:scholar] u=0.99
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+    lit scholar
+    tags "344"@player:scholar(1.0) "#1"@player:scholar(1.0)
+== l15 [c03] 121.31-125.42 (+0.76 s silence)  "The Fool is down to twenty-seven coins. Fifty-sixth out of sixty-four."
+   storyboard tags: "27" "#56"
+  start t=121.36
+    shot s028-l15 player/pan [players:scholar] -> [players:fool] u=0.02
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+  mid t=123.36
+    shot s028-l15 player/pan [players:scholar] -> [players:fool] u=0.43
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+    lit fool
+    tags "27"@player:fool(1.0)
+  end t=126.05
+    shot s028-l15 player/pan [players:scholar] -> [players:fool] u=0.99
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+    lit fool
+    tags "27"@player:fool(1.0) "#56"@player:fool(1.0)
+== l16 [c03] 126.17-130.39 (+1.21 s silence)  "Nobody did anything right. Nobody did anything wrong. Keep flipping."
+  start t=126.22
+    shot s029-l16 pair/hold [players:scholar/fool coins:main] u=0.02
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+  mid t=128.28
+    shot s029-l16 pair/hold [players:scholar/fool coins:main] u=0.40
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+    lit scholar fool
+    coin main rest lift=0.00 angle=0.00 face=heads at=4.5,4.5
+  end t=131.49
+    shot s029-l16 pair/hold [players:scholar/fool coins:main] u=0.99
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+    lit scholar fool
+    coin main rest lift=0.00 angle=0.50 face=heads at=4.5,4.5
+== l17a [c04] 131.61-132.54 (+3.74 s silence)  "Two hundred flips each."
+   storyboard tags: "FLIPS EACH 200"
+  start t=131.66
+    shot s030-l17a wide/hold [board] u=0.02
+    world fair x=640 | present 64 standing 64 down 0
+    hats scholar 344 #1, worker 7.7 #63, heir 93.7 #25, fool 27.5 #56 | top scholar 344
+    counter "FLIPS EACH 20" (0.50)
+    coin main rest lift=0.00 angle=0.50 face=heads at=4.5,4.5
+  mid t=132.07
+    shot s030-l17a wide/hold [board] u=0.11
+    world fair x=645 | present 64 standing 64 down 0
+    hats scholar 347 #1, worker 7.7 #63, heir 93.7 #24, fool 27.5 #56 | top scholar 347
+    counter "FLIPS EACH 20" (1.00)
+    coin main air lift=0.67 angle=1.41 face=heads at=4.5,4.5
+  end t=136.15
+    shot s030-l17a wide/hold [board] u=0.98
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    counter "FLIPS EACH 200" (1.00)
+== l17 [c04] 136.27-144.98 (+0.69 s silence)  "Six players, the top tenth of the board, now hold more than half of all the coins. Twenty ..."
+   storyboard tags: "56%" "20 out"
+  start t=136.32
+    shot s031-l17 high/orbit [board] u=0.01
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    counter "FLIPS EACH 200" (1.00)
+  mid t=140.63
+    shot s031-l17 high/orbit [board] u=0.47
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    lit a4 h5 b6 fool g7 e8
+    tags "56%"@screen(1.0)
+  end t=145.55
+    shot s031-l17 high/orbit [board] u=0.99
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    lit 20 players
+    tags "56%"@screen(1.0) "20 out"@screen(1.0)
+== l18 [c04] 145.67-153.15 (+0.75 s silence)  "And look who is gone. The Scholar. Richest player on the board, then a bad run, then nothi..."
+  start t=145.72
+    shot s032-l18 player/hold [players:scholar] u=0.02
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+  mid t=149.41
+    shot s032-l18 player/hold [players:scholar] u=0.66
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    lit scholar
+  end t=153.79
+    shot s033-l18 player/pan (cont) [players:scholar] -> [players:worker] u=0.97
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    lit worker
+== l19 [c04] 153.91-161.76 (+1.75 s silence)  "And look who is on top. The Fool. From fifty-sixth place to first. Nothing about the Fool ..."
+   storyboard tags: "782" "#1"
+  start t=153.96
+    shot s034-l19 tower/tilt [players:fool] -> [players:fool] u=0.01
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    lit worker
+  mid t=157.83
+    shot s034-l19 tower/tilt [players:fool] -> [players:fool] u=0.44
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    lit fool
+    tags "782"@player:fool(1.0)
+    coin main hover lift=0.55 angle=0.63 face=tails at=5.9,4
+  end t=163.39
+    shot s035-l20 wide/hold [board] u=0.09
+    world fair x=6484 | present 64 standing 44 down 20
+    hats scholar 0.6 #52 DOWN, worker 0.1 #60 DOWN, heir 223 #9, fool 799 #1 | top fool 799
+    counter "FLIPS EACH 203" (1.00)
+    coin main hover lift=0.55 angle=1.30 face=tails at=5.9,4
+== l20 [c04] 163.51-166.51 (+3.07 s silence)  "Six hundred flips each. Thirty-seven players are out."
+   storyboard tags: "FLIPS EACH 600" "37 out"
+  start t=163.56
+    shot s035-l20 wide/hold [board] u=0.11
+    world fair x=6920 | present 64 standing 45 down 19
+    hats scholar 0.7 #48 DOWN, worker 0 #63 DOWN, heir 276 #8, fool 706 #2 | top e8 723
+    counter "FLIPS EACH 216" (1.00)
+  mid t=165.01
+    shot s035-l20 wide/hold [board] u=0.33
+    world fair x=19200 | present 64 standing 27 down 37
+    hats scholar 0 #53 DOWN, worker 0 #59 DOWN, heir 61.3 #11, fool 1441 #1 | top fool 1441
+    counter "FLIPS EACH 600" (1.00)
+  end t=169.45
+    shot s035-l20 wide/hold [board] u=0.99
+    world fair x=19200 | present 64 standing 27 down 37
+    hats scholar 0 #53 DOWN, worker 0 #59 DOWN, heir 61.3 #11, fool 1441 #1 | top fool 1441
+    counter "FLIPS EACH 600" (1.00)
+    tags "37 out"@screen(1.0)
+== l21 [c04] 169.57-173.22 (+3.25 s silence)  "Two thousand flips each. One player holds more than half of everything."
+   storyboard tags: "FLIPS EACH 2,000" "55%"
+  start t=169.62
+    shot s036-l21 wide/push [board] u=0.01
+    world fair x=19200 | present 64 standing 27 down 37
+    hats scholar 0 #53 DOWN, worker 0 #59 DOWN, heir 61.3 #11, fool 1441 #1 | top fool 1441
+    counter "FLIPS EACH 600" (0.50)
+  mid t=171.40
+    shot s036-l21 wide/push [board] u=0.27
+    world fair x=56145 | present 64 standing 15 down 49
+    hats scholar 0 #30 DOWN, worker 0 #54 DOWN, heir 1590 #2, fool 3022 #1 | top fool 3022
+    counter "FLIPS EACH 1,755" (1.00)
+  end t=176.35
+    shot s036-l21 wide/push [board] u=0.99
+    world fair x=64000 | present 64 standing 12 down 52
+    hats scholar 0 #28 DOWN, worker 0 #53 DOWN, heir 1157 #2, fool 3502 #1 | top fool 3502
+    counter "FLIPS EACH 2,000" (1.00)
+    tags "55%"@player:fool(1.0)
+    coin main rest lift=0.00 angle=0.50 face=heads at=4.5,4.5
+== l22a [c04] 176.47-177.91 (+3.76 s silence)  "Six thousand flips each."
+   storyboard tags: "FLIPS EACH 6,000"
+  start t=176.52
+    shot s037-l22a high/hold [board] u=0.02
+    world fair x=64000 | present 64 standing 12 down 52
+    hats scholar 0 #28 DOWN, worker 0 #53 DOWN, heir 1157 #2, fool 3502 #1 | top fool 3502
+    counter "FLIPS EACH 2,000" (0.50)
+    coin main rest lift=0.00 angle=0.50 face=heads at=4.5,4.5
+  mid t=177.19
+    shot s037-l22a high/hold [board] u=0.15
+    world fair x=64014 | present 64 standing 12 down 52
+    hats scholar 0 #28 DOWN, worker 0 #53 DOWN, heir 1157 #2, fool 3502 #1 | top fool 3502
+    counter "FLIPS EACH 2,000" (1.00)
+    coin main rest lift=0.00 angle=2.00 face=heads at=4.5,4.5
+  end t=181.55
+    shot s037-l22a high/hold [board] u=0.99
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    counter "FLIPS EACH 6,000" (1.00)
+== l22 [c04] 181.67-192.11 (+1.76 s silence)  "The Fool holds ninety percent of every coin in the game. Sixty-four players started. Three..."
+   storyboard tags: "90%" "3 standing"
+  start t=181.72
+    shot s038-l22 tower/hold [players:fool] u=0.01
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    counter "FLIPS EACH 6,000" (1.00)
+  mid t=186.89
+    shot s038-l22 tower/hold [players:fool] u=0.63
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    tags "90%"@player:fool(1.0)
+  end t=193.75
+    shot s039-l22 player/pan (cont) [players:fool] -> [players:heir] u=0.98
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    lit heir fool h8
+    tags "90%"@player:fool(1.0) "3 standing"@screen(1.0)
+== l23 [c04] 193.87-194.96 (+3.24 s silence)  "The board has made a king."
+  start t=193.92
+    shot s040-l23 tower/hold [players:fool king] u=0.17
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    king on fool drop 0.07 swap 0.00 hat 0.00
+  mid t=194.42
+    shot s040-l23 tower/hold [players:fool king] u=0.99
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    king on fool drop 1.00 swap 0.63 hat 0.00
+  end t=198.09
+    shot s042-l23 tower/hold (cont) [players:fool king] u=0.97
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    king on fool drop 1.00 swap 1.00 hat 1.00
+== l24 [c04] 198.21-212.51 (+3.20 s silence)  "Shuffle the players and run it again, and a different square wins. We ran three hundred wo..."
+   storyboard tags: "300 worlds"
+  start t=198.26
+    shot s043-l24 wide/hold [board] u=0.03
+    world again | present 64 standing 3 down 61
+    hats scholar 6.9 #37 DOWN, worker 6.9 #62 DOWN, heir 269 #3, fool 5394 #1 | top fool 5394
+  mid t=205.36
+    shot s044-l24 top/hold [board] u=0.60
+    world again x=192000 | present 64 standing 4 down 60
+    hats scholar 0 #28 DOWN, worker 0 #47 DOWN, heir 0 #40 DOWN, fool 0 #15 DOWN | top d3 6339
+    tags "300 worlds"@screen(1.0)
+    chips 64 stacks, 43.6 chips
+  end t=215.59
+    shot s047-l24 tower/tilt [players:a6] -> [players:a6] u=0.98
+    world again x=192000 | present 64 standing 5 down 59
+    hats scholar 0.5 #7 DOWN, worker 3.4 #5, heir 0 #32 DOWN, fool 0 #11 DOWN | top a6 5675
+== l25 [c05] 215.71-219.24 (+0.74 s silence)  "So where is the trick? The coin is fair. I promise."
+   storyboard tags: "50%" "50%"
+  start t=215.76
+    shot s048-l25 coin/hold [coins:main] u=0.02
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    coin main hover lift=0.60 angle=0.00 face=heads at=4.5,4.5 labels=50%/50%
+  mid t=217.47
+    shot s048-l25 coin/hold [coins:main] u=0.43
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "50%"@coin(1.0) "50%"@coin(1.0)
+    coin main hover lift=0.60 angle=0.00 face=heads at=4.5,4.5 labels=50%/50%
+  end t=219.85
+    shot s048-l25 coin/hold [coins:main] u=0.98
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "50%"@coin(1.0) "50%"@coin(1.0)
+    coin main hover lift=0.60 angle=0.50 face=tails at=4.5,4.5 labels=50%/50%
+== l26 [c05] 219.97-229.76 (+0.74 s silence)  "The trick is in the stake. Take a player with a hundred coins, playing someone richer. Los..."
+   storyboard tags: "100" "80" "96"
+  start t=220.02
+    shot s049-l26 demo/push [extras:demo] u=0.01
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    coin main hover lift=0.60 angle=0.50 face=tails at=4.5,4.5 labels=50%/50%
+    extras demo(pawn 100)
+  mid t=224.87
+    shot s049-l26 demo/push [extras:demo] u=0.47
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "100"@extra(1.0)
+    extras demo(pawn 100)
+  end t=230.39
+    shot s049-l26 demo/push [extras:demo] u=0.99
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "100"@extra(1.0) "96"@extra(1.0)
+    extras demo(pawn 96)
+== l27 [c05] 230.51-236.65 (+1.76 s silence)  "One loss, one win, and four coins are gone. A fifth down and a fifth up do not cancel out."
+   storyboard tags: "-4"
+  start t=230.56
+    shot s050-l27 demo/hold [extras:demo] u=0.01
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras demo(pawn 96)
+  mid t=233.58
+    shot s050-l27 demo/hold [extras:demo] u=0.39
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "-4"@extra(1.0)
+    extras demo(pawn 96 ghost 100)
+  end t=238.29
+    shot s050-l27 demo/hold [extras:demo] u=0.99
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "-4"@extra(1.0)
+    extras demo(pawn 96 ghost 100)
+== l28 [c05] 238.41-245.87 (+0.74 s silence)  "For the poorer player, every bet is a fifth of everything they own. For the richer player,..."
+   storyboard tags: "20%" "2%"
+  start t=238.46
+    shot s051-l28 demo/push [extras:short/tall] u=0.01
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras short(pawn 80) tall(pawn 800)
+  mid t=242.14
+    shot s051-l28 demo/push [extras:short/tall] u=0.46
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "20%"@extra(1.0)
+    moves 2: slice-short 16c u=1.00, slice-tall 16c u=1.00
+    extras short(pawn 64) tall(pawn 784)
+  end t=246.49
+    shot s051-l28 demo/push [extras:short/tall] u=0.99
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "20%"@extra(1.0) "2%"@extra(1.0)
+    moves 2: slice-short 16c u=1.00, slice-tall 16c u=1.00
+    extras short(pawn 64) tall(pawn 784)
+== l29 [c05] 246.61-254.30 (+2.24 s silence)  "So the rich player can lose again and again and still be at the table. The poor player get..."
+  start t=246.66
+    shot s052-l29 demo/hold [extras:short/tall] u=0.01
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    moves 2: slice-short 16c u=1.00, slice-tall 16c u=1.00
+    extras short(pawn 64) tall(pawn 784)
+  mid t=250.45
+    shot s052-l29 demo/hold [extras:short/tall] u=0.39
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    moves 2: loss7s 3.4c u=0.46, loss7t 3.4c u=0.46
+    extras short(pawn 13.4) tall(pawn 733)
+  end t=256.42
+    shot s052-l29 demo/hold [extras:short/tall] u=0.99
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras short(pawn 0.9 down) tall(pawn 721)
+== l30 [c05] 256.54-267.35 (+1.19 s silence)  "Same coin. Same rules. But the moment somebody gets ahead, by pure chance, they are playin..."
+  start t=256.59
+    shot s053-l30 high/orbit [players:fool/g7/b6/e8/a4/h5] u=0.01
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    coin main hover lift=0.75 angle=0.21 face=heads at=4.5,5.5
+  mid t=261.95
+    shot s053-l30 high/orbit [players:fool/g7/b6/e8/a4/h5] u=0.45
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    coin main hover lift=0.75 angle=0.75 face=tails at=4.5,5.5
+  end t=268.42
+    shot s053-l30 high/orbit [players:fool/g7/b6/e8/a4/h5] u=0.99
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    coin main hover lift=0.75 angle=1.39 face=tails at=4.5,5.5
+== l31 [c06] 268.54-282.83 (+0.74 s silence)  "I know. You are already typing. That is the Skeptic, and the Skeptic has a point. Real lif..."
+   storyboard tags: "THE SKEPTIC"
+  start t=268.59
+    shot s054-l31 skeptic/hold [skeptic board] u=0.01
+    world fair x=6400 | present 64 standing 44 down 20
+    hats scholar 0.8 #47 DOWN, worker 0.1 #59 DOWN, heir 223 #9, fool 782 #1 | top fool 782
+    skeptic forward 0.00
+  mid t=275.69
+    shot s054-l31 skeptic/hold [skeptic board] u=0.48
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    lit scholar heir fool worker
+    tags "THE SKEPTIC"@skeptic(1.0)
+    skeptic forward 1.00
+  end t=283.45
+    shot s054-l31 skeptic/hold [skeptic board] u=1.00
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "THE SKEPTIC"@skeptic(1.0)
+    skeptic forward 0.02
+== l32 [c06] 283.57-289.88 (+0.76 s silence)  "The Scholar now wins fifty-five flips out of every hundred. In a coin game, that is a huge..."
+   storyboard tags: "55 / 45"
+  start t=283.62
+    shot s055-l32 player/push [players:scholar coins:main] u=0.01
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    coin main rest lift=0.00 angle=0.00 face=heads at=4.7,4.7
+    skeptic forward 0.00
+  mid t=286.73
+    shot s055-l32 player/push [players:scholar coins:main] u=0.45
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    lit scholar
+    tags "55 / 45"@player:scholar(1.0)
+    coin main rest lift=0.00 angle=3.00 face=heads at=4.7,4.7
+    skeptic forward 0.00
+  end t=290.52
+    shot s055-l32 player/push [players:scholar coins:main] u=0.99
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    lit scholar
+    tags "55 / 45"@player:scholar(1.0)
+    coin main rest lift=0.00 angle=3.00 face=heads at=4.7,4.7
+    skeptic forward 0.00
+== l33 [c06] 290.64-293.07 (+0.74 s silence)  "The Worker plays twice as often as anyone else."
+   storyboard tags: "x2 flips"
+  start t=290.69
+    shot s056-l33 player/hold [players:worker coins:main/second] u=0.03
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    coin main rest lift=0.00 angle=0.00 face=heads at=4.5,4.7
+    skeptic forward 0.00
+  mid t=291.86
+    shot s056-l33 player/hold [players:worker coins:main/second] u=0.40
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    lit worker
+    tags "x2 flips"@player:worker(1.0)
+    coin main rest lift=0.00 angle=4.00 face=heads at=4.5,4.7
+    coin second air lift=0.59 angle=3.70 face=tails at=5.5,4.7
+    skeptic forward 0.00
+  end t=293.69
+    shot s056-l33 player/hold [players:worker coins:main/second] u=0.98
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    lit worker
+    tags "x2 flips"@player:worker(1.0)
+    coin main rest lift=0.00 angle=4.00 face=heads at=4.5,4.7
+    coin second rest lift=0.00 angle=4.50 face=tails at=5.5,4.7
+    skeptic forward 0.00
+== l34 [c06] 293.81-297.18 (+1.76 s silence)  "The Heir starts with a thousand coins instead of a hundred."
+   storyboard tags: "1,000"
+  start t=293.86
+    shot s057-l34 tower/tilt [players:heir] -> [players:heir] u=0.02
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    skeptic forward 0.00
+  mid t=295.49
+    shot s057-l34 tower/tilt [players:heir] -> [players:heir] u=0.34
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #19, worker 100 #60, heir 978 #1, fool 100 #47 | top heir 978
+    lit heir
+    tags "1,000"@player:heir(1.0)
+    skeptic forward 0.00
+  end t=298.82
+    shot s057-l34 tower/tilt [players:heir] -> [players:heir] u=0.99
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #19, worker 100 #60, heir 1000 #1, fool 100 #47 | top heir 1000
+    lit heir
+    tags "1,000"@player:heir(1.0)
+    skeptic forward 0.00
+== l35 [c06] 298.94-305.09 (+2.75 s silence)  "The Fool gets nothing extra. And this time we play ten thousand worlds, two hundred flips ..."
+   storyboard tags: "WORLDS 10,000"
+  start t=298.99
+    shot s058-l35 player/hold [players:fool] u=0.04
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #19, worker 100 #60, heir 1000 #1, fool 100 #47 | top heir 1000
+    counter "WORLDS 0" (0.35)
+    skeptic forward 0.00
+  mid t=302.01
+    shot s059-l35 wide/hold [board] u=0.05
+    world hats x=0 | present 64 standing 64 down 0
+    hats scholar 100 #19, worker 100 #59, heir 1000 #1, fool 100 #46 | top heir 1000
+    counter "WORLDS 42" (1.00)
+    skeptic forward 0.00
+  end t=307.72
+    shot s059-l35 wide/hold [board] u=0.99
+    world hats x=6400 | present 64 standing 56 down 8
+    hats scholar 265 #10, worker 0.2 #58 DOWN, heir 1679 #1, fool 33.3 #27 | top heir 1679
+    counter "WORLDS 10,000" (1.00)
+    skeptic forward 0.00
+== l36 [c06] 307.84-313.60 (+2.54 s silence)  "Who ends up the richest player on the board? The Heir. In forty-seven worlds out of a hund..."
+   storyboard tags: "47"
+  start t=307.89
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.00
+    world hats x=0 | present 5 standing 5 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    counter "WORLDS 10,000" (0.93)
+    chips tally-heir=0 tally-scholar=0 tally-worker=0 tally-fool=0 tally-nobody=0
+  mid t=310.72
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.05
+    world hats x=0 | present 5 standing 5 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    chips tally-heir=32.7 tally-scholar=0 tally-worker=0 tally-fool=0 tally-nobody=0
+  end t=316.02
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.13
+    world hats x=0 | present 5 standing 5 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "47"@chips(1.0)
+    chips tally-heir=47 tally-scholar=0 tally-worker=0 tally-fool=0 tally-nobody=0
+== l37 [c06] 316.14-324.55 (+1.56 s silence)  "The Scholar, with a real edge on every single flip? Six. Far better than any single nobody..."
+   storyboard tags: "6"
+  start t=316.19
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.14
+    world hats x=0 | present 5 standing 5 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "47"@chips(1.0)
+    chips tally-heir=47 tally-scholar=0 tally-worker=0 tally-fool=0 tally-nobody=0
+  mid t=320.35
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.21
+    world hats x=0 | present 5 standing 5 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "47"@chips(1.0) "6"@chips(1.0)
+    chips tally-heir=47 tally-scholar=6 tally-worker=0 tally-fool=0 tally-nobody=0
+  end t=325.99
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.30
+    world hats x=0 | present 5 standing 5 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "47"@chips(1.0) "6"@chips(1.0)
+    chips tally-heir=47 tally-scholar=6 tally-worker=0 tally-fool=0 tally-nobody=0
+== l38 [c06] 326.11-342.52 (+0.76 s silence)  "The Worker? Two. The Fool? Less than one. Here is the ugly part. In seventy worlds out of ..."
+   storyboard tags: "2" "<1" "under 10 coins: 70 in 100" "under 10 coins: 46 in 100"
+  start t=326.16
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.30
+    world hats x=0 | present 5 standing 5 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "47"@chips(1.0) "6"@chips(1.0)
+    chips tally-heir=47 tally-scholar=6 tally-worker=0 tally-fool=0 tally-nobody=0
+  mid t=334.31
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.43
+    world hats x=0 | present 5 standing 4 down 1
+    hats scholar 100 #18, worker 0.2 #64 DOWN, heir 100 #28, fool 100 #47 | top a1 100
+    tags "47"@chips(1.0) "6"@chips(1.0) "2"@chips(1.0) "<1"@chips(1.0) "under 10 coins: 70 in 100"@player:worker(1.0)
+    chips tally-heir=47 tally-scholar=6 tally-worker=2 tally-fool=1 tally-nobody=0
+  end t=343.15
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.58
+    world hats x=0 | present 5 standing 4 down 1
+    hats scholar 100 #18, worker 0.2 #64 DOWN, heir 100 #28, fool 100 #47 | top a1 100
+    lit g7
+    tags "47"@chips(1.0) "6"@chips(1.0) "2"@chips(1.0) "<1"@chips(1.0) "under 10 coins: 70 in 100"@player:worker(0.5) "under 10 coins: 46 in 100"@player:fool(0.5)
+    coin main rest lift=0.00 angle=3.00 face=heads at=4,4.7
+    coin second rest lift=0.00 angle=3.50 face=tails at=5,4.7
+    chips tally-heir=47 tally-scholar=6 tally-worker=2 tally-fool=1 tally-nobody=34.1
+== l39 [c06] 343.27-350.84 (+2.76 s silence)  "And in forty-five worlds out of a hundred, the richest player is none of our four. It is o..."
+   storyboard tags: "45"
+  start t=343.32
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.58
+    world hats x=0 | present 5 standing 4 down 1
+    hats scholar 100 #18, worker 0.2 #64 DOWN, heir 100 #28, fool 100 #47 | top a1 100
+    lit g7
+    tags "47"@chips(1.0) "6"@chips(1.0) "2"@chips(1.0) "<1"@chips(1.0) "45"@chips(0.0)
+    chips tally-heir=47 tally-scholar=6 tally-worker=2 tally-fool=1 tally-nobody=38.6
+  mid t=347.06
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.64
+    world hats x=0 | present 5 standing 4 down 1
+    hats scholar 100 #18, worker 0.2 #64 DOWN, heir 100 #28, fool 100 #47 | top a1 100
+    lit g7
+    tags "47"@chips(1.0) "6"@chips(1.0) "2"@chips(1.0) "<1"@chips(1.0) "45"@chips(1.0)
+    chips tally-heir=47 tally-scholar=6 tally-worker=2 tally-fool=1 tally-nobody=45
+  end t=353.49
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.75
+    world hats x=0 | present 5 standing 4 down 1
+    hats scholar 100 #18, worker 0.2 #64 DOWN, heir 100 #28, fool 100 #47 | top a1 100
+    lit g7
+    tags "47"@chips(1.0) "6"@chips(1.0) "2"@chips(1.0) "<1"@chips(1.0) "45"@chips(1.0)
+    chips tally-heir=47 tally-scholar=6 tally-worker=2 tally-fool=1 tally-nobody=45
+== l40 [c06] 353.61-366.36 (+2.72 s silence)  "Talent is not useless. Let the game run ten times longer and the Scholar becomes the most ..."
+   storyboard tags: "FLIPS EACH 2,000" "28" "11"
+  start t=353.66
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.75
+    world hats x=0 | present 5 standing 4 down 1
+    hats scholar 100 #18, worker 0.2 #64 DOWN, heir 100 #28, fool 100 #47 | top a1 100
+    lit g7
+    counter "FLIPS EACH 200" (0.35)
+    tags "47"@chips(1.0) "6"@chips(1.0) "2"@chips(1.0) "<1"@chips(1.0) "45"@chips(1.0)
+    chips tally-heir=47 tally-scholar=6 tally-worker=2 tally-fool=1 tally-nobody=45
+  mid t=359.98
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=0.85
+    world hats x=0 | present 5 standing 4 down 1
+    hats scholar 100 #18, worker 0.2 #64 DOWN, heir 100 #28, fool 100 #47 | top a1 100
+    counter "FLIPS EACH 2,000" (1.00)
+    tags "2"@chips(1.0) "<1"@chips(1.0) "45"@chips(1.0) "28"@chips(1.0) "11"@chips(1.0)
+    chips tally-heir=11 tally-scholar=28 tally-worker=2 tally-fool=1 tally-nobody=45
+  end t=368.95
+    shot s060-l36 tally/push [players:heir/scholar/worker/fool/g7 chips:tally-heir/tally-scholar/tally-worker/tally-fool/tally-nobody] u=1.00
+    world hats x=0 | present 5 standing 4 down 1
+    hats scholar 100 #18, worker 0.2 #64 DOWN, heir 100 #28, fool 100 #47 | top a1 100
+    counter "FLIPS EACH 2,000" (0.35)
+    tags "2"@chips(0.2) "<1"@chips(0.2) "45"@chips(0.2) "28"@chips(1.0) "11"@chips(1.0)
+    chips tally-heir=11 tally-scholar=28 tally-worker=2 tally-fool=1 tally-nobody=45
+== l41 [c07] 369.07-382.74 (+0.76 s silence)  "Is this only a toy? In twenty eighteen, three Italian researchers built a bigger one. A th..."
+   storyboard tags: "Pluchino, Biondo, Rapisarda 2018" "1,000 people, 40 years"
+  start t=369.12
+    shot s061-l41 wide/push [board] u=0.01
+    world talent | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    skeptic forward 0.00
+  mid t=375.91
+    shot s061-l41 wide/push [board] u=0.48
+    world talent | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "Pluchino, Biondo, Rapisarda 2018"@screen(1.0) "1,000 people, 40 years"@screen(1.0)
+    skeptic forward 0.00
+  end t=383.39
+    shot s061-l41 wide/push [board] u=1.00
+    world talent | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "Pluchino, Biondo, Rapisarda 2018"@screen(1.0) "1,000 people, 40 years"@screen(1.0)
+    skeptic forward 0.00
+    scale 0.70..1.60
+== l42 [c07] 383.51-388.80 (+0.74 s silence)  "Lucky breaks and bad breaks hit them at random. The talented were better at using the luck..."
+  start t=383.56
+    shot s062-l42 high/hold [board] u=0.02
+    world talent | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    skeptic forward 0.00
+    scale 0.70..1.60
+  mid t=386.15
+    shot s062-l42 high/hold [board] u=0.45
+    world talent | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 100 #49, heir 100 #28, fool 100 #42 | top h5 200
+    rain 11 falling (4 gold)
+    skeptic forward 0.00
+    scale 0.70..1.60
+  end t=389.42
+    shot s062-l42 high/hold [board] u=0.99
+    world talent | present 64 standing 64 down 0
+    hats scholar 50 #47, worker 100 #36, heir 50 #49, fool 100 #31 | top h7 800
+    skeptic forward 0.00
+    scale 0.70..1.60
+== l43 [c07] 389.54-398.41 (+0.76 s silence)  "After forty years, the richest person in the model was almost never the most talented one...."
+   storyboard tags: "most talented" "richest"
+  start t=389.59
+    shot s063-l43 player/hold [players:b4] u=0.02
+    world talent | present 64 standing 64 down 0
+    hats scholar 50 #46, worker 100 #36, heir 50 #48, fool 100 #31 | top h7 800
+    skeptic forward 0.00
+    scale 0.70..1.60
+  mid t=393.98
+    shot s063-l43 player/hold [players:b4] u=0.71
+    world talent | present 64 standing 64 down 0
+    hats scholar 50 #46, worker 100 #36, heir 50 #48, fool 100 #31 | top h7 800
+    tags "most talented"@player:b4(0.2)
+    skeptic forward 0.00
+    scale 0.70..1.60
+  end t=399.05
+    shot s065-l43 player/hold (cont) [players:h7] u=0.97
+    world talent | present 64 standing 64 down 0
+    hats scholar 50 #46, worker 100 #36, heir 50 #48, fool 100 #31 | top h7 800
+    lit h7
+    tags "most talented"@player:b4(1.0) "richest"@player:h7(1.0)
+    skeptic forward 0.00
+    scale 0.70..1.60
+== l44 [c07] 399.17-410.08 (+0.56 s silence)  "Now the real board. In the United States, the richest one percent hold about a third of al..."
+   storyboard tags: "top 1%: 32.5%" "bottom half: 2.3%"
+  start t=399.22
+    shot s066-l44 wide/hold [board extras:real1/real50] u=0.01
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    lit h7
+    extras real1(tower 0) real50(layer 23) board90(tower 0)
+  mid t=404.63
+    shot s066-l44 wide/hold [board extras:real1/real50] u=0.48
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras real1(tower 287) real50(layer 23) board90(tower 0)
+  end t=410.52
+    shot s066-l44 wide/hold [board extras:real1/real50] u=0.99
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "top 1%: 32.5%"@extra(1.0) "bottom half: 2.3%"@extra(1.0)
+    extras real1(tower 325) real50(layer 23) board90(tower 0)
+== l45 [c07] 410.64-418.68 (+0.76 s silence)  "One stack. Less than one square. More than ten times taller than all the coins on thirty-t..."
+  start t=410.69
+    shot s067-l45 high/push [board extras:real1/real50] u=0.03
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras real1(tower 325) real50(layer 23) board90(tower 0)
+  mid t=414.66
+    shot s068-l45 tower/tilt [extras:real50] -> [extras:real1] u=0.17
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras real1(tower 325) real50(layer 23 gather 1.00) board90(tower 0)
+  end t=419.32
+    shot s069-l45 demo/push [extras:real1/real50] u=0.97
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras real1(tower 325) real50(layer 23 gather 1.00) board90(tower 0)
+== l45a [c07] 419.44-432.67 (+0.74 s silence)  "And notice: our board ends far worse than the real one. Real countries have taxes, inherit..."
+   storyboard tags: "the board: 90%" "the real top 1%: 32.5%"
+  start t=419.49
+    shot s070-l45a demo/pull [extras:real1] -> [extras:real1/board90] u=0.01
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras real1(tower 325) real50(layer 23 gather 1.00) board90(tower 0)
+  mid t=426.06
+    shot s070-l45a demo/pull [extras:real1] -> [extras:real1/board90] u=0.48
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "the board: 90%"@extra(1.0) "the real top 1%: 32.5%"@extra(1.0)
+    extras real1(tower 325) real50(layer 23 gather 1.00) board90(tower 904)
+  end t=433.29
+    shot s070-l45a demo/pull [extras:real1] -> [extras:real1/board90] u=0.99
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "the board: 90%"@extra(1.0) "the real top 1%: 32.5%"@extra(1.0)
+    extras real1(tower 325) real50(layer 23 gather 1.00) board90(tower 904)
+== l46 [c07] 433.41-442.14 (+0.74 s silence)  "The Heir is real too. In one recent year, ninety-one heirs inherited two hundred and ninet..."
+   storyboard tags: "91 heirs, $298 billion" "UBS, year to April 2025"
+  start t=433.46
+    shot s071-l46 demo/hold [extras:heir/heirTower] u=0.01
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras heir(pawn 0) heirTower(tower 298) builder0(pawn 0 down) builder1(pawn 0 down) builder2(pawn 0 down) builder3(pawn 0 down) builder4(pawn 0 down) builder5(pawn 0 down) builder6(pawn 0 down)
+  mid t=437.77
+    shot s071-l46 demo/hold [extras:heir/heirTower] u=0.47
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "91 heirs, $298 billion"@extra(1.0) "UBS, year to April 2025"@screen(1.0)
+    extras heir(pawn 0 jump 0.21) heirTower(tower 298) builder0(pawn 0 down) builder1(pawn 0 down) builder2(pawn 0 down) builder3(pawn 0 down) builder4(pawn 0 down) builder5(pawn 0 down) builder6(pawn 0 down)
+  end t=442.75
+    shot s071-l46 demo/hold [extras:heir/heirTower] u=0.99
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "91 heirs, $298 billion"@extra(1.0) "UBS, year to April 2025"@screen(1.0)
+    extras heir(pawn 298) builder0(pawn 0 down) builder1(pawn 0 down) builder2(pawn 0 down) builder3(pawn 0 down) builder4(pawn 0 down) builder5(pawn 0 down) builder6(pawn 0 down) scholar(pawn 0)
+== l47 [c07] 442.87-454.20 (+2.70 s silence)  "And to be fair, in the same year a hundred and ninety-six self-made billionaires added eve..."
+   storyboard tags: "196 self-made, $387 billion"
+  start t=442.92
+    shot s072-l47 demo/hold [extras:heir/scholar] u=0.01
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras heir(pawn 298) builder0(pawn 0 down) builder1(pawn 0 down) builder2(pawn 0 down) builder3(pawn 0 down) builder4(pawn 0 down) builder5(pawn 0 down) builder6(pawn 0 down) scholar(pawn 0)
+  mid t=448.54
+    shot s072-l47 demo/hold [extras:heir/scholar] u=0.71
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "196 self-made, $387 billion"@extra(1.0)
+    extras heir(pawn 298) builder0(pawn 0 down) builder1(pawn 0 down) builder2(pawn 0 down) builder3(pawn 0 down) builder4(pawn 0 down) builder5(pawn 0 down) builder6(pawn 0 down) scholar(pawn 387)
+  end t=456.79
+    shot s073-l47 demo/rack (cont) [extras:heir/scholar] -> [extras:builder0/builder3/builder6] u=0.99
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "196 self-made, $387 billion"@extra(1.0)
+    extras heir(pawn 298) builder0(pawn 0 down) builder1(pawn 0 down) builder2(pawn 0 down) builder3(pawn 0 down) builder4(pawn 0 down) builder5(pawn 0 down) builder6(pawn 0 down) scholar(pawn 387)
+== l48 [c08] 456.91-466.25 (+0.76 s silence)  "First objection, and it is a good one. This game only moves coins around. A real economy g..."
+   storyboard tags: "TOTAL 6,400"
+  start t=456.96
+    shot s074-l48 skeptic/hold [skeptic board] u=0.01
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    total "TOTAL 6,400" (0.35)
+    skeptic forward 0.14
+  mid t=461.58
+    shot s074-l48 skeptic/hold [skeptic board] u=0.47
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #19, worker 100 #59, heir 100 #28, fool 100 #47 | top c8 120
+    total "TOTAL 6,400" (1.00)
+    skeptic forward 1.00
+  end t=466.89
+    shot s074-l48 skeptic/hold [skeptic board] u=0.99
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #20, worker 100 #59, heir 100 #29, fool 100 #47 | top f5 120
+    total "TOTAL 6,400" (0.35)
+    skeptic forward 0.02
+== l49 [c08] 467.01-480.05 (+0.29 s silence)  "True. So change the coin. Heads, your stack grows by half. Tails, it shrinks by forty perc..."
+   storyboard tags: "+50%" "-40%" "100" "150" "90"
+  start t=467.06
+    shot s075-l49 coin/push [coins:main] u=0.04
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    coin main hover lift=0.60 angle=-2.00 face=heads at=3.7,4.5 labels=+50%/-40%
+  mid t=473.53
+    shot s076-l49 demo/hold [extras:demo coins:main] u=0.73
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "+50%"@coin(1.0) "-40%"@coin(1.0) "150"@extra(0.3)
+    coin main hover lift=0.60 angle=1.50 face=tails at=3.7,4.5 labels=+50%/-40%
+    extras demo(pawn 93.7)
+  end t=480.22
+    shot s077-l49 demo/orbit (cont) [extras:demo coins:main] u=0.99
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "+50%"@coin(1.0) "-40%"@coin(1.0) "90"@extra(1.0)
+    coin main hover lift=0.60 angle=4.38 face=tails at=3.7,4.5 labels=+50%/-40%
+    extras demo(pawn 90)
+== l50a [c08] 480.34-481.74 (+3.73 s silence)  "A hundred flips each."
+   storyboard tags: "FLIPS EACH 100"
+  start t=480.39
+    shot s078-l50a wide/hold [board] u=0.02
+    world growth x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    counter "FLIPS EACH 0" (0.35)
+    total "TOTAL 6,400" (0.35)
+    skeptic forward 0.00
+  mid t=481.04
+    shot s078-l50a wide/hold [board] u=0.15
+    world growth x=0 | present 64 standing 64 down 0
+    hats scholar 100 #12, worker 100 #33, heir 99.6 #45, fool 100 #26 | top a1 100
+    counter "FLIPS EACH 0" (1.00)
+    total "TOTAL 6,404" (1.00)
+    skeptic forward 0.00
+  end t=485.35
+    shot s078-l50a wide/hold [board] u=0.99
+    world growth x=100 | present 64 standing 28 down 36
+    hats scholar 0 #57 DOWN, worker 3.2 #23, heir 3.2 #20, fool 0 #53 DOWN | top a7 30719
+    counter "FLIPS EACH 100" (1.00)
+    total "TOTAL 43,097" (1.00)
+    skeptic forward 0.00
+== l50 [c08] 485.47-488.15 (+0.72 s silence)  "The board as a whole is almost seven times richer."
+   storyboard tags: "TOTAL 43,097" "x 6.7"
+  start t=485.52
+    shot s079-l50 high/hold [board] u=0.03
+    world growth x=100 | present 64 standing 28 down 36
+    hats scholar 0 #57 DOWN, worker 3.2 #23, heir 3.2 #20, fool 0 #53 DOWN | top a7 30719
+    counter "FLIPS EACH 100" (0.93)
+    total "TOTAL 43,097" (1.00)
+    skeptic forward 0.00
+  mid t=486.81
+    shot s079-l50 high/hold [board] u=0.41
+    world growth x=100 | present 64 standing 28 down 36
+    hats scholar 0 #57 DOWN, worker 3.2 #23, heir 3.2 #20, fool 0 #53 DOWN | top a7 30719
+    total "TOTAL 43,097" (1.00)
+    skeptic forward 0.00
+  end t=488.75
+    shot s079-l50 high/hold [board] u=0.98
+    world growth x=100 | present 64 standing 28 down 36
+    hats scholar 0 #57 DOWN, worker 3.2 #23, heir 3.2 #20, fool 0 #53 DOWN | top a7 30719
+    total "TOTAL 43,097" (1.00)
+    tags "x 6.7"@screen(1.0)
+    skeptic forward 0.00
+== l51 [c08] 488.87-501.54 (+1.76 s silence)  "Now count the players. Nine are above where they started. Fifty-five are below. Thirty-six..."
+   storyboard tags: "9 above" "55 below" "36 under one coin" "71%"
+  start t=488.92
+    shot s080-l51 high/hold [board] u=0.01
+    world growth x=100 | present 64 standing 28 down 36
+    hats scholar 0 #57 DOWN, worker 3.2 #23, heir 3.2 #20, fool 0 #53 DOWN | top a7 30719
+    total "TOTAL 43,097" (1.00)
+    skeptic forward 0.00
+  mid t=495.21
+    shot s080-l51 high/hold [board] u=0.64
+    world growth x=100 | present 64 standing 28 down 36
+    hats scholar 0 #57 DOWN, worker 3.2 #23, heir 3.2 #20, fool 0 #53 DOWN | top a7 30719
+    lit 55 players
+    tags "9 above"@screen(1.0) "55 below"@screen(1.0) "36 under one coin"@f(0.0)
+    skeptic forward 0.00
+  end t=503.19
+    shot s081-l51 tower/tilt [players:a7] -> [players:a7] u=0.98
+    world growth x=100 | present 64 standing 28 down 36
+    hats scholar 0 #57 DOWN, worker 3.2 #23, heir 3.2 #20, fool 0 #53 DOWN | top a7 30719
+    lit a7
+    tags "9 above"@screen(1.0) "55 below"@screen(1.0) "36 under one coin"@screen(1.0) "71%"@player:a7(1.0)
+    skeptic forward 0.00
+== l52 [c08] 503.31-511.86 (+0.75 s silence)  "The average got richer. The people did not. When wins and losses multiply, the average is ..."
+   storyboard tags: "average 673"
+  start t=503.36
+    shot s082-l52 low/pan [board] u=0.01
+    world growth x=100 | present 64 standing 28 down 36
+    hats scholar 0 #57 DOWN, worker 3.2 #23, heir 3.2 #20, fool 0 #53 DOWN | top a7 30719
+    lit a7
+    tags "average 673"@f(0.9)
+    skeptic forward 0.00
+  mid t=507.58
+    shot s082-l52 low/pan [board] u=0.47
+    world growth x=100 | present 64 standing 28 down 36
+    hats scholar 0 #57 DOWN, worker 3.2 #23, heir 3.2 #20, fool 0 #53 DOWN | top a7 30719
+    tags "average 673"@f(1.0)
+    level 673 sweep 1.00
+    skeptic forward 0.00
+  end t=512.49
+    shot s082-l52 low/pan [board] u=0.99
+    world growth x=100 | present 64 standing 28 down 36
+    hats scholar 0 #57 DOWN, worker 3.2 #23, heir 3.2 #20, fool 0 #53 DOWN | top a7 30719
+    tags "average 673"@f(1.0)
+    level 673 sweep 1.00
+    skeptic forward 0.00
+== l53 [c08] 512.61-531.17 (+1.21 s silence)  "Second objection. So nothing I do matters? No. Skill is the ticket. Without it you are not..."
+  start t=512.66
+    shot s083-l53 skeptic/hold [skeptic board] u=0.03
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    skeptic forward 0.13
+  mid t=521.89
+    shot s084-l53 block/hold [players:heir/fool/scholar/worker coins:main] u=0.44
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    coin main hover lift=0.74 angle=3.35 face=heads at=4.5,4.5
+    skeptic forward 0.00
+  end t=532.25
+    shot s085-l53 tower/push [king players:fool] u=0.98
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+== l54 [c09] 532.37-538.22 (+0.75 s silence)  "One last game. Same fair coin. Same sixty-four equal players. One new rule."
+   storyboard tags: "ONE NEW RULE"
+  start t=532.42
+    shot s086-l54 wide/hold [board] u=0.02
+    world leak x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "ONE NEW RULE"@screen(0.4)
+    skeptic forward 0.00
+  mid t=535.30
+    shot s086-l54 wide/hold [board] u=0.45
+    world leak x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "ONE NEW RULE"@screen(1.0)
+    skeptic forward 0.00
+  end t=538.85
+    shot s086-l54 wide/hold [board] u=0.99
+    world leak x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "ONE NEW RULE"@screen(1.0)
+    skeptic forward 0.00
+== l55 [c09] 538.97-545.88 (+2.26 s silence)  "After every round, each player slides one percent of their stack into the middle of the bo..."
+   storyboard tags: "1%"
+  start t=539.02
+    shot s087-l55 high/hold [board extras:pot] u=0.01
+    world leak x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    skeptic forward 0.00
+  mid t=542.43
+    shot s087-l55 high/hold [board extras:pot] u=0.38
+    world leak x=0 | present 64 standing 64 down 0
+    hats scholar 99 #18, worker 99 #60, heir 99 #28, fool 99 #47 | top a1 99
+    tags "1%"@extra(1.0)
+    extras pot(tower 64)
+    skeptic forward 0.00
+  end t=548.02
+    shot s087-l55 high/hold [board extras:pot] u=0.99
+    world leak x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "1%"@extra(1.0)
+    skeptic forward 0.00
+== l56 [c09] 548.14-552.03 (+0.74 s silence)  "The rich put in more, because they have more. Everybody gets the same back."
+  start t=548.19
+    shot s088-l56 demo/hold [extras:tall/short/pot] u=0.02
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras tall(pawn 800) short(pawn 80) pot(tower 0)
+  mid t=550.09
+    shot s088-l56 demo/hold [extras:tall/short/pot] u=0.43
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    moves 1: l56sliceS 0.8c u=1.00
+    extras tall(pawn 792) short(pawn 79.2) pot(tower 8)
+  end t=552.65
+    shot s088-l56 demo/hold [extras:tall/short/pot] u=0.98
+    world demo | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    extras tall(pawn 796) short(pawn 83.6) pot(tower 0)
+== l57 [c09] 552.77-561.43 (+2.24 s silence)  "Play as long as you like. Twelve and a half thousand flips each. No king. The richest play..."
+   storyboard tags: "FLIPS EACH 12,500" "richest: 8%" "0 out"
+  start t=552.82
+    shot s089-l57 wide/hold [board] u=0.01
+    world leak x=4800 | present 64 standing 64 down 0
+    hats scholar 124 #20, worker 24.5 #57, heir 38.9 #45, fool 17.9 #60 | top g7 446
+    counter "FLIPS EACH 150" (0.50)
+    skeptic forward 0.00
+  mid t=557.10
+    shot s089-l57 wide/hold [board] u=0.40
+    world leak x=400000 | present 64 standing 64 down 0
+    hats scholar 21 #57, worker 33.8 #47, heir 59.1 #37, fool 19.2 #59 | top h4 508
+    counter "FLIPS EACH 12,500" (1.00)
+    skeptic forward 0.00
+  end t=563.55
+    shot s089-l57 wide/hold [board] u=0.99
+    world leak x=400000 | present 64 standing 64 down 0
+    hats scholar 21 #57, worker 33.8 #47, heir 59.1 #37, fool 19.2 #59 | top h4 508
+    counter "FLIPS EACH 12,500" (1.00)
+    tags "richest: 8%"@player:h4(1.0) "0 out"@screen(1.0)
+    skeptic forward 0.00
+== l58 [c09] 563.67-573.29 (+0.55 s silence)  "Still winners. Still losers. Still unequal. But the game never ends. This is not a real ta..."
+  start t=563.72
+    shot s090-l58 high/orbit [board] u=0.01
+    world leak x=400000 | present 64 standing 64 down 0
+    hats scholar 21 #57, worker 33.8 #47, heir 59.1 #37, fool 19.2 #59 | top h4 508
+    counter "FLIPS EACH 12,500" (0.50)
+    skeptic forward 0.00
+  mid t=568.48
+    shot s090-l58 high/orbit [board] u=0.48
+    world leak x=400064 | present 64 standing 64 down 0
+    hats scholar 18.3 #57, worker 27.3 #50, heir 50.7 #41, fool 15.4 #59 | top a5 503
+    moves 64: tax58_1b0 1c u=0.09, tax58_1b1 1c u=0.19, tax58_1b2 1c u=0.30, tax58_1b3 1c u=0.38 ...
+    extras pot(tower 0)
+    skeptic forward 0.00
+  end t=573.72
+    shot s090-l58 high/orbit [board] u=0.99
+    world leak x=400096 | present 64 standing 64 down 0
+    hats scholar 20.1 #57, worker 34.6 #48, heir 52.1 #40, fool 17.2 #59 | top a5 517
+    skeptic forward 0.00
+== l59 [c09] 573.84-591.91 (+0.76 s silence)  "A mathematician named Bruce Boghosian added a rule like this to the model, plus a small ed..."
+   storyboard tags: "Boghosian, Tufts" "US wealth data 1989-2016"
+  start t=573.89
+    shot s091-l59 row/pan [board] u=0.01
+    world leak x=400096 | present 64 standing 64 down 0 | layout row u=0.00
+    hats scholar 20.1 #57, worker 34.6 #48, heir 52.1 #40, fool 17.2 #59 | top a5 517
+    skeptic forward 0.00
+  mid t=582.88
+    shot s091-l59 row/pan [board] u=0.48
+    world leak x=400096 | present 64 standing 64 down 0 | layout row u=1.00
+    hats scholar 20.1 #57, worker 34.6 #48, heir 52.1 #40, fool 17.2 #59 | top a5 517
+    tags "Boghosian, Tufts"@screen(1.0) "US wealth data 1989-2016"@screen(1.0)
+    chips 28 stacks, 26.7 chips
+    skeptic forward 0.00
+  end t=592.55
+    shot s091-l59 row/pan [board] u=1.00
+    world leak x=400096 | present 64 standing 64 down 0 | layout row u=1.00
+    hats scholar 20.1 #57, worker 34.6 #48, heir 52.1 #40, fool 17.2 #59 | top a5 517
+    tags "Boghosian, Tufts"@screen(1.0) "US wealth data 1989-2016"@screen(1.0)
+    chips 64 stacks, 64 chips
+    skeptic forward 0.00
+== l60 [c09] 592.67-604.65 (+2.69 s silence)  "That argument sits under every fight about taxing the very rich. In November twenty twenty..."
+   storyboard tags: "53 no" "47 yes" "California, November 2026"
+  start t=592.72
+    shot s092-l60 tally/push [chips:vote-no/vote-yes] u=0.01
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    chips vote-no=0 vote-yes=0
+  mid t=598.66
+    shot s092-l60 tally/push [chips:vote-no/vote-yes] u=0.41
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "California, November 2026"@screen(1.0)
+    chips vote-no=30.6 vote-yes=26.3
+  end t=607.22
+    shot s092-l60 tally/push [chips:vote-no/vote-yes] u=1.00
+    world empty | present 0 standing 0 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    tags "53 no"@chips(1.0) "47 yes"@chips(1.0) "California, November 2026"@screen(1.0)
+    chips vote-no=53 vote-yes=47
+== l61 [c10] 607.34-610.66 (+0.65 s silence)  "So here is the sentence half of you will fight in the comments."
+  start t=607.39
+    shot s093-l61 tower/push [king players:fool] u=0.03
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+  mid t=609.00
+    shot s093-l61 tower/push [king players:fool] u=0.43
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+  end t=611.19
+    shot s093-l61 tower/push [king players:fool] u=0.98
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+== l62 [c10] 611.31-618.95 (+0.73 s silence)  "Being rich does not prove you were better. It proves you were at the table, you were good ..."
+  start t=611.36
+    shot s094-l62 tower/orbit (cont) [king coins:main] u=0.01
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    coin main hover lift=0.80 angle=0.21 face=heads at=5.9,3.8
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+  mid t=615.13
+    shot s094-l62 tower/orbit (cont) [king coins:main] u=0.46
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    coin main hover lift=0.80 angle=0.59 face=tails at=5.9,3.8
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+  end t=619.55
+    shot s094-l62 tower/orbit (cont) [king coins:main] u=0.99
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    coin main hover lift=0.80 angle=1.03 face=heads at=5.9,3.8
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+== l63 [c10] 619.67-622.74 (+0.76 s silence)  "And being broke does not prove you played badly."
+  start t=619.72
+    shot s095-l63 tower/drop [king] -> [players:scholar/worker] u=0.03
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+  mid t=621.21
+    shot s095-l63 tower/drop [king] -> [players:scholar/worker] u=0.41
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    lit scholar worker
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+  end t=623.39
+    shot s095-l63 tower/drop [king] -> [players:scholar/worker] u=0.98
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    lit scholar worker
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+== l64 [c10] 623.51-629.20 (+0.74 s silence)  "The Fool did nothing right. The Worker did nothing wrong. The board did what a fair board ..."
+  start t=623.56
+    shot s096-l64 tower/hold [king] u=0.06
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    lit scholar worker
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+  mid t=626.35
+    shot s097-l64 player/hold [players:worker] u=0.63
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+  end t=629.82
+    shot s098-l64 wide/hold [board] u=0.97
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+== l64a [c10] 629.94-636.24 (+0.77 s silence)  "And the Skeptic, still standing off the board? There is a stack of a hundred coins waiting..."
+  start t=629.99
+    shot s099-l64a skeptic/push [skeptic board] u=0.01
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    extras skTower(tower 0)
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+  mid t=633.09
+    shot s099-l64a skeptic/push [skeptic board] u=0.45
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    extras skTower(tower 76.3)
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00
+  end t=636.89
+    shot s099-l64a skeptic/push [skeptic board] u=0.99
+    world fair x=192000 | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    king on fool drop 1.00 swap 1.00 hat 1.00
+    skeptic forward 0.00 on tower 100
+== l65 [c10] 637.01-646.10 (+7.00 s silence)  "Sixty-four players. Same coins. Same rules. So which one are you? The Scholar, the Worker,..."
+   storyboard tags: "THE SCHOLAR" "THE WORKER" "THE HEIR" "THE FOOL"
+  start t=637.06
+    shot s100-l65 wide/hold [board skeptic] u=0.02
+    world fair | present 64 standing 3 down 61
+    hats scholar 0 #25 DOWN, worker 0 #46 DOWN, heir 282 #3, fool 5788 #1 | top fool 5788
+    skeptic forward 0.00 on tower 100
+  mid t=641.55
+    shot s100-l65 wide/hold [board skeptic] u=0.98
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    title "WHICH ONE ARE YOU?" (0.44)
+    skeptic forward 0.00 on tower 100
+  end t=652.98
+    shot s101-l65 block/push (cont) [players:scholar/worker/heir/fool skeptic] u=0.99
+    world fair x=0 | present 64 standing 64 down 0
+    hats scholar 100 #18, worker 100 #60, heir 100 #28, fool 100 #47 | top a1 100
+    lit scholar heir fool worker
+    title "WHICH ONE ARE YOU?" (1.00)
+    tags "THE SCHOLAR"@player:scholar(1.0) "THE WORKER"@player:worker(1.0) "THE HEIR"@player:heir(1.0) "THE FOOL"@player:fool(1.0)
+    skeptic forward 0.00 on tower 100
+
+CHECK 75 lines, 6532 samples at 10/s; round-4 contract checks: 136 (errors prefixed R4); round-5 checks: 9 (R5)
+errors: 0
+continuity jumps inside a shot: 0
+coin totals off (fair/again/leak 6,400, hats 7,300): 2 lines
+  l05: world fair total 5531.8 (off by 868.2) at 44.1 s
+  l34: world hats total 6855.2 (off by 444.8) at 295.0 s
+tags to judge (not listed for their line / carried into the next line): 27
+  carry-over: l04 "55 in 100" still up in l05: 30x at 39.3..42.2 s
+  carry-over: l04 "2x" still up in l05: 30x at 39.3..42.2 s
+  carry-over: l04 "1,000 coins" still up in l05: 30x at 39.3..42.2 s
+  carry-over: l04 "THE FOOL" still up in l05: 30x at 39.3..42.2 s
+  carry-over: l04 "nothing" still up in l05: 30x at 39.3..42.2 s
+  carry-over: l11a "THE SCHOLAR" still up in l11b: 16x at 94.8..96.3 s
+  carry-over: l11a "THE SCHOLAR" still up in l11c: 16x at 96.4..97.9 s
+  carry-over: l11b "THE WORKER" still up in l11c: 16x at 96.4..97.9 s
+  carry-over: l11a "THE SCHOLAR" still up in l11d: 18x at 98.0..99.7 s
+  carry-over: l11b "THE WORKER" still up in l11d: 18x at 98.0..99.7 s
+  carry-over: l11c "THE HEIR" still up in l11d: 18x at 98.0..99.7 s
+  carry-over: l11a "THE SCHOLAR" still up in l12: 1x at 99.8 s
+  carry-over: l11b "THE WORKER" still up in l12: 1x at 99.8 s
+  carry-over: l11c "THE HEIR" still up in l12: 1x at 99.8 s
+  carry-over: l11d "THE FOOL" still up in l12: 1x at 99.8 s
+  carry-over: l36 "47" still up in l37: 100x at 316.2..326.1 s
+  carry-over: l36 "47" still up in l38: 171x at 326.2..343.2 s
+  carry-over: l37 "6" still up in l38: 171x at 326.2..343.2 s
+  carry-over: l36 "47" still up in l39: 104x at 343.3..353.6 s
+  carry-over: l37 "6" still up in l39: 104x at 343.3..353.6 s
+  carry-over: l38 "2" still up in l39: 104x at 343.3..353.6 s
+  carry-over: l38 "<1" still up in l39: 104x at 343.3..353.6 s
+  carry-over: l36 "47" still up in l40: 21x at 353.7..355.7 s
+  carry-over: l37 "6" still up in l40: 21x at 353.7..355.7 s
+  carry-over: l38 "2" still up in l40: 152x at 353.7..368.8 s
+  carry-over: l38 "<1" still up in l40: 152x at 353.7..368.8 s
+  carry-over: l39 "45" still up in l40: 152x at 353.7..368.8 s
+state(t) cost: 97.7 us average over 333082 calls (17 per frame)

@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Is Your Phone Secretly Listening for Ads?",
+ "topic": "Researchers testing 17,000 apps found no secret audio; the ads come from location, searches and friends' data, which is creepier.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Top consumer-privacy question (3.5M Shorts). Policy: present the CMG pitch as an unproven marketing claim.",
+ "evidence": [
+  {
+   "claim": "Pan et al., PETS 2018 'Panoptispy': 17,260 Android apps tested, no secret audio recording found (screen recording was) (accessed 2026-10-24)",
+   "url": "https://recon.meddle.mobi/papers/panoptispy18pets.pdf"
+  },
+  {
+   "claim": "Gizmodo coverage of the Northeastern study (2018) (accessed 2026-10-24)",
+   "url": "https://gizmodo.com/these-academics-spent-the-last-year-testing-whether-your-phone-is-secretly-listening-to-you-1826961188"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Is Your Phone Listening to You?",
+   "url": "https://youtube.com/shorts/jTgw6BqrYls",
+   "views": "3.5M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Is my phone listening to me? We tested it (long)",
+   "url": "https://www.youtube.com/watch?v=CVazBWGgg64",
+   "views": "3.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Said it once. Now it's an ad?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Researchers testing 17,000 apps found no secret audio; the ads come from location, searches and friends' data, which is creepier. Loop ending: re-ask the hook.",
+ "hook": "Said it once. Now it's an ad?",
+ "twist": "Researchers testing 17,000 apps found no secret audio; the ads come from location, searches and friends' data, which is creepier.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-20 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW with Siri false-wake idea - keep >= 3 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 58,
+ "score10": 7.4,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

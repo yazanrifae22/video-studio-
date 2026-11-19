@@ -1,0 +1,68 @@
+# Never commit
+secrets/
+.env*
+!.env.example
+OpenChatCut/
+node_modules/
+data/*.db*
+data/media/
+data/cache/
+productions/**/source/
+productions/**/renders/
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+.venv*/
+productions/_test/
+*.jpg
+!assets/**/*.jpg
+data/logs/
+upload-queue/
+data/tokens/
+
+# Bulky working media / caches (kept on disk, not in git) — 2026-10-31
+*.png
+!assets/**/*.png
+!brands/**/*.png
+!apps/**/*.png
+*.npy
+*.mpg
+*.pdf
+*.log
+*.bak
+__pycache__/
+*.pyc
+brands/_artgen/out/cand/
+
+# DB backups (contain all studio state) — 2026-10-31
+data/backups/
+
+# Archive of the merged old explainer studio (video-automation) (2026-11-02): old DB, code, media, pending uploads
+data/legacy/
+
+# local archives/backups (2026-11-02)
+data/_archive/
+
+# Keys, tokens and credentials — never commit (2026-11-19)
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+id_rsa*
+id_ed25519*
+*-keys.txt
+*_API_KEY*
+*api-key*
+*apikey*
+client_secret*.json
+*oauth-client*.json
+*credentials*.json
+*service-account*.json
+*.tokens.json
+token.json
+tokens/
+.npmrc
+.netrc

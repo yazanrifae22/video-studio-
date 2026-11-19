@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Pelé or Maradona? FIFA Couldn't Choose. So It Didn't",
+ "topic": "FIFA's 2000 online vote for Player of the Century went to Maradona (53.6%); its 'football family' panel picked Pelé, so on 11 Dec 2000 in Rome FIFA handed out two awards.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: FIFA Player of the Century awarded in Rome, 11 Dec 2000 (2026-12-11). Wikipedia Diego_Maradona 109,602 views Sept 2026.",
+ "hook": "Best of the century: Pelé or Diego?",
+ "twist": "FIFA's 2000 online vote for Player of the Century went to Maradona (53.6%); its 'football family' panel picked Pelé, so on 11 Dec 2000 in Rome FIFA handed out two awards.",
+ "peg": {
+  "event": "FIFA Player of the Century awarded in Rome, 11 Dec 2000",
+  "date": "2026-12-11",
+  "url": "https://en.wikipedia.org/wiki/FIFA_Player_of_the_Century",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - FIFA Player of the Century (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/FIFA_Player_of_the_Century"
+  },
+  {
+   "claim": "IPS News - Maradona threatens to skip Rome ceremony (accessed 2026-10-24)",
+   "url": "https://www.ipsnews.net/?p=84941"
+  },
+  {
+   "claim": "Topend Sports - Soccer player of the century (accessed 2026-10-24)",
+   "url": "https://www.topendsports.com/world/lists/greatest-all-time/soccer-player-of-century.htm"
+  },
+  {
+   "claim": "Peg source: FIFA Player of the Century awarded in Rome, 11 Dec 2000 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/FIFA_Player_of_the_Century"
+  },
+  {
+   "claim": "Wikimedia pageviews Diego_Maradona: 109602 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Diego_Maradona&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - FIFA Player of the Century",
+   "url": "https://en.wikipedia.org/wiki/FIFA_Player_of_the_Century",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "IPS News - Maradona threatens to skip Rome ceremony",
+   "url": "https://www.ipsnews.net/?p=84941",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Topend Sports - Soccer player of the century",
+   "url": "https://www.topendsports.com/world/lists/greatest-all-time/soccer-player-of-century.htm",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Who is the player of Century 👑 Maradona or Pele ⁉️ #youtubeshorts #shorts",
+   "url": "https://youtube.com/shorts/HM4AHIfzD20",
+   "views": 1900,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Pele Maradona player of the century FIFA #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "FIFA Player of the Century Award - Best Football Player of All Times",
+   "url": "https://www.youtube.com/watch?v=XJUlrdPkq20",
+   "views": 17433,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Pele Maradona player of the century FIFA #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "PELÉ vs MARADONA: FIFA NAMED THE PLAYER OF THE CENTURY — MARADONA’S RESPONSE WAS SAVAGE #football",
+   "url": "https://youtube.com/shorts/q8z9PutkK24",
+   "views": 5700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Pele Maradona player of the century FIFA #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: Two number-10 shirts on hangers, one yellow, one sky-blue striped + hook. Twist by 2.5 s. Loop: 'Pelé or Maradona? Pick one.'",
+ "cta": "C9+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "'Maradona left the ceremony early' is unverified: don't use. Both are deceased: respectful. No FIFA logo, no likeness: two number-10 shirts, yellow and sky-blue stripes.",
+ "window": {
+  "notBefore": "2026-12-07T12:00:00Z",
+  "deadline": "2026-12-13T00:00:00Z",
+  "label": "FIFA Player of the Century awarded in Rome, 11 Dec 2000",
+  "suggestedSlot": "2026-12-08T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Pelé",
+  "Diego Maradona"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

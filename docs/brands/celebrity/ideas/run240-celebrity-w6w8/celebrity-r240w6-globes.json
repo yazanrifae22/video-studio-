@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "The Martian Won a Golden Globe for Comedy. Why?",
+ "topic": "The Globes split films into Drama and Musical or Comedy; The Martian won Best Musical or Comedy in 2016, the Globes then banned 'dramas with comedic overtones', and Get Out was still entered as a comedy two years later.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: 84th Golden Globe nominations announced (2026-12-07). Wikipedia Golden_Globe_Awards 27,709 views Sept 2026.",
+ "hook": "A Mars survival film… a comedy?",
+ "twist": "The Globes split films into Drama and Musical or Comedy; The Martian won Best Musical or Comedy in 2016, the Globes then banned 'dramas with comedic overtones', and Get Out was still entered as a comedy two years later.",
+ "peg": {
+  "event": "84th Golden Globe nominations announced",
+  "date": "2026-12-07",
+  "url": "https://awardsradar.com/2026/05/07/84th-golden-globes-timetable-eligibility-rules-and-campaign-guidelines-announced/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Paste - Golden Globe requirements change after The Martian (accessed 2026-10-24)",
+   "url": "https://www.pastemagazine.com/movies/golden-globe-requirements-change-after-the-martian"
+  },
+  {
+   "claim": "Slashfilm - The Globes classify The Martian as a comedy (accessed 2026-10-24)",
+   "url": "https://www.slashfilm.com/541065/wtf-the-martian-golden-globes-comedy"
+  },
+  {
+   "claim": "Paste - Get Out submitted as a comedy (accessed 2026-10-24)",
+   "url": "https://www.pastemagazine.com/movies/get-out/get-out-golden-globes-comedy"
+  },
+  {
+   "claim": "Peg source: 84th Golden Globe nominations announced (accessed 2026-10-24)",
+   "url": "https://awardsradar.com/2026/05/07/84th-golden-globes-timetable-eligibility-rules-and-campaign-guidelines-announced/"
+  },
+  {
+   "claim": "Wikimedia pageviews Golden_Globe_Awards: 27709 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Golden_Globe_Awards&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Paste - Golden Globe requirements change after The Martian",
+   "url": "https://www.pastemagazine.com/movies/golden-globe-requirements-change-after-the-martian",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Slashfilm - The Globes classify The Martian as a comedy",
+   "url": "https://www.slashfilm.com/541065/wtf-the-martian-golden-globes-comedy",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Paste - Get Out submitted as a comedy",
+   "url": "https://www.pastemagazine.com/movies/get-out/get-out-golden-globes-comedy",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Should the Martian have won Best Comedy at the Golden Globes?",
+   "url": "https://www.youtube.com/watch?v=To92b0HGriw",
+   "views": 3422,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"The Martian Golden Globe comedy #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Jim Carrey Presents Best Movie, Comedy Award To \"The Martian\" | Golden Globe 2016",
+   "url": "https://www.youtube.com/watch?v=xZvV0pAGBzA",
+   "views": 156337,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"The Martian Golden Globe comedy #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Matt Damon Was Tired of Being Stranded in Space #shorts #mattdamon #themartian #interstellar",
+   "url": "https://youtube.com/shorts/9nf87-N7gHc",
+   "views": 4000000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"The Martian Golden Globe comedy #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A lone astronaut helmet wearing a party hat on red sand + hook. Twist by 2.5 s. Loop: 'Comedy or drama? You decide.'",
+ "cta": "C9+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Do not name the director of The Martian (Ridley Scott has a Dec 1 idea). Nomination date Dec 7 (official timetable) vs Dec 8 (CBS page): re-check. No Globe statuette design.",
+ "window": {
+  "notBefore": "2026-12-06T12:00:00Z",
+  "deadline": "2026-12-09T00:00:00Z",
+  "label": "84th Golden Globe nominations announced",
+  "suggestedSlot": "2026-12-07T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Matt Damon",
+  "Jordan Peele"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 1,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

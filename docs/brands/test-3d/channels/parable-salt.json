@@ -1,0 +1,22 @@
+{
+ "id": "parable-salt",
+ "name": "Salt Parable",
+ "format": "explainer",
+ "positioning": "One arm of the test-3d visual test (owner 2026-11-14/15): same parable Short, Macro picture style, one voice per channel. Test channel, created 2026-11-15.",
+ "audience": "General 18-45, English",
+ "language": "en",
+ "status": "test",
+ "data": {
+  "voice": {
+   "name": "Algenib"
+  },
+  "visual": "Macro",
+  "test": "test-3d",
+  "docs": "docs/brands/test-3d/",
+  "youtube": {
+   "handle": "@SaltParable",
+   "channel_id": "UC6Axmks3MUxVg5nQhBwQH1A",
+   "token": "data/tokens/parable-salt.json"
+  }
+ }
+}

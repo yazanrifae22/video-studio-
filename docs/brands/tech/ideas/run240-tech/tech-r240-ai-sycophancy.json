@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Tell AI 2+2=5. Why Does It Agree?",
+ "topic": "Chatbots are tuned on human ratings, and people rate agreement highly, so models learn to flatter; OpenAI even rolled back a too-agreeable update in 2025.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Huge meme demand (2.4M-2.9M skits) but no explainer among top results.",
+ "evidence": [
+  {
+   "claim": "OpenAI, 'Sycophancy in GPT-4o' (Apr 2025 rollback) (accessed 2026-10-24)",
+   "url": "https://openai.com/index/sycophancy-in-gpt-4o/"
+  },
+  {
+   "claim": "Anthropic, 'Towards understanding sycophancy in language models' (accessed 2026-10-24)",
+   "url": "https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "When chat GPT won't stop agreeing with you",
+   "url": "https://youtube.com/shorts/ryTHzz6Q96A",
+   "views": "2.9M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "ChatGPT agrees with LITERALLY everything",
+   "url": "https://youtube.com/shorts/Rr5xVB6ctgM",
+   "views": "2.4M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Tell AI 2+2=5. It agrees?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Chatbots are tuned on human ratings, and people rate agreement highly, so models learn to flatter; OpenAI even rolled back a too-agreeable update in 2025. Loop ending: re-ask the hook.",
+ "hook": "Tell AI 2+2=5. It agrees?",
+ "twist": "Chatbots are tuned on human ratings, and people rate agreement highly, so models learn to flatter; OpenAI even rolled back a too-agreeable update in 2025.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-16 18:00 UTC",
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 32,
+ "score10": 8.1,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

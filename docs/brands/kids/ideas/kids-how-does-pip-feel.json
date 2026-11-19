@@ -1,0 +1,57 @@
+{
+ "channel": "kids",
+ "title": "Happy, Sad, Surprised! How Does Pip Feel? | Feelings for Kids",
+ "topic": "Naming emotions (social-emotional learning)",
+ "audience": "Preschoolers 2-5 (co-viewing parents, teachers)",
+ "whyCare": "Naming feelings is a core preschool social-emotional skill; feelings Shorts reach 40M-160M views and the series has no emotions episode yet.",
+ "evidence": [
+  {
+   "claim": "'Learn Why All Feelings Are Okay With Jay & Neil!' 161,371,630 views (0:22, ~4 months)",
+   "url": "https://www.youtube.com/watch?v=r108BC2a044"
+  },
+  {
+   "claim": "'Balloon Feelings Game - Learn Emotions for Kids' 123,723,002 views (0:29); 'Are You Happy or Sad? Emotions Quiz' 105,063,672 views (0:31)",
+   "url": "https://www.youtube.com/results?search_query=feelings%20emotions%20for%20toddlers&sp=CAMSAggF"
+  },
+  {
+   "claim": "YouTube quality principles list social-emotional learning as high-quality made-for-kids content",
+   "url": "https://support.google.com/youtube/answer/10774223"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Learn Why All Feelings Are Okay With Jay & Neil!",
+   "url": "https://www.youtube.com/watch?v=r108BC2a044",
+   "views": "161,371,630",
+   "verified": true
+  },
+  {
+   "title": "Balloon Feelings Game (Buildy Wildy and MEOWJI)",
+   "url": "https://www.youtube.com/watch?v=P30-vIbNnYY",
+   "views": "123,723,002",
+   "verified": true
+  },
+  {
+   "title": "Learn Emotions with Lucas! (Lucas & Friends)",
+   "url": "https://www.youtube.com/watch?v=j3MlWt0-ETQ",
+   "views": "43,888,278",
+   "verified": true
+  }
+ ],
+ "angle": "Learning goal: recognise happy, sad, surprised. Story: Pip builds a block tower (happy), it wobbles and tumbles softly (sad, brief), Tiko helps rebuild and pops a flag on top (surprised -> happy). For each feeling Tiko asks 'How does Pip feel?', pause, then the word appears. Ends: 'All feelings are okay - and friends help.'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Pip built the tallest tower! ...Wobble, wobble...",
+ "difficulty": 2,
+ "estCostUsd": 4,
+ "strengths": "Character rig already has happy/sad/wow moods - almost no new assets; complete mini-narrative; strong parent appeal",
+ "weaknesses": "Sad beat must stay brief and soft; crowded category; 'surprised' face must not read as scared",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

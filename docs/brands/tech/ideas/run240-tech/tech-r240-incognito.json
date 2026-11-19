@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Incognito Mode Doesn't Hide What You Think",
+ "topic": "It only hides history from people using your device; websites, your school or job network and your internet provider can still see.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Proven demand (237K); simple visual (who's watching).",
+ "evidence": [
+  {
+   "claim": "Google Chrome Help: what Incognito mode does and doesn't do (accessed 2026-10-24)",
+   "url": "https://support.google.com/chrome/answer/95464"
+  },
+  {
+   "claim": "Brown v. Google settlement (2024): Google to delete Incognito browsing data (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Private_browsing"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Incognito mode is not as private as you think",
+   "url": "https://youtube.com/shorts/AAr1xJsny_0",
+   "views": "237K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Incognito Mode Is NOT Private",
+   "url": "https://youtube.com/shorts/hDI0K7fEWxg",
+   "views": "8.1K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Incognito on. Who can still see?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: It only hides history from people using your device; websites, your school or job network and your internet provider can still see. Loop ending: re-ask the hook.",
+ "hook": "Incognito on. Who can still see?",
+ "twist": "It only hides history from people using your device; websites, your school or job network and your internet provider can still see.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-18 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW with cookies idea - keep >= 2 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 53,
+ "score10": 7.5,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "channel": "celebrity",
+ "title": "Mean Girls' Karen Auditioned to Be Regina First",
+ "topic": "Amanda Seyfried first read for Regina George; the filmmakers called and said she was 'more correct for Karen' (casting director Marci Liroff credits Lorne Michaels), and Rachel McAdams got Regina.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Amanda Seyfried turns 41 (2026-12-03). Wikipedia Mean_Girls 75,047 views Sept 2026.",
+ "hook": "Karen almost played Regina?",
+ "twist": "Amanda Seyfried first read for Regina George; the filmmakers called and said she was 'more correct for Karen' (casting director Marci Liroff credits Lorne Michaels), and Rachel McAdams got Regina.",
+ "peg": {
+  "event": "Amanda Seyfried turns 41",
+  "date": "2026-12-03",
+  "url": "https://en.wikipedia.org/wiki/Amanda_Seyfried",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "ET Online - Seyfried reveals Blake Lively almost played Karen (accessed 2026-10-24)",
+   "url": "https://www.etonline.com/amanda-seyfried-reveals-blake-lively-almost-played-her-role-karen-in-mean-girls-199706"
+  },
+  {
+   "claim": "Looper - Karen was almost played by Blake Lively (accessed 2026-10-24)",
+   "url": "https://www.looper.com/1208393/mean-girls-karen-was-almost-played-by-blake-lively/"
+  },
+  {
+   "claim": "Bustle - Blake Lively and the role of Karen (accessed 2026-10-24)",
+   "url": "https://www.bustle.com/entertainment/blake-lively-karen-mean-girls"
+  },
+  {
+   "claim": "Peg source: Amanda Seyfried turns 41 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Amanda_Seyfried"
+  },
+  {
+   "claim": "Wikimedia pageviews Mean_Girls: 75047 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Mean_Girls&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "ET Online - Seyfried reveals Blake Lively almost played Karen",
+   "url": "https://www.etonline.com/amanda-seyfried-reveals-blake-lively-almost-played-her-role-karen-in-mean-girls-199706",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Looper - Karen was almost played by Blake Lively",
+   "url": "https://www.looper.com/1208393/mean-girls-karen-was-almost-played-by-blake-lively/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Bustle - Blake Lively and the role of Karen",
+   "url": "https://www.bustle.com/entertainment/blake-lively-karen-mean-girls",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "my audition for mean girls😭🤷🏼‍♀️ #shorts",
+   "url": "https://youtube.com/shorts/iTrEsAYjewk",
+   "views": 207000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Amanda Seyfried auditioned for Regina Mean Girls #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: Three empty pink chairs at a cafeteria table, one with a 'Regina?' tag + hook. Twist by 2.5 s. Loop: 'Seyfried as Regina: better or worse?'",
+ "cta": "C9+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Who pushed the switch differs (casting team vs Lorne Michaels): say 'the filmmakers'. No stills, no likeness; a pink 'Burn Book'-style notebook is fine only if generic (no title text).",
+ "window": {
+  "notBefore": "2026-12-02T12:00:00Z",
+  "deadline": "2026-12-05T00:00:00Z",
+  "label": "Amanda Seyfried turns 41",
+  "suggestedSlot": "2026-12-03T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Amanda Seyfried",
+  "Rachel McAdams",
+  "Blake Lively"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

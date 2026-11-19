@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why You Hate Your Own Selfies",
+ "topic": "You know your mirror-flipped face; the photo shows the unflipped one, and a close front camera also stretches your nose.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Huge proven demand (24M). Gap is low; win on frame-0 split image.",
+ "evidence": [
+  {
+   "claim": "Mita, Dermer & Knight 1977: people prefer their mirror image (mere-exposure) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Mere-exposure_effect"
+  },
+  {
+   "claim": "Ward et al., JAMA Facial Plastic Surgery 2018: selfies at 30 cm make the nose look ~30% wider (accessed 2026-10-24)",
+   "url": "https://jamanetwork.com/journals/jamafacialplasticsurgery/fullarticle/2672518"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "THIS is Why You Look Ugly in Selfies but Good in Mirror",
+   "url": "https://youtube.com/shorts/azuqeGO5Oyc",
+   "views": "24M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "you in the mirror vs. selfie camera",
+   "url": "https://youtube.com/shorts/i3u8wOQAUH8",
+   "views": "7.3M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Mirror: fine. Selfie: weird. Why?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: You know your mirror-flipped face; the photo shows the unflipped one, and a close front camera also stretches your nose. Loop ending: re-ask the hook.",
+ "hook": "Mirror: fine. Selfie: weird. Why?",
+ "twist": "You know your mirror-flipped face; the photo shows the unflipped one, and a close front camera also stretches your nose.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-20 18:00 UTC",
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 35,
+ "score10": 8.1,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

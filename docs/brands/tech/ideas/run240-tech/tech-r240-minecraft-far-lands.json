@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "Walk Forever in Minecraft. What's at the End?",
+ "topic": "In early Minecraft, ~12.5 million blocks out, the maths ran out of precision and the world tore into the 'Far Lands'.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Massive proven demand (16M/15M) on the exact anniversary; our angle = the number limit, told as a puzzle.",
+ "evidence": [
+  {
+   "claim": "Far Lands: terrain glitch from floating-point errors, patched after Beta 1.7.3 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Far_Lands"
+  },
+  {
+   "claim": "Minecraft Wiki: Far Lands distance (12,550,821 blocks) and history (403 to scripts; open in browser) (accessed 2026-10-24)",
+   "url": "https://minecraft.wiki/w/Far_Lands"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "the SECRET farlands...",
+   "url": "https://youtube.com/shorts/wy8RFjeV6pM",
+   "views": "16M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Can The Farlands Ever End In Minecraft?",
+   "url": "https://youtube.com/shorts/2GPS9l-03Ow",
+   "views": "15M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Walk forever. What's at the end?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: In early Minecraft, ~12.5 million blocks out, the maths ran out of precision and the world tore into the 'Far Lands'. Loop ending: re-ask the hook.",
+ "hook": "Walk forever. What's at the end?",
+ "twist": "In early Minecraft, ~12.5 million blocks out, the maths ran out of precision and the world tore into the 'Far Lands'.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 3,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": {
+  "notBefore": "2026-11-18",
+  "deadline": "2026-11-21",
+  "event": "Minecraft 15th anniversary of full release (Nov 18 2011)"
+ },
+ "newsPeg": "Minecraft 15th anniversary of full release (Nov 18 2011)",
+ "suggestedSlot": "2026-11-18 15:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Why 0.1 + 0.2 Isn't 0.3' (floating point). Lead with the world edge, not the maths. Original blocky art only, no Minecraft assets.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 44,
+ "score10": 7.9,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 5,
+  "productionEase": 3,
+  "policyRisk": 2
+ }
+}

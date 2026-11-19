@@ -1,0 +1,37 @@
+{
+ "slug": "fixture-cat-flip",
+ "productions": { "en": "_fixture-cutout-en", "ar": "_fixture-cutout-ar" },
+ "title": { "en": "Why cats land on their feet", "ar": "ليش القطط بتوقع على إجريها" },
+ "hook_text": { "en": "HOW DOES A CAT FLIP?", "ar": "كيف القطة بتلف بالهوا؟" },
+ "end_text": { "en": "A new story every week", "ar": "كل أسبوع قصة جديدة" },
+ "cast": {
+  "karto": { "voice": "Achird", "style": { "en": "Warm, quick storyteller talking to one friend; playful, never an announcer.", "ar": "Warm, quick storyteller in casual Syrian Levantine Arabic talking to one friend; playful, never an announcer." } },
+  "skip": { "voice": "Leda", "style": { "en": "Young, impatient viewer with a phone in hand; teasing, curious, a little sarcastic.", "ar": "Young, impatient viewer speaking casual Syrian Levantine Arabic; teasing, curious, a little sarcastic." } }
+ },
+ "tail": 2.0, "chapter_gap": 1.0, "captions": true, "music_seed": 11,
+ "strings": { "timer": { "en": "10 SECONDS", "ar": "١٠ ثواني" }, "label_tail": { "en": "TAIL", "ar": "الدنب" } },
+ "chapters": [
+  { "id": "c01", "title": { "en": "The question", "ar": "السؤال" }, "mood": "curious", "lines": [
+   { "id": "l001", "who": "karto", "en": "Quick question. Why does a cat always land on its feet?", "ar": "سؤال سريع. ليش القطة دايماً بتوقع على إجريها؟", "picture": "cat cutout falling past the board", "motion": "cat slides down, Karto points" },
+   { "id": "l002", "who": "skip", "en": "Does it? My cat fell off the sofa and looked very confused.", "ar": "عن جد؟ قطتي وقعت عن الكنباية وضلت مصدومة.", "picture": "sofa cutout, dizzy cat", "motion": "Skip tilts, sofa pops in" },
+   { "id": "l003", "who": "karto", "en": "Stay with me, because the answer is stranger than luck.", "ar": "خليك معي، لأن الجواب أغرب من الحظ.", "picture": "question mark card", "motion": "card flips" },
+   { "id": "l004", "who": "skip", "en": "Fine. You have ten seconds before I scroll.", "ar": "ماشي. معك عشر ثواني قبل ما قلّب.", "picture": "timer card (strings.timer)", "motion": "timer stamps down" }
+  ] },
+  { "id": "c02", "title": { "en": "The twist", "ar": "اللفة" }, "mood": "tension", "lines": [
+   { "id": "l005", "who": "karto", "en": "A falling cat has nothing to push against, and still it turns.", "ar": "القطة وهي عم توقع ما في شي تدفش عليه، ومع هيك بتلف.", "picture": "cat mid air, empty space", "motion": "cat rotates slowly" },
+   { "id": "l006", "who": "karto", "en": "First it bends in the middle, like a folding chair.", "ar": "أول شي بتطوي حالها من النص، متل كرسي بينطوى.", "picture": "folding chair cutout next to the cat", "motion": "chair folds, cat bends" },
+   { "id": "l007", "who": "skip", "en": "So it twists the front and the back opposite ways?", "ar": "يعني بتلف قدامها بعكس ورا؟", "picture": "two arrows on the cat", "motion": "arrows spin" },
+   { "id": "l008", "who": "karto", "en": "Exactly. The front spins one way, the back spins the other, and then they swap.", "ar": "بالضبط. القدام بيلف لجهة، والورا لجهة تانية، وبعدين بيبدلوا.", "picture": "cat halves", "motion": "front half turns, then back half" }
+  ] },
+  { "id": "c03", "title": { "en": "The landing", "ar": "الهبوط" }, "mood": "warm", "lines": [
+   { "id": "l009", "who": "skip", "en": "Okay, that is actually cool.", "ar": "طيب، هاد فعلاً حلو.", "picture": "Skip with phone lowered", "motion": "Skip hops" },
+   { "id": "l010", "who": "karto", "en": "And the tail helps a little, like a pole for a tightrope walker.", "ar": "والدنب بيساعد شوي، متل عصاية اللي بيمشي على الحبل.", "picture": "tail label (strings.label_tail), tightrope walker", "motion": "pole wobbles" },
+   { "id": "l011", "who": "skip", "en": "So the cat is basically doing gymnastics in mid air.", "ar": "يعني القطة عم تعمل جمباز بالهوا.", "picture": "cat in a gymnast pose", "motion": "cat flips once" },
+   { "id": "l012", "who": "karto", "en": "Every single time. Now you know, and you did not scroll.", "ar": "كل مرة. هلق صرت بتعرف، وما قلّبت.", "picture": "cat lands on the desk", "motion": "thud landing, Karto bows" }
+  ] }
+ ],
+ "shorts": [
+  { "id": "s1", "from": "l005", "to": "l011", "hook_text": { "en": "HOW CATS FLIP IN MID AIR", "ar": "كيف القطط بتلف بالهوا" },
+    "cta": { "who": "karto", "text": { "en": "The whole story is on the channel.", "ar": "القصة كاملة على القناة." } } }
+ ]
+}

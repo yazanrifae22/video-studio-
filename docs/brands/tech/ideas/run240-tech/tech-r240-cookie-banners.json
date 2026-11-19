@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why Every Website Asks About Cookies",
+ "topic": "EU law requires consent for non-essential cookies; 'accept all' usually lets ad trackers follow you from site to site.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Seen daily by everyone; moderate competition.",
+ "evidence": [
+  {
+   "claim": "ePrivacy Directive / GDPR cookie consent (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/HTTP_cookie"
+  },
+  {
+   "claim": "European Commission: cookies and consent rules (accessed 2026-10-24)",
+   "url": "https://commission.europa.eu/resources-partners/europa-web-guide/design-content-and-development/privacy-security-and-legal-notices/cookies-and-similar-technologies_en"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Every Website Asks About Cookies Because Of Europe",
+   "url": "https://youtube.com/shorts/ITgekGi4B_g",
+   "views": "48K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "What Happens When You Click 'Accept All?' (long)",
+   "url": "https://www.youtube.com/watch?v=kDJTTeL_E-4",
+   "views": "412K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Accept all? What did you accept?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: EU law requires consent for non-essential cookies; 'accept all' usually lets ad trackers follow you from site to site. Loop ending: re-ask the hook.",
+ "hook": "Accept all? What did you accept?",
+ "twist": "EU law requires consent for non-essential cookies; 'accept all' usually lets ad trackers follow you from site to site.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-21 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW with incognito.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 42,
+ "score10": 7.9,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

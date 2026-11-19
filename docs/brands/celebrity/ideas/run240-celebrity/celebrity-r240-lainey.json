@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "CMA Host Lived 3 Years in a Camper in a Parking Lot",
+ "topic": "Lainey Wilson parked a camper trailer outside a mentor's Nashville studio for three years, borrowing power and showering with a hose.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: 60th CMA Awards, Nashville (Lainey Wilson hosts) (2026-11-18). Wikipedia Lainey_Wilson 209,291 views Sept 2026.",
+ "hook": "Country's biggest host lived where?",
+ "twist": "Lainey Wilson parked a camper trailer outside a mentor's Nashville studio for three years, borrowing power and showering with a hose.",
+ "peg": {
+  "event": "60th CMA Awards, Nashville (Lainey Wilson hosts)",
+  "date": "2026-11-18",
+  "url": "https://holler.country/news/general/cma-awards-2026-date-nominees-and-performers/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Biography.com - Lainey Wilson (accessed 2026-10-24)",
+   "url": "https://www.biography.com/musician/lainey-wilson"
+  },
+  {
+   "claim": "Fox News - Lainey Wilson's career took off after dark days (accessed 2026-10-24)",
+   "url": "https://noticias.foxnews.com/entertainment/country-star-lainey-wilson-career-took-off-after-dark-days-nashville"
+  },
+  {
+   "claim": "Whiskey Riff - Lainey Wilson lived in a camper for three years (accessed 2026-10-24)",
+   "url": "https://www.whiskeyriff.com/2021/10/09/lainey-wilson-lived-in-a-camper-in-her-friends-parking-lot-for-three-years-after-moving-to-nashville/"
+  },
+  {
+   "claim": "Peg source: 60th CMA Awards, Nashville (Lainey Wilson hosts) (accessed 2026-10-24)",
+   "url": "https://holler.country/news/general/cma-awards-2026-date-nominees-and-performers/"
+  },
+  {
+   "claim": "Wikimedia pageviews Lainey_Wilson: 209291 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Lainey_Wilson&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Biography.com - Lainey Wilson",
+   "url": "https://www.biography.com/musician/lainey-wilson",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Fox News - Lainey Wilson's career took off after dark days",
+   "url": "https://noticias.foxnews.com/entertainment/country-star-lainey-wilson-career-took-off-after-dark-days-nashville",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Whiskey Riff - Lainey Wilson lived in a camper for three years",
+   "url": "https://www.whiskeyriff.com/2021/10/09/lainey-wilson-lived-in-a-camper-in-her-friends-parking-lot-for-three-years-after-moving-to-nashville/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "tiger by the taillllllll 🐯🐅",
+   "url": "https://youtube.com/shorts/ZAUpQGKrZ9g",
+   "views": 45000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Lainey Wilson credits one mentor and a camper trailer for changing her entire Nashville journey #fyp",
+   "url": "https://youtube.com/shorts/ZY7raEGenNU",
+   "views": 14000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "I'm trying to build a community who's in❤️ #laineywilson #countrymusic #countrygirl #foryou #fyp",
+   "url": "https://youtube.com/shorts/TK4vg3b2bvw",
+   "views": 1000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a small camper under a 'STUDIO' sign at night + hook. Twist: three years, then hosting the CMAs. Loop: 'Where were you parked three years ago?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Family friend vs mentor: say 'a mentor's studio'. No likeness, no CMA logo. Keep 'dark days' framing hopeful.",
+ "window": {
+  "notBefore": "2026-11-17T12:00:00Z",
+  "deadline": "2026-11-19T12:00:00Z",
+  "label": "60th CMA Awards, Nashville (Lainey Wilson hosts)",
+  "suggestedSlot": "2026-11-18T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,479 @@
+{
+  "schema": "idea-judge/1",
+  "brand_id": "viral-rankings",
+  "judge": "ranking-idea-judge",
+  "decided_at": "2026-10-31",
+  "inputs": [
+    "scout-a-trend.json",
+    "scout-b-evergreen.json",
+    "scout-c-gaps.json"
+  ],
+  "formula": {
+    "note": "RANKING-ENGINE.md has no idea-scoring section yet (it scores reveal orders). Judge v0 formula, pilot-weighted toward feasibility; sub-scores are the judge's own re-scores after spot-checks, not scout averages. Heuristic, not a prediction.",
+    "total": "0.25*creative + 0.15*demand + 0.30*feasibility + 0.15*portfolio_fit + 0.15*(100 - risk)",
+    "hard_gates": [
+      "rights-clearable candidates verified on primary page >= slots + buffer (top3: 3 + >=3)",
+      "safety (brand guide never-list)",
+      "no publishable footage = not production-ready, whatever the demand"
+    ],
+    "portfolio_rule": "visual/premise overlap with Planet Extremes (space/earth extremes), Mission Voices (astronaut talks) or TWIWM (archive how-it-was-made) lowers portfolio_fit"
+  },
+  "ideas": [
+    {
+      "merged_id": "M1",
+      "title": "Deep-sea animals unimpressed by our robot",
+      "from": [
+        "vr-b-004",
+        "vr-c-002"
+      ],
+      "convergence": "B+C",
+      "category_id": "cat-261030-3r41",
+      "scores": {
+        "creative": 82,
+        "demand": 55,
+        "feasibility": 85,
+        "portfolio_fit": 75,
+        "risk": 15
+      },
+      "total": 78,
+      "gates": "pass",
+      "decision": "shortlist #1 (pilot pick)"
+    },
+    {
+      "merged_id": "M3",
+      "title": "Fails from 1896, ranked by smugness",
+      "from": [
+        "vr-c-001"
+      ],
+      "convergence": "C only (adjacent to A/B silent-film lane)",
+      "category_id": "cat-261030-1pna",
+      "scores": {
+        "creative": 78,
+        "demand": 35,
+        "feasibility": 68,
+        "portfolio_fit": 80,
+        "risk": 22
+      },
+      "total": 69,
+      "gates": "pass (Lumiere copies only; Edison 320x240 = buffer at best)",
+      "decision": "shortlist #2"
+    },
+    {
+      "merged_id": "M4",
+      "title": "Animals with cheat codes",
+      "from": [
+        "vr-b-001",
+        "va-001 (partial)"
+      ],
+      "convergence": "B, A adjacent",
+      "category_id": "cat-261030-7clp",
+      "scores": {
+        "creative": 72,
+        "demand": 60,
+        "feasibility": 66,
+        "portfolio_fit": 72,
+        "risk": 28
+      },
+      "total": 68,
+      "gates": "pass (CC BY attribution; every fact checked)",
+      "decision": "shortlist #3"
+    },
+    {
+      "merged_id": "M2",
+      "title": "Impossible silent-era stunts (Keaton/Lloyd/Chaplin)",
+      "from": [
+        "va-002",
+        "vr-b-003"
+      ],
+      "convergence": "A+B",
+      "category_id": "cat-261030-d0se",
+      "scores": {
+        "creative": 84,
+        "demand": 50,
+        "feasibility": 62,
+        "portfolio_fit": 70,
+        "risk": 40
+      },
+      "total": 67,
+      "gates": "conditional: Content ID claims on restorations, copy provenance",
+      "decision": "shortlist #4"
+    },
+    {
+      "merged_id": "M7",
+      "title": "Animal engineers at work",
+      "from": [
+        "vr-b-005"
+      ],
+      "convergence": "B only",
+      "category_id": "cat-261030-7clp",
+      "scores": {
+        "creative": 62,
+        "demand": 55,
+        "feasibility": 60,
+        "portfolio_fit": 62,
+        "risk": 26
+      },
+      "total": 62,
+      "gates": "pass (unverified pool)",
+      "decision": "shortlist #5 (reserve)"
+    },
+    {
+      "merged_id": "M6",
+      "title": "Astronauts vs physics",
+      "from": [
+        "va-006",
+        "vr-c-005"
+      ],
+      "convergence": "A+C",
+      "category_id": "cat-261030-ndha",
+      "scores": {
+        "creative": 65,
+        "demand": 50,
+        "feasibility": 75,
+        "portfolio_fit": 30,
+        "risk": 20
+      },
+      "total": 63,
+      "gates": "pass",
+      "decision": "parked: same NASA ISS pool and look as Mission Voices; new brand would read as MV"
+    },
+    {
+      "merged_id": "M10",
+      "title": "1896 magic tricks: spot the cut",
+      "from": [
+        "vr-c-006"
+      ],
+      "category_id": "cat-261030-ndha",
+      "scores": {
+        "creative": 70,
+        "demand": 30,
+        "feasibility": 60,
+        "portfolio_fit": 70,
+        "risk": 20
+      },
+      "total": 62,
+      "gates": "pass",
+      "decision": "parked: quiz mechanic belongs nearer quiz-ar; revisit as M3 sequel"
+    },
+    {
+      "merged_id": "M5",
+      "title": "Funniest wild animals / birds / zero-chill stock animals",
+      "from": [
+        "va-001",
+        "va-004",
+        "vr-c-007"
+      ],
+      "category_id": "cat-261030-3r41",
+      "scores": {
+        "creative": 60,
+        "demand": 55,
+        "feasibility": 55,
+        "portfolio_fit": 70,
+        "risk": 30
+      },
+      "total": 61,
+      "gates": "conditional: clips unviewed, calm zoo b-roll, NC uploaders on Pixabay",
+      "decision": "parked"
+    },
+    {
+      "merged_id": "M9",
+      "title": "Wildlife vs trail camera / wholesome wild moments (USFWS)",
+      "from": [
+        "vr-c-004",
+        "vr-b-007"
+      ],
+      "category_id": "cat-261030-3r41",
+      "scores": {
+        "creative": 64,
+        "demand": 45,
+        "feasibility": 50,
+        "portfolio_fit": 65,
+        "risk": 22
+      },
+      "total": 59,
+      "gates": "conditional: ~5 moments, producers unverified",
+      "decision": "parked"
+    },
+    {
+      "merged_id": "M8",
+      "title": "Physics that looks fake / satisfying chain reactions",
+      "from": [
+        "vr-b-002",
+        "va-005"
+      ],
+      "category_id": "cat-261030-6sve",
+      "scores": {
+        "creative": 60,
+        "demand": 50,
+        "feasibility": 45,
+        "portfolio_fit": 60,
+        "risk": 28
+      },
+      "total": 56,
+      "gates": "fail: thin pool, many CC BY-SA, one 'domino' hit was a CDC PSA",
+      "decision": "rejected"
+    },
+    {
+      "merged_id": "R1",
+      "title": "Earth fireworks (lava/geysers)",
+      "from": [
+        "vr-b-006"
+      ],
+      "category_id": "cat-261030-ndha",
+      "total": null,
+      "gates": "pass",
+      "decision": "rejected: Planet Extremes territory"
+    },
+    {
+      "merged_id": "R2",
+      "title": "Moon wipeouts by recovery style",
+      "from": [
+        "vr-c-003"
+      ],
+      "category_id": "cat-261030-1pna",
+      "total": null,
+      "gates": "fail: Commons copies 240-320 px, ~4 moments",
+      "decision": "rejected: resolution gate + Mission Voices/TWIWM overlap"
+    },
+    {
+      "merged_id": "R3",
+      "title": "Bears who won the internet (Fat Bear Week)",
+      "from": [
+        "va-003"
+      ],
+      "category_id": "cat-261030-3r41",
+      "total": null,
+      "gates": "fail: 3 clips; Brown bears play fighting has conflicting CC BY 2.0 vs PD-NPS tags",
+      "decision": "rejected (revisit Sept 2027 with explore.org permission or NPS-only pool)"
+    },
+    {
+      "merged_id": "R4",
+      "title": "Weirdest science ever awarded (Ig Nobel 2026)",
+      "from": [
+        "va-008"
+      ],
+      "category_id": null,
+      "total": null,
+      "gates": "fail: no clearable footage",
+      "decision": "rejected"
+    },
+    {
+      "merged_id": "R5",
+      "title": "Funniest World Cup 2026 moments",
+      "from": [
+        "va-007"
+      ],
+      "category_id": "cat-261030-hu22",
+      "total": null,
+      "gates": "fail: FIFA/broadcaster footage, rights gate",
+      "decision": "rejected (highest demand, zero publishable clips)"
+    }
+  ],
+  "spot_checks": {
+    "method": "Commons API extmetadata (first batch) + WebFetch of primary pages, 2026-10-31",
+    "M1": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Graneledone_boreopacifica_flees.webm",
+        "licence": "PD (NOAA)",
+        "producer": "NOAA Ocean Exploration EX2301; NOAA page credits 'Video courtesy of NOAA Ocean Exploration', ROV pilots from GFOE in one video",
+        "res": "1920x1080",
+        "duration": "metadata says 142782 s (broken container); real length unknown, ffprobe after download",
+        "ok": true
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Very_Deep,_Ghostlike_Incirrate_Octopod_-_NOAA_Office_of_Ocean_Exploration_and_Research,_Hohonu_Moana_2016.webm",
+        "licence": "PD",
+        "producer": "NOAA OER Hohonu Moana 2016",
+        "res": "1920x1080",
+        "duration": "43 s",
+        "ok": true
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Flapjack_octopus_seafloor.webm",
+        "licence": "PD",
+        "producer": "NOAA EX2301",
+        "res": "1280x720",
+        "duration": "metadata 141114 s (broken); ffprobe",
+        "ok": true
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Okeanos_Explorer_PR_and_USVI_Dive_8-_Psychedelic_Medusa-NOAA-1280x720.webm",
+        "licence": "PD-USGov-NOAA",
+        "producer": "NOAA OER EX1811 dive 8 (source mp4 on oceanexplorer.noaa.gov)",
+        "res": "1280x720",
+        "duration": "68 s, has audio track (strip)",
+        "ok": true
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:King_crab_eating_a_brittle_star.webm",
+        "licence": "PD",
+        "producer": "NOAA OER EX1806 dive 11",
+        "res": "1280x720",
+        "duration": "113 s",
+        "ok": true
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ex1402-dive06_red_animal.webm",
+        "licence": "CC0",
+        "producer": "NOAA Okeanos Explorer",
+        "res": "1920x1080",
+        "duration": "45 s, no audio",
+        "ok": true
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Wk215-deep-sea-octopuses.webm",
+        "licence": "Commons says PD-NOAA",
+        "producer": "Primary page (sanctuaries.noaa.gov) credits 'OET/NOAA', E/V Nautilus + ROV Hercules = Ocean Exploration Trust (private)",
+        "ok": false,
+        "finding": "SCOUT B WRONG: not federal-only, reject"
+      }
+    ],
+    "M3": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Course_En_Sacs_(1896).webm",
+        "licence": "PD-1923 + PDM, 'licence review needed'",
+        "producer": "Lumiere (via archive.org course-en-sacs-1896)",
+        "res": "1440x1080",
+        "duration": "46 s, no audio",
+        "ok": true
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A_dull_razor_(1900).webm",
+        "licence": "PD",
+        "producer": "Edison/Porter, LoC",
+        "res": "320x240 (per scout; API rate-limited)",
+        "ok": "buffer only"
+      }
+    ],
+    "M4": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Peacock_mantis_shrimp_(Odontodactylus_scyllarus).webm",
+        "licence": "CC BY 2.0, Flickr review 2019",
+        "producer": "jeff~ (Flickr jphotos)",
+        "res": "1920x1080",
+        "duration": "11 s",
+        "ok": true
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Giant_cuttlefish_(Sepia_apama).webm",
+        "licence": "CC BY 2.0, Flickr review 2015",
+        "producer": "southoz (Flickr)",
+        "res": "640x480",
+        "duration": "22 s",
+        "ok": false,
+        "finding": "scout did not flag: 640x480 SD, soft in 9:16"
+      },
+      {
+        "url": "https://www.pexels.com/video/octopus-camouflages-in-coral-reef-31496835/",
+        "licence": "Pexels 'Free'",
+        "producer": "JUN HO LEE",
+        "res": "1920x1080",
+        "duration": "9 s",
+        "ok": true
+      }
+    ],
+    "M2": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Neighbors_(Edward_F._Cline_and_Buster_Keaton,_1920).webm",
+        "licence": "PD",
+        "producer": "Keaton/Cline; credit 'Buster Keaton: The Shorts Collection (1917-23)' = modern restoration release",
+        "res": "1440x1080",
+        "duration": "18:39, English intertitles",
+        "ok": "Content ID risk"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sherlock_Jr._-_Buster_Keaton_(1924)_HD_(720p).ogv",
+        "licence": "PD",
+        "res": "400x300",
+        "ok": false,
+        "finding": "SCOUT A WRONG: titled HD 720p, file is 400x300"
+      },
+      {
+        "url": "https://archive.org/details/steamboat-bill-jr-1928-tmdb25768",
+        "licence": "PDM 1.0",
+        "producer": "uploader dropdeadinbed, added 2026-09-20, transfer source unstated, 0 views",
+        "res": "1426x1080",
+        "ok": "provenance unknown"
+      }
+    ]
+  },
+  "pick": {
+    "merged_id": "M1",
+    "format": "top3",
+    "why_top3_not_top5": "Verified clean pool is ~9 clips after dropping Wk215: enough for 3 slots + 2 buffers each, not for 5 + buffers. Footage is slow; 3 tight beats (15-25 s) keep pace. TOP 5 only after a second NOAA dive sweep (EX2301 eight-octopus playlist, EX1811, EX1806) yields >= 15 verified clips.",
+    "ranking_criterion": "How little each deep-sea animal cares that our robot showed up (my ranking, editorial)",
+    "criterion_kind": "editorial",
+    "hooks": [
+      "We sent a robot 1.5 miles down. These animals could NOT care less.",
+      "Deep-sea animals, ranked by how unimpressed they are with our robot",
+      "Robot arrives. Octopus: absolutely not."
+    ],
+    "slots": [
+      {
+        "rank": 1,
+        "label": "Zero interest",
+        "primary": "NOAA EX2301 'eight octopus' video #6 Muusoctopus ('didn't seem too bothered or impressed' per NOAA): https://oceanexplorer.noaa.gov/okeanos/explorations/express/ex2301/features/eight-octopus/eight-octopus.html (Commons copy to find)",
+        "buffers": [
+          "https://commons.wikimedia.org/wiki/File:King_crab_eating_a_brittle_star.webm",
+          "https://commons.wikimedia.org/wiki/File:Very_Deep,_Ghostlike_Incirrate_Octopod_-_NOAA_Office_of_Ocean_Exploration_and_Research,_Hohonu_Moana_2016.webm"
+        ]
+      },
+      {
+        "rank": 2,
+        "label": "Mildly annoyed",
+        "primary": "https://commons.wikimedia.org/wiki/File:Flapjack_octopus_seafloor.webm",
+        "buffers": [
+          "https://commons.wikimedia.org/wiki/File:Ex1402-dive06_red_animal.webm",
+          "https://commons.wikimedia.org/wiki/File:Venus_Flytrap_Anemone-_2017_American_Samoa.webm (unverified)"
+        ]
+      },
+      {
+        "rank": 3,
+        "label": "Rage quit",
+        "primary": "https://commons.wikimedia.org/wiki/File:Graneledone_boreopacifica_flees.webm",
+        "buffers": [
+          "https://commons.wikimedia.org/wiki/File:Okeanos_Explorer_PR_and_USVI_Dive_8-_Psychedelic_Medusa-NOAA-1280x720.webm",
+          "https://commons.wikimedia.org/wiki/File:Graneledone_boreopacifica_close-up.webm"
+        ]
+      }
+    ],
+    "suggested_reveal": "2 -> 3 -> 1 (open on flapjack visual, flee as mid joke, deadpan #1 last); confirm with ranking:reveal after moment scores",
+    "risks": [
+      "Contractor footage: GFOE pilots / OET partners. rights-scout must confirm each clip is NOAA's own work (CLAUDE.md lesson: contractor/co-produced reels get overturned).",
+      "Broken duration metadata on two Commons webms: prefer NOAA's own mp4 masters; ffprobe before analysis.",
+      "Audio tracks (ROV chatter/narration) must be stripped; own narration + music only.",
+      "Slow footage = retention risk: needs speed-ups, punch-in zooms, tight 4-6 s windows; payoff energy low.",
+      "Planet Extremes adjacency (extreme environments): keep the comedy/behaviour angle, no depth/pressure fact rankings.",
+      "Anthropomorphism is a joke, not a claim; species names must match NOAA captions; no invented facts.",
+      "Demand unproven: no view data for this format; treat pilot as the measurement."
+    ],
+    "confidence": {
+      "feasibility": "medium-high",
+      "demand": "low",
+      "overall": "medium"
+    }
+  },
+  "disagreements": [
+    "Scout A picked silent stunts (A ranked feasibility 85); B scored them 74 and flagged IA provenance; spot-check sides with B (400x300 'HD', restoration-release Keaton copies, unknown IA transfer).",
+    "B and C both found the NOAA pool but framed it differently (B 'weirdos' = generic wonder, C 'unimpressed' = a joke criterion). C's criterion wins: it is the brand's comedic voice and NOAA's own captions support it.",
+    "A and C both proposed astronauts; A marked portfolio 45, C 58. Judge sides lower (30): same NASA ISS pool and look as Mission Voices.",
+    "A treats trend ideas as the demand signal; all three scouts agree trend and clearable footage are anti-correlated here, so trend ideas fail the gate."
+  ],
+  "db_ids": {
+    "M1": "idea-vr-261031-m1",
+    "M3": "idea-vr-261031-m3",
+    "M4": "idea-vr-261031-m4",
+    "M2": "idea-vr-261031-m2",
+    "M7": "idea-vr-261031-m7",
+    "M6": "idea-vr-261031-m6",
+    "M10": "idea-vr-261031-m10",
+    "M5": "idea-vr-261031-m5",
+    "M9": "idea-vr-261031-m9",
+    "M8": "idea-vr-261031-m8",
+    "R1": "idea-vr-261031-r1",
+    "R2": "idea-vr-261031-r2",
+    "R3": "idea-vr-261031-r3",
+    "R4": "idea-vr-261031-r4",
+    "R5": "idea-vr-261031-r5"
+  }
+}

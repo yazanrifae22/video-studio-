@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Mahomes vs Allen on Thanksgiving Night: Who's Better?",
+ "topic": "Allen leads their regular-season meetings, but Mahomes is 4-0 against him in the playoffs, including the '13 seconds' game (Jan 2022) that changed NFL playoff overtime; Allen was the 2024 MVP.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Chiefs at Bills, Thanksgiving night (8:20 pm ET, NBC) (2026-11-26). Wikipedia Patrick_Mahomes 279,123 views Sept 2026.",
+ "hook": "Who's better: Mahomes or Allen?",
+ "twist": "Allen leads their regular-season meetings, but Mahomes is 4-0 against him in the playoffs, including the '13 seconds' game (Jan 2022) that changed NFL playoff overtime; Allen was the 2024 MVP.",
+ "peg": {
+  "event": "Chiefs at Bills, Thanksgiving night (8:20 pm ET, NBC)",
+  "date": "2026-11-26",
+  "url": "https://www.nbcdfw.com/news/sports/nfl/nfl-thanksgiving-schedule-2026-chiefs-bills-eagles-cowboys-bears-lions/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "NFL.com - Mahomes vs Allen, round 10 (accessed 2026-10-24)",
+   "url": "https://amp.nfl.com/news/patrick-mahomes-vs-josh-allen-round-10-is-week-9-matchup-just-a-preview-of-another-afc-playoff-showdown"
+  },
+  {
+   "claim": "NPR - Chiefs-Bills thriller puts NFL overtime rules on defense (accessed 2026-10-24)",
+   "url": "https://www.npr.org/2022/01/24/1075375202/chiefs-bills-nfl-overtime-rules"
+  },
+  {
+   "claim": "Wikipedia - Josh Allen (2024 MVP) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Josh_Allen"
+  },
+  {
+   "claim": "Peg source: Chiefs at Bills, Thanksgiving night (8:20 pm ET, NBC) (accessed 2026-10-24)",
+   "url": "https://www.nbcdfw.com/news/sports/nfl/nfl-thanksgiving-schedule-2026-chiefs-bills-eagles-cowboys-bears-lions/"
+  },
+  {
+   "claim": "Wikimedia pageviews Patrick_Mahomes: 279123 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Patrick_Mahomes&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "NFL.com - Mahomes vs Allen, round 10",
+   "url": "https://amp.nfl.com/news/patrick-mahomes-vs-josh-allen-round-10-is-week-9-matchup-just-a-preview-of-another-afc-playoff-showdown",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "NPR - Chiefs-Bills thriller puts NFL overtime rules on defense",
+   "url": "https://www.npr.org/2022/01/24/1075375202/chiefs-bills-nfl-overtime-rules",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Josh Allen (2024 MVP)",
+   "url": "https://en.wikipedia.org/wiki/Josh_Allen",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "“Mahomes is better than Josh Allen”🤓 #nfl #shorts",
+   "url": "https://youtube.com/shorts/S1qvOXgLVX8",
+   "views": 1400000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Mahomes vs Josh Allen who is better #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Patrick Mahomes Vs Josh Allen | Sports Productions",
+   "url": "https://youtube.com/shorts/Y3q3tScPDek",
+   "views": 354000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Mahomes vs Josh Allen who is better #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Ending The Best QB Debate (Mahomes vs Allen vs Lamar vs Burrow) #shorts",
+   "url": "https://youtube.com/shorts/mwXeRAuWMT4",
+   "views": 61000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Mahomes vs Josh Allen who is better #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: Two blank helmets, red and blue, facing off over a turkey-shaped scoreboard + hook. Twist by 2.5 s. Loop: 'So who's better: Mahomes or Allen?'",
+ "cta": "C9+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Head-to-head numbers move every meeting: re-check the regular-season and playoff record on Nov 24 (NFL.com said Allen 4-1 regular season, Mahomes 4-0 playoffs as of 2024-25). Mahomes tore his ACL on 14 Dec 2025 and is playing in 2026; confirm both are active. Publish before kickoff (01:20 UTC Nov 27).",
+ "window": {
+  "notBefore": "2026-11-25T12:00:00Z",
+  "deadline": "2026-11-27T01:00:00Z",
+  "label": "Chiefs at Bills, Thanksgiving night (8:20 pm ET, NBC)",
+  "suggestedSlot": "2026-11-26T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Patrick Mahomes",
+  "Josh Allen"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

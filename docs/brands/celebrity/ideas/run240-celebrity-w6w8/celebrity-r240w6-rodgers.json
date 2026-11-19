@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Picked 24th After 4.5 Hours: The Draft Snub Behind Rodgers",
+ "topic": "At the 2005 draft Aaron Rodgers waited about four and a half hours on camera while team after team, including his hometown 49ers, passed; Green Bay took him 24th. He won four MVPs.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Aaron Rodgers turns 43 (2026-12-02). Wikipedia Aaron_Rodgers 475,533 views Sept 2026.",
+ "hook": "4.5 hours waiting. Then pick 24?",
+ "twist": "At the 2005 draft Aaron Rodgers waited about four and a half hours on camera while team after team, including his hometown 49ers, passed; Green Bay took him 24th. He won four MVPs.",
+ "peg": {
+  "event": "Aaron Rodgers turns 43",
+  "date": "2026-12-02",
+  "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Packers.com - 2005 draft oral history (accessed 2026-10-24)",
+   "url": "https://www.packers.com/news/2005-nfl-draft-oral-history-so-many-teams-needed-qbs-so-many-teams-passed-on-aaron-rodgers"
+  },
+  {
+   "claim": "NFL.com - Aaron Rodgers waits to be drafted (video) (accessed 2026-10-24)",
+   "url": "https://www.nfl.com/videos/aaron-rodgers-waits-to-be-drafted-at-the-2005-nfl-draft"
+  },
+  {
+   "claim": "National Football Post - 49ers face Rodgers and what might have been (accessed 2026-10-24)",
+   "url": "https://www.nationalfootballpost.com/49ers-face-rodgers-and-what-might-have-been"
+  },
+  {
+   "claim": "Peg source: Aaron Rodgers turns 43 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers"
+  },
+  {
+   "claim": "Wikimedia pageviews Aaron_Rodgers: 475533 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Aaron_Rodgers&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Packers.com - 2005 draft oral history",
+   "url": "https://www.packers.com/news/2005-nfl-draft-oral-history-so-many-teams-needed-qbs-so-many-teams-passed-on-aaron-rodgers",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "NFL.com - Aaron Rodgers waits to be drafted (video)",
+   "url": "https://www.nfl.com/videos/aaron-rodgers-waits-to-be-drafted-at-the-2005-nfl-draft",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "National Football Post - 49ers face Rodgers and what might have been",
+   "url": "https://www.nationalfootballpost.com/49ers-face-rodgers-and-what-might-have-been",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "21 Teams Pass on Aaron Rodgers at the 2005 NFL Draft",
+   "url": "https://www.youtube.com/watch?v=byr00d5QrLI",
+   "views": 5434137,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Aaron Rodgers draft day green room #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The NFL When Aaron Rodgers was Drafted #shorts #nfl #aaronrodgers",
+   "url": "https://youtube.com/shorts/Cp_O8zsXh7w",
+   "views": 5200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Aaron Rodgers draft day green room #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Aaron Rodgers left waiting on #NFL Draft Day",
+   "url": "https://youtube.com/shorts/8x3ARPDCccs",
+   "views": 8600,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Aaron Rodgers draft day green room #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: An empty green-room chair under a clock showing hours passing + hook. Twist by 2.5 s. Loop: 'Would you have picked him first?'",
+ "cta": "C2+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Wait is 4.5 h (Packers) vs 'nearly 5' (NFL.com): say 'about four and a half hours'. Skip his political/vaccine remarks. No team logos; an empty green-room chair and a clock.",
+ "window": {
+  "notBefore": "2026-12-01T12:00:00Z",
+  "deadline": "2026-12-04T00:00:00Z",
+  "label": "Aaron Rodgers turns 43",
+  "suggestedSlot": "2026-12-02T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Aaron Rodgers",
+  "Alex Smith"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 1,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

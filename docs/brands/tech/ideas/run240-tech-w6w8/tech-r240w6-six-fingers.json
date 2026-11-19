@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Why AI Kept Drawing Six Fingers",
+ "topic": "Image AI learned hands from photos where fingers overlap, hide and bend; it learned 'finger-ish shapes go here', not 'a hand has five'.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Huge demand (1.5M on the exact question) and a frame-0 counting challenge; one strong competitor, so win on the hook.",
+ "evidence": [
+  {
+   "claim": "PetaPixel (Mar 2023): why AI image generators can't get hands right (Stability AI comment) (accessed 2026-10-24)",
+   "url": "https://petapixel.com/2023/03/02/why-ai-image-generators-cant-get-hands-right/"
+  },
+  {
+   "claim": "BBC Science Focus: why AI-generated hands are the stuff of nightmares (Peter Bentley) (accessed 2026-10-24)",
+   "url": "https://www.sciencefocus.com/future-technology/why-ai-generated-hands-are-the-stuff-of-nightmares-explained-by-a-scientist"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "why can't AI draw hands",
+   "url": "https://youtube.com/shorts/0YdncCkGQUg",
+   "views": "1.5M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why AI Can't Draw Hands?",
+   "url": "https://youtube.com/shorts/7SoGaIBoKwk",
+   "views": "5K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Count the fingers. Six?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Image AI learned hands from photos where fingers overlap, hide and bend; it learned 'finger-ish shapes go here', not 'a hand has five'. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Count the fingers. Six?",
+ "twist": "Image AI learned hands from photos where fingers overlap, hide and bend; it learned 'finger-ish shapes go here', not 'a hand has five'.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-03 18:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Why AI Couldn't Draw a Left-Handed Writer' (existing): different failure. Say 'kept drawing' (newer models improved).",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 13,
+ "score10": 8.9,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "_doc": "Render-time text safety (owner 2026-11-08: 'every text in the frame viewable: not overflowing the video or cut'). Read by packages/render/src/text-safety.ts -> vN/qa/text-safety.json. Coordinates are % of the canvas (x from the left, y from the top). Zones: default per aspect, a brand entry REPLACES the zone with the same id (brand docs are the source). Exemptions remove the listed issues from matching items and are listed on the item as exempt[] with the reason. docs/gates.md.",
+ "margin_pct_of_short_side": 4,
+ "min_cap_height_pct": 2.2,
+ "_role_doc": "owner 2026-11-08: main text (default role) keeps min_cap_height_pct 2.2; role label (small labels: round counters, rank rail sublabels, badges, chips) min 1.4. Role comes from the builder: timeline text item role, HyperFrames data-ts-role=\"label\" on the element or an ancestor, else a brands.<brand>.roles rule (image layers that cannot carry metadata).",
+ "role_min_cap_height_pct": { "label": 1.4 },
+ "min_issue_seconds": 0.3,
+ "overlap_min_area_frac": 0.1,
+ "html_sample_step_s": 0.1,
+ "blocking": ["clipped", "offcanvas", "overlap", "too_small", "ui_zone", "unsafe_margin"],
+ "warning_only": ["rtl"],
+ "warning_only_sources": ["layer"],
+ "_layer_doc": "image / alpha-video overlays on tracks whose name matches layer_tracks are checked by their painted (alpha) box over all frames: offcanvas / unsafe_margin / ui_zone only, warnings (the union box is coarse); frame-text-inspector confirms them on frames.",
+ "layer_tracks": "title|rail|badge|caption|overlay|label|lower|card|wall|hook|cta|endcard|end card",
+ "layer_tracks_skip": "brand|logo|bug|picture|scene|round|hit|white|flash",
+ "zones": {
+  "9:16": [
+   { "id": "bottom", "x0": 0, "x1": 100, "y0": 80, "y1": 100, "why": "Shorts/Reels/TikTok caption bar, channel row, subscribe (hook-playbook H3, upload-post safe-zone checker: bottom 20-25%)" },
+   { "id": "right_rail", "x0": 85, "x1": 100, "y0": 0, "y1": 100, "why": "like/comment/share action rail (hook-playbook H3: right 15% clear)" },
+   { "id": "top_chrome", "x0": 0, "x1": 100, "y0": 0, "y1": 7, "why": "status bar + Shorts top icons (viral-rankings BRAND-GUIDE section 8: top ~150 px)" }
+  ],
+  "16:9": [
+   { "id": "player_controls", "x0": 0, "x1": 100, "y0": 90, "y1": 100, "why": "YouTube player progress bar + controls (shown on hover/pause)" }
+  ]
+ },
+ "brands": {
+  "viral-rankings": {
+   "zones": [
+    { "id": "bottom", "x0": 0, "x1": 100, "y0": 73.96, "y1": 100, "why": "BRAND-GUIDE section 8: nothing textual below y 1420 (union text-safe box y 270-1420)" },
+    { "id": "right_rail", "x0": 86.67, "x1": 100, "y0": 0, "y1": 100, "why": "BRAND-GUIDE section 8: union text-safe box x 64-936" }
+   ],
+   "exempt": [
+    { "match": { "source": "layer", "layer": "title" }, "allow": ["ui_zone:right_rail", "unsafe_margin"], "reason": "BRAND-GUIDE section 8 + cutlist title_layout tall/compact: title band x 40-1040 at y 262-402, heights without platform UI" },
+    { "match": { "source": "layer", "layer": "rail" }, "allow": ["unsafe_margin"], "reason": "BRAND-GUIDE section 8: rank rail at x 28" }
+   ],
+   "roles": [
+    { "match": { "layer": "rail|badge" }, "role": "label", "reason": "owner 2026-11-08: rank rail sublabels + badges are small labels (min cap 1.4 %); image layers cannot carry builder metadata" }
+   ]
+  },
+  "quiz-ar": {
+   "zones": [
+    { "id": "bottom", "x0": 0, "x1": 100, "y0": 77.08, "y1": 100, "why": "visual-system.md: nothing critical below y 1480 (TikTok/Reels/Shorts caption + buttons)" },
+    { "id": "right_rail", "x0": 87.96, "x1": 100, "y0": 41.67, "y1": 88.54, "why": "visual-system.md: right 950-1080 between y 800-1700 (action rail)" },
+    { "id": "top_chrome", "x0": 0, "x1": 100, "y0": 0, "y1": 10.94, "why": "visual-system.md: keep clear top 0-210" }
+   ],
+   "exempt": []
+  },
+  "kids": { "_doc": "16:9 Made for Kids episodes: text lives in the 3D picture (series sign, wall tiles); only the wall/title PNG layers are measurable here; frame-text-inspector checks the rest on frames.", "exempt": [] }
+ }
+}

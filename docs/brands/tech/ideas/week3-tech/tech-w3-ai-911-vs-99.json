@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Why AI Said 9.11 Is Bigger Than 9.9",
+ "topic": "LLM number comparison failure (versions, dates, Bible verses)",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Instantly playable puzzle with a known AI meme; competitors stuck at ~1K so the gap is execution.",
+ "evidence": [
+  {
+   "claim": "Transluce Monitor: 9.8 vs 9.11 error traced to neurons tied to dates and Bible verses; suppressing them fixed it (accessed 2026-10-23)",
+   "url": "https://transluce.org/observability-interface"
+  },
+  {
+   "claim": "36Kr: Riley Goodside found GPT-4o said 9.11 > 9.9 (July 2024); Gemini and Claude also failed (accessed 2026-10-23)",
+   "url": "https://www.36kr.com/p/2864588442749833"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Is 9.11 Bigger Than 9.9? AI Said Yes",
+   "url": "https://youtube.com/shorts/444I_S0XR1M",
+   "views": "1.2K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why AI thought 9.11 is bigger than 9.9",
+   "url": "https://youtube.com/shorts/arYzxNsRwco",
+   "views": "1.1K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: '9.11 vs 9.9' in huge digits + hook - viewer answers. Twist: famous chatbots said 9.11. Why: in its training text 9.11 often comes AFTER 9.9 - software versions, dates (Sept 11 after Sept 9), chapter:verse - and interpretability work found date/Bible-verse features firing. Loop: 'So which is bigger?'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Which is bigger: 9.11 or 9.9?",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Current models mostly answer correctly; phrase as \"said\".",
+ "window": null,
+ "novelty": {
+  "overlap": "MEDIUM with 'Why AI Can't Count the R's in Strawberry' (same 'AI fails a kid's puzzle' frame). Keep tokens out; explain with versions/dates. Schedule >= 3 days from any AI-tokens Short.",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

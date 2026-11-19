@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why AI Can't Play Hangman Fairly",
+ "topic": "A chatbot has no hidden notepad: the 'secret word' doesn't exist until it writes it, so it keeps changing to fit your guesses.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Play-along AI quirk; proven interest (735K long-form), no strong Short on the 'why'.",
+ "evidence": [
+  {
+   "claim": "Shanahan, McDonell & Reynolds, Nature 2023: an LLM playing 20 questions doesn't commit to an object, it keeps a superposition (accessed 2026-10-24)",
+   "url": "https://www.nature.com/articles/s41586-023-06647-8"
+  },
+  {
+   "claim": "Large language model (no persistent hidden state between turns beyond the visible text) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Large_language_model"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "I played hangman with ChatGPT and it CHEATED (long)",
+   "url": "https://www.youtube.com/watch?v=oSK74axISoY",
+   "views": "735K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  },
+  {
+   "title": "How to Trick ChatGPT",
+   "url": "https://youtube.com/shorts/18qf30zpVi0",
+   "views": "3.5M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Play hangman with AI. Does it cheat?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: A chatbot has no hidden notepad: the 'secret word' doesn't exist until it writes it, so it keeps changing to fit your guesses. Loop ending: re-ask the hook.",
+ "hook": "Play hangman with AI. Does it cheat?",
+ "twist": "A chatbot has no hidden notepad: the 'secret word' doesn't exist until it writes it, so it keeps changing to fit your guesses.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-11 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW-MEDIUM with 'How ChatGPT Writes One Word at a Time'. Keep the focus on the missing secret.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 14,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

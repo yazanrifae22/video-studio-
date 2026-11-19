@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Around the World in 72 Days, With a Secret Rival",
+ "topic": "The day Nellie Bly left New York (Nov 14, 1889), Cosmopolitan sent Elizabeth Bisland the opposite way; Bly won.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: 137th anniversary of Nellie Bly's departure (2026-11-14). Wikipedia Nellie_Bly 23,089 views Sept 2026.",
+ "hook": "Racing Jules Verne... or someone else?",
+ "twist": "The day Nellie Bly left New York (Nov 14, 1889), Cosmopolitan sent Elizabeth Bisland the opposite way; Bly won.",
+ "peg": {
+  "event": "137th anniversary of Nellie Bly's departure",
+  "date": "2026-11-14",
+  "url": "https://en.wikipedia.org/wiki/Nellie_Bly",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Public Domain Review - Elizabeth Bisland's race around the world (accessed 2026-10-24)",
+   "url": "https://publicdomainreview.org/essay/elizabeth-bislands-race-around-the-world"
+  },
+  {
+   "claim": "Columbia Journalism Review - Fast women (accessed 2026-10-24)",
+   "url": "https://www.cjr.org/critical_eye/fast_women.php"
+  },
+  {
+   "claim": "Wikipedia - Elizabeth Bisland (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Elizabeth_Bisland"
+  },
+  {
+   "claim": "Peg source: 137th anniversary of Nellie Bly's departure (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Nellie_Bly"
+  },
+  {
+   "claim": "Wikimedia pageviews Nellie_Bly: 23089 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Nellie_Bly&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Public Domain Review - Elizabeth Bisland's race around the world",
+   "url": "https://publicdomainreview.org/essay/elizabeth-bislands-race-around-the-world",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Columbia Journalism Review - Fast women",
+   "url": "https://www.cjr.org/critical_eye/fast_women.php",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Elizabeth Bisland",
+   "url": "https://en.wikipedia.org/wiki/Elizabeth_Bisland",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "She Raced Around the World… and Didn't Know It 🌍",
+   "url": "https://youtube.com/shorts/nVy_QFbEKPM",
+   "views": 261,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Nellie Bly: Racing Around the World to Beat Fiction in 1889",
+   "url": "https://youtube.com/shorts/NNOEqTKcAqQ",
+   "views": 1000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "2 Journalists, 1 Goal The Most Epic Race in History  #history #ytshorts #epic #race #journal",
+   "url": "https://youtube.com/shorts/5-ZdZVnG1YI",
+   "views": 21,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a globe with two arrows leaving New York in opposite directions + hook. Twist: two women, same day. Loop: 'Which way would you go?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Do NOT claim Bly 'didn't know' (that line comes from a stage play, unverified). Bly's time 72 days; Bisland 76 days per Wikipedia - verify before scripting.",
+ "window": {
+  "notBefore": "2026-11-13T12:00:00Z",
+  "deadline": "2026-11-16T00:00:00Z",
+  "label": "137th anniversary of Nellie Bly's departure",
+  "suggestedSlot": "2026-11-14T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Bad Bunny or Taylor Swift: Who Owns Spotify Wrapped?",
+ "topic": "Bad Bunny was Spotify's global No. 1 artist in 2020, 2021, 2022 and 2025 (19.8 billion streams last year); Taylor Swift took 2023 and 2024. Wrapped 2026 drops this week.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Spotify Wrapped 2026 (expected first week of Dec; 2025 edition was 3 Dec) (2026-12-03). Wikipedia Bad_Bunny 111,313 views Sept 2026.",
+ "hook": "Who owns Wrapped: Bunny or Taylor?",
+ "twist": "Bad Bunny was Spotify's global No. 1 artist in 2020, 2021, 2022 and 2025 (19.8 billion streams last year); Taylor Swift took 2023 and 2024. Wrapped 2026 drops this week.",
+ "peg": {
+  "event": "Spotify Wrapped 2026 (expected first week of Dec; 2025 edition was 3 Dec)",
+  "date": "2026-12-03",
+  "url": "https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Spotify Newsroom - 2025 Wrapped (accessed 2026-10-24)",
+   "url": "https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/"
+  },
+  {
+   "claim": "NBC News - Bad Bunny dethrones Taylor Swift as most-streamed artist (accessed 2026-10-24)",
+   "url": "https://www.nbcnews.com/news/amp/rcna247144"
+  },
+  {
+   "claim": "Digital Music News - Spotify Wrapped 2025 highlights (accessed 2026-10-24)",
+   "url": "https://www.digitalmusicnews.com/2025/12/03/spotify-wrapped-2025-highlights/"
+  },
+  {
+   "claim": "Peg source: Spotify Wrapped 2026 (expected first week of Dec; 2025 edition was 3 Dec) (accessed 2026-10-24)",
+   "url": "https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/"
+  },
+  {
+   "claim": "Wikimedia pageviews Bad_Bunny: 111313 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Bad_Bunny&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Spotify Newsroom - 2025 Wrapped",
+   "url": "https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "NBC News - Bad Bunny dethrones Taylor Swift as most-streamed artist",
+   "url": "https://www.nbcnews.com/news/amp/rcna247144",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Digital Music News - Spotify Wrapped 2025 highlights",
+   "url": "https://www.digitalmusicnews.com/2025/12/03/spotify-wrapped-2025-highlights/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "ARMYs x Swifties after topping Spotify 😭 #bts #taylorswift #swim #shorts #fyp #viral",
+   "url": "https://youtube.com/shorts/K6XGmzxP04Y",
+   "views": 20000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bad Bunny vs Taylor Swift Spotify Wrapped #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Taylor Swift BEATS Bad Bunny to Become Spotify's Greatest Artist in History!",
+   "url": "https://youtube.com/shorts/e7_ZVJSUMK4",
+   "views": 822,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bad Bunny vs Taylor Swift Spotify Wrapped #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Taylor Swift & Bad Bunny Just Made Spotify History! #taylorswift #badbunny #short #shorts",
+   "url": "https://youtube.com/shorts/z5FXGnCraeA",
+   "views": 1500,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bad Bunny vs Taylor Swift Spotify Wrapped #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: Two golden crowns on a giant play button + hook. Twist by 2.5 s. Loop: 'So who owns Wrapped: Bunny or Taylor?'",
+ "cta": "C9+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Wrapped 2026 date is not announced: if it is out before this slot, lead with the 2026 winner. Taylor also appears Dec 10 23:00 (7 days 10 h later). No Spotify logo or app UI.",
+ "window": {
+  "notBefore": "2026-12-02T12:00:00Z",
+  "deadline": "2026-12-05T00:00:00Z",
+  "label": "Spotify Wrapped 2026 (expected first week of Dec; 2025 edition was 3 Dec)",
+  "suggestedSlot": "2026-12-03T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Bad Bunny",
+  "Taylor Swift"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

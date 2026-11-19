@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Davis Cup Starts: A Harvard Student Paid for the Trophy",
+ "topic": "Dwight Davis, a Harvard player, bought the sterling silver bowl himself in 1900 (about $1,000); it still carries his name.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Davis Cup Final 8 opens in Bologna (Nov 24-29) (2026-11-24). Wikipedia Davis_Cup 55,626 views Sept 2026.",
+ "hook": "Who paid for the Davis Cup?",
+ "twist": "Dwight Davis, a Harvard player, bought the sterling silver bowl himself in 1900 (about $1,000); it still carries his name.",
+ "peg": {
+  "event": "Davis Cup Final 8 opens in Bologna (Nov 24-29)",
+  "date": "2026-11-24",
+  "url": "https://www.flashscore.com/news/tennis-davis-cup-world-group-teams-men-davis-cup-finals-2026-all-you-need-to-know-about-the-bologna-event/p4lvqhw0/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Davis Cup (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Davis_Cup"
+  },
+  {
+   "claim": "Wikipedia - 1900 International Lawn Tennis Challenge (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/1900_International_Lawn_Tennis_Challenge"
+  },
+  {
+   "claim": "HITC - What happened at the first Davis Cup 125 years ago (accessed 2026-10-24)",
+   "url": "https://www.hitc.com/what-happened-when-the-first-ever-davis-cup-took-place-125-years-ago/"
+  },
+  {
+   "claim": "Peg source: Davis Cup Final 8 opens in Bologna (Nov 24-29) (accessed 2026-10-24)",
+   "url": "https://www.flashscore.com/news/tennis-davis-cup-world-group-teams-men-davis-cup-finals-2026-all-you-need-to-know-about-the-bologna-event/p4lvqhw0/"
+  },
+  {
+   "claim": "Wikimedia pageviews Davis_Cup: 55626 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Davis_Cup&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Davis Cup",
+   "url": "https://en.wikipedia.org/wiki/Davis_Cup",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - 1900 International Lawn Tennis Challenge",
+   "url": "https://en.wikipedia.org/wiki/1900_International_Lawn_Tennis_Challenge",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "HITC - What happened at the first Davis Cup 125 years ago",
+   "url": "https://www.hitc.com/what-happened-when-the-first-ever-davis-cup-took-place-125-years-ago/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "history of davis cup #trending #viral #shorts #daviscup #tennis",
+   "url": "https://youtube.com/shorts/oybHFty18mE",
+   "views": 34,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Unexpected Clash of Titans: The 1997 Davis Cup Final",
+   "url": "https://youtube.com/shorts/NABuxva3TIY",
+   "views": 677,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "On This Day - Feb 9 - Davis Cup #tennis",
+   "url": "https://youtube.com/shorts/44azSQI3l48",
+   "views": 14,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a silver punch bowl with a student ID card propped against it + hook. Twist: a student's own money. Loop: 'What would you name after yourself?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Don't credit Davis with inventing the format (disputed); he paid for the trophy. Cost ~$1,000 is approximate. No ITF/Davis Cup logos.",
+ "window": {
+  "notBefore": "2026-11-23T12:00:00Z",
+  "deadline": "2026-11-26T00:00:00Z",
+  "label": "Davis Cup Final 8 opens in Bologna (Nov 24-29)",
+  "suggestedSlot": "2026-11-24T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

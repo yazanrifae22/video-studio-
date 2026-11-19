@@ -1,0 +1,51 @@
+{
+ "channel": "tech",
+ "title": "Why AI Forgets the Start of Long Chats (Context Windows in 45s)",
+ "topic": "LLM context window",
+ "audience": "Heavy ChatGPT/Claude users, AI-automation builders, junior devs",
+ "whyCare": "Everyone has seen a long chat 'forget' instructions; the context window explains it and how to work around it.",
+ "evidence": [
+  {
+   "claim": "Matt Pocock 'Most devs don't understand how context windows work' 298,011 views (~11 months); 'Context Management in Claude Code' 433,327 views (~5 months)",
+   "url": "https://www.youtube.com/results?search_query=context%20window%20explained&sp=CAMSAggF"
+  },
+  {
+   "claim": "Gap: context-window Shorts in search show only 5 to 1.4K views (e.g. 'Why AI Forgets Your Name (Context Window Explained)' 1.4K)",
+   "url": "https://www.youtube.com/results?search_query=context%20window%20AI%20%23shorts"
+  },
+  {
+   "claim": "Timely tie-in: GitHub Universe 2026 (agentic dev tools) runs Oct 28-29 in San Francisco",
+   "url": "https://github.blog/author/arielkanter/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Most devs don't understand how context windows work (Matt Pocock)",
+   "url": "https://www.youtube.com/watch?v=-uW5-TaVXu4",
+   "views": "298,011",
+   "verified": true
+  },
+  {
+   "title": "Why AI Forgets Your Name (Context Window Explained) (Short)",
+   "url": "https://www.youtube.com/shorts/7HOwfzc2-2I",
+   "views": "1.4K",
+   "verified": true
+  }
+ ],
+ "angle": "Conveyor-belt diagram: messages enter a fixed-size window box; when full, the oldest block slides out. Bars chart: window sizes in 'pages of text' (published model limits only, cited with dates). Fix card: summarise / restate key instructions.",
+ "durationSec": 45,
+ "format": "short",
+ "hook": "You told the AI your rules 50 messages ago. It no longer sees them.",
+ "difficulty": 2,
+ "estCostUsd": 3,
+ "strengths": "Relatable pain point; very weak Shorts competition; simple visual metaphor",
+ "weaknesses": "Model limits change often; 'forgets' oversimplifies tools that compact or summarise",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

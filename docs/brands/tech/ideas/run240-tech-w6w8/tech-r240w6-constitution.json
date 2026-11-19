@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "AI Detectors Say the US Constitution Was Written by AI",
+ "topic": "Detectors flag text that is very predictable; famous old text is all over the training data, so it looks 'AI' to them. OpenAI even shut its own detector for low accuracy.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Students care (essay season); competitors <= 1.5K.",
+ "evidence": [
+  {
+   "claim": "Ars Technica (Jul 2023): why AI detectors think the US Constitution was written by AI (accessed 2026-10-24)",
+   "url": "https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/"
+  },
+  {
+   "claim": "Wikipedia: Artificial intelligence content detection (accuracy problems, OpenAI classifier withdrawn Jul 2023) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_content_detection"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "AI detectors flagged the US Constitution",
+   "url": "https://youtube.com/shorts/-pSSUXPg44A",
+   "views": "1.4K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "AI Detectors Think the Constitution Was Written by AI",
+   "url": "https://youtube.com/shorts/luJQmWJO3rc",
+   "views": "1.2K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('1787 document. Written by AI?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Detectors flag text that is very predictable; famous old text is all over the training data, so it looks 'AI' to them. OpenAI even shut its own detector for low accuracy. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "1787 document. Written by AI?",
+ "twist": "Detectors flag text that is very predictable; famous old text is all over the training data, so it looks 'AI' to them. OpenAI even shut its own detector for low accuracy.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-04 15:00 UTC",
+ "novelty": {
+  "overlap": "none.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 50,
+ "score10": 8.0,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

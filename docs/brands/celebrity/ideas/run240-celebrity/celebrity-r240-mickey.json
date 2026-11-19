@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Mickey's Birthday: His First Cartoon Couldn't Find a Buyer",
+ "topic": "Plane Crazy (silent) was made first and found no distributor; adding synced sound to Steamboat Willie (Nov 18, 1928) launched Mickey.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Mickey Mouse's official birthday (Steamboat Willie premiere, 1928) (2026-11-18). Wikipedia Steamboat_Willie 23,162 views Sept 2026.",
+ "hook": "Mickey's real first cartoon flopped?",
+ "twist": "Plane Crazy (silent) was made first and found no distributor; adding synced sound to Steamboat Willie (Nov 18, 1928) launched Mickey.",
+ "peg": {
+  "event": "Mickey Mouse's official birthday (Steamboat Willie premiere, 1928)",
+  "date": "2026-11-18",
+  "url": "https://en.wikipedia.org/wiki/Steamboat_Willie",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Mental Floss - 11 high-flying facts about Plane Crazy (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/article/500969/11-high-flying-facts-about-plane-crazy"
+  },
+  {
+   "claim": "Wikipedia - Plane Crazy (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Plane_Crazy"
+  },
+  {
+   "claim": "MousePlanet - Plane Crazy about Mickey Mouse (accessed 2026-10-24)",
+   "url": "https://mouseplanet.com/8238/Plane_Crazy_About_Mickey_Mouse"
+  },
+  {
+   "claim": "Peg source: Mickey Mouse's official birthday (Steamboat Willie premiere, 1928) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Steamboat_Willie"
+  },
+  {
+   "claim": "Wikimedia pageviews Steamboat_Willie: 23162 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Steamboat_Willie&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Mental Floss - 11 high-flying facts about Plane Crazy",
+   "url": "https://www.mentalfloss.com/article/500969/11-high-flying-facts-about-plane-crazy",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Plane Crazy",
+   "url": "https://en.wikipedia.org/wiki/Plane_Crazy",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "MousePlanet - Plane Crazy about Mickey Mouse",
+   "url": "https://mouseplanet.com/8238/Plane_Crazy_About_Mickey_Mouse",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "“Mickey Mouse” - Plane Crazy (1929) - Walt Disney | 1,403 views",
+   "url": "https://youtu.be/hQ28MkBg2hA",
+   "views": 1403,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Plane Crazy (1928) | Mickey's First Flying Adventure ✈️ #Shorts | 13 views",
+   "url": "https://youtu.be/OEuNECrSrA0",
+   "views": 13,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Plane Crazy (1928) Mickey Mouse | 999,711 views",
+   "url": "https://youtu.be/eJQMiUq1eKI",
+   "views": 999711,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a silent film card 'NO DISTRIBUTOR' over a paper plane + hook. Twist: sound saved him. Loop: 'Turn the sound off - would you have watched?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Do not draw Mickey (even the public-domain 1928 version carries trademark risk): use a toy plane + steamboat + sound wave. No Disney logo.",
+ "window": {
+  "notBefore": "2026-11-17T12:00:00Z",
+  "deadline": "2026-11-19T06:00:00Z",
+  "label": "Mickey Mouse's official birthday (Steamboat Willie premiere, 1928)",
+  "suggestedSlot": "2026-11-18T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

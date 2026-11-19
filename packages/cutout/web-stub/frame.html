@@ -1,0 +1,75 @@
+<!doctype html>
+<!-- Karto cutout STUB page (builder tests only; the real kit is packages/cutout/web/frame.html). Implements docs/brands/karto/CONTRACT.md
+     minimally: __load(show) -> {cues, lint}, __seek(t) pure function of film time, __ready. Colour per chapter, the two speakers as
+     flat cards (the speaking one bobs), current line + speaker, page-drawn captions, hook / end text, Short hook + "full video" card,
+     a moving bar (so techqa no_freeze passes), wide 1920x1080 and tall 1080x1920 layouts, ltr / rtl. -->
+<html><head><meta charset="utf-8"><title>cutout stub</title><link rel="icon" href="data:,">
+<style>
+  html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#222;font-family:"Segoe UI",Tahoma,Arial,sans-serif}
+  #st{position:absolute;inset:0;overflow:hidden}
+  .board{position:absolute;background:#f3ead8;border-radius:18px;box-shadow:0 14px 0 #0003;display:flex;align-items:center;justify-content:center;text-align:center;color:#2b2118;font-weight:700;padding:3%;box-sizing:border-box}
+  .who{position:absolute;border-radius:14px;display:flex;align-items:flex-end;justify-content:center;font-weight:800;color:#2b2118;box-shadow:0 10px 0 #0004}
+  .karto{background:#b98a55}.skip{background:#ffd84a}
+  .cap{position:absolute;left:5%;right:5%;text-align:center;color:#fff;font-weight:800;text-shadow:0 3px 0 #000,0 0 8px #000}
+  .cap b{color:#ffd84a}
+  .chap{position:absolute;top:2.5%;color:#fff;font-weight:700;opacity:.85}
+  .big{position:absolute;left:6%;right:6%;text-align:center;color:#fff;font-weight:900;text-shadow:0 5px 0 #000,0 0 14px #000}
+  .card{position:absolute;left:8%;right:8%;background:#ffd84a;color:#2b2118;border-radius:20px;text-align:center;font-weight:900;padding:2.5% 3%;box-shadow:0 12px 0 #0005}
+  #bar{position:absolute;left:0;bottom:0;height:1.2%;background:#ffd84a}
+  #tick{position:absolute;bottom:1.2%;width:18%;height:3%;background:#ffffffcc;border-radius:8px}
+</style></head>
+<body><div id="st"></div>
+<script>
+(() => {
+  let S = null, W = 1920, H = 1080, tall = false;
+  const COLORS = ['#3d5a80', '#6b4e71', '#2a6f5e', '#8a5a2b', '#5b3f8c', '#2f6690', '#7a3b3b', '#44633f'];
+  const esc = s => String(s).replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+  const lineAt = t => { let cur = null; for (const l of S.lines) { if (l.t0 - 0.25 <= t) cur = l; } return cur; };
+  window.__ready = false;
+  window.__load = async (show, opts) => {
+    S = show; W = show.width; H = show.height; tall = show.layout === 'tall';
+    document.documentElement.dir = show.dir || 'ltr';
+    const st = document.getElementById('st'); st.style.width = W + 'px'; st.style.height = H + 'px';
+    const cues = [{ name: 'pop', t: 0.05, db: -16 }];
+    S.chapters.forEach((c, i) => { if (i) cues.push({ name: 'flip', t: +(c.t0 + 0.02).toFixed(3), db: -14 }); });
+    S.lines.forEach((l, i) => { if (i && S.lines[i - 1].who !== l.who) cues.push({ name: 'slide', t: +Math.max(0, l.t0 - 0.12).toFixed(3), db: -20 }); });
+    const last = S.lines[S.lines.length - 1];
+    if (last) cues.push({ name: 'chime', t: +(last.t1 + 0.3).toFixed(3), db: -20 });
+    window.__ready = true;
+    return { cues, lint: ['stub page (packages/cutout/web-stub): no film.js, no real look'], marks: {} };
+  };
+  window.__seek = t => {
+    const u = tall ? H / 1920 : H / 1080, px = n => Math.round(n * u) + 'px';
+    const ci = Math.max(0, S.chapters.findIndex(c => t >= c.t0 && t < c.t1)), ch = S.chapters[ci] || S.chapters[0];
+    const l = lineAt(t), active = l && t <= l.t1 + 0.35 ? l : null, rtl = S.dir === 'rtl';
+    const bob = w => (active && active.who === w ? Math.sin(t * 9) * 10 : Math.sin(t * 2 + (w === "skip" ? 1 : 0)) * 6);   // idle sway keeps the picture alive in pauses
+    let h = '';
+    const board = tall ? { x: 6, y: 9, w: 88, h: 34 } : { x: 25, y: 10, w: 50, h: 46 };
+    h += `<div class="board" style="left:${board.x}%;top:${board.y}%;width:${board.w}%;height:${board.h}%;font-size:${px(tall ? 64 : 54)};direction:${S.dir}">${active ? esc(active.text) : ''}</div>`;
+    const sp = tall ? { karto: { x: 8, y: 50, w: 40, h: 30 }, skip: { x: 56, y: 58, w: 32, h: 22 } } : { karto: { x: 4, y: 30, w: 17, h: 52 }, skip: { x: 80, y: 46, w: 15, h: 36 } };
+    for (const w of ['karto', 'skip']) {
+      const b = sp[w], x = rtl ? 100 - b.x - b.w : b.x;
+      h += `<div class="who ${w}" style="left:${x}%;top:calc(${b.y}% + ${bob(w).toFixed(1)}px);width:${b.w}%;height:${b.h}%;font-size:${px(46)};outline:${active && active.who === w ? px(8) + ' solid #fff' : 'none'}">${w === 'karto' ? (S.lang === 'ar' ? 'كرتو' : 'Karto') : (S.lang === 'ar' ? 'سكيب' : 'Skip')}</div>`;
+    }
+    h += `<div class="chap" style="${rtl ? 'right' : 'left'}:3%;font-size:${px(34)}">${esc(ch ? ch.id + ' · ' + ch.title : '')}</div>`;
+    if (S.captions && active) {
+      const ws = active.words.map(w => (t >= w.t0 && t < w.t1 + 0.05 ? `<b>${esc(w.w)}</b>` : esc(w.w))).join(' ');
+      h += `<div class="cap" dir="${S.dir}" style="top:${tall ? 84 : 84}%;font-size:${px(tall ? 58 : 50)}"><span style="opacity:.7">${esc(active.who)}:</span> ${ws}</div>`;
+    }
+    const w0 = S.window ? S.window.t0 : 0;
+    if (S.short) {
+      if (t - w0 < 2.5) h += `<div class="big" dir="${S.dir}" style="top:${tall ? 2 : 4}%;font-size:${px(86)}">${esc(S.short.hook_text)}</div>`;
+      if (S.short.t1 - t < 2.5) h += `<div class="card" dir="${S.dir}" style="top:44%;font-size:${px(72)}">${esc(S.short.cta_text)}</div>`;
+    } else {
+      if (t < 3) h += `<div class="big" dir="${S.dir}" style="top:${tall ? 2 : 60}%;font-size:${px(96)}">${esc(S.hook_text)}</div>`;
+      const last = S.lines[S.lines.length - 1];
+      if (S.end_text && last && t > last.t1) h += `<div class="card" dir="${S.dir}" style="top:62%;font-size:${px(72)}">${esc(S.end_text)}</div>`;
+    }
+    const span = (S.window ? S.window.t1 - S.window.t0 : S.duration) || 1, p = Math.max(0, Math.min(1, (t - w0) / span));
+    h += `<div id="bar" style="width:${(p * 100).toFixed(2)}%"></div><div id="tick" style="left:${(((t * 23) % 82)).toFixed(2)}%"></div>`;
+    const st = document.getElementById('st');
+    st.style.background = COLORS[ci % COLORS.length];
+    st.innerHTML = h;
+  };
+})();
+</script></body></html>

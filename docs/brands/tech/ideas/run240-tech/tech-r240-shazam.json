@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "How Shazam Names a Song in Seconds",
+ "topic": "It turns sound into a map of the loudest notes, makes a fingerprint from their pattern, and matches it in a giant index.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Proven demand (3.5M); very visual (spectrogram constellation).",
+ "evidence": [
+  {
+   "claim": "Avery Wang (2003), 'An Industrial-Strength Audio Search Algorithm' (Shazam paper) (accessed 2026-10-24)",
+   "url": "https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf"
+  },
+  {
+   "claim": "Shazam (application) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Shazam_(application)"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How does Shazam work?",
+   "url": "https://youtube.com/shorts/dFR-pe_OtO0",
+   "views": "3.5M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "How Shazam Works (long)",
+   "url": "https://www.youtube.com/watch?v=kMNSAhsyiDg",
+   "views": "2.7M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Noisy bar. Song found. How?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: It turns sound into a map of the loudest notes, makes a fingerprint from their pattern, and matches it in a giant index. Loop ending: re-ask the hook.",
+ "hook": "Noisy bar. Song found. How?",
+ "twist": "It turns sound into a map of the loudest notes, makes a fingerprint from their pattern, and matches it in a giant index.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-12 22:00 UTC",
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 20,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

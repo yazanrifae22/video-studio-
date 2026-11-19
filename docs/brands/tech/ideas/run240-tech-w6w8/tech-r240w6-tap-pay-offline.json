@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Airplane Mode On. Tap to Pay Still Works?",
+ "topic": "Usually yes: the card token lives in a secure chip on the phone and the shop's terminal does the online part; your phone just talks to it over NFC.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Checkable surprise (T3); a 20K live test exists in Tamil only.",
+ "evidence": [
+  {
+   "claim": "iPhone Life: does Apple Pay work without internet? (card data stored on device) (accessed 2026-10-24)",
+   "url": "https://iphonelife.com/content/does-apple-pay-work-without-internet"
+  },
+  {
+   "claim": "Apple Platform Security: Apple Pay component security (Secure Element, device account number) (accessed 2026-10-24)",
+   "url": "https://support.apple.com/guide/security/apple-pay-component-security-sec2561eb018/web"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Apple Pay Offline-la Work Aaguma? LIVE TEST!",
+   "url": "https://youtube.com/shorts/qvHFYbivboY",
+   "views": "20K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "(meme) apple pay vs banana pay",
+   "url": "https://youtube.com/shorts/5A91Y_JmCJ4",
+   "views": "30M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Airplane mode. Tap to pay. Works?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Usually yes: the card token lives in a secure chip on the phone and the shop's terminal does the online part; your phone just talks to it over NFC. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Airplane mode. Tap to pay. Works?",
+ "twist": "Usually yes: the card token lives in a secure chip on the phone and the shop's terminal does the online part; your phone just talks to it over NFC.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-08 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Does Your Phone Really Endanger the Plane?' (existing). Test on script day: Airplane Mode may switch NFC off on some Androids.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 27,
+ "score10": 8.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why Siri Answers When Nobody Called It",
+ "topic": "A tiny always-on detector listens only for the wake sound and is tuned not to miss you, so similar sounds trigger it.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Everyone has had a random Siri/Alexa wake; Siri Shorts reach millions; no explainer in top results.",
+ "evidence": [
+  {
+   "claim": "Apple Machine Learning Research: 'Hey Siri' on-device detector (accessed 2026-10-24)",
+   "url": "https://machinelearning.apple.com/research/hey-siri"
+  },
+  {
+   "claim": "Dubois et al. 2020 (Northeastern/Imperial): TV shows triggered smart speakers up to 19 times a day (accessed 2026-10-24)",
+   "url": "https://moniotrlab.khoury.northeastern.edu/publications/smart-speakers-study-pets20/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "NEVER ASK SIRI THIS!!",
+   "url": "https://youtube.com/shorts/6k64EPE2Mk8",
+   "views": "6.9M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Hey Siri (Animation Meme)",
+   "url": "https://youtube.com/shorts/YQoy5A_G7P4",
+   "views": "1.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Nobody said 'Hey Siri.' Why answer?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: A tiny always-on detector listens only for the wake sound and is tuned not to miss you, so similar sounds trigger it. Loop ending: re-ask the hook.",
+ "hook": "Nobody said 'Hey Siri.' Why answer?",
+ "twist": "A tiny always-on detector listens only for the wake sound and is tuned not to miss you, so similar sounds trigger it.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-24 18:00 UTC",
+ "novelty": {
+  "overlap": "LOW with phone-listening; >= 3 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 45,
+ "score10": 7.9,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

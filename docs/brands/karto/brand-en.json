@@ -1,0 +1,17 @@
+{
+ "id": "karto-en",
+ "name": "Karto",
+ "format": "explainer",
+ "language": "en",
+ "status": "test",
+ "audience": "General 16-45, English",
+ "positioning": "Owner 2026-11-18: random viral topics told as a story in a cardboard cutout look (static characters on sticks): host Karto keeps the viewer Skip from skipping. One 16:9 long video (9+ min) + 5 Shorts cut from it.",
+ "data": {
+  "engine": "packages/cutout (film.json -> two-speaker TTS -> align -> show.json -> page capture -> mix -> master -> techqa; Shorts cut from the film)",
+  "docs": "docs/brands/karto/",
+  "cast": {
+   "karto": "host",
+   "skip": "viewer on screen"
+  }
+ }
+}

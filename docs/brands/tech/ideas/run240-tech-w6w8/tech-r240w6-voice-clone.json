@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "A Scam Call in Mom's Voice. Set a Family Code Word",
+ "topic": "AI can clone a voice from a few seconds of online video; the FTC's advice: hang up and call back on a number you know. A family code word beats any voice.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Protective, shareable at family gatherings (T6 share CTA fits); almost no Shorts competition.",
+ "evidence": [
+  {
+   "claim": "KnowBe4 summary of the FTC consumer alert (Mar 2023): scammers use AI voice clones in family-emergency scams; call back to verify (accessed 2026-10-24)",
+   "url": "https://blog.knowbe4.com/the-new-face-of-fraud-ftc-sheds-light-on-ai-enhanced-family-emergency-scams"
+  },
+  {
+   "claim": "WJLA (Sinclair) report on the FTC voice-cloning warning (accessed 2026-10-24)",
+   "url": "https://wjla.com/news/nation-world/ftc-warns-of-scammers-cloning-voices-with-ai-technology-during-phone-calls-artificial-intelligence-family-emergency-scam-impersonation-senior-citizens-computer-science-social-media-voice-cline-consumer-protection-laws-cyber-security"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Scammers Can Copy Your Voice Now - One Family Rule Stops It (long)",
+   "url": "https://www.youtube.com/watch?v=cFb-ko8ZSRw",
+   "views": "1.4K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  },
+  {
+   "title": "How to Protect Your Family From AI Voice Clone Scam Calls (long)",
+   "url": "https://www.youtube.com/watch?v=5bZer424eeM",
+   "views": "233",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('It's Mom's voice. Is it Mom?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: AI can clone a voice from a few seconds of online video; the FTC's advice: hang up and call back on a number you know. A family code word beats any voice. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "It's Mom's voice. Is it Mom?",
+ "twist": "AI can clone a voice from a few seconds of online video; the FTC's advice: hang up and call back on a number you know. A family code word beats any voice.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-25",
+  "deadline": "2026-12-20",
+  "event": "Thanksgiving: families together (Nov 26) + holiday scam season"
+ },
+ "newsPeg": "Thanksgiving: families together (Nov 26) + holiday scam season",
+ "category": "AI quirk",
+ "suggestedSlot": "2026-11-26 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW-MEDIUM with 'Missed Delivery Texts' (Nov 14) and scam emails (Nov 23): different channel (voice). No real voices cloned in the video; use our narrator only.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 64,
+ "score10": 7.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

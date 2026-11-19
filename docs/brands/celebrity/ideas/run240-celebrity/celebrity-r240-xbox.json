@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Xbox at 25: Microsoft Lost Money on Every Console",
+ "topic": "Microsoft reportedly lost $100-125 on each original Xbox (about $4B overall) to buy its way into gaming; it began as the 'DirectX Box'.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Original Xbox North American launch, 15 Nov 2001 (25th) (2026-11-15). Wikipedia Xbox_(console) 31,953 views Sept 2026.",
+ "hook": "Sell a console, lose $125?",
+ "twist": "Microsoft reportedly lost $100-125 on each original Xbox (about $4B overall) to buy its way into gaming; it began as the 'DirectX Box'.",
+ "peg": {
+  "event": "Original Xbox North American launch, 15 Nov 2001 (25th)",
+  "date": "2026-11-15",
+  "url": "https://en.wikipedia.org/wiki/Xbox_(console)",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Xbox (console) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Xbox_(console)"
+  },
+  {
+   "claim": "Racketboy - Xbox 101: a beginner's guide (accessed 2026-10-24)",
+   "url": "https://racketboy.com/?p=3086"
+  },
+  {
+   "claim": "York Vision - Retro reviews: the Xbox (accessed 2026-10-24)",
+   "url": "https://www.yorkvision.co.uk/scene/games/retro-reviews-the-xbox/11/03/2022"
+  },
+  {
+   "claim": "Peg source: Original Xbox North American launch, 15 Nov 2001 (25th) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Xbox_(console)"
+  },
+  {
+   "claim": "Wikimedia pageviews Xbox_(console): 31953 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Xbox_(console)&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Xbox (console)",
+   "url": "https://en.wikipedia.org/wiki/Xbox_(console)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Racketboy - Xbox 101: a beginner's guide",
+   "url": "https://racketboy.com/?p=3086",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "York Vision - Retro reviews: the Xbox",
+   "url": "https://www.yorkvision.co.uk/scene/games/retro-reviews-the-xbox/11/03/2022",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Microsoft lost $4 billion on the original Xbox #shorts",
+   "url": "https://youtube.com/shorts/GfNoxpx4FaU",
+   "views": 17000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Xbox Forgot Whose Buttons Those Were 💀",
+   "url": "https://youtube.com/shorts/0eKqiDhHwMQ",
+   "views": 790000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Losing Billions On Purpose  #gaming #didyouknow #gaminghistory #fyp #microsoft #xbox #viral",
+   "url": "https://youtube.com/shorts/X8oCKiFGIbU",
+   "views": 438,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a console box with a price tag '$299' and a red '-$125' sticker + hook. Twist: losing money was the plan. Loop: 'Would you sell at a loss?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Per-unit loss is an analyst estimate (iSuppli), not official: say 'reportedly'. Business angle overlaps the tech channel's beat - tell the strategy story, not the hardware. No Xbox logo or console likeness (generic black box with green glow).",
+ "window": {
+  "notBefore": "2026-11-15T00:00:00Z",
+  "deadline": "2026-11-18T00:00:00Z",
+  "label": "Original Xbox North American launch, 15 Nov 2001 (25th)",
+  "suggestedSlot": "2026-11-16T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

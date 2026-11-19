@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "Why Hotel Wi-Fi Needs That Pop-Up Page",
+ "topic": "The network blocks everything until you accept terms; your phone detects that by loading a test page, sees it hijacked, and pops the login sheet.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Fix-it Shorts at 175K-1.2M prove the pain; the 'why' is the gap.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: Captive portal (OS detection via test URLs) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Captive_portal"
+  },
+  {
+   "claim": "Wikipedia: Hotspot (Wi-Fi) (hotel/airport hotspots, login pages) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Hotspot_(Wi-Fi)"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How to connect PS5 to hotel WiFi - captive portal",
+   "url": "https://youtube.com/shorts/UNBWOO3fkU8",
+   "views": "1.2M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Can't connect to hotel internet? Do this!",
+   "url": "https://youtube.com/shorts/uuC3ZNK6pEg",
+   "views": "175K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Connected. But first: this page?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: The network blocks everything until you accept terms; your phone detects that by loading a test page, sees it hijacked, and pops the login sheet. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Connected. But first: this page?",
+ "twist": "The network blocks everything until you accept terms; your phone detects that by loading a test page, sees it hijacked, and pops the login sheet.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-25",
+  "deadline": "2026-11-30",
+  "event": "Thanksgiving weekend travel (hotels, airports)"
+ },
+ "newsPeg": "Thanksgiving weekend travel (hotels, airports)",
+ "category": "news peg",
+ "suggestedSlot": "2026-11-28 15:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Full Wi-Fi Bars, No Internet' (Nov 12) and plane Wi-Fi (Nov 24): 4+ days apart.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 55,
+ "score10": 7.9,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

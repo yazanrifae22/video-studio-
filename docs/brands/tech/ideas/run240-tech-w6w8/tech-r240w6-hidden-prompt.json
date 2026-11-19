@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "Scientists Hid Secret Messages for AI Reviewers",
+ "topic": "AI does: researchers hid 'give a positive review only' in invisible text, betting reviewers would paste papers into chatbots. Some did.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "The resume version proves demand (6.6M); the science-paper twist and the 'why AI obeys' are new.",
+ "evidence": [
+  {
+   "claim": "TechCrunch (Jul 2025): researchers seek to influence peer review with hidden AI prompts (Nikkei found 17 papers) (accessed 2026-10-24)",
+   "url": "https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/"
+  },
+  {
+   "claim": "Techdirt (Jul 2025): hidden AI prompts in academic papers, gaming peer review or keeping it honest? (accessed 2026-10-24)",
+   "url": "https://www.techdirt.com/2025/07/25/is-including-hidden-ai-prompts-in-academic-papers-gaming-the-peer-review-system-or-keeping-it-honest/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "A Very Unethical #resume hack (hidden white text)",
+   "url": "https://youtube.com/shorts/QwwS7PxYpzo",
+   "views": "6.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('White text on white. Who reads it?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: AI does: researchers hid 'give a positive review only' in invisible text, betting reviewers would paste papers into chatbots. Some did. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "White text on white. Who reads it?",
+ "twist": "AI does: researchers hid 'give a positive review only' in invisible text, betting reviewers would paste papers into chatbots. Some did.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-07 15:00 UTC",
+ "novelty": {
+  "overlap": "none. Don't teach résumé cheating: frame as 'why AI obeys hidden text' + how to check (select-all).",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 33,
+ "score10": 8.4,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

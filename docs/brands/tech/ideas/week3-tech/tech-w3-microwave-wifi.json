@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Why Your Microwave Kills Your Wi-Fi",
+ "topic": "2.4 GHz ISM band shared by microwave ovens and Wi-Fi",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Daily household annoyance viewers can reproduce; 7K-level competitor Shorts.",
+ "evidence": [
+  {
+   "claim": "Wikipedia ISM radio band: 2.4-2.5 GHz used by microwave ovens and Wi-Fi (accessed 2026-10-23)",
+   "url": "https://en.wikipedia.org/wiki/ISM_radio_band"
+  },
+  {
+   "claim": "Pageviews ISM_radio_band 4,739 in 30 days (accessed 2026-10-23)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=ISM_radio_band&range=latest-30"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Does the Microwave Mess With Your Wi-Fi?!",
+   "url": "https://youtube.com/shorts/OkEJA8Y1T4s",
+   "views": "7.3K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Your Microwave Can Knock Out Your Wi-Fi",
+   "url": "https://youtube.com/shorts/kc57h44oG1A",
+   "views": "6.9K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: microwave + Wi-Fi bars dropping + hook. Answer: both use ~2.4 GHz. The oven's shield leaks a tiny fraction, which is still loud next to a Wi-Fi signal. Fix: 5 GHz. Loop: 'Microwave on... now you know why.'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Microwave on. Wi-Fi gone. Why?",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Do not imply microwave leakage is a health risk.",
+ "window": null,
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

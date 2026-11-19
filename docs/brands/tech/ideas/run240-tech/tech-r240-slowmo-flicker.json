@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Film a Lamp in Slow-Mo. Why Does It Flicker?",
+ "topic": "Mains power flips direction 50 or 60 times a second, so many lights pulse 100-120 times a second, too fast for eyes, not for slow-mo.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Viewer can test with their phone's slow-mo; proven demand (185K).",
+ "evidence": [
+  {
+   "claim": "Utility frequency 50/60 Hz (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Utility_frequency"
+  },
+  {
+   "claim": "Flicker (light): 100/120 Hz flicker of lamps (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Flicker_(light)"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Lights Flicker - AC vs DC",
+   "url": "https://youtube.com/shorts/PugB7Ujfs4E",
+   "views": "185K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why is my light flickering?",
+   "url": "https://youtube.com/shorts/kLJGmzMORq0",
+   "views": "185K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Slow-mo this lamp. It flickers?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Mains power flips direction 50 or 60 times a second, so many lights pulse 100-120 times a second, too fast for eyes, not for slow-mo. Loop ending: re-ask the hook.",
+ "hook": "Slow-mo this lamp. It flickers?",
+ "twist": "Mains power flips direction 50 or 60 times a second, so many lights pulse 100-120 times a second, too fast for eyes, not for slow-mo.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-17 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW-MEDIUM with 'Why Propellers Look Bent in Phone Videos' (camera artefacts). >= 4 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 21,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

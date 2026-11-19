@@ -1,0 +1,57 @@
+{
+ "channel": "celebrity",
+ "title": "20 Years Old: How Mike Tyson Became the Youngest Heavyweight Champion",
+ "topic": "Mike Tyson record (Nov 22 1986 vs Trevor Berbick)",
+ "audience": "Boxing and sports fans; viewers of the new Netflix TYSON docuseries",
+ "whyCare": "Tyson interest is ~45-48K Wikipedia views/day this week after the Netflix docuseries; his age record is a clean, positive, documented career fact.",
+ "evidence": [
+  {
+   "claim": "Wikipedia 'Mike Tyson' 44,730-48,489 views/day on Oct 17-19 2026 (Oct 1-19 avg 22,347)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Mike_Tyson&start=2026-10-01&end=2026-10-19"
+  },
+  {
+   "claim": "Tyson stopped Trevor Berbick in round 2 on 22 Nov 1986 for the WBC title, aged 20 years 4 months 22 days, breaking Floyd Patterson's record",
+   "url": "https://en.wikipedia.org/wiki/Mike_Tyson"
+  },
+  {
+   "claim": "Netflix docuseries TYSON released 2026-10-13 (celebrity.md; Emisoras Unidas)",
+   "url": "https://emisorasunidas.com/farandula/2026/10/12/mike-tyson-revela-oscuros-estreno-documental-netflix/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Mike Tyson becomes youngest heavyweight champion (Short)",
+   "url": "https://www.youtube.com/shorts/2dM7NlNYROE",
+   "views": "33K",
+   "verified": true
+  },
+  {
+   "title": "Mike becoming youngest Heavyweight Champion (Short)",
+   "url": "https://www.youtube.com/shorts/w1H9qWYvqZw",
+   "views": "9.8K",
+   "verified": true
+  },
+  {
+   "title": "When they Put Young Mike Tyson against The Smash Machine (Boxing Game)",
+   "url": "https://www.youtube.com/watch?v=YhuhOwZgeug",
+   "views": "11,066,277",
+   "verified": true
+  }
+ ],
+ "angle": "Stat counter ticks to 20y 4m 22d; compare table Tyson vs previous record-holder Patterson; timeline of his 1986 fights (count from BoxRec on production day). Stylised non-photoreal silhouette only, no fight footage or audio.",
+ "durationSec": 40,
+ "format": "short",
+ "hook": "He was 20 years old. And he was heavyweight champion of the world.",
+ "difficulty": 2,
+ "estCostUsd": 3,
+ "strengths": "Peak demand this week; record-only = low policy risk; simple stat/compare scenes",
+ "weaknesses": "Third Tyson idea in the backlog (long + interview Short) - space them out; same-fact Shorts exist (up to 33K)",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

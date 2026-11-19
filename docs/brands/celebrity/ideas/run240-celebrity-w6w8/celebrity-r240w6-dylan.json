@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "10 Years Ago, Bob Dylan Skipped His Own Nobel Prize",
+ "topic": "Dylan won the 2016 Literature Nobel, stayed silent for about two weeks and skipped the 10 Dec ceremony; Patti Smith sang his song for him, froze from nerves, apologised and got an ovation.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Nobel Prize award ceremony, Stockholm (10th anniversary of Dylan's) (2026-12-10). Wikipedia Bob_Dylan 211,957 views Sept 2026.",
+ "hook": "He won the Nobel. Didn't go?",
+ "twist": "Dylan won the 2016 Literature Nobel, stayed silent for about two weeks and skipped the 10 Dec ceremony; Patti Smith sang his song for him, froze from nerves, apologised and got an ovation.",
+ "peg": {
+  "event": "Nobel Prize award ceremony, Stockholm (10th anniversary of Dylan's)",
+  "date": "2026-12-10",
+  "url": "https://www.aljazeera.com/news/2026/10/8/canadian-anne-carson-wins-2026-nobel-prize-in-literature",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Rolling Stone - Patti Smith covers Dylan at Nobel ceremony (accessed 2026-10-24)",
+   "url": "https://www.rollingstone.com/music/music-news/see-patti-smith-cover-bob-dylans-hard-rains-a-gonna-fall-at-nobel-ceremony-108995/"
+  },
+  {
+   "claim": "NME - Patti Smith performs for Dylan at Nobel ceremony (accessed 2026-10-24)",
+   "url": "https://www.nme.com/news/music/patti-smith-nobel-prize-bob-dylan-1906045"
+  },
+  {
+   "claim": "NBC News - Dylan: it took a while to process the Nobel (accessed 2026-10-24)",
+   "url": "https://www.nbcnews.com/news/amp/ncna694436"
+  },
+  {
+   "claim": "Peg source: Nobel Prize award ceremony, Stockholm (10th anniversary of Dylan's) (accessed 2026-10-24)",
+   "url": "https://www.aljazeera.com/news/2026/10/8/canadian-anne-carson-wins-2026-nobel-prize-in-literature"
+  },
+  {
+   "claim": "Wikimedia pageviews Bob_Dylan: 211957 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Bob_Dylan&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Rolling Stone - Patti Smith covers Dylan at Nobel ceremony",
+   "url": "https://www.rollingstone.com/music/music-news/see-patti-smith-cover-bob-dylans-hard-rains-a-gonna-fall-at-nobel-ceremony-108995/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "NME - Patti Smith performs for Dylan at Nobel ceremony",
+   "url": "https://www.nme.com/news/music/patti-smith-nobel-prize-bob-dylan-1906045",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "NBC News - Dylan: it took a while to process the Nobel",
+   "url": "https://www.nbcnews.com/news/amp/ncna694436",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Patti Smith performs Bob Dylan's \"A Hard Rain's A-Gonna Fall\" - Nobel Prize Award Ceremony 2016",
+   "url": "https://www.youtube.com/watch?v=941PHEJHCwU",
+   "views": 5659822,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bob Dylan Nobel Prize ceremony Patti Smith #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Patti Smith at Nobel Ceremony #pattismith #bobdylan #nobel",
+   "url": "https://youtube.com/shorts/TUhyn0XOvJc",
+   "views": 1800,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bob Dylan Nobel Prize ceremony Patti Smith #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Bob Dylan's Nobel Prize announcement",
+   "url": "https://youtube.com/shorts/o0k_R5II9Lw",
+   "views": 92000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bob Dylan Nobel Prize ceremony Patti Smith #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: An empty chair at a gala table with a gold medal on the plate + hook. Twist by 2.5 s. Loop: 'Would you skip your own Nobel?'",
+ "cta": "C2+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Dylan said he had 'other commitments'. No lyrics or audio. Nobel medal design is fine as an original drawing but no Nobel Foundation logo. 2026 laureate (Anne Carson) can be named in the peg line.",
+ "window": {
+  "notBefore": "2026-12-09T12:00:00Z",
+  "deadline": "2026-12-12T00:00:00Z",
+  "label": "Nobel Prize award ceremony, Stockholm (10th anniversary of Dylan's)",
+  "suggestedSlot": "2026-12-10T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Bob Dylan",
+  "Patti Smith"
+ ],
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 1,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

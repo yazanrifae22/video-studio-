@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Why the Lions Always Play on Thanksgiving: a Radio Stunt",
+ "topic": "In 1934 radio boss George Richards, short of fans, got NBC to air a Thanksgiving game on 94 stations; it sold out and stuck.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: NFL Thanksgiving Day games, Thu Nov 26 (pre-event) (2026-11-26). Wikipedia Detroit_Lions 68,506 views Sept 2026.",
+ "hook": "Why Detroit, every Thanksgiving?",
+ "twist": "In 1934 radio boss George Richards, short of fans, got NBC to air a Thanksgiving game on 94 stations; it sold out and stuck.",
+ "peg": {
+  "event": "NFL Thanksgiving Day games, Thu Nov 26 (pre-event)",
+  "date": "2026-11-26",
+  "url": "https://www.npr.org/2024/11/28/nx-s1-5198523/the-history-behind-nfl-games-being-played-on-thanksgiving-day",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "NPR - The history behind NFL games on Thanksgiving Day (accessed 2026-10-24)",
+   "url": "https://www.npr.org/2024/11/28/nx-s1-5198523/the-history-behind-nfl-games-being-played-on-thanksgiving-day"
+  },
+  {
+   "claim": "Mental Floss - Why the Lions and Cowboys always play on Thanksgiving (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/article/31525/why-do-detroit-lions-and-dallas-cowboys-always-play-thanksgiving"
+  },
+  {
+   "claim": "Wikipedia - 1934 Detroit Lions season (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/1934_Detroit_Lions_season"
+  },
+  {
+   "claim": "Peg source: NFL Thanksgiving Day games, Thu Nov 26 (pre-event) (accessed 2026-10-24)",
+   "url": "https://www.npr.org/2024/11/28/nx-s1-5198523/the-history-behind-nfl-games-being-played-on-thanksgiving-day"
+  },
+  {
+   "claim": "Wikimedia pageviews Detroit_Lions: 68506 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Detroit_Lions&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "NPR - The history behind NFL games on Thanksgiving Day",
+   "url": "https://www.npr.org/2024/11/28/nx-s1-5198523/the-history-behind-nfl-games-being-played-on-thanksgiving-day",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Mental Floss - Why the Lions and Cowboys always play on Thanksgiving",
+   "url": "https://www.mentalfloss.com/article/31525/why-do-detroit-lions-and-dallas-cowboys-always-play-thanksgiving",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - 1934 Detroit Lions season",
+   "url": "https://en.wikipedia.org/wiki/1934_Detroit_Lions_season",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Detroit ALWAYS Plays on Thanksgiving 🦃🏈",
+   "url": "https://youtube.com/shorts/h2eCQeUTro4",
+   "views": 447,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why Do the Lions and Cowboys Always Play on Thanksgiving? 🏈🦃#science",
+   "url": "https://youtube.com/shorts/8uTE4LAGEEA",
+   "views": 353,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why do the Detroit Lions always play on Thanksgiving? #detroitlions #lions #nflnews",
+   "url": "https://youtube.com/shorts/Yxy8gqYidkI",
+   "views": 796,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a 1930s radio with a football and a turkey drumstick + hook. Twist: a station owner's sales stunt. Loop: 'Thank the radio.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Confirm the 2026 Lions Thanksgiving opponent on nfl.com before scripting any matchup line. No NFL/Lions logos.",
+ "window": {
+  "notBefore": "2026-11-22T00:00:00Z",
+  "deadline": "2026-11-26T18:00:00Z",
+  "label": "NFL Thanksgiving Day games, Thu Nov 26 (pre-event)",
+  "suggestedSlot": "2026-11-23T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

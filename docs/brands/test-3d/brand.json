@@ -1,0 +1,15 @@
+{
+ "id": "test-3d",
+ "name": "Test 3D",
+ "format": "explainer",
+ "positioning": "TEST brand (owner 2026-11-14): narrated parable Shorts in realistic 3D (own Three.js renderer, packages/test3d). Local only, no channel, nothing published.",
+ "audience": "General 18-45, English",
+ "language": "en",
+ "status": "test",
+ "data": {
+  "voice": { "name": "Algenib" },
+  "engine": "packages/test3d (film.json + film.js -> TTS -> align -> 3D render -> timeline.json -> packages/render -> master -> techqa)",
+  "docs": "docs/brands/test-3d/",
+  "reference": "analaysis/ (3 owner reference reels, teardown 2026-11-14)"
+ }
+}

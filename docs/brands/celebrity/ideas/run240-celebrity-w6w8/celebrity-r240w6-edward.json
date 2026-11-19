@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "90 Years Ago, a King Quit for Love. Love or Duty?",
+ "topic": "On 10 Dec 1936 Edward VIII signed his abdication, witnessed by his three brothers; next night he told the radio audience he could not reign without 'the woman I love', Wallis Simpson, after less than a year as king.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Instrument of Abdication signed 10 Dec 1936 (90th anniversary) (2026-12-10). Wikipedia Edward_VIII 293,568 views Sept 2026.",
+ "hook": "A king who quit his throne?",
+ "twist": "On 10 Dec 1936 Edward VIII signed his abdication, witnessed by his three brothers; next night he told the radio audience he could not reign without 'the woman I love', Wallis Simpson, after less than a year as king.",
+ "peg": {
+  "event": "Instrument of Abdication signed 10 Dec 1936 (90th anniversary)",
+  "date": "2026-12-10",
+  "url": "https://www.nationalarchives.gov.uk/education/resources/significant-events/abdication-of-edward-viii-1936/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "UK National Archives - Abdication of Edward VIII, 1936 (accessed 2026-10-24)",
+   "url": "https://www.nationalarchives.gov.uk/education/resources/significant-events/abdication-of-edward-viii-1936/"
+  },
+  {
+   "claim": "Atlas Obscura - Edward VIII's abdication speech (accessed 2026-10-24)",
+   "url": "https://atlasobscura.com/articles/edward-viii-abdication-speech"
+  },
+  {
+   "claim": "Guide London - The world's most famous radio broadcast (accessed 2026-10-24)",
+   "url": "https://guidelondon.org.uk/blog/british-monarchy/the-worlds-most-famous-radio-broadcast-delivered-by-king-edward-viii"
+  },
+  {
+   "claim": "Peg source: Instrument of Abdication signed 10 Dec 1936 (90th anniversary) (accessed 2026-10-24)",
+   "url": "https://www.nationalarchives.gov.uk/education/resources/significant-events/abdication-of-edward-viii-1936/"
+  },
+  {
+   "claim": "Wikimedia pageviews Edward_VIII: 293568 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Edward_VIII&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "UK National Archives - Abdication of Edward VIII, 1936",
+   "url": "https://www.nationalarchives.gov.uk/education/resources/significant-events/abdication-of-edward-viii-1936/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Atlas Obscura - Edward VIII's abdication speech",
+   "url": "https://atlasobscura.com/articles/edward-viii-abdication-speech",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Guide London - The world's most famous radio broadcast",
+   "url": "https://guidelondon.org.uk/blog/british-monarchy/the-worlds-most-famous-radio-broadcast-delivered-by-king-edward-viii",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The King Who Gave Up His Throne for Love: Edward VIII & Wallis Simpson #snackchive#shorts #onthisday",
+   "url": "https://youtube.com/shorts/uXjdMIiM5HI",
+   "views": 124,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Edward VIII abdication woman I love #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Abdication of King Edward VIII – Love over the crown. #britishmonarchy #shorts",
+   "url": "https://youtube.com/shorts/amGUiI7Kye4",
+   "views": 856,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Edward VIII abdication woman I love #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The King Who Gave Up the Throne for Love #lovestory #EdwardVIII #WallisSimpson #RoyalHistory #love",
+   "url": "https://youtube.com/shorts/Te0PLbK8LIE",
+   "views": 1100,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Edward VIII abdication woman I love #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A crown resting on an old radio microphone + hook. Twist by 2.5 s. Loop: 'Love or duty: what would you have chosen?'",
+ "cta": "C9+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Reign 326 vs 327 days depending on counting: say 'less than a year'. Skip his later life and the royal family today. No royal coat of arms; a crown left on a radio set.",
+ "window": {
+  "notBefore": "2026-12-09T12:00:00Z",
+  "deadline": "2026-12-12T00:00:00Z",
+  "label": "Instrument of Abdication signed 10 Dec 1936 (90th anniversary)",
+  "suggestedSlot": "2026-12-10T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Edward VIII",
+  "Wallis Simpson"
+ ],
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

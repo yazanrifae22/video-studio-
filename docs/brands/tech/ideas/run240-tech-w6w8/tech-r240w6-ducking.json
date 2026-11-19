@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Why Your Phone Typed 'Ducking'",
+ "topic": "Old autocorrect only trusted a dictionary, and swear words were left out, so the nearest clean word won. In 2023 Apple switched to an AI model that learns your words.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Universal experience; the 'why' Shorts are tiny (6K) while autocorrect how-tos reach 694K.",
+ "evidence": [
+  {
+   "claim": "NPR (Jun 2023): Apple will stop autocorrecting to 'ducking' (iOS 17 transformer model) (accessed 2026-10-24)",
+   "url": "https://www.npr.org/2023/06/07/1180791069/apple-autocorrect-ducking"
+  },
+  {
+   "claim": "The Register (Jun 2023): Apple autocorrect 'duck' change (accessed 2026-10-24)",
+   "url": "https://www.theregister.com/2023/06/07/duck_off_apple_autocorrect/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "iOS 17 Autocorrect Will Distinguish Between 'Duck' and ...",
+   "url": "https://youtube.com/shorts/8UkNE72olgQ",
+   "views": "6.3K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "How-to Turn Off Auto Correct on iPhone (iOS 18)",
+   "url": "https://youtube.com/shorts/jWNyU0ETZR0",
+   "views": "694K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('You didn't mean 'ducking'. Did you?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Old autocorrect only trusted a dictionary, and swear words were left out, so the nearest clean word won. In 2023 Apple switched to an AI model that learns your words. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "You didn't mean 'ducking'. Did you?",
+ "twist": "Old autocorrect only trusted a dictionary, and swear words were left out, so the nearest clean word won. In 2023 Apple switched to an AI model that learns your words.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-11-28 18:00 UTC",
+ "novelty": {
+  "overlap": "none. Keep it clean: never say the swear word; 'ducking' is the joke.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 38,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

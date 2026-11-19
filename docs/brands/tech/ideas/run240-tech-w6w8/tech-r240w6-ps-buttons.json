@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "In Japan, PlayStation's X Meant 'No'",
+ "topic": "In Japan, maru (O) means correct and batsu (X) means wrong, so for 25 years O confirmed there; the PS5 switched Japan to X-confirm in 2020.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Proven 727K demand; anniversary gives a fresh reason. Debate CTA (T9: X or O?).",
+ "evidence": [
+  {
+   "claim": "Wikipedia: PlayStation (console) (Japan release Dec 3 1994) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/PlayStation_(console)"
+  },
+  {
+   "claim": "Kotaku (2020): Sony is changing the confirm and cancel buttons in Japan (accessed 2026-10-24)",
+   "url": "https://kotaku.com/sony-is-changing-the-confirm-and-cancel-buttons-in-japa-1845273030"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "PlayStation's X Button Is Different In Japan",
+   "url": "https://youtube.com/shorts/NmUR9IzK3BQ",
+   "views": "727K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Nintendo vs Xbox vs PlayStation: The Button War",
+   "url": "https://youtube.com/shorts/KjiVcpDZW34",
+   "views": "151K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('X button: yes or no?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: In Japan, maru (O) means correct and batsu (X) means wrong, so for 25 years O confirmed there; the PS5 switched Japan to X-confirm in 2020. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "X button: yes or no?",
+ "twist": "In Japan, maru (O) means correct and batsu (X) means wrong, so for 25 years O confirmed there; the PS5 switched Japan to X-confirm in 2020.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-12-03",
+  "deadline": "2026-12-05",
+  "event": "Original PlayStation 32nd anniversary (Japan launch Dec 3 1994)"
+ },
+ "newsPeg": "Original PlayStation 32nd anniversary (Japan launch Dec 3 1994)",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-03 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW with Xbox name (Nov 15). No Sony logos; draw generic symbols.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 25,
+ "score10": 8.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

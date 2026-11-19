@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Why Spotify Shuffle Isn't Really Random",
+ "topic": "Clustering illusion; Fisher-Yates vs spread-out shuffle",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Long-running listener question; 0.1-3.5K Shorts.",
+ "evidence": [
+  {
+   "claim": "Spotify Engineering (2014-02-28): \"How to shuffle songs?\" - moved from Fisher-Yates to an artist-spreading algorithm (accessed 2026-10-23)",
+   "url": "https://engineering.atspotify.com/2014/02/how-to-shuffle-songs"
+  },
+  {
+   "claim": "Spotify Community: Shuffle improvements (accessed 2026-10-23)",
+   "url": "https://community.spotify.com/t5/Community-Blog/Your-Ideas-At-Work-Shuffle-Improvements/ba-p/728963"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Spotify Made Shuffle Less Random On Purpose",
+   "url": "https://youtube.com/shorts/MI4qqYPNBx0",
+   "views": "3.5K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Spotify Made Shuffle Less Random. On Purpose.",
+   "url": "https://youtube.com/shorts/XMXW5Tp8En8",
+   "views": "1K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a playlist with the same artist three times in a row + hook. Twist: truly random shuffles DO make streaks, and listeners complained, so Spotify (2014) changed shuffle to spread artists out - less random, feels more random. Loop: 'Three in a row... random?'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Three songs, same artist. Random?",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Current Spotify shuffle may differ; say \"in 2014\". No Spotify logo/UI. Engineering-blog URL returned 404 to curl today; confirm in a browser.",
+ "window": null,
+ "novelty": {
+  "overlap": "low-medium with Python random numbers + AI-27 (randomness family) - space them out",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

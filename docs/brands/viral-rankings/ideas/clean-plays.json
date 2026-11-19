@@ -1,0 +1,844 @@
+{
+ "_note": "Triage 2026-10-31 by 2s-step contact sheets (+1s/0.33s zooms for borderline). Windows are +-1s estimates; verify in editor. Source folder: data/media/owner-supplied/micro/<folder>/",
+ "MC-021-ronaldo-bicycle-kick": {
+  "clean_plays": [
+   {
+    "clip": "clip_15",
+    "window_s": [
+     3.0,
+     6.5
+    ],
+    "what": "Ronaldo bicycle kick, Juventus",
+    "crop_note": "none (given by owner brief)"
+   },
+   {
+    "clip": "clip_19",
+    "window_s": [
+     5.5,
+     15.0
+    ],
+    "what": "Ronaldo bicycle kick, Portugal v Luxembourg",
+    "crop_note": "none (given by owner brief)"
+   },
+   {
+    "clip": "clip_13",
+    "window_s": [
+     12.5,
+     17.5
+    ],
+    "what": "Ronaldo bicycle kick, Al-Nassr",
+    "crop_note": "none (given by owner brief)"
+   }
+  ],
+  "rejected_summary": "carried over from earlier pass",
+  "verdict": "short:3"
+ },
+ "MC-003-messi-free-kick-goal": {
+  "clean_plays": [
+   {
+    "clip": "messi-free-kick-goal_11",
+    "window_s": [
+     0,
+     63
+    ],
+    "what": "Compilation of ~8 distinct Messi free-kick goals (Liverpool UCL, Betis, Espanyol, Villarreal, Sevilla/Valencia-type, Real Sociedad-type, etc.); approx per-play windows: 0-7, 8-17, 18-26, 27-37, 38-44, 45-52, 53-58, 59-63",
+    "crop_note": "1280x720 source, no overlays at all; plays are wide shots (Messi small) so needs blurred-bg letterbox or tight reframe"
+   },
+   {
+    "clip": "messi-free-kick-goal_03",
+    "window_s": [
+     8,
+     16.5
+    ],
+    "what": "Messi free kick v Columbus (Inter Miami), ball in net, celebration",
+    "crop_note": "small GOAL logo top-right at edge; first 6 s have caption so start at 8 s"
+   },
+   {
+    "clip": "messi-free-kick-goal_09",
+    "window_s": [
+     0,
+     10
+    ],
+    "what": "Messi free kick v Chile (Argentina), keeper beaten, team celebration",
+    "crop_note": "tiny logo top-left; 'GOOL' bug top at end -> crop top 12% or end at 9 s"
+   },
+   {
+    "clip": "messi-free-kick-goal_14",
+    "window_s": [
+     6,
+     16
+    ],
+    "what": "Messi free kick v USA, Argentina (Copa Centenario 2016)",
+    "crop_note": "clean, no overlays; skip first 5 s (boot-lace intro)"
+   },
+   {
+    "clip": "messi-free-kick-goal_18",
+    "window_s": [
+     6,
+     14
+    ],
+    "what": "Messi 90+5 free-kick winner PSG (same play as _15,_19)",
+    "crop_note": "captions only in first 5 s; use after; _15 alternative 0-12 w/ BT Sport corner logo (crop top 10%)"
+   },
+   {
+    "clip": "messi-free-kick-goal_10",
+    "window_s": [
+     12,
+     19
+    ],
+    "what": "Messi free kick v Espanyol (Barca 1-0 in 5-0 win)",
+    "crop_note": "score-bar graphic across top -> crop top 15%; Messi small in wide shot (low confidence)"
+   }
+  ],
+  "rejected_summary": "_01,_08,_06,_12(dup CLB w/ captions or NDF logo),_02,_04,_05,_13,_16,_17,_20: burned captions, face-cam, phone-on-TV, framed edits, tutorials; _07 faint mid-field NDF watermark; _19 caption throughout (dup PSG).",
+  "verdict": "ready"
+ },
+ "MC-011-messi-yellow-card": {
+  "clean_plays": [
+   {
+    "clip": "messi-yellow-card_04",
+    "window_s": [
+     5.5,
+     10
+    ],
+    "what": "Referee shows Messi yellow card (Inter Miami v Palmeiras-type Leagues Cup game, DAZN feed)",
+    "crop_note": "DAZN/Free logos in top ~15% -> crop top 20%"
+   },
+   {
+    "clip": "messi-yellow-card_08",
+    "window_s": [
+     22,
+     30
+    ],
+    "what": "Messi booked, Inter Miami v NYCFC 2-2 (same incident as _05/_18)",
+    "crop_note": "bottom-left scoreboard bar -> crop bottom 20%; Messi smallish; _18 and _05 rejected (captions/lower third)"
+   },
+   {
+    "clip": "messi-yellow-card_10",
+    "window_s": [
+     12,
+     18
+    ],
+    "what": "Barca v Real Madrid Clasico 2014: ref raises yellow, Messi booked (confirm it is Messi)",
+    "crop_note": "none after the 2 s LaLiga intro; 16:9 source"
+   },
+   {
+    "clip": "messi-yellow-card_15",
+    "window_s": [
+     19,
+     23
+    ],
+    "what": "Barca v Sevilla: yellow shown to Barca player in blue-garnet (confirm Messi)",
+    "crop_note": "scoreboard top-left + channel logo top-right -> crop top 12%; low-res 4:3-ish source"
+   }
+  ],
+  "rejected_summary": "_01,_05,_07,_14: face-cam/commentary; _02,_03,_09,_18: captions/lower-third; _06,_16 (DINHO/TICTAC marks, no card, Messi arguing only); _19 Nashville argument no card; _12 Xavi booked not Messi; _13 Betis booking in notebook, no card raised (borderline 5th: window 5-18, Movistar logo tiny top-left); _17,_20 no card.",
+  "verdict": "short:4 (5 if _13 booking-without-card accepted)"
+ },
+ "MC-022-ronaldo-free-kick-goal": {
+  "clean_plays": [
+   {
+    "clip": "ronaldo-free-kick-goal_15",
+    "window_s": [
+     0,
+     62
+    ],
+    "what": "Compilation (1080x1080) of ~20 Ronaldo free-kick goals, Man Utd + Real Madrid (e.g. v Arsenal blue kit 0-5, Sevilla 5-8, Man City 18-22, Man Utd v Portsmouth ~40, etc.)",
+    "crop_note": "watermark 'POV: CR7 FREE KICKS' small, top-left -> crop top 15%; wide shots, Ronaldo small"
+   },
+   {
+    "clip": "ronaldo-free-kick-goal_04",
+    "window_s": [
+     2,
+     12
+    ],
+    "what": "Man Utd v Portsmouth free-kick goal (Ronaldo, 2008) + AIG celebration",
+    "crop_note": "clean, no overlays"
+   },
+   {
+    "clip": "ronaldo-free-kick-goal_03",
+    "window_s": [
+     4,
+     14
+    ],
+    "what": "Man Utd free kick v wall in white, keeper beaten (Ronaldo close-up)",
+    "crop_note": "LED board text only; clean"
+   },
+   {
+    "clip": "ronaldo-free-kick-goal_05",
+    "window_s": [
+     8,
+     22
+    ],
+    "what": "Al-Nassr free kick goal (Ronaldo celebrates with Nawaf, Duran)",
+    "crop_note": "SSC logo top-right edge; Arabic caption only first 5 s"
+   },
+   {
+    "clip": "ronaldo-free-kick-goal_13",
+    "window_s": [
+     6,
+     16
+    ],
+    "what": "Al-Nassr v PYH free kick goal (same play as _19, _10)",
+    "crop_note": "sky sports logo small top-right; 'GOAALLL' banner at ~4 s so start 6 s"
+   },
+   {
+    "clip": "ronaldo-free-kick-goal_07",
+    "window_s": [
+     6,
+     11
+    ],
+    "what": "Al-Nassr v Damac free-kick goal (white away kit) + celebration",
+    "crop_note": "caption in first 6 s; faint watermark bottom + score bug top-left -> crop bottom 15% top 10%"
+   }
+  ],
+  "rejected_summary": "_01,_02,_08,_09,_16,_17,_20,_12: face-cam/podcast/reaction/slideshow; _18 caption throughout; _06 overhead with mid-frame 07boll logo, kicker not identifiable; _14 only set-up, no goal; _11 Man Utd edit with bottom-centre watermark, plays unverified; _10,_19 dup of _13.",
+  "verdict": "ready"
+ },
+ "MC-004-messi-chip-goal": {
+  "clean_plays": [
+   {
+    "clip": "messi-chip-goal_05",
+    "window_s": [
+     0,
+     20
+    ],
+    "what": "Messi chip v Betis 2019 (also _01 8-17 vertical with face-cam bookends, _06, _15 phone-on-TV)",
+    "crop_note": "16:9 source, no overlays; _01 clean middle but starts with creator face-cam"
+   },
+   {
+    "clip": "messi-chip-goal_08",
+    "window_s": [
+     6,
+     30
+    ],
+    "what": "Messi chip over Neuer, Barca v Bayern 2015 (also _09 dup)",
+    "crop_note": "name caption only first 4 s; UEFA end card from 34 s"
+   },
+   {
+    "clip": "messi-chip-goal_04",
+    "window_s": [
+     4,
+     16
+    ],
+    "what": "Messi chip v Toronto (Inter Miami 0-1 TOR bug first 4 s)",
+    "crop_note": "score bug top-left first 4 s only; payoff net shot at end"
+   }
+  ],
+  "rejected_summary": "_03,_13,_19: captions/commentator overlays; _02,_17,_11 Miami wide shots end before the chip lands or Messi unidentifiable (_11/_17 same Columbus play); _07 Argentina v Guatemala wide, chip not verifiable; _10 Argentina 2008 broadcast graphics, chip unverified; _12,_14,_18 (Sevilla x2, Rayo) low-res/unverified chip; _16,_20 stands phone footage.",
+  "verdict": "short:3 (up to 6-7 if _10,_12,_14,_18,_07,_11 chips are verified by eye)"
+ },
+ "cross_folder_combos": [
+  "Ronaldo set-piece/spectacular goals: MC-021 bicycle x3 + MC-022 free kicks x5 solo + compilation clips = 8+ distinct. Honest title 'Ronaldo's best set-piece/spectacular goals', NOT 'acrobatic'.",
+  "Messi free kicks stand alone (6 solo + 8 in compilation clip_11).",
+  "Messi chip (3 solid) cannot reach 5 alone; theme 'Messi goals that humiliated keepers' = chip x3 + free kicks, but needs a broader honest title."
+ ],
+ "MC-007-messi-penalty-stutter-step": {
+  "clean_plays": [
+   {
+    "clip": "messi-penalty-stutter-step_02",
+    "window_s": [
+     0,
+     60
+    ],
+    "what": "Messi penalty v Milan, UCL 2011 (broadcast)",
+    "crop_note": "none; ~80s clip, 4:3-ish wide"
+   },
+   {
+    "clip": "messi-penalty-stutter-step_04",
+    "window_s": [
+     18,
+     45
+    ],
+    "what": "Argentina v Iceland 2023 Messi penalty",
+    "crop_note": "none (broadcast boost/Turkish Airlines boards); stutter-step not verified"
+   },
+   {
+    "clip": "messi-penalty-stutter-step_14",
+    "window_s": [
+     40,
+     68
+    ],
+    "what": "Messi penalty, Nashville v Inter Miami",
+    "crop_note": "Apple TV corner mark; stutter-step not verified"
+   },
+   {
+    "clip": "messi-penalty-stutter-step_16",
+    "window_s": [
+     60,
+     110
+    ],
+    "what": "Messi penalty v Colorado Rapids after VAR check",
+    "crop_note": "Apple TV corner mark; stutter-step not verified"
+   },
+   {
+    "clip": "messi-penalty-stutter-step_19",
+    "window_s": [
+     5,
+     30
+    ],
+    "what": "Messi penalty v Al-Hilal, Riyadh Season (no captions)",
+    "crop_note": "none; stutter-step not verified"
+   }
+  ],
+  "rejected_summary": "01 watermark adrianfazehd (dup Milan); 03,05,13,17,20 burned captions/subs; 06-09,11 face-cam; 10 Miami v Philadelphia not a Messi penalty; 12 caption (dup Al-Hilal); 15 drone show; 18 dup Milan",
+  "verdict": "ready:5 (confirm stutter payoff in editor)"
+ },
+ "MC-025-ronaldo-goal-celebration": {
+  "clean_plays": [
+   {
+    "clip": "ronaldo-goal-celebration_05",
+    "window_s": [
+     0,
+     60
+    ],
+    "what": "Ronaldo goal v Al-Wahda, team hug",
+    "crop_note": "Abu Dhabi Sports logo top-right, crop ~15%"
+   },
+   {
+    "clip": "ronaldo-goal-celebration_06",
+    "window_s": [
+     0,
+     21
+    ],
+    "what": "Ronaldo calma celebration, Clasico 2012",
+    "crop_note": "HTN.NFC watermark bottom edge, crop ~10%"
+   },
+   {
+    "clip": "ronaldo-goal-celebration_10",
+    "window_s": [
+     4,
+     12
+    ],
+    "what": "Ronaldo Al-Nassr celebration with teammates",
+    "crop_note": "caption THE POWER only 0-3s, start at 4s"
+   },
+   {
+    "clip": "ronaldo-goal-celebration_11",
+    "window_s": [
+     0,
+     16
+    ],
+    "what": "Ronaldo goal v Roma 2016 and roar",
+    "crop_note": "Real Madrid crest top-right, crop ~15%"
+   },
+   {
+    "clip": "ronaldo-goal-celebration_19",
+    "window_s": [
+     5,
+     17
+    ],
+    "what": "Ronaldo Al-Nassr goal and celebration",
+    "crop_note": "caption 0-4s; Paramount+ bottom, handle top-right: crop ~15%"
+   }
+  ],
+  "rejected_summary": "01,03,04,12-17,20 burned captions; 02,08 07ball/handle watermark; 07 presenter; 09 no clear payoff; 18 wide goals compilation, no celebration",
+  "verdict": "ready:5 (all edge-mark crops; 4 firm)"
+ },
+ "MC-015-messi-rabona": {
+  "clean_plays": [],
+  "rejected_summary": "all 20 are video-game footage, PLAY/filmora/fraps watermarks, burned captions or highlight reels with ftbisc watermark",
+  "verdict": "short:0"
+ },
+ "MC-028-ronaldo-arguing-with-the-ref": {
+  "clean_plays": [
+   {
+    "clip": "ronaldo-arguing-with-the-ref_12",
+    "window_s": [
+     10,
+     39
+    ],
+    "what": "Ronaldo disputes offside call, Al-Nassr (ref gesturing)",
+    "crop_note": "Arabic channel logo bottom + top-right logo; crop ~15% each; borderline"
+   }
+  ],
+  "rejected_summary": "others burned captions/subs/face-cam/podcast/watermarks (PLAY, Vladiator) or no ref argument",
+  "verdict": "short:1"
+ },
+ "MC-002-messi-solo-run-past-3-defenders": {
+  "clean_plays": [
+   {
+    "clip": "08",
+    "window_s": null,
+    "what": "Messi solo runs compilation (~8 runs), mid-clip clean",
+    "crop_note": "faint lower-left mark; skip first 3s top bar"
+   },
+   {
+    "clip": "20",
+    "window_s": null,
+    "what": "Messi dribble runs compilation (~8 runs)",
+    "crop_note": "none"
+   },
+   {
+    "clip": "18",
+    "window_s": null,
+    "what": "Messi runs compilation (~4)",
+    "crop_note": "none"
+   },
+   {
+    "clip": "02",
+    "window_s": null,
+    "what": "Messi runs compilation (~4)",
+    "crop_note": "top PoV caption line, crop <=10% top"
+   },
+   {
+    "clip": "01",
+    "window_s": null,
+    "what": "Messi run vs Athletic-type",
+    "crop_note": "end-card in last 6s, trim"
+   }
+  ],
+  "rejected_summary": "captions/facecam/CapCut in 03,04,06,07,09,10,11,12,13,14,15; edits in 05,16,17,19",
+  "verdict": "ready:5",
+  "viral_pull": 4,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-019-messi-world-cup-goal": {
+  "clean_plays": [
+   {
+    "clip": "01",
+    "window_s": null,
+    "what": "Messi WC goal, wide+bench celebration",
+    "crop_note": "none"
+   },
+   {
+    "clip": "02",
+    "window_s": null,
+    "what": "Argentina WC goal celebration, stadium",
+    "crop_note": "none"
+   },
+   {
+    "clip": "03",
+    "window_s": null,
+    "what": "Messi WC goal + close-ups",
+    "crop_note": "none"
+   },
+   {
+    "clip": "04",
+    "window_s": null,
+    "what": "Messi WC goal vs Mexico-type",
+    "crop_note": "none"
+   },
+   {
+    "clip": "16",
+    "window_s": null,
+    "what": "Messi WC goal wide",
+    "crop_note": "none"
+   }
+  ],
+  "rejected_summary": "captions/facecam/logos: 05,06,07,09,10,12,13,14,17,18,19,20; 08/15 small bugs; some plays may duplicate (Mexico/Australia)",
+  "verdict": "ready:5",
+  "viral_pull": 5,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-024-ronaldo-last-minute-winner": {
+  "clean_plays": [
+   {
+    "clip": "02",
+    "window_s": null,
+    "what": "Ronaldo Man Utd v Villarreal 90+ winner + celebration",
+    "crop_note": "none"
+   },
+   {
+    "clip": "19",
+    "window_s": null,
+    "what": "Ronaldo Real Madrid last-minute goal vs City",
+    "crop_note": "scorebug only"
+   },
+   {
+    "clip": "11",
+    "window_s": null,
+    "what": "Portugal v Iceland 90+ winner/crowd",
+    "crop_note": "captions on some, crop"
+   },
+   {
+    "clip": "13",
+    "window_s": null,
+    "what": "Villarreal winner (dup of 02)",
+    "crop_note": "dup"
+   }
+  ],
+  "rejected_summary": "Villarreal winner appears in 02/13/16/20 (one play); SPORT/maestro/bagera watermarks on 03,07,18",
+  "verdict": "short:3",
+  "viral_pull": 4,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-001-messi-nutmeg": {
+  "clean_plays": [
+   {
+    "clip": "10",
+    "window_s": null,
+    "what": "Messi nutmeg vs City 2015, clean",
+    "crop_note": "none"
+   },
+   {
+    "clip": "04",
+    "window_s": null,
+    "what": "Messi nutmeg Courtois (dup 17)",
+    "crop_note": "none"
+   },
+   {
+    "clip": "14",
+    "window_s": null,
+    "what": "Messi nutmeg Barca",
+    "crop_note": "scorebug"
+   },
+   {
+    "clip": "03",
+    "window_s": null,
+    "what": "Messi Inter Miami goal w/ scoreboard graphic",
+    "crop_note": "top score bug"
+   }
+  ],
+  "rejected_summary": "captions/facecam: 01,08,09,12,15,18,20; watermarks 06,07,12",
+  "verdict": "short:4",
+  "viral_pull": 3,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-012-messi-arguing-with-the-ref": {
+  "clean_plays": [
+   {
+    "clip": "05",
+    "window_s": null,
+    "what": "Messi vs ref Argentina, clean",
+    "crop_note": "none"
+   },
+   {
+    "clip": "19",
+    "window_s": null,
+    "what": "Messi ref argument Miami fan POV",
+    "crop_note": "none"
+   },
+   {
+    "clip": "17",
+    "window_s": null,
+    "what": "Messi tunnel/ref Miami fan POV",
+    "crop_note": "dark"
+   },
+   {
+    "clip": "11",
+    "window_s": null,
+    "what": "Messi shoved/argues ref Miami",
+    "crop_note": "RBC board only"
+   }
+  ],
+  "rejected_summary": "facecam 18,15; SOL91.5 watermark 07; captions 01,02,04,06,08-10,13,16,20; 03 has top bar",
+  "verdict": "short:4",
+  "viral_pull": 3,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-027-ronaldo-yellow-card": {
+  "clean_plays": [
+   {
+    "clip": "06",
+    "window_s": null,
+    "what": "Ronaldo v Pique clasico foul/yellow",
+    "crop_note": "none"
+   },
+   {
+    "clip": "13",
+    "window_s": null,
+    "what": "Ronaldo clasico 2014/15 card",
+    "crop_note": "small top-left bug"
+   },
+   {
+    "clip": "17",
+    "window_s": null,
+    "what": "Ronaldo clasico 2017 dive card (dup 18)",
+    "crop_note": "scorebug"
+   },
+   {
+    "clip": "15",
+    "window_s": null,
+    "what": "Ronaldo Portugal tackle card",
+    "crop_note": "small bug"
+   },
+   {
+    "clip": "10",
+    "window_s": null,
+    "what": "Ronaldo card v Atletico",
+    "crop_note": "TV bug"
+   }
+  ],
+  "rejected_summary": "captions/facecam/channel marks: 01,02,03,04,05,07,08,09,11,14,16,19,20; 12 has LaLiga-channel intro",
+  "verdict": "ready:5",
+  "viral_pull": 4,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-006-messi-last-minute-winner": {
+  "clean_plays": [
+   {
+    "clip": "02",
+    "window_s": null,
+    "what": "Messi Inter Miami 94' free-kick v Cruz Azul, Apple TV",
+    "crop_note": "small scorebug"
+   },
+   {
+    "clip": "18",
+    "window_s": null,
+    "what": "Messi 2017 clasico last-min goal fan POV",
+    "crop_note": "none"
+   },
+   {
+    "clip": "08",
+    "window_s": null,
+    "what": "Messi Miami goal + celebration",
+    "crop_note": "scorebug"
+   },
+   {
+    "clip": "11",
+    "window_s": null,
+    "what": "Messi Miami goal",
+    "crop_note": "small marks"
+   },
+   {
+    "clip": "16",
+    "window_s": null,
+    "what": "Messi Miami goal wide",
+    "crop_note": "none"
+   }
+  ],
+  "rejected_summary": "facecam/captions: 01,03,04,05,06,09,15(bar fan),20; 17 subtitles; 14 bug",
+  "verdict": "ready:5",
+  "viral_pull": 5,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-018-messi-champions-league-goal": {
+  "clean_plays": [
+   {
+    "clip": "05",
+    "window_s": null,
+    "what": "Messi UCL goal run, broadcast clean",
+    "crop_note": "none"
+   },
+   {
+    "clip": "06",
+    "window_s": null,
+    "what": "Messi UCL goal vs keeper",
+    "crop_note": "none"
+   },
+   {
+    "clip": "08",
+    "window_s": null,
+    "what": "Messi UCL goal",
+    "crop_note": "none"
+   },
+   {
+    "clip": "18",
+    "window_s": null,
+    "what": "Messi UCL goals",
+    "crop_note": "none"
+   },
+   {
+    "clip": "07",
+    "window_s": null,
+    "what": "Messi UCL free-kick/goals",
+    "crop_note": "Gazprom/Nissan boards only"
+   },
+   {
+    "clip": "17",
+    "window_s": null,
+    "what": "Messi UCL final/goals",
+    "crop_note": "UEFA logo top-right, crop"
+   }
+  ],
+  "rejected_summary": "cartoon 09; captions 01-03,10,15,16; facecam none; 20 clean-ish extra",
+  "verdict": "ready:5",
+  "viral_pull": 4,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-017-messi-clasico-goal": {
+  "clean_plays": [
+   {
+    "clip": "04",
+    "window_s": null,
+    "what": "Messi 2017 clasico goal + celebration",
+    "crop_note": "tiny top-left bug"
+   },
+   {
+    "clip": "19",
+    "window_s": null,
+    "what": "Messi clasico goal close",
+    "crop_note": "faint"
+   },
+   {
+    "clip": "15",
+    "window_s": null,
+    "what": "Messi clasico goal wide",
+    "crop_note": "none"
+   },
+   {
+    "clip": "09",
+    "window_s": null,
+    "what": "Messi clasico goal",
+    "crop_note": "small marks"
+   }
+  ],
+  "rejected_summary": "facecam/captions/graphics: 02,07,08,12,13,14,16,18,20; subtitles 17; likely 2017 play repeats",
+  "verdict": "short:4",
+  "viral_pull": 3,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-026-ronaldo-reaction-after-a-miss": {
+  "clean_plays": [
+   {
+    "clip": "06",
+    "window_s": null,
+    "what": "Ronaldo Al-Nassr miss, fan POV",
+    "crop_note": "top banners, crop"
+   },
+   {
+    "clip": "11",
+    "window_s": null,
+    "what": "Ronaldo Al-Nassr miss + reaction",
+    "crop_note": "corner marks"
+   }
+  ],
+  "rejected_summary": "channel/SSC/arabic logos, captions, facecam on nearly all",
+  "verdict": "short:2",
+  "viral_pull": 2,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-009-messi-goal-celebration": {
+  "clean_plays": [
+   {
+    "clip": "01",
+    "window_s": null,
+    "what": "Messi goal + celebration, clean",
+    "crop_note": "none"
+   },
+   {
+    "clip": "17",
+    "window_s": null,
+    "what": "Messi Miami goal celebration",
+    "crop_note": "none"
+   },
+   {
+    "clip": "10",
+    "window_s": null,
+    "what": "Messi smile celebration close",
+    "crop_note": "score bug"
+   },
+   {
+    "clip": "06",
+    "window_s": null,
+    "what": "Messi pose celebration, 2nd half",
+    "crop_note": "first half watermark, trim"
+   }
+  ],
+  "rejected_summary": "captions/facecam/watermarks: 03,04,08,09,11,12,13,14,15,20",
+  "verdict": "short:4",
+  "viral_pull": 3,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-016-messi-hat-trick": {
+  "clean_plays": [
+   {
+    "clip": "01",
+    "window_s": null,
+    "what": "Messi Miami hat-trick broadcast",
+    "crop_note": "small bug"
+   },
+   {
+    "clip": "06",
+    "window_s": null,
+    "what": "Messi Argentina goals fan POV",
+    "crop_note": "none"
+   },
+   {
+    "clip": "11",
+    "window_s": null,
+    "what": "Messi Argentina goals",
+    "crop_note": "none"
+   },
+   {
+    "clip": "20",
+    "window_s": null,
+    "what": "Messi Miami fan POV",
+    "crop_note": "none"
+   }
+  ],
+  "rejected_summary": "captions/facecam 02,05,07,08,09,10,12,14-17,19; PLAY mark 03,13",
+  "verdict": "short:4",
+  "viral_pull": 4,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-008-messi-no-look-assist": {
+  "clean_plays": [
+   {
+    "clip": "05",
+    "window_s": null,
+    "what": "Messi assist -> Martinez goal",
+    "crop_note": "none"
+   },
+   {
+    "clip": "07",
+    "window_s": null,
+    "what": "Messi assist WC",
+    "crop_note": "none"
+   },
+   {
+    "clip": "08",
+    "window_s": null,
+    "what": "Messi assist Miami goal",
+    "crop_note": "small bars"
+   }
+  ],
+  "rejected_summary": "captions/facecam/watermark everywhere else (AnqTV 19, SportsExtra 20)",
+  "verdict": "short:3",
+  "viral_pull": 3,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-013-messi-shooting-outside-the-box": {
+  "clean_plays": [
+   {
+    "clip": "05",
+    "window_s": null,
+    "what": "Messi long-range goal v Orlando",
+    "crop_note": "none"
+   },
+   {
+    "clip": "10",
+    "window_s": null,
+    "what": "Messi goal MLS Apple",
+    "crop_note": "small bug"
+   },
+   {
+    "clip": "17",
+    "window_s": null,
+    "what": "Messi long-range goal",
+    "crop_note": "none"
+   },
+   {
+    "clip": "18",
+    "window_s": null,
+    "what": "Messi goals compilation (several)",
+    "crop_note": "none"
+   },
+   {
+    "clip": "19",
+    "window_s": null,
+    "what": "Messi free-kick v Real Madrid",
+    "crop_note": "small top-right logo, crop"
+   }
+  ],
+  "rejected_summary": "captions on 01-04,06-09,11-16,20",
+  "verdict": "ready:5",
+  "viral_pull": 3,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ },
+ "MC-023-ronaldo-header-goal": {
+  "clean_plays": [
+   {
+    "clip": "02",
+    "window_s": null,
+    "what": "Ronaldo/Al-Nassr header-ish, unconfirmed",
+    "crop_note": "verify"
+   }
+  ],
+  "rejected_summary": "folder holds mostly other topics: Messi yellow card (07,09,10,20), Ronaldo bicycle kick (04,11,18), Messi free kick (12); 05 has no analysis",
+  "verdict": "short:1",
+  "viral_pull": 2,
+  "triage": "coarse 6s-step grids 2026-11-01; clip=_NN suffix; windows not set, whole-clip, verify in editor; N is an estimate"
+ }
+}

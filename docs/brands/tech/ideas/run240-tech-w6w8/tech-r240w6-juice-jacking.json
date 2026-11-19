@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "Is Airport USB Charging Really Dangerous?",
+ "topic": "The FBI and FCC warned about 'juice jacking', but the FCC says it knows of no confirmed real case; it's possible in labs. A charge-only cable or your own plug removes the risk.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Sceptical take on a scary claim on the busiest travel day; competitors repeat the scare.",
+ "evidence": [
+  {
+   "claim": "Snopes: 'serious threat of juice jacking' rated Mixture (FCC: no confirmed instances) (accessed 2026-10-24)",
+   "url": "https://www.snopes.com/fact-check/serious-threat-of-juice-jacking/"
+  },
+  {
+   "claim": "Wikipedia: Juice jacking (Black Hat 2013 proof of concept) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Juice_jacking"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Juice Jacking",
+   "url": "https://youtube.com/shorts/6kPcJmO4gSU",
+   "views": "27K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "What is 'juice jacking'? (long, news)",
+   "url": "https://www.youtube.com/watch?v=H5EE2jvaDZA",
+   "views": "365K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Airport USB port. Safe to plug in?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: The FBI and FCC warned about 'juice jacking', but the FCC says it knows of no confirmed real case; it's possible in labs. A charge-only cable or your own plug removes the risk. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Airport USB port. Safe to plug in?",
+ "twist": "The FBI and FCC warned about 'juice jacking', but the FCC says it knows of no confirmed real case; it's possible in labs. A charge-only cable or your own plug removes the risk.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-24",
+  "deadline": "2026-11-30",
+  "event": "Thanksgiving travel eve (Wed Nov 25 2026)"
+ },
+ "newsPeg": "Thanksgiving travel eve (Wed Nov 25 2026)",
+ "category": "news peg",
+ "suggestedSlot": "2026-11-25 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW with plane Wi-Fi (Nov 24). Don't say 'impossible': 'no confirmed public case as of 2023'.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 66,
+ "score10": 7.3,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

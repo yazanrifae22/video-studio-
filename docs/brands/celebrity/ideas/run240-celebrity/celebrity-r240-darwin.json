@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "One Letter Forced Darwin to Publish After 20 Years",
+ "topic": "In 1858 Alfred Russel Wallace mailed Darwin the same idea; Darwin hurried, and On the Origin of Species (Nov 24, 1859) sold out to the trade on day one.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: On the Origin of Species published 24 Nov 1859 (167th) (2026-11-24). Wikipedia On_the_Origin_of_Species 20,992 views Sept 2026.",
+ "hook": "Twenty years waiting. Then one letter?",
+ "twist": "In 1858 Alfred Russel Wallace mailed Darwin the same idea; Darwin hurried, and On the Origin of Species (Nov 24, 1859) sold out to the trade on day one.",
+ "peg": {
+  "event": "On the Origin of Species published 24 Nov 1859 (167th)",
+  "date": "2026-11-24",
+  "url": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "PBS Evolution - Darwin's diary 1858 (accessed 2026-10-24)",
+   "url": "https://www.pbs.org/wgbh/evolution/darwin/diary/1858.html"
+  },
+  {
+   "claim": "Cambridge - Life and Letters of Charles Darwin: publication of the Origin (accessed 2026-10-24)",
+   "url": "https://www.cambridge.org/core/books/abs/life-and-letters-of-charles-darwin/publication-of-the-origin-of-speciesoct-3-1859dec-31-1859/22B0C5E58EA3B9C5E8D49E4741B3028C"
+  },
+  {
+   "claim": "University of Otago library - Darwin exhibition (accessed 2026-10-24)",
+   "url": "https://www.otago.ac.nz/library/exhibitions/darwin/cabinet8.html"
+  },
+  {
+   "claim": "Peg source: On the Origin of Species published 24 Nov 1859 (167th) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species"
+  },
+  {
+   "claim": "Wikimedia pageviews On_the_Origin_of_Species: 20992 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=On_the_Origin_of_Species&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "PBS Evolution - Darwin's diary 1858",
+   "url": "https://www.pbs.org/wgbh/evolution/darwin/diary/1858.html",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Cambridge - Life and Letters of Charles Darwin: publication of the Origin",
+   "url": "https://www.cambridge.org/core/books/abs/life-and-letters-of-charles-darwin/publication-of-the-origin-of-speciesoct-3-1859dec-31-1859/22B0C5E58EA3B9C5E8D49E4741B3028C",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "University of Otago library - Darwin exhibition",
+   "url": "https://www.otago.ac.nz/library/exhibitions/darwin/cabinet8.html",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "A Letter Nearly Erased Darwin’s Life’s Work #Shorts #History #Darwin #Wallace",
+   "url": "https://youtube.com/shorts/WnzrN-scEys",
+   "views": 324,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Wallace Letter: When Darwin Almost Fell to a Quiet Gull",
+   "url": "https://youtube.com/shorts/fjS2iRyIz-w",
+   "views": 171,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "What If Wallace's Letter Never Reached Darwin?",
+   "url": "https://youtube.com/shorts/LiBNRjyn_tc",
+   "views": 237,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a sealed letter from 'Ternate' landing on a stack of 20 years of notebooks + hook. Twist: same theory, different man. Loop: 'What's in your drawer?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "'Forced' is interpretation: say 'pushed him to hurry'. 1,250 copies; 'sold out first day' = to the book trade (Darwin's own diary). Avoid religion debate.",
+ "window": {
+  "notBefore": "2026-11-23T12:00:00Z",
+  "deadline": "2026-11-25T06:00:00Z",
+  "label": "On the Origin of Species published 24 Nov 1859 (167th)",
+  "suggestedSlot": "2026-11-24T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

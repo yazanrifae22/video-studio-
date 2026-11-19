@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Show AI a Fake Optical Illusion. It Gets Fooled",
+ "topic": "The lines really are different, but AI says 'they're equal, it's an illusion': it recognises the famous picture and gives the famous answer.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Illusion Shorts pull 33K-391K; the 'AI sees an illusion that isn't there' twist has no competitor.",
+ "evidence": [
+  {
+   "claim": "Ullman 2024, 'The Illusion-Illusion: Vision Language Models See Illusions Where There Are None' (accessed 2026-10-24)",
+   "url": "https://arxiv.org/abs/2412.18613"
+  },
+  {
+   "claim": "The Register (Aug 2025): vision AI models see optical illusions when none exist (accessed 2026-10-24)",
+   "url": "https://www.theregister.com/2025/08/19/vision_language_models_see_illusions/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "This Pool Is an Optical Illusion! (not AI)",
+   "url": "https://youtube.com/shorts/ANngR-tHSB8",
+   "views": "391K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "The Optical Illusion That Fooled Everyone! (not AI)",
+   "url": "https://youtube.com/shorts/TYFBjS9BeXk",
+   "views": "33K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Which line is longer? Easy?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: The lines really are different, but AI says 'they're equal, it's an illusion': it recognises the famous picture and gives the famous answer. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Which line is longer? Easy?",
+ "twist": "The lines really are different, but AI says 'they're equal, it's an illusion': it recognises the famous picture and gives the famous answer.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-01 15:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with five-leg-dog (Nov 26): 5 days apart.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 28,
+ "score10": 8.5,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

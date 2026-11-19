@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Wi-Fi Doesn't Stand for Anything",
+ "topic": "Nothing: a branding firm invented 'Wi-Fi' as a catchy play on 'Hi-Fi'; 'wireless fidelity' was added later and dropped.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Quiz hook everyone answers wrong; competitors <5K.",
+ "evidence": [
+  {
+   "claim": "Wi-Fi: name coined by Interbrand in 1999; not an abbreviation (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Wi-Fi"
+  },
+  {
+   "claim": "Phil Belanger (Wi-Fi Alliance founding member) on the name, via Boing Boing 2005 (accessed 2026-10-24)",
+   "url": "https://boingboing.net/2005/11/08/wifi-isnt-short-for.html"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why is it called Wi-Fi?",
+   "url": "https://youtube.com/shorts/TY2X0UP1X_o",
+   "views": "4.5K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "WiFi Doesn't Stand for Anything",
+   "url": "https://youtube.com/shorts/-j6YaAqVJrA",
+   "views": "1.2K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('What does Wi-Fi stand for?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Nothing: a branding firm invented 'Wi-Fi' as a catchy play on 'Hi-Fi'; 'wireless fidelity' was added later and dropped. Loop ending: re-ask the hook.",
+ "hook": "What does Wi-Fi stand for?",
+ "twist": "Nothing: a branding firm invented 'Wi-Fi' as a catchy play on 'Hi-Fi'; 'wireless fidelity' was added later and dropped.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-19 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW with Xbox-name (both naming stories; >= 3 days apart).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 9,
+ "score10": 8.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

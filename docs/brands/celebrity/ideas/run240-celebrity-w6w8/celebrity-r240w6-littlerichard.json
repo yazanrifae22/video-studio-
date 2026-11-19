@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "Why Little Richard Quit Rock and Roll at His Peak",
+ "topic": "On an Australian tour in Oct 1957 Little Richard saw a fireball in the sky (likely Sputnik's rocket), took it as a sign, threw his jewellery into the Hunter River and left for Bible college; he came back in 1962.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Little Richard born 5 Dec 1932 (2026-12-05). Wikipedia Little_Richard 64,169 views Sept 2026.",
+ "hook": "Mid-tour, he quit rock. Why?",
+ "twist": "On an Australian tour in Oct 1957 Little Richard saw a fireball in the sky (likely Sputnik's rocket), took it as a sign, threw his jewellery into the Hunter River and left for Bible college; he came back in 1962.",
+ "peg": {
+  "event": "Little Richard born 5 Dec 1932",
+  "date": "2026-12-05",
+  "url": "https://en.wikipedia.org/wiki/Little_Richard",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Canberra Times - Why Little Richard called it a day (accessed 2026-10-24)",
+   "url": "https://www.canberratimes.com.au/story/6755472/why-little-richard-called-it-a-day"
+  },
+  {
+   "claim": "Oxford American - Prayers for Richard (accessed 2026-10-24)",
+   "url": "https://oxfordamerican.org/magazine/issue-91-winter-2015/prayers-for-richard"
+  },
+  {
+   "claim": "Hollywood Reporter - Little Richard dies at 87 (accessed 2026-10-24)",
+   "url": "https://www.hollywoodreporter.com/news/little-richard-dead-early-rock-architect-hitmaker-dies-at-87-1294056"
+  },
+  {
+   "claim": "Peg source: Little Richard born 5 Dec 1932 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Little_Richard"
+  },
+  {
+   "claim": "Wikimedia pageviews Little_Richard: 64169 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Little_Richard&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Canberra Times - Why Little Richard called it a day",
+   "url": "https://www.canberratimes.com.au/story/6755472/why-little-richard-called-it-a-day",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Oxford American - Prayers for Richard",
+   "url": "https://oxfordamerican.org/magazine/issue-91-winter-2015/prayers-for-richard",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Hollywood Reporter - Little Richard dies at 87",
+   "url": "https://www.hollywoodreporter.com/news/little-richard-dead-early-rock-architect-hitmaker-dies-at-87-1294056",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Little Richard Quit Rock At The Top And Threw His Diamonds In A River — Because Of Sputnik 🔥",
+   "url": "https://youtube.com/shorts/gBO2S3O3GG0",
+   "views": 10000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Little Richard quit rock and roll Sputnik #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Little Richard Suddenly Quit Rock 'n'  roll #littlerichard",
+   "url": "https://youtube.com/shorts/AhsEQCvV94s",
+   "views": 962,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Little Richard quit rock and roll Sputnik #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Little Richard Quit Rock n Roll Mid Concert for God",
+   "url": "https://youtube.com/shorts/Rul415f9g-c",
+   "views": 838,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Little Richard quit rock and roll Sputnik #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A fireball streaking over a 1950s stadium, a glittering ring falling into water + hook. Twist by 2.5 s. Loop: 'A sign in the sky. Would you have quit?'",
+ "cta": "C2+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Jewellery, not specifically rings (Canberra Times). Where he saw it differs (Sydney stadium vs flight): say 'in Australia'. Religious turn: neutral tone. Don't mention Hendrix (Nov 27).",
+ "window": {
+  "notBefore": "2026-12-03T12:00:00Z",
+  "deadline": "2026-12-07T00:00:00Z",
+  "label": "Little Richard born 5 Dec 1932",
+  "suggestedSlot": "2026-12-04T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Little Richard"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

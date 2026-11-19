@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "Why AI Can't Count the R's in 'Strawberry' (Tokens Explained)",
+ "topic": "LLM tokenization",
+ "audience": "Anyone who uses ChatGPT/Claude; junior devs paying per-token API bills",
+ "whyCare": "Tokens decide what AI can 'see' and what it costs; the strawberry meme is an instantly recognisable hook.",
+ "evidence": [
+  {
+   "claim": "Short 'What Actually is an AI Token? (Simply Explained)' 162K views; 'AI Tokens explained in 60 seconds' 60K views (Shorts search 2026-10-20; dates not shown)",
+   "url": "https://www.youtube.com/results?search_query=tokens%20AI%20explained%20%23shorts"
+  },
+  {
+   "claim": "Computerphile 'Why AI Tokens are so Expensive' 849,110 views (~3 months); LearnThatStack 'How LLMs Actually Generate Text' 905,453 views (~9 months)",
+   "url": "https://www.youtube.com/results?search_query=tokenization%20explained%20LLM&sp=CAMSAggF"
+  },
+  {
+   "claim": "Gap: strawberry-specific videos are small: 5,073 views (PolyRabbit, 3 weeks), 1,860 views (Hyperfocused AI, 2 months)",
+   "url": "https://www.youtube.com/results?search_query=why%20AI%20can't%20count%20r%20in%20strawberry%20tokens&sp=CAMSAggF"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "What Actually is an AI Token? (Simply Explained) (Short)",
+   "url": "https://www.youtube.com/shorts/P-mv2hQc43E",
+   "views": "162K",
+   "verified": true
+  },
+  {
+   "title": "Why AI Tokens are so Expensive - Computerphile",
+   "url": "https://www.youtube.com/watch?v=-0HRzXk8vlk",
+   "views": "849,110",
+   "verified": true
+  },
+  {
+   "title": "Why ChatGPT Can't Count the R's in Strawberry (PolyRabbit)",
+   "url": "https://www.youtube.com/watch?v=DfcpklEGj_w",
+   "views": "5,073",
+   "verified": true
+  }
+ ],
+ "angle": "The word 'strawberry' splits into token blocks (illustrative split, labelled 'example'); the model only sees token IDs (code panel of numbers). Stat counter: ~4 characters per token rule of thumb (cite OpenAI tokenizer docs). Payoff: that's also why you pay per token.",
+ "durationSec": 45,
+ "format": "short",
+ "hook": "Ask AI how many R's are in 'strawberry'. It used to get it wrong. Here's why.",
+ "difficulty": 2,
+ "estCostUsd": 3,
+ "strengths": "Meme-level hook + clean visual; cheap (code panel + diagram); evergreen",
+ "weaknesses": "Newer models often answer correctly, so phrase as 'used to / still can on harder words'; exact split varies by tokenizer (must be labelled illustrative)",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

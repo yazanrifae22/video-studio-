@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "The Perfect 10 the Scoreboard Couldn't Show",
+ "topic": "Omega was told a 10.00 was impossible, so the 1976 Montreal board had three digits: Comaneci's perfect score appeared as 1.00.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Nadia Comaneci turns 65 (50th anniversary year of Montreal 1976) (2026-11-12). Wikipedia Nadia_Comăneci 23,510 views Sept 2026.",
+ "hook": "First perfect 10: the board showed 1.00?",
+ "twist": "Omega was told a 10.00 was impossible, so the 1976 Montreal board had three digits: Comaneci's perfect score appeared as 1.00.",
+ "peg": {
+  "event": "Nadia Comaneci turns 65 (50th anniversary year of Montreal 1976)",
+  "date": "2026-11-12",
+  "url": "https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "AP via KSL - In 1976, Comaneci's perfect 10s made her the perfect one (accessed 2026-10-24)",
+   "url": "https://www.ksl.com/article/50004151/in-1976-comanecis-perfect-10s-made-her-the-perfect-one"
+  },
+  {
+   "claim": "Wikipedia - Perfect 10 (gymnastics) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Perfect_10_(gymnastics)"
+  },
+  {
+   "claim": "CTV News - Comaneci returns to Montreal for 50th anniversary (accessed 2026-10-24)",
+   "url": "https://ctvnews.ca/sports/article/nadia-comaneci-returns-to-montreal-to-mark-50th-anniversary-of-olympic-perfection/"
+  },
+  {
+   "claim": "Peg source: Nadia Comaneci turns 65 (50th anniversary year of Montreal 1976) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci"
+  },
+  {
+   "claim": "Wikimedia pageviews Nadia_Comăneci: 23510 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Nadia_Com%C4%83neci&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "AP via KSL - In 1976, Comaneci's perfect 10s made her the perfect one",
+   "url": "https://www.ksl.com/article/50004151/in-1976-comanecis-perfect-10s-made-her-the-perfect-one",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Perfect 10 (gymnastics)",
+   "url": "https://en.wikipedia.org/wiki/Perfect_10_(gymnastics)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "CTV News - Comaneci returns to Montreal for 50th anniversary",
+   "url": "https://ctvnews.ca/sports/article/nadia-comaneci-returns-to-montreal-to-mark-50th-anniversary-of-olympic-perfection/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Nadia Comăneci's PERFECT 10 #shorts",
+   "url": "https://youtube.com/shorts/-wdaeIXQ08Q",
+   "views": 5400000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Nadia Comaneci: the perfect 10 that showed as 1.00 #Shorts",
+   "url": "https://youtube.com/shorts/jPc6Ml48J_c",
+   "views": 42,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Perfect 10... The Scoreboard Said 1.00 | SportsLore",
+   "url": "https://youtube.com/shorts/sXcBxRWCaMg",
+   "views": 655,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a vintage 3-digit scoreboard reading '1.00' + hook. Viewer guesses a bad score. Twist: it was perfect. Loop: '1.00... or 10?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "She was 14 in 1976: the story is about the scoreboard; show no child figure, only the board. Use her adult quote ('one is not a very good score'). No Olympic rings/Omega logo.",
+ "window": {
+  "notBefore": "2026-11-11T12:00:00Z",
+  "deadline": "2026-11-13T06:00:00Z",
+  "label": "Nadia Comaneci turns 65 (50th anniversary year of Montreal 1976)",
+  "suggestedSlot": "2026-11-12T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

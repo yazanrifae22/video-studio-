@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Type 'Do a Barrel Roll' Into Google",
+ "topic": "Google's page spins: an Easter egg from 2011 quoting Star Fox 64; engineers leave in-jokes in big products to test features and for fun.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Frame-0 challenge the viewer can do instantly (T3); Shorts are small.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: List of Google Easter eggs ('do a barrel roll', 2011) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs"
+  },
+  {
+   "claim": "Wikipedia: Star Fox 64 ('Do a barrel roll!' line) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Star_Fox_64"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Make Google Do a Barrel Roll and 6 Other Crazy Tricks! (long, 10y)",
+   "url": "https://www.youtube.com/watch?v=_dXbC2xqNZg",
+   "views": "5.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  },
+  {
+   "title": "Search 'do a barrel roll' on Google and THIS will happen...",
+   "url": "https://youtube.com/shorts/ZPyWVl3SXJI",
+   "views": "11K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Type 'do a barrel roll'. Try it.') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Google's page spins: an Easter egg from 2011 quoting Star Fox 64; engineers leave in-jokes in big products to test features and for fun. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Type 'do a barrel roll'. Try it.",
+ "twist": "Google's page spins: an Easter egg from 2011 quoting Star Fox 64; engineers leave in-jokes in big products to test features and for fun.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-10 18:00 UTC",
+ "novelty": {
+  "overlap": "none. Verify it still works in Dec 2026 on mobile and desktop; screen-record our own search page mock-up, no Google logo.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 20,
+ "score10": 8.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

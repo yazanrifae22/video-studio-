@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Why Your Phone Dies at 20% in the Cold",
+ "topic": "Lithium-ion batteries at low temperature",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Seasonal (November cold, northern hemisphere); Lithium-ion_battery ~27k views/30d.",
+ "evidence": [
+  {
+   "claim": "Apple: iPhone ideal ambient temperature 0-35 °C (32-95 °F); low temps temporarily shorten battery life (accessed 2026-10-23)",
+   "url": "https://www.apple.com/batteries/maximizing-performance/"
+  },
+  {
+   "claim": "Battery University BU-410: charging/discharging at low temperatures (accessed 2026-10-23)",
+   "url": "https://batteryuniversity.com/article/bu-410-charging-at-high-and-low-temperatures"
+  },
+  {
+   "claim": "Pageviews Lithium-ion_battery 26,794 in 30 days (accessed 2026-10-23)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Lithium-ion_battery&range=latest-30"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Your Phone Dies In The Cold",
+   "url": "https://youtube.com/shorts/2Lr5SGCo9S0",
+   "views": "855",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why Your Phone Dies at 20% in the Cold",
+   "url": "https://youtube.com/shorts/zJXrus7ScHc",
+   "views": "340",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: phone in snow showing 20% + hook. Answer: the charge is still there; cold slows the chemistry, voltage sags under load, and the phone shuts down to protect itself. Warm it up and the % comes back. Apple's comfort zone: 0-35 °C. Loop: '20% left... now you know why.'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "20% left. Then dead. Why?",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "A 340-view competitor uses the identical title; fine, but do not copy its visuals. Do not advise heating phones.",
+ "window": {
+  "notBefore": "2026-11-04T00:00:00Z",
+  "deadline": "2027-01-31T00:00:00Z",
+  "label": "seasonal: first cold snaps"
+ },
+ "novelty": {
+  "overlap": "low with 'Why Your Phone Charges Slower After 80%' (both battery) - keep 3+ days apart",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

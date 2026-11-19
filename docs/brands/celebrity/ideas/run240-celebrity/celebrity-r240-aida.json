@@ -1,0 +1,84 @@
+{
+ "channel": "celebrity",
+ "title": "Aida Was Never Written for the Suez Canal",
+ "topic": "Verdi refused to write a canal ode; Cairo's opera house opened with Rigoletto, and Aida premiered two years later because its sets were stuck in besieged Paris.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Suez Canal opened 17 Nov 1869 (157th) (2026-11-17). Wikipedia Aida 15,761 views Sept 2026.",
+ "hook": "Opera for the Suez Canal? Never.",
+ "twist": "Verdi refused to write a canal ode; Cairo's opera house opened with Rigoletto, and Aida premiered two years later because its sets were stuck in besieged Paris.",
+ "peg": {
+  "event": "Suez Canal opened 17 Nov 1869 (157th)",
+  "date": "2026-11-17",
+  "url": "https://en.wikipedia.org/wiki/Suez_Canal",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Aida (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Aida"
+  },
+  {
+   "claim": "Interlude - On this day: Aida (accessed 2026-10-24)",
+   "url": "https://interlude.hk/?p=75331"
+  },
+  {
+   "claim": "CapRadio At The Opera - Verdi's Aida (accessed 2026-10-24)",
+   "url": "https://www.capradio.org/107818"
+  },
+  {
+   "claim": "Peg source: Suez Canal opened 17 Nov 1869 (157th) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+  },
+  {
+   "claim": "Wikimedia pageviews Aida: 15761 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Aida&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Aida",
+   "url": "https://en.wikipedia.org/wiki/Aida",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Interlude - On this day: Aida",
+   "url": "https://interlude.hk/?p=75331",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "CapRadio At The Opera - Verdi's Aida",
+   "url": "https://www.capradio.org/107818",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [],
+ "angle": "Frame 0: a ship entering a canal under an opera curtain + hook. Twist: the opera wasn't ready - Rigoletto played. Loop: 'So what did play at the canal party?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Weak peg (157th): treat as evergreen myth-buster. Premiere Cairo 24 Dec 1871. Original music only.",
+ "window": {
+  "notBefore": "2026-11-16T12:00:00Z",
+  "deadline": "2026-11-19T00:00:00Z",
+  "label": "Suez Canal opened 17 Nov 1869 (157th)",
+  "suggestedSlot": "2026-11-17T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

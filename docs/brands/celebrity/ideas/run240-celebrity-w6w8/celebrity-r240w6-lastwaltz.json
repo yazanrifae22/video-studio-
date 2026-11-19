@@ -1,0 +1,104 @@
+{
+ "channel": "celebrity",
+ "title": "50 Years Ago, a Rock Concert Served 5,000 Turkey Dinners",
+ "topic": "The Band's farewell show, Thanksgiving 1976 at Winterland: promoter Bill Graham served a full turkey dinner to about 5,000 fans, with a waltz orchestra, before the stars came on.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: The Last Waltz, Winterland, San Francisco, 25 Nov 1976 (50th anniversary) (2026-11-25). Wikipedia The_Last_Waltz 18,769 views Sept 2026.",
+ "hook": "A rock farewell… with turkey dinner?",
+ "twist": "The Band's farewell show, Thanksgiving 1976 at Winterland: promoter Bill Graham served a full turkey dinner to about 5,000 fans, with a waltz orchestra, before the stars came on.",
+ "peg": {
+  "event": "The Last Waltz, Winterland, San Francisco, 25 Nov 1976 (50th anniversary)",
+  "date": "2026-11-25",
+  "url": "https://en.wikipedia.org/wiki/The_Last_Waltz",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "NPR - Robbie Robertson on The Last Waltz, 40 years later (accessed 2026-10-24)",
+   "url": "https://www.npr.org/2016/11/24/503048226/robbie-robertson-on-the-last-waltz-40-years-later"
+  },
+  {
+   "claim": "Pima County Library - Thanksgiving, turkey, football and The Last Waltz (accessed 2026-10-24)",
+   "url": "https://www.library.pima.gov/blogs/post/thanksgiving-turkey-football-and-the-last-waltz/"
+  },
+  {
+   "claim": "Best Classic Bands - The Band's Last Waltz (accessed 2026-10-24)",
+   "url": "https://bestclassicbands.com/band-last-waltz-11-25-17"
+  },
+  {
+   "claim": "Peg source: The Last Waltz, Winterland, San Francisco, 25 Nov 1976 (50th anniversary) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/The_Last_Waltz"
+  },
+  {
+   "claim": "Wikimedia pageviews The_Last_Waltz: 18769 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=The_Last_Waltz&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "NPR - Robbie Robertson on The Last Waltz, 40 years later",
+   "url": "https://www.npr.org/2016/11/24/503048226/robbie-robertson-on-the-last-waltz-40-years-later",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Pima County Library - Thanksgiving, turkey, football and The Last Waltz",
+   "url": "https://www.library.pima.gov/blogs/post/thanksgiving-turkey-football-and-the-last-waltz/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Best Classic Bands - The Band's Last Waltz",
+   "url": "https://bestclassicbands.com/band-last-waltz-11-25-17",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Robbie Robertson Talks Last Waltz And Thanksgiving",
+   "url": "https://www.youtube.com/watch?v=S1zKwpjIPPs",
+   "views": 4838,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"The Last Waltz Thanksgiving dinner #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "THE BAND'S THE LAST WALTZ...THANKSGIVING DAY FINAL SHOW..HAPPY THANKSGIVING 2025..PLEASE SUBSCRIBE !",
+   "url": "https://youtube.com/shorts/5EdDglffCTI",
+   "views": 1000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"The Last Waltz Thanksgiving dinner #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: Long banquet tables of turkey plates in front of a dark rock stage + hook. Twist by 2.5 s. Loop: 'Dinner, then a farewell show. Would you have gone?'",
+ "cta": "C3+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Crowd 5,000 (most sources) vs 5,400 (library blog): say 'about 5,000'. Turkey counts (220 birds) single-source: skip. Scorsese filmed it, but he had an idea on Nov 17: don't feature him. No film stills, no audio.",
+ "window": {
+  "notBefore": "2026-11-24T12:00:00Z",
+  "deadline": "2026-11-27T00:00:00Z",
+  "label": "The Last Waltz, Winterland, San Francisco, 25 Nov 1976 (50th anniversary)",
+  "suggestedSlot": "2026-11-25T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Bill Graham",
+  "The Band"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 2,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

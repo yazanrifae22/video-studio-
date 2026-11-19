@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "4 Stickers Made AI Misread a Stop Sign",
+ "topic": "Researchers placed a few black-and-white stickers on a stop sign; a vision model read it as a speed-limit sign in most test frames. Humans just see graffiti.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Strong frame-0 image; competitors tiny. Lab classifier, not a specific car brand.",
+ "evidence": [
+  {
+   "claim": "Eykholt et al. (CVPR 2018), 'Robust Physical-World Attacks on Deep Learning Visual Classification' (accessed 2026-10-24)",
+   "url": "https://arxiv.org/abs/1707.08945"
+  },
+  {
+   "claim": "IEEE Spectrum: slight street-sign modifications can fool machine learning algorithms (accessed 2026-10-24)",
+   "url": "https://spectrum.ieee.org/slight-street-sign-modifications-can-fool-machine-learning-algorithms"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "A few stickers turned a stop sign into a 45",
+   "url": "https://youtube.com/shorts/Y1UFe-qkOdo",
+   "views": "2K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Stop-Sign Stickers Fool Self-Driving Cars!",
+   "url": "https://youtube.com/shorts/6R-hg1HfLpE",
+   "views": "2.5K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Stop sign. AI read: Speed 45?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Researchers placed a few black-and-white stickers on a stop sign; a vision model read it as a speed-limit sign in most test frames. Humans just see graffiti. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Stop sign. AI read: Speed 45?",
+ "twist": "Researchers placed a few black-and-white stickers on a stop sign; a vision model read it as a speed-limit sign in most test frames. Humans just see graffiti.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-08 15:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with turtle-rifle (Dec 4): 4 days apart. Don't imply any production car is fooled; it was a research model.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 61,
+ "score10": 7.8,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

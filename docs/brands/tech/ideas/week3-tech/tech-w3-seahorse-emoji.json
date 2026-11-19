@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why AI Freaks Out Over the Seahorse Emoji",
+ "topic": "LLMs and things that \"should\" exist; nearest-token substitution",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Viewer can test it on their own phone; the meme Shorts get 4-74K views.",
+ "evidence": [
+  {
+   "claim": "vgel.me (2025-10-04): no seahorse emoji in Unicode, proposal rejected in 2018; GPT-5 and Claude Sonnet 4.5 said yes in 100/100 trials; lm_head picks nearest fish/horse emoji (accessed 2026-10-23)",
+   "url": "https://vgel.me/posts/seahorse/"
+  },
+  {
+   "claim": "Emojipedia search (verify absence on script day) (accessed 2026-10-23)",
+   "url": "https://emojipedia.org/search?q=seahorse"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Breaking ChatGPT with the seahorse emoji",
+   "url": "https://youtube.com/shorts/GcTpJwJ8P28",
+   "views": "74K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Was there ever a seahorse emoji?",
+   "url": "https://youtube.com/shorts/_ywBB5ULF1Q",
+   "views": "26K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "\"Is there a seahorse emoji\" #funny #chatgpt",
+   "url": "https://youtube.com/shorts/T4qT0a21ElU",
+   "views": "9.9K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: an emoji keyboard with a blank slot + hook. Viewer checks their phone: there isn't one. Twist: chatbots insist there is, then spit out a fish, a horse, and spiral. Why: the model builds 'seahorse + emoji' internally, but no such token exists, so it picks the nearest one, sees the wrong emoji, and tries again. Loop: 'So... is there a seahorse emoji?'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Is there a seahorse emoji?",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Meme peaked Oct 2025; our angle is the mechanism, which competitors skip.",
+ "window": null,
+ "novelty": {
+  "overlap": "low with 'Why This One Emoji Is 11 Characters Long' (Unicode encoding vs AI behaviour); keep 2+ days apart",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

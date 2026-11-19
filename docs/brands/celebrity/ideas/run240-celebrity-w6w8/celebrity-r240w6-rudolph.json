@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "Rudolph Was Invented to Sell Stuff. By Which Store?",
+ "topic": "Montgomery Ward copywriter Robert L. May wrote Rudolph in 1939 as a free booklet for shoppers; 2.4 million copies went out that year. The TV special premiered on 6 Dec 1964.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Rudolph TV special first aired 6 Dec 1964 (62nd anniversary) (2026-12-06). Wikipedia Rudolph_the_Red-Nosed_Reindeer 8,529 views Sept 2026.",
+ "hook": "Rudolph began as… a store giveaway?",
+ "twist": "Montgomery Ward copywriter Robert L. May wrote Rudolph in 1939 as a free booklet for shoppers; 2.4 million copies went out that year. The TV special premiered on 6 Dec 1964.",
+ "peg": {
+  "event": "Rudolph TV special first aired 6 Dec 1964 (62nd anniversary)",
+  "date": "2026-12-06",
+  "url": "https://en.wikipedia.org/wiki/Rudolph_the_Red-Nosed_Reindeer_(TV_special)",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Rudolph the Red-Nosed Reindeer (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Rudolph_the_Red-Nosed_Reindeer"
+  },
+  {
+   "claim": "Open Culture - Rudolph began as a 1939 marketing gimmick (accessed 2026-10-24)",
+   "url": "https://openculture.com/2023/12/the-origin-story-of-rudolph-the-red-nosed-reindeer.html"
+  },
+  {
+   "claim": "US Census Bureau - December 2019 history story (accessed 2026-10-24)",
+   "url": "https://www.census.gov/about/history/stories/monthly/2019/december-2019.html"
+  },
+  {
+   "claim": "Peg source: Rudolph TV special first aired 6 Dec 1964 (62nd anniversary) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Rudolph_the_Red-Nosed_Reindeer_(TV_special)"
+  },
+  {
+   "claim": "Wikimedia pageviews Rudolph_the_Red-Nosed_Reindeer: 8529 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Rudolph_the_Red-Nosed_Reindeer&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Rudolph the Red-Nosed Reindeer",
+   "url": "https://en.wikipedia.org/wiki/Rudolph_the_Red-Nosed_Reindeer",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Open Culture - Rudolph began as a 1939 marketing gimmick",
+   "url": "https://openculture.com/2023/12/the-origin-story-of-rudolph-the-red-nosed-reindeer.html",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "US Census Bureau - December 2019 history story",
+   "url": "https://www.census.gov/about/history/stories/monthly/2019/december-2019.html",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Rudolph the Red-Nosed Reindeer Was Created During a Family Tragedy 🎄 #Shorts",
+   "url": "https://www.youtube.com/watch?v=waQ4jzrjXjI",
+   "views": 1547,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Rudolph created Montgomery Ward #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Rudolph The Red-Nosed Reindeer Was Invented By Montgomery Ward | #InterestingFacts #Christmas #Xmas",
+   "url": "https://www.youtube.com/watch?v=OvUfBVjMjb8",
+   "views": 827,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Rudolph created Montgomery Ward #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Rudolph was invented for a department store #shorts",
+   "url": "https://www.youtube.com/watch?v=p-SJ40-nwnw",
+   "views": 3,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Rudolph created Montgomery Ward #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A free booklet on a 1939 store counter, a red glow on its cover + hook. Twist by 2.5 s. Loop: 'A store giveaway became Rudolph. Did you know?'",
+ "cta": "C3+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Rudolph is a trademarked character: draw an original reindeer silhouette with a red glow, no Rankin/Bass designs, no song audio. 'Coloring book' is wrong: it was a booklet.",
+ "window": {
+  "notBefore": "2026-12-04T12:00:00Z",
+  "deadline": "2026-12-08T00:00:00Z",
+  "label": "Rudolph TV special first aired 6 Dec 1964 (62nd anniversary)",
+  "suggestedSlot": "2026-12-05T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Robert L. May"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

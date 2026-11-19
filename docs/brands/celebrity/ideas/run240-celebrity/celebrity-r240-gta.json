@@ -1,0 +1,115 @@
+{
+ "channel": "celebrity",
+ "title": "GTA VI Day: The Series Exists Because of a Bug",
+ "topic": "In Race'n'Chase you could play the police; a pathfinding bug made cops ram players, testers loved it, and the game flipped to crime.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Grand Theft Auto VI release (2026-11-19). Wikipedia Grand_Theft_Auto 169,463 views Sept 2026.",
+ "hook": "GTA started as a cop game?",
+ "twist": "In Race'n'Chase you could play the police; a pathfinding bug made cops ram players, testers loved it, and the game flipped to crime.",
+ "peg": {
+  "event": "Grand Theft Auto VI release",
+  "date": "2026-11-19",
+  "url": "https://www.techradar.com/gaming/grand-theft-auto-6-delayed-again-but-itll-still-ship-in-2026",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Prima Games - From failure to feature: how Race'n'Chase led to GTA (accessed 2026-10-24)",
+   "url": "https://primagames.com/gaming/racenchase-gta-dma-design-feature"
+  },
+  {
+   "claim": "Engadget - Race'n'Chase: original GTA design docs posted (accessed 2026-10-24)",
+   "url": "https://www.engadget.com/2011/03/22/race-n-chase-original-gta-design-docs-posted/"
+  },
+  {
+   "claim": "Now I Know - The glitch that made stealing cars fun (accessed 2026-10-24)",
+   "url": "https://nowiknow.com/?p=15571"
+  },
+  {
+   "claim": "GamesRadar - The making of Grand Theft Auto (accessed 2026-10-24)",
+   "url": "https://gamesradar.com/making-of-grand-theft-auto"
+  },
+  {
+   "claim": "Peg source: Grand Theft Auto VI release (accessed 2026-10-24)",
+   "url": "https://www.techradar.com/gaming/grand-theft-auto-6-delayed-again-but-itll-still-ship-in-2026"
+  },
+  {
+   "claim": "Wikimedia pageviews Grand_Theft_Auto: 169463 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Grand_Theft_Auto&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Prima Games - From failure to feature: how Race'n'Chase led to GTA",
+   "url": "https://primagames.com/gaming/racenchase-gta-dma-design-feature",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Engadget - Race'n'Chase: original GTA design docs posted",
+   "url": "https://www.engadget.com/2011/03/22/race-n-chase-original-gta-design-docs-posted/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Now I Know - The glitch that made stealing cars fun",
+   "url": "https://nowiknow.com/?p=15571",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "GamesRadar - The making of Grand Theft Auto",
+   "url": "https://gamesradar.com/making-of-grand-theft-auto",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "GTA V A little bit of chaos NPC/ Police but I wanted just to dance 🤣 @DarkC1900 #gtav #gtaonline",
+   "url": "https://youtube.com/shorts/zH2tpI9EppU",
+   "views": 718,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "GTA Only Exists Because of a Bug #shorts",
+   "url": "https://youtube.com/shorts/rVE6pu9HGz0",
+   "views": 1400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "#Trend 🚔 GTA 5 POLICE CHASE GONE CRAZY! 💥 #shorts",
+   "url": "https://youtube.com/shorts/K7F-CbumS5o",
+   "views": 6,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a toy police car chasing a toy car on a top-down map + hook. Twist: a bug made the cops the villains. Loop: 'A bug... worth billions.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Bug detail comes via Gary Penn's Gamasutra interview as retold by Prima/Now I Know: say 'designers have said'. No Rockstar/GTA logos or art style, no violence shown (toy police cars). Tech channel has GTA VI ideas (code-in-box, launch): different angle, but avoid same-hour publishing.",
+ "window": {
+  "notBefore": "2026-11-18T12:00:00Z",
+  "deadline": "2026-11-21T00:00:00Z",
+  "label": "Grand Theft Auto VI release",
+  "suggestedSlot": "2026-11-19T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

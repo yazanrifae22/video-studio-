@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Scratch a Receipt With Your Nail. Why Black?",
+ "topic": "Receipts have no ink: the paper is coated with heat-sensitive dye, and the printer 'writes' with heat. Friction from your nail is hot enough to do the same.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Try-it-now with any receipt (T3); one 105K competitor.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: Thermal paper (leuco dye; fingernail friction leaves a mark) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Thermal_paper"
+  },
+  {
+   "claim": "Institute of Making materials library: thermal till roll (accessed 2026-10-24)",
+   "url": "https://instituteofmaking.org.uk/materials-library/library/thermal-till-roll"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Scratching ONLY the black? (scratch art)",
+   "url": "https://youtube.com/shorts/rJqclqOPC3o",
+   "views": "20M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Pressure Sensitive Receipts",
+   "url": "https://youtube.com/shorts/cKYPmcPlRRI",
+   "views": "105K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Scratch this receipt. Why black?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Receipts have no ink: the paper is coated with heat-sensitive dye, and the printer 'writes' with heat. Friction from your nail is hot enough to do the same. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Scratch this receipt. Why black?",
+ "twist": "Receipts have no ink: the paper is coated with heat-sensitive dye, and the printer 'writes' with heat. Friction from your nail is hot enough to do the same.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-01 22:00 UTC",
+ "novelty": {
+  "overlap": "none. Skip the BPA health claims (out of scope).",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 3,
+ "score10": 9.2,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

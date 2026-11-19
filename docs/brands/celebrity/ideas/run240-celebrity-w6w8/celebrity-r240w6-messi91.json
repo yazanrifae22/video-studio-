@@ -1,0 +1,112 @@
+{
+ "channel": "celebrity",
+ "title": "Messi's 91 Goals in a Year: Did Zambia's Chitalu Score 107?",
+ "topic": "On 9 Dec 2012 Messi passed Gerd Müller's 85-goal calendar-year record and finished 2012 on 91 (Guinness ratified it); Zambia's FA says Godfrey Chitalu scored 107 in 1972, never ratified.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Messi broke Müller's calendar-year record, 9 Dec 2012 (14th anniversary) (2026-12-09). Wikipedia Lionel_Messi 571,803 views Sept 2026.",
+ "hook": "91 goals in a year. Record?",
+ "twist": "On 9 Dec 2012 Messi passed Gerd Müller's 85-goal calendar-year record and finished 2012 on 91 (Guinness ratified it); Zambia's FA says Godfrey Chitalu scored 107 in 1972, never ratified.",
+ "peg": {
+  "event": "Messi broke Müller's calendar-year record, 9 Dec 2012 (14th anniversary)",
+  "date": "2026-12-09",
+  "url": "https://www.guinnessworldrecords.com/news/2012/12/barcelona-star-lionel-messi-sets-new-goalscoring-record-46285/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Guinness World Records - Messi sets new goalscoring record (accessed 2026-10-24)",
+   "url": "https://www.guinnessworldrecords.com/news/2012/12/barcelona-star-lionel-messi-sets-new-goalscoring-record-46285/"
+  },
+  {
+   "claim": "ESPN - Recapping Messi's record-breaking 2012 (accessed 2026-10-24)",
+   "url": "https://www.espn.com/soccer/story/_/id/37387746/recapping-messi-record-breaking-2012"
+  },
+  {
+   "claim": "Bleacher Report - Godfrey Chitalu: more goals than Messi? (accessed 2026-10-24)",
+   "url": "https://bleacherreport.com/articles/1440990-godfrey-chitalu-did-zambian-striker-score-more-goals-than-lionel-messi"
+  },
+  {
+   "claim": "Peg source: Messi broke Müller's calendar-year record, 9 Dec 2012 (14th anniversary) (accessed 2026-10-24)",
+   "url": "https://www.guinnessworldrecords.com/news/2012/12/barcelona-star-lionel-messi-sets-new-goalscoring-record-46285/"
+  },
+  {
+   "claim": "Wikimedia pageviews Lionel_Messi: 571803 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Lionel_Messi&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Guinness World Records - Messi sets new goalscoring record",
+   "url": "https://www.guinnessworldrecords.com/news/2012/12/barcelona-star-lionel-messi-sets-new-goalscoring-record-46285/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "ESPN - Recapping Messi's record-breaking 2012",
+   "url": "https://www.espn.com/soccer/story/_/id/37387746/recapping-messi-record-breaking-2012",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Bleacher Report - Godfrey Chitalu: more goals than Messi?",
+   "url": "https://bleacherreport.com/articles/1440990-godfrey-chitalu-did-zambian-striker-score-more-goals-than-lionel-messi",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How 2012 Lionel Messi Outscored ENTIRE European Clubs Alone! 🥶 (91 Goals) #shorts #messi #football",
+   "url": "https://youtube.com/shorts/7ObOcK8s1As",
+   "views": 3500,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Messi 91 goals 2012 record Chitalu #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Messi’s Insane 91-Goal Record in 2012 😱 #shorts",
+   "url": "https://youtube.com/shorts/tVCnfjsI59k",
+   "views": 5100,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Messi 91 goals 2012 record Chitalu #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "MESSI’S 91 GOALS IN 2012… UNREAL RECORD! 🐐🤯 | CR7 & LEWANDOWSKI COULDN’T MATCH IT! #Shorts",
+   "url": "https://youtube.com/shorts/DBY8jYFMzuc",
+   "views": 1300,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Messi 91 goals 2012 record Chitalu #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A goal tally board reading 91, with a faded '107?' chalked beside it + hook. Twist by 2.5 s. Loop: '91 or 107: whose record is it?'",
+ "cta": "C9+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "FIFA never ratified either total; Chitalu's 107 rests on Zambian newspaper tallies. Present as a claim. Messi's earlier video (Messi vs Ronaldo, Oct) is a different angle. Don't name Messi in the Dec 8 UCL idea.",
+ "window": {
+  "notBefore": "2026-12-06T12:00:00Z",
+  "deadline": "2026-12-11T00:00:00Z",
+  "label": "Messi broke Müller's calendar-year record, 9 Dec 2012 (14th anniversary)",
+  "suggestedSlot": "2026-12-07T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Lionel Messi",
+  "Godfrey Chitalu",
+  "Gerd Müller"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "Little Women's Author Didn't Want to Write It. Why?",
+ "topic": "In 1868 publisher Thomas Niles asked Louisa May Alcott for a 'girls' story'; she wrote that she never liked girls except her sisters and found the chapters dull. It sold a million copies in her lifetime.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Louisa May Alcott born 29 Nov 1832 (2026-11-29). Wikipedia Little_Women 48,213 views Sept 2026.",
+ "hook": "A classic she didn't want to write?",
+ "twist": "In 1868 publisher Thomas Niles asked Louisa May Alcott for a 'girls' story'; she wrote that she never liked girls except her sisters and found the chapters dull. It sold a million copies in her lifetime.",
+ "peg": {
+  "event": "Louisa May Alcott born 29 Nov 1832",
+  "date": "2026-11-29",
+  "url": "https://en.wikipedia.org/wiki/Louisa_May_Alcott",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Little Women (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Little_Women"
+  },
+  {
+   "claim": "New England Historical Society - Alcott never liked girls (accessed 2026-10-24)",
+   "url": "https://newenglandhistoricalsociety.com/louisa-may-alcott-never-liked-girls-knew-many-except-sisters/"
+  },
+  {
+   "claim": "NEH Humanities - Little Woman (accessed 2026-10-24)",
+   "url": "https://www.neh.gov/humanities/2009/novemberdecember/feature/little-woman"
+  },
+  {
+   "claim": "Peg source: Louisa May Alcott born 29 Nov 1832 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Louisa_May_Alcott"
+  },
+  {
+   "claim": "Wikimedia pageviews Little_Women: 48213 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Little_Women&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Little Women",
+   "url": "https://en.wikipedia.org/wiki/Little_Women",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "New England Historical Society - Alcott never liked girls",
+   "url": "https://newenglandhistoricalsociety.com/louisa-may-alcott-never-liked-girls-knew-many-except-sisters/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "NEH Humanities - Little Woman",
+   "url": "https://www.neh.gov/humanities/2009/novemberdecember/feature/little-woman",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "She Didn't Want to Write Little Women, But It Changed Everything",
+   "url": "https://youtube.com/shorts/TrWenlg9fEo",
+   "views": 279,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Louisa May Alcott didnt want to write Little Women #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Book Louisa May Alcott Thought Was Boring Paid Her Family's Debts",
+   "url": "https://youtube.com/shorts/O8wOVyBgw6g",
+   "views": 46,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Louisa May Alcott didnt want to write Little Women #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Heartbreaking True Story Behind Beth's Death in Little Women",
+   "url": "https://youtube.com/shorts/4O6jpWNmoIA",
+   "views": 940,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Louisa May Alcott didnt want to write Little Women #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: An ink pen hovering over a blank manuscript titled with four empty chairs behind + hook. Twist by 2.5 s. Loop: 'So why didn't she want to write it?'",
+ "cta": "C2+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "The 'never liked girls' wording comes via biographer John Matteson: quote as 'she wrote she never liked girls, except her sisters'. No film-adaptation imagery.",
+ "window": {
+  "notBefore": "2026-11-28T12:00:00Z",
+  "deadline": "2026-12-03T00:00:00Z",
+  "label": "Louisa May Alcott born 29 Nov 1832",
+  "suggestedSlot": "2026-12-01T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Louisa May Alcott"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

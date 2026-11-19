@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "The Game Awards Exist Because a TV Network Quit",
+ "topic": "Geoff Keighley worked on Spike TV's video game awards for over ten years; when Spike scaled them down, he teamed up with game companies and launched The Game Awards in 2014. This year's show is Dec 10.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: The Game Awards 2026, Peacock Theater, Los Angeles (2026-12-10). Wikipedia The_Game_Awards 20,855 views Sept 2026.",
+ "hook": "Gaming's Oscars… built by one host?",
+ "twist": "Geoff Keighley worked on Spike TV's video game awards for over ten years; when Spike scaled them down, he teamed up with game companies and launched The Game Awards in 2014. This year's show is Dec 10.",
+ "peg": {
+  "event": "The Game Awards 2026, Peacock Theater, Los Angeles",
+  "date": "2026-12-10",
+  "url": "https://insider-gaming.com/geoff-keighley-game-awards-2026-date/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - The Game Awards (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/The_Game_Awards"
+  },
+  {
+   "claim": "Epic Games Store - History of The Game Awards and Geoff Keighley (accessed 2026-10-24)",
+   "url": "https://store.epicgames.com/news/history-of-the-game-awards-geoff-keighley"
+  },
+  {
+   "claim": "PlayStation LifeStyle - Noclip documentary on why Keighley hosts (accessed 2026-10-24)",
+   "url": "https://www.playstationlifestyle.net/?p=734485"
+  },
+  {
+   "claim": "Peg source: The Game Awards 2026, Peacock Theater, Los Angeles (accessed 2026-10-24)",
+   "url": "https://insider-gaming.com/geoff-keighley-game-awards-2026-date/"
+  },
+  {
+   "claim": "Wikimedia pageviews The_Game_Awards: 20855 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=The_Game_Awards&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - The Game Awards",
+   "url": "https://en.wikipedia.org/wiki/The_Game_Awards",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Epic Games Store - History of The Game Awards and Geoff Keighley",
+   "url": "https://store.epicgames.com/news/history-of-the-game-awards-geoff-keighley",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "PlayStation LifeStyle - Noclip documentary on why Keighley hosts",
+   "url": "https://www.playstationlifestyle.net/?p=734485",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The Game Awards vs. Streamer Awards: Our Honest Comparison #shorts",
+   "url": "https://youtube.com/shorts/lVt8OAB0zuM",
+   "views": 4300,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Geoff Keighley Game Awards history #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "THE GAME AWARDS JUST EXPOSED THEMSELVES!! #short #shorts",
+   "url": "https://youtube.com/shorts/J4hujQ8SbNs",
+   "views": 13,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Geoff Keighley Game Awards history #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "One of Geoff Keighley's BEST Opening Speeches! #shorts #thegameawards",
+   "url": "https://youtube.com/shorts/5ZDMVko8_JM",
+   "views": 464,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Geoff Keighley Game Awards history #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: An empty awards stage with a single game controller on the podium + hook. Twist by 2.5 s. Loop: 'So who's your Game of the Year?'",
+ "cta": "C7+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Ownership of the show is not established in our sources: say 'created and produces', never 'owns'. GTA VI (Nov 19) eligibility is unknown: don't predict. No TGA statuette.",
+ "window": {
+  "notBefore": "2026-12-06T12:00:00Z",
+  "deadline": "2026-12-12T00:00:00Z",
+  "label": "The Game Awards 2026, Peacock Theater, Los Angeles",
+  "suggestedSlot": "2026-12-07T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Geoff Keighley"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

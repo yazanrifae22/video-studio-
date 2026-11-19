@@ -1,0 +1,84 @@
+{
+ "channel": "celebrity",
+ "title": "The Best-Selling 12-Inch That Lost Money on Each Copy",
+ "topic": "Peter Saville's die-cut, floppy-disk sleeve for New Order's Blue Monday reportedly cost more than the record earned - about 5-10p a copy.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Joy Division/New Order Rock & Roll Hall of Fame induction (Nov 14) (2026-11-14). Wikipedia Blue_Monday_(New_Order_song) 17,165 views Sept 2026.",
+ "hook": "A hit record that lost money?",
+ "twist": "Peter Saville's die-cut, floppy-disk sleeve for New Order's Blue Monday reportedly cost more than the record earned - about 5-10p a copy.",
+ "peg": {
+  "event": "Joy Division/New Order Rock & Roll Hall of Fame induction (Nov 14)",
+  "date": "2026-11-14",
+  "url": "https://www.nme.com/news/music/rock-roll-hall-of-fame-2026-oasis-wu-tang-clan-new-order-joy-division-and-more-to-be-inducted-3940116",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Factory Records (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Factory_Records"
+  },
+  {
+   "claim": "Input/Inverse - Blue Monday on vinyl is part of design lore (accessed 2026-10-24)",
+   "url": "https://www.inverse.com/input/design/blue-monday-on-vinyl-is-part-of-design-lore-now-you-can-own-it"
+  },
+  {
+   "claim": "Courtauldian - The curious history of the best-selling 12-inch (accessed 2026-10-24)",
+   "url": "https://courtauldian.com/single-post/goodbye-blue-monday-the-curious-history-of-the-best-selling-12-inch-vinyl-of-all-time"
+  },
+  {
+   "claim": "Peg source: Joy Division/New Order Rock & Roll Hall of Fame induction (Nov 14) (accessed 2026-10-24)",
+   "url": "https://www.nme.com/news/music/rock-roll-hall-of-fame-2026-oasis-wu-tang-clan-new-order-joy-division-and-more-to-be-inducted-3940116"
+  },
+  {
+   "claim": "Wikimedia pageviews Blue_Monday_(New_Order_song): 17165 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Blue_Monday_(New_Order_song)&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Factory Records",
+   "url": "https://en.wikipedia.org/wiki/Factory_Records",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Input/Inverse - Blue Monday on vinyl is part of design lore",
+   "url": "https://www.inverse.com/input/design/blue-monday-on-vinyl-is-part-of-design-lore-now-you-can-own-it",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Courtauldian - The curious history of the best-selling 12-inch",
+   "url": "https://courtauldian.com/single-post/goodbye-blue-monday-the-curious-history-of-the-best-selling-12-inch-vinyl-of-all-time",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [],
+ "angle": "Frame 0: a sleeve with die-cut holes + coin falling out + hook. Twist: the sleeve cost more than the record. Loop: 'Best seller... or best loser?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Loss is disputed (Wilson 5p, Hook 10p; Saville disputes the scale): say 'reportedly lost pennies on each early copy'. Don't reproduce the actual sleeve; draw a generic die-cut floppy.",
+ "window": {
+  "notBefore": "2026-11-14T12:00:00Z",
+  "deadline": "2026-11-18T00:00:00Z",
+  "label": "Joy Division/New Order Rock & Roll Hall of Fame induction (Nov 14)",
+  "suggestedSlot": "2026-11-16T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "channel": "celebrity",
+ "title": "Year 24, Team 4: LeBron's Career in 50 Seconds",
+ "topic": "LeBron James career timeline (76ers debut, 2026-27 season)",
+ "audience": "NBA fans and casual sports viewers",
+ "whyCare": "LeBron debuts for the 76ers vs the champion Knicks on opening night (Oct 20); he is the NBA's all-time leading scorer entering year 24.",
+ "evidence": [
+  {
+   "claim": "LeBron plays for the Philadelphia 76ers; NBA all-time leading scorer; 4 titles from 10 Finals; 3 Olympic golds (Wikipedia, revised 2026-10-18)",
+   "url": "https://en.wikipedia.org/wiki/LeBron_James"
+  },
+  {
+   "claim": "AP: LeBron's 76ers debut is against the defending-champion Knicks at Madison Square Garden on opening night, Oct 20",
+   "url": "https://www.ajc.com/news/2026/08/lebron-james-will-play-his-first-game-with-the-76ers-against-champion-knicks-on-nba-opening-night/"
+  },
+  {
+   "claim": "Demand: 'LeBron James on Leaving LA and Choosing Philly' 2,178,534 views (3 weeks); Wikipedia page 11,844 views/day Oct 1-19, 14,102 on Oct 19",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=LeBron_James&start=2026-10-01&end=2026-10-19"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "LeBron James on Leaving LA and Choosing Philly (Mind the Game)",
+   "url": "https://www.youtube.com/watch?v=rGGq11K40Gw",
+   "views": "2,178,534",
+   "verified": true
+  },
+  {
+   "title": "LeBron & the Sixers are COOKING (Short)",
+   "url": "https://www.youtube.com/shorts/AL1mK9_YGAU",
+   "views": "315K",
+   "verified": true
+  },
+  {
+   "title": "A new chapter in year 24 (Short)",
+   "url": "https://www.youtube.com/shorts/5Pzp3Mu7DmA",
+   "views": "3.7K",
+   "verified": true
+  }
+ ],
+ "angle": "Timeline: 2003 Cavs -> 2010 Heat -> 2014 Cavs -> 2018 Lakers -> 2026 76ers, with title count per stop; stat counter for career points (pull exact figure from Basketball-Reference on production day). Stylised jersey-colour silhouettes only - no logos, photos or clips.",
+ "durationSec": 50,
+ "format": "short",
+ "hook": "He was drafted when the iPod was new. Now he starts year 24, on team number 4.",
+ "difficulty": 2,
+ "estCostUsd": 3,
+ "strengths": "Huge, timely demand; career facts only; timeline + stat scenes",
+ "weaknesses": "NBA footage temptation (+1 policy risk); news peak is Oct 20-22 so later slots lose freshness; points total changes nightly",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 3
+ }
+}

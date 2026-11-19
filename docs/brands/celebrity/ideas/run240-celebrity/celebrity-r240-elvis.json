@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Elvis's First Movie Killed Him Off. Fans Wouldn't Allow It",
+ "topic": "In Love Me Tender (premiered Nov 15, 1956) Elvis's character dies; after upset previews the studio added a ghostly reprise of the song.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Love Me Tender premiere, 70th anniversary (2026-11-15). Wikipedia Elvis_Presley 326,104 views Sept 2026.",
+ "hook": "His first movie killed him off?",
+ "twist": "In Love Me Tender (premiered Nov 15, 1956) Elvis's character dies; after upset previews the studio added a ghostly reprise of the song.",
+ "peg": {
+  "event": "Love Me Tender premiere, 70th anniversary",
+  "date": "2026-11-15",
+  "url": "https://thegadabouttown.com/2016/11/15/today-in-history-nov-15/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Elvis Australia - Love Me Tender, 20th Century Fox 1956 (accessed 2026-10-24)",
+   "url": "https://elvis.com.au/movies/love-me-tender.shtml"
+  },
+  {
+   "claim": "Wikipedia - Love Me Tender (EP) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Love_Me_Tender_(EP)"
+  },
+  {
+   "claim": "FOX 5 - Rare footage of Elvis shooting new ending, NYC 1956 (accessed 2026-10-24)",
+   "url": "https://www.fox35orlando.com/news/elvis-presley-candid-clip-love-me-tender-nyc-1956"
+  },
+  {
+   "claim": "Peg source: Love Me Tender premiere, 70th anniversary (accessed 2026-10-24)",
+   "url": "https://thegadabouttown.com/2016/11/15/today-in-history-nov-15/"
+  },
+  {
+   "claim": "Wikimedia pageviews Elvis_Presley: 326104 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Elvis_Presley&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Elvis Australia - Love Me Tender, 20th Century Fox 1956",
+   "url": "https://elvis.com.au/movies/love-me-tender.shtml",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Love Me Tender (EP)",
+   "url": "https://en.wikipedia.org/wiki/Love_Me_Tender_(EP)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "FOX 5 - Rare footage of Elvis shooting new ending, NYC 1956",
+   "url": "https://www.fox35orlando.com/news/elvis-presley-candid-clip-love-me-tender-nyc-1956",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Love me tender#shorts #elvispresley",
+   "url": "https://youtube.com/shorts/ihSXNfW47j0",
+   "views": 20000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Elvis Presley love me tender funny scene in 68 comeback special❤️❤️💜💜🎸🎸 #elvispresley#rip#shorts",
+   "url": "https://youtube.com/shorts/oi-WVOpNgr4",
+   "views": 2100,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Elvis Presley - Love Me Tender. Mentioned Elvis Presley. 45th anniversary of death. ❤️❤️❤️",
+   "url": "https://youtube.com/shorts/bO2CYwU1cAA",
+   "views": 2100,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a film-reel 'THE END' card with a ghostly guitar + hook. Twist: fans made them bring him back. Loop: 'Would you change the ending?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Reprise date conflicts (Oct 1 recorded vs Oct 29 filmed): avoid dates. 'Never died on screen again' contract claim is single-sourced - skip. No film stills, no song audio, no Elvis likeness (quiff silhouette only).",
+ "window": {
+  "notBefore": "2026-11-14T12:00:00Z",
+  "deadline": "2026-11-17T00:00:00Z",
+  "label": "Love Me Tender premiere, 70th anniversary",
+  "suggestedSlot": "2026-11-15T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

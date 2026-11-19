@@ -1,0 +1,97 @@
+{
+ "channel": "celebrity",
+ "title": "Born 'Destiny Hope': Where the Name Miley Came From",
+ "topic": "Miley Cyrus: 'Miley' comes from 'Smiley', a nickname for a baby who always smiled; she made it legal in 2008.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Miley Cyrus turns 34 (2026-11-23). Wikipedia Miley_Cyrus 523,509 views Sept 2026.",
+ "hook": "Which star was born 'Destiny Hope'?",
+ "twist": "Miley Cyrus: 'Miley' comes from 'Smiley', a nickname for a baby who always smiled; she made it legal in 2008.",
+ "peg": {
+  "event": "Miley Cyrus turns 34",
+  "date": "2026-11-23",
+  "url": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "TODAY - Miley Cyrus explains her birth name (accessed 2026-10-24)",
+   "url": "https://www.today.com/today/amp/rcna156848"
+  },
+  {
+   "claim": "Wikipedia - Miley Cyrus (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Miley_Cyrus"
+  },
+  {
+   "claim": "Peg source: Miley Cyrus turns 34 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Miley_Cyrus"
+  },
+  {
+   "claim": "Wikimedia pageviews Miley_Cyrus: 523509 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Miley_Cyrus&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "TODAY - Miley Cyrus explains her birth name",
+   "url": "https://www.today.com/today/amp/rcna156848",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Miley Cyrus",
+   "url": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Miley Cyrus Real Name Is DESTINY HOPE?! OMG! #shorts #viral #miley",
+   "url": "https://youtube.com/shorts/sGPpBbAB3K0",
+   "views": 5900,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Miley Cyrus' real name is Destiny Hope Cyrus.",
+   "url": "https://youtube.com/shorts/aXWaP89n4wQ",
+   "views": 60,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Secret True Name of Miley Cyrus Exposed! 😱 #mileycyrus #shorts",
+   "url": "https://youtube.com/shorts/ZQb_wV7utT4",
+   "views": 460,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a name tag 'DESTINY HOPE' with a smiley face + hook. Twist: S-miley. Loop: 'What did your parents call you?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Baby nickname is benign; no childhood photos. Middle name Ray honours her grandfather (a politician) - don't add politics.",
+ "window": {
+  "notBefore": "2026-11-22T12:00:00Z",
+  "deadline": "2026-11-24T06:00:00Z",
+  "label": "Miley Cyrus turns 34",
+  "suggestedSlot": "2026-11-23T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

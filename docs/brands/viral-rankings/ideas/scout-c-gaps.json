@@ -1,0 +1,157 @@
+{
+  "scout": "C",
+  "lane": "competitive gaps / unusual hooks",
+  "accessed": "2026-10-31",
+  "method_notes": "Candidate pages checked via Wikimedia Commons API (license + author + size read from file metadata; canonical page = https://commons.wikimedia.org/wiki/<File title>) and Pexels pages. Clip contents were NOT watched frame by frame: usable-moment counts are estimates from titles/descriptions/durations (null where unknown). Commons PD tag is a pointer, rights-scout must still verify the primary source (Library of Congress, NOAA, NASA). Competitor evidence comes from third-party listings (vling.net) with unverified counts.",
+  "competitor_gap_evidence": [
+    {"url": "https://vling.net/en/channel/UCEOyVmTkzdIuoa_zZP_wIQg/channel-info", "note": "Funny Ranking: Top 5 funniest moments from across the internet (repost model). Page did not render for fetch; description via search snippet only.", "accessed": "2026-10-31"},
+    {"url": "https://vling.net/channel/UCj-XOmaxHVs_jo1fbePGWZA/channel-info", "note": "AttentionShorts: ranks funniest moments/fails/unexpected clips from YouTube Shorts; ~299 subs, 17 videos (third-party, unverified).", "accessed": "2026-10-31"},
+    {"url": "https://www.ranker.com/list/best-fail-channels-youtube/youtuber", "note": "Fail-channel space dominated by social/UGC repost channels; no rights-clear public-domain angle seen.", "accessed": "2026-10-31"},
+    {"url": "https://www.popsci.com/article/science/10-gifs-deep-sea-creatures-encountering-sub/", "note": "Media interest in 'deep-sea animals meet a sub' angle; no ranking Short found in searches.", "accessed": "2026-10-31"},
+    {"url": "https://universetoday.com/146253/hilarious-supercut-of-astronauts-falling-on-the-moon", "note": "Astronauts-falling-on-Moon supercut got press; existing supercuts are unranked/unnarrated.", "accessed": "2026-10-31"}
+  ],
+  "ideas": [
+    {
+      "id": "vr-c-001",
+      "title": "Fails From 1896, Ranked By Smugness",
+      "hook": "These people filmed fails before cars existed",
+      "category": "History / Amazing",
+      "subcategory": "Earliest slapstick on film",
+      "criterion": "Confidence-before-consequence: how smug the victim looks in the seconds before it goes wrong",
+      "top3_vs_top5": "TOP 5 (about 10 titles in pool, 1-2 moments each) ; TOP 3 also works",
+      "gap_evidence": "Searches for a ranking of early comedy films returned only critic lists (IMDb, AV Club); no Shorts channel found ranking 1890s slapstick. https://www.avclub.com/the-10-best-films-of-the-1890s-1798234254 ; https://faroutmagazine.co.uk/cinema-first-ever-comedy-film/ (accessed 2026-10-31). Demand evidence weak: not measured.",
+      "candidates": [
+        {"url": "https://commons.wikimedia.org/wiki/File:Course_En_Sacs_(1896).webm", "title": "Course En Sacs (1896)", "license": "Public domain (Commons tag)", "note": "1440x1080, 45.7 s, Lumiere; sack-race falls"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Bataille_de_neige_(1896).webm", "title": "Bataille de neige (1896)", "license": "Public domain (Commons tag)", "note": "1366x1024, 43.7 s"},
+        {"url": "https://commons.wikimedia.org/wiki/File:A_dull_razor_(1900).webm", "title": "A dull razor (1900)", "license": "Public domain (Commons tag); source Library of Congress edmp.0878", "note": "320x240, 47 s, Edison/Porter"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Grandma_and_the_Bad_Boys_(1900).webm", "title": "Grandma and the Bad Boys (1900)", "license": "Public domain (Commons tag); LoC edmp.1183", "note": "320x240, 62.6 s"},
+        {"url": "https://commons.wikimedia.org/wiki/File:The_Boxing_Cats_(Prof._Welton's)_(1894).webm", "title": "The Boxing Cats (Prof. Welton's) (1894)", "license": "Public domain (Commons tag)", "note": "cats, strong on mute"},
+        {"url": "https://commons.wikimedia.org/wiki/File:D%C3%A9molition_d%27un_mur_(1897).webm", "title": "Demolition d'un mur (1897)", "license": "Public domain (Commons tag)", "note": "also Pillow Fight (1897), Terrible Teddy (1901), Another Job for the Undertaker (1901) listed PD"}
+      ],
+      "usable_moments_est": 10,
+      "scores": {"creative": 80, "demand": 40, "feasibility": 78, "portfolio_fit": 85, "risk": 22},
+      "hard_gate_notes": "Rights strong (pre-1930, 1890s) but verify each film's primary archive. Edison clips are 320x240: 9:16 crop will be soft, lean into 'old film' look; Lumiere clips are 1000+ px. Check restored/uploader overlays and any added music/intertitles on Commons versions (use the film, not a modern score). Avoid period racial caricature (some Edison titles, e.g. Chinese Laundry, excluded).",
+      "confidence": "medium"
+    },
+    {
+      "id": "vr-c-002",
+      "title": "Deep-Sea Animals Unimpressed By Our Robot",
+      "hook": "A $40M robot visits. They don't care.",
+      "category": "Animals",
+      "subcategory": "Deep-sea encounters (NOAA ROV)",
+      "criterion": "Unimpressed-ness: how little the animal cares that a robot just arrived",
+      "top3_vs_top5": "TOP 3 or TOP 5; long source dives give many moments",
+      "gap_evidence": "NOAA's own captions literally use 'unimpressed' and 'bashful', and press runs GIF lists of sub encounters, but no ranked Short found. https://oceanexplorer.noaa.gov/video_playlist/ex2103-octopus.html ; https://oceanexplorer.noaa.gov/okeanos/explorations/ex1703/dailyupdates/media/video/dive10_octopus/octopus.html ; https://www.popsci.com/article/science/10-gifs-deep-sea-creatures-encountering-sub/ (accessed 2026-10-31). Demand for the ranked format: unverified.",
+      "candidates": [
+        {"url": "https://commons.wikimedia.org/wiki/File:Graneledone_boreopacifica_flees.webm", "title": "Graneledone boreopacifica flees", "license": "Public domain (author NOAA)", "note": "1920x1080; octopus flees ROV"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Graneledone_boreopacifica_close-up.webm", "title": "Graneledone boreopacifica close-up", "license": "Public domain (author NOAA)", "note": "1920x1080, 2023 EXPRESS dive 04"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Flapjack_octopus_seafloor.webm", "title": "Flapjack octopus seafloor", "license": "Public domain (author NOAA)", "note": "1280x720, two Opisthoteuthis at 814 m"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Very_Deep,_Ghostlike_Incirrate_Octopod_-_NOAA_Office_of_Ocean_Exploration_and_Research,_Hohonu_Moana_2016.webm", "title": "Very Deep, Ghostlike Incirrate Octopod (Hohonu Moana 2016)", "license": "Public domain (NOAA OER)", "note": "1920x1080, 43 s"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Ex1402-dive06_red_animal.webm", "title": "Ex1402-dive06 red animal", "license": "CC0 (NOAA Okeanos Explorer)", "note": "also Jellyfish/Medusa clips on Commons from NOAA"}
+      ],
+      "usable_moments_est": 8,
+      "scores": {"creative": 84, "demand": 55, "feasibility": 82, "portfolio_fit": 88, "risk": 14},
+      "hard_gate_notes": "Federal producer confirmed on file pages (NOAA OER / Okeanos Explorer); check each clip for non-NOAA partner credit or overlays (some playlist videos carry partner logos). Do not claim animals 'feel' unimpressed as fact: narrate as joke, keep species names accurate. Not rank by taxon claims.",
+      "confidence": "medium-high"
+    },
+    {
+      "id": "vr-c-003",
+      "title": "Moon Wipeouts Ranked By Recovery Style",
+      "hook": "Astronauts fall. Who gets up best?",
+      "category": "Amazing / Space",
+      "subcategory": "Apollo EVA stumbles and hops",
+      "criterion": "Recovery style: dignity of the get-up, not the fall",
+      "top3_vs_top5": "TOP 3 (pool is thin for 5)",
+      "gap_evidence": "Existing Moon-fall supercuts are unranked reposts: https://universetoday.com/146253/hilarious-supercut-of-astronauts-falling-on-the-moon ; https://futurism.com/the-byte/supercut-moon-astronauts-falling-over ; https://laughingsquid.com/astronauts-falling-over-on-the-moon/ (accessed 2026-10-31). Those supercut authors are not rights sources; use NASA originals only.",
+      "candidates": [
+        {"url": "https://commons.wikimedia.org/wiki/File:Ap17_spill.ogv", "title": "Ap17 spill", "license": "Public domain (author NASA)", "note": "240x180, 25.5 s - very low resolution"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Bunny_hopping_on_the_Moon.webm", "title": "Bunny hopping on the Moon", "license": "Public domain (NASA Apollo 17, Cernan)", "note": "256x192, 50 s; uploaded from a YouTube copy"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Apollo16GrandPrix.webm", "title": "Apollo16GrandPrix", "license": "Public domain (NASA, Duke)", "note": "320x240, 16 s; Young rover test"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Ap16_rover.ogv", "title": "Ap16 rover", "license": "Public domain (author NASA)", "note": "plus Apollo 15 lunar rover EVA2.ogv"}
+      ],
+      "usable_moments_est": 4,
+      "scores": {"creative": 76, "demand": 58, "feasibility": 45, "portfolio_fit": 60, "risk": 25},
+      "hard_gate_notes": "NASA PD fine, but Commons copies are 240-320 px: unacceptable upscale for 1080x1920 unless better masters are found (NASA Johnson/archive.org 16mm scans). Pilot blocker until a higher-res source is confirmed. Avoid news-network overlays and the Apollo 11 TV pool footage (producer mixes).",
+      "confidence": "low-medium"
+    },
+    {
+      "id": "vr-c-004",
+      "title": "Wildlife Vs. Trail Camera: Nosiest Visitor",
+      "hook": "The camera was watching. So was the elk.",
+      "category": "Animals",
+      "subcategory": "Trail-camera encounters (USFWS)",
+      "criterion": "Nosiness: how personally the animal inspects the camera",
+      "top3_vs_top5": "TOP 3 (pool of ~6-8)",
+      "gap_evidence": "USFWS itself frames clips as 'an elk investigates the camera'; trail-cam compilations exist but not as rights-clear ranked Shorts (not directly evidenced here). Demand: unverified, weak.",
+      "candidates": [
+        {"url": "https://commons.wikimedia.org/wiki/File:Elk_on_Trail_Camera_(50221923933).webm", "title": "Elk on Trail Camera", "license": "Public domain (author USFWS Mountain Prairie)", "note": "1280x720; elk investigates camera"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Wolf_on_Trail_Camera.webm", "title": "Wolf on Trail Camera", "license": "Public domain (USFWS Mountain-Prairie)", "note": "1280x720, 10 s"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Trail_Camera.webm", "title": "Trail Camera", "license": "Public domain (USFWS Mountain-Prairie)", "note": "1728x1296, 10 s, National Elk Refuge"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Black_bear_-_trail_camera.webm", "title": "Black bear - trail camera", "license": "CC BY-SA 2.0 (conditional: attribution + share-alike question for a derivative video)", "note": "treat as conditional; prefer PD ones"}
+      ],
+      "usable_moments_est": 5,
+      "scores": {"creative": 66, "demand": 40, "feasibility": 52, "portfolio_fit": 70, "risk": 20},
+      "hard_gate_notes": "USFWS Flickr-origin PD verified only through Commons metadata; rights-scout should open the Flickr/USFWS source. Night/IR footage is dull on mute; the funny moments are muzzle-in-lens frames only. Only 3 clearly PD clips found: borderline for TOP 3.",
+      "confidence": "low-medium"
+    },
+    {
+      "id": "vr-c-005",
+      "title": "Astronauts Vs. Physics: Who Lost Worst?",
+      "hook": "Space is weird. These people lost to it.",
+      "category": "Amazing / Space",
+      "subcategory": "Zero-g everyday tasks (ISS)",
+      "criterion": "Physics beating routine: how badly a normal task goes in orbit",
+      "top3_vs_top5": "TOP 3 or TOP 5 (many 3-min videos = many moments)",
+      "gap_evidence": "Space-life explainers abound; ranked comedic framing not found in searches (no URL evidence of absence beyond search results). Demand moderate by general topic popularity; unverified for ranking format.",
+      "candidates": [
+        {"url": "https://commons.wikimedia.org/wiki/File:Karen_Nyberg_Shows_How_You_Wash_Hair_in_Space.webm", "title": "Karen Nyberg Shows How You Wash Hair in Space", "license": "Public domain (NASA Johnson)", "note": "1280x720, 168 s"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Liquid_Ping_Pong_in_Space_-_RED_4K.webm", "title": "Liquid Ping Pong in Space - RED 4K", "license": "Public domain (NASA Johnson)", "note": "3840x2160, 65 s, Scott Kelly"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Running_in_Space!.webm", "title": "Running in Space!", "license": "Public domain (NASA Johnson)", "note": "1280x720, 207 s"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Space_Station_Live-_Tracking_How_Astronauts_Run_in_Space.webm", "title": "Space Station Live- Tracking How Astronauts Run in Space", "license": "Public domain (NASA)", "note": "additional"}
+      ],
+      "usable_moments_est": 8,
+      "scores": {"creative": 62, "demand": 60, "feasibility": 80, "portfolio_fit": 58, "risk": 18},
+      "hard_gate_notes": "NASA-produced (verify per file: some Space Station Live segments embed ESA/JAXA/commercial b-roll). Real people on screen: keep jokes about physics, not about the astronauts as people. Overlaps likely with a Scout covering space; novelty moderate.",
+      "confidence": "medium"
+    },
+    {
+      "id": "vr-c-006",
+      "title": "1896 Magic Tricks: Can You Spot The Cut?",
+      "hook": "Spot the edit. 1896 edition.",
+      "category": "History / Amazing",
+      "subcategory": "Earliest special effects",
+      "criterion": "How long the trick fooled you before the cut shows",
+      "top3_vs_top5": "TOP 3",
+      "gap_evidence": "Not evidenced: no Shorts channel checked for this; film-history pages only (https://en.wikipedia.org/wiki/L%27Arroseur_Arros%C3%A9 context). Demand weak/unknown; interactivity potential (spot-the-cut) is a creative bet.",
+      "candidates": [
+        {"url": "https://commons.wikimedia.org/wiki/File:Escamotage_d%27une_dame_chez_Robert-Houdin_(Georges_M%C3%A9li%C3%A8s,_1896).webm", "title": "Escamotage d'une dame chez Robert-Houdin (Melies, 1896)", "license": "Public domain (Commons tag)", "note": "vanishing-lady trick"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Le_Voyage_dans_la_Lune_(1902).webm", "title": "Le Voyage dans la Lune (1902)", "license": "Public domain (Commons tag)", "note": "use short moments only"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Jack_and_the_Beanstalk_(1902).webm", "title": "Jack and the Beanstalk (1902)", "license": "Public domain (Commons tag)", "note": "Edison/Porter trick effects"},
+        {"url": "https://commons.wikimedia.org/wiki/File:Another_Job_for_the_Undertaker_1901_Edwin_S_Porter_Thomas_Edison.webm", "title": "Another Job for the Undertaker (1901)", "license": "Public domain (Commons tag)", "note": "trick film"}
+      ],
+      "usable_moments_est": 6,
+      "scores": {"creative": 70, "demand": 30, "feasibility": 60, "portfolio_fit": 70, "risk": 20},
+      "hard_gate_notes": "PD era is clear, but check each Commons version for restorer-added soundtrack/colour (colour/music may carry its own rights). Some trick films have stereotypes; screen. Shares the same pool-type as vr-c-001: do not run both in the first week.",
+      "confidence": "low"
+    },
+    {
+      "id": "vr-c-007",
+      "title": "Stock-Footage Animals With Zero Chill",
+      "hook": "Nobody told these animals it was stock",
+      "category": "Animals",
+      "subcategory": "Pexels animal behaviour",
+      "criterion": "Criminal confidence: seagulls and goats that clearly know the plan",
+      "top3_vs_top5": "TOP 3",
+      "gap_evidence": "None collected: no competitor evidence. Weak demand claim; included as a fallback because Pexels clips are the most licence-simple pool.",
+      "candidates": [
+        {"url": "https://www.pexels.com/video/seagull-feeding-by-the-urban-waterfront-35575693/", "title": "Seagull Feeding by the Urban Waterfront", "license": "Pexels License (shown as Free); 0:08, 2160x3840 9:16", "note": "bread-grab"},
+        {"url": "https://www.pexels.com/video/a-goat-with-a-stick-in-its-mouth-28246877/", "title": "A goat with a stick in its mouth", "license": "Pexels License (Free); 0:12, 1920x1080", "note": "description is bland; comedy unverified"},
+        {"url": "https://www.pexels.com/video/seagulls-feeding-by-the-oslo-waterfront-30455376/", "title": "Seagulls Feeding by the Oslo Waterfront", "license": "Pexels License (Free); 0:09, 4K", "note": "check people in frame"}
+      ],
+      "usable_moments_est": null,
+      "scores": {"creative": 45, "demand": 35, "feasibility": 35, "portfolio_fit": 55, "risk": 20},
+      "hard_gate_notes": "NOT production-ready: clips were not viewed, descriptions are calm 8-12 s b-roll, comedy unproven. Pexels forbids showing identifiable people in a bad light and implied endorsement (https://www.pexels.com/license/): keep people out of frame. Needs a viewing pass before it counts.",
+      "confidence": "low"
+    }
+  ]
+}

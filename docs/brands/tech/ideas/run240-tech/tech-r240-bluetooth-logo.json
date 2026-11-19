@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "The Bluetooth Logo Is a Viking King's Initials",
+ "topic": "Two runes, H and B, for Harald Bluetooth, a 10th-century Danish king who united tribes, as Bluetooth unites devices.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Strong visual reveal; competitors ~1-3K = gap.",
+ "evidence": [
+  {
+   "claim": "Bluetooth: name and logo from Harald Bluetooth (runes Hagall + Bjarkan) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Bluetooth"
+  },
+  {
+   "claim": "Bluetooth SIG: origin of the name (accessed 2026-10-24)",
+   "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Bluetooth's Logo EXPLAINED (Vikings)",
+   "url": "https://youtube.com/shorts/hHd8Et2jxfo",
+   "views": "2.9K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "The Bluetooth logo is a Viking king's initials. In runes.",
+   "url": "https://youtube.com/shorts/o5aK2y-eJvc",
+   "views": "1.3K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('What letters hide in this logo?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Two runes, H and B, for Harald Bluetooth, a 10th-century Danish king who united tribes, as Bluetooth unites devices. Loop ending: re-ask the hook.",
+ "hook": "What letters hide in this logo?",
+ "twist": "Two runes, H and B, for Harald Bluetooth, a 10th-century Danish king who united tribes, as Bluetooth unites devices.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-17 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW with power-symbol idea (both 'symbol secrets') - keep >= 4 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 12,
+ "score10": 8.4,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

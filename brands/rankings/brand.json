@@ -1,0 +1,28 @@
+{
+  "id": "rankings",
+  "name": "Planet Extremes",
+  "format": "single-extreme record story (TOP 5 kept as an occasional secondary format)",
+  "positioning": "Earth's extremes, one real record at a time: a named event, a measured number, the scale visible in frame. Real footage only (NASA/NOAA/USGS public domain + original data graphics)",
+  "audience": "Curious 16-40 nature/science Shorts viewers",
+  "language": "en",
+  "status": "active",
+  "data": {
+    "pillars": [
+      "storms & weather",
+      "volcanoes & quakes",
+      "space views of Earth",
+      "measured records"
+    ],
+    "tone": "punchy, precise, numbers-first",
+    "arabic": "Arabic subtitle variant for natural-disaster topics (test)",
+    "differentiator": "verified real footage stamp vs AI fakes",
+    "alt_names": [],
+    "strategy": {
+      "summary": "Revived 2026-11-08 (owner). Shift from 5-entry lists of abstract numbers to ONE named extreme per video (2026 events + all-time records). Length 22-30 s, title = name + number (<= 50 chars), start 1/day, event fast lane 24-48 h after a real event. See docs/brands/rankings/revival-2026-11-08.md.",
+      "goal": "every video built for 1M+ views (docs/north-star.md)",
+      "viral_case_gate": "named event + measured number + source + visible scale",
+      "paused_history": "paused 2026-11-02 (median 59 views); lifted 2026-11-08"
+    }
+  },
+  "resumed": "2026-11-08"
+}

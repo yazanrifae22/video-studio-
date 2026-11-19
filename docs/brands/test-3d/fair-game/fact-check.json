@@ -1,0 +1,119 @@
+{
+  "round": 1,
+  "verdict": "fix",
+  "scope": "Real-world claims in l03-l05, l24, l26-l29, l41-l47, l49, l52, l59, l60. Simulation-only lines (l13-l22, l32-l40, l50-l51, l55-l57) not re-checked except overclaim wording.",
+  "items": [
+    {
+      "lines": ["l03", "l04", "l24"],
+      "status": "fix",
+      "claim": "Fair coin game with a stake of a fraction of the poorer player's wealth ends with one winner, every single time.",
+      "finding": "Proven (Boergers and Greengard 2023, arXiv 2308.01485, building on Chakraborti 2002 simulations and Boghosian et al.): in the pure yard-sale model (fair coin, stake = fixed fraction of the poorer player's wealth, wealth conserved, no redistribution/tax), almost surely one agent's wealth SHARE tends to 1 as the number of trades tends to infinity; each agent's chance to be that agent equals its starting share (here 1/64 each). So it is 'almost surely, in the limit', not 'in every finite run'. Any positive wealth tax (redistribution) breaks the result. Our own 300 worlds show the leader's share at 6,000 flips each ranged 33.5-99 percent (median 85), so 'every world ends the same way' / 'every single time' is not true at the shown horizon: it is true of the direction (concentration), not of the state at 6,000 flips. 'Every square won at least once in 300 worlds' is consistent with the 1/64 theorem (it is a simulation fact, not proven).",
+      "evidence": [
+        "https://arxiv.org/abs/2308.01485",
+        "https://arxiv.org/html/2406.10978v1",
+        "https://www.scientificamerican.com/article/is-inequality-inevitable/"
+      ],
+      "fix": "l04: \"Not sometimes. Run it long enough, and it happens every time.\" l24 last two sentences: \"But every world heads the same way. One stack eats the board.\" (l03 can stay: 'play long enough' is the right condition and the shown world is 90 percent.)"
+    },
+    {
+      "lines": ["l05"],
+      "status": "fix",
+      "claim": "'the most honest picture we have of how people get rich'",
+      "finding": "Unprovable superlative; the yard-sale model is a stylised toy that the literature itself says omits growth, skill, and many other factors. Overclaims for a physicist audience.",
+      "evidence": ["https://pudding.cool/2022/12/yard-sale/"],
+      "fix": "\"I'll show you every flip that matters. Then I'll show you why this simple picture says something uncomfortable about how people get rich. Some of you are going to hate it.\""
+    },
+    {
+      "lines": ["l26", "l27", "l28", "l29"],
+      "status": "fix",
+      "claim": "Poorer player stakes a fifth of own wealth; lose then win = 0.96; the richer player risks a small share; poor never come back.",
+      "finding": "Arithmetic correct (100 -> 80; stake 20 percent of min(80, opponent) = 16 if the opponent has at least 80; win -> 96; 0.8 x 1.2 = 0.96). The mechanism is the accepted one: the process is expectation-neutral (each agent's wealth share is a martingale) but the relative stake is multiplicative, so typical (log) wealth of the poorer side drifts down while the richer side's relative stake is tiny; the gap grows and the poorer tail decays to zero. A physicist would add that the average is unchanged: it is the typical outcome that is unfair, not the expectation. 'Never comes back' is too strong: wealth never reaches exactly zero and a lucky streak can lift a poor agent; they almost never do. l30 'a safer game' is fine as 'smaller relative stake'.",
+      "evidence": ["https://arxiv.org/abs/2308.01485", "https://www.scientificamerican.com/article/is-inequality-inevitable/"],
+      "fix": "l29 last sentence: \"The poor player gets a short bad run, and almost never comes back.\" (l26-l28 ok as written.)"
+    },
+    {
+      "lines": ["l41"],
+      "status": "fix",
+      "claim": "In 2018 three Italian physicists built a bigger version: 1,000 people, 40 years, talent spread the way it really is.",
+      "finding": "Paper confirmed: Pluchino, Biondo, Rapisarda, 'Talent versus Luck', Advances in Complex Systems 21 (2018), arXiv 1802.07068: N = 1,000 agents, 40-year career in six-month steps, Gaussian talent (mean 0.6), lucky event doubles capital with probability equal to talent, unlucky event halves it. Pluchino and Rapisarda are physicists (Catania); Alessio Emanuele Biondo is an associate professor of Economic Policy in the Department of Economics and Business, Catania, so 'three physicists' is wrong. 'The way it really is' asserts a bell curve is true of real talent; it is the model's assumption.",
+      "evidence": [
+        "https://arxiv.org/abs/1802.07068",
+        "https://ar5iv.labs.arxiv.org/html/1802.07068",
+        "https://www.dei.unict.it/docenti/alessioemanuele.biondo?eng"
+      ],
+      "fix": "\"This is not only our board. In twenty eighteen, three Italian researchers built a bigger version. A thousand people. Forty years of working life. Talent on a bell curve: most people near the middle, a few brilliant.\""
+    },
+    {
+      "lines": ["l42", "l43"],
+      "status": "ok",
+      "claim": "Random lucky/unlucky events, talent helps exploit luck; richest was almost never the most talented but near average.",
+      "finding": "Matches the paper: lucky events exploited with probability equal to talent, unlucky halve capital; abstract: 'the most talented people almost never reach the highest peaks of success, being overtaken by averagely talented individuals'. Review paper (arXiv 1811.05206) reports the best agent in a run with talent 0.6048 vs mean 0.6 (one run, illustration). Keep 'in the model'.",
+      "evidence": ["https://arxiv.org/abs/1802.07068", "https://arxiv.org/pdf/1811.05206"],
+      "fix": null
+    },
+    {
+      "lines": ["l44", "l45"],
+      "status": "fix",
+      "claim": "US top 1 percent hold about a third of household net worth; bottom half about two and a half percent; more than ten times.",
+      "finding": "Fed Distributional Financial Accounts via FRED, latest quarter Q2 2026 (updated 18 Sep 2026; Q3 not out before mid-December): top 1 percent 32.5 percent (WFRBST01134), bottom 50 percent 2.3 percent (WFRBSB50215). 'About a third' is fair (32.5). 'About two and a half' is off: 2.3. 'More than ten times' is right (32.5 / 2.3 is about 14x). Picture/tags must change: bottom-half tag 2.3 percent, stack 'two and a quarter discs'.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/WFRBST01134",
+        "https://fred.stlouisfed.org/series/WFRBSB50215",
+        "https://www.federalreserve.gov/releases/z1/dataviz/dfa/"
+      ],
+      "fix": "l44: \"Now the real board. In the United States, the richest one percent hold about a third of all household wealth. The bottom half hold just over two percent.\" (l45 unchanged; tag 'bottom half: about 2.3%'.)"
+    },
+    {
+      "lines": ["l46", "l47"],
+      "status": "fix",
+      "claim": "UBS Billionaire Ambitions 2025: 91 became billionaires by inheriting (record); 196 built something.",
+      "finding": "UBS page (4 Dec 2025): '91 heirs (64 male, 27 female) inherited a record USD 297.8 billion'; '196 self-made billionaires added USD 386.5 billion'. Issues: (1) UBS says heirs INHERITED a record sum; the page does not say 91 'became billionaires'; the record is attached to the amount, not the head count. (2) Period: UBS text says 'In 2025' but its billionaire database window is the 12 months to 4 April 2025 (secondary sources), so 'in twenty twenty-five' is UBS's own phrase but loose. (3) 'Self-made' is UBS's word; 'by building something' is a stretch (includes finance, inheritance-free fortunes of any kind). 386.5 > 297.8 is true. No 2026 edition found as of 2026-11-15; the 2025 report is the latest (11th). Report is also based on UBS/PwC database plus a survey of 87 clients.",
+      "evidence": [
+        "https://www.ubs.com/global/en/media/display-page-ndp/en-20251204-billionaire-ambitions-report-2025.html",
+        "https://spearswms.com/wealth/billionaire-wealth-and-inheritance-hit-record-highs-in-2025/"
+      ],
+      "fix": "l46: \"The Heir is real too. In the year to April twenty twenty-five, ninety-one heirs inherited a record two hundred ninety-eight billion dollars.\" l47: \"And to be fair, in the same period a hundred and ninety-six self-made billionaires added more than the heirs did. Scholars exist. They are just not the whole story.\" (tags: '91 heirs, $298 billion', '196 self-made, $387 billion' stay.)"
+    },
+    {
+      "lines": ["l49", "l52"],
+      "status": "ok",
+      "claim": "x1.5 / x0.6 coin: on average makes money; average is a story about one lucky stack.",
+      "finding": "Expected factor per flip 0.5 x 1.5 + 0.5 x 0.6 = 1.05 (plus 5 percent), so 'on average, this coin makes money' is correct for the ensemble average. Typical (time-average) factor sqrt(1.5 x 0.6) = sqrt(0.9) = 0.949 (about minus 5 percent a flip), so the typical player loses (Peters 2019, Nature Physics, ergodicity economics). Shown world: 43,097 / 64 = 673, consistent. 'The average is a story about one lucky stack' is fair for the shown world (one stack 71 percent); keep 'in this world'. Do not add that 'the average is meaningless'.",
+      "evidence": ["https://www.nature.com/articles/s41567-019-0732-0"],
+      "fix": null
+    },
+    {
+      "lines": ["l55", "l56", "l59"],
+      "status": "fix",
+      "claim": "Boghosian (Tufts) added a rule like this and fit US and European wealth data within a fraction of a percent.",
+      "finding": "Scientific American (Nov 2019, 'Is Inequality Inevitable?') and Li, Boghosian, Li, affine wealth model (arXiv 1604.02370, published 2018-19): three-parameter model matches US data (Survey of Consumer Finances, three decades 1989-2016) 'to less than a sixth of a percent'; European data for 2010 'typically better than a third to a half of a percent'; the earlier two-parameter model fit US and EU 1989-2016 'to within 1 to 2 percent'. Error is an average misfit of the wealth distribution, not of one number. The SCF excludes the Forbes 400. Redistribution term: each agent moves toward mean wealth by a fraction chi of its distance, which SciAm calls 'equivalent to a flat wealth tax for the wealthy' with a subsidy for the poor; algebraically w -> (1-chi) w + chi x mean is exactly 'everyone puts a flat share in the pot, the pot is shared equally', so 'a rule like this' is fair (chi is per transaction, fitted; our 1 percent per round is illustrative). The fit also needs a wealth-advantage term (rich have a slight edge), which the line omits, and Europe is a single year at a slightly larger error. Boghosian is Professor of Mathematics at Tufts, so 'mathematician' is fine.",
+      "evidence": [
+        "https://www.scientificamerican.com/article/is-inequality-inevitable/",
+        "https://www.arxiv.org/pdf/1604.02370",
+        "https://arxiv.org/pdf/2310.16098"
+      ],
+      "fix": "\"A mathematician named Bruce Boghosian added a rule like this to the model, plus a small edge for the rich, and compared it with real American wealth data. It matched within a fraction of a percent.\""
+    },
+    {
+      "lines": ["l60"],
+      "status": "fix",
+      "claim": "Two weeks ago California voted on a one-time five percent billionaire tax; it lost fifty-three to forty-seven.",
+      "finding": "Confirmed on news pages, NOT on the Secretary of State site (not opened): Proposition 40, one-time 5 percent tax on the net worth of Californians above 1 billion dollars (about 200 people), election 3 Nov 2026, AP called it for No on Mon 9 Nov; AP count reported by CalMatters on 9 Nov: rejected about 52.8 to 47.2. Election-night KQED snapshot was 55.2 No (early). The count is not certified/final, so '53 to 47' is an AP running tally. 3 Nov is 12 days before 15 Nov, so 'two weeks ago' is acceptable, 'about two weeks ago' safer. Companion measures 41/42 exist; Prop 42 (bars future wealth taxes) reported passing, which is not mentioned. Also 'the argument underneath every fight about taxing the very rich' overclaims, and the segue implies the model proves a tax works; the model only shows redistribution stops condensation in a toy.",
+      "evidence": [
+        "https://abc30.com/post/california-voters-reject-prop-40-measure-tax-wealth-billionaires/20028513/",
+        "https://www.ktvu.com/news/prop-40-californias-billionaire-tax-fails-ballot-box",
+        "https://gvwire.com/2026/11/09/california-voters-reject-prop-40-billionaire-tax/",
+        "https://www.kqed.org/elections/results/california/proposition-40"
+      ],
+      "fix": "\"That is the argument inside the fight about taxing the very rich. About two weeks ago, California voted on a one-time five percent tax on billionaires. It lost, about fifty-three to forty-seven.\" If the owner wants zero risk: drop the sentence and end l59 line on the model."
+    },
+    {
+      "lines": ["l31", "l53", "l62", "l63", "l64"],
+      "status": "ok",
+      "claim": "Opinion and framing lines (skill is the ticket; being rich does not prove you were better).",
+      "finding": "Editorial, not factual; no named living person is called lucky or undeserving, no financial advice. 'It proves you were at the table...' generalises a toy model to all rich people; acceptable as opinion but keep it phrased as the video's argument.",
+      "evidence": [],
+      "fix": null
+    }
+  ]
+}

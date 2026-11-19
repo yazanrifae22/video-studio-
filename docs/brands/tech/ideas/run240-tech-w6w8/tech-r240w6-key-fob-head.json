@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "Hold Your Car Key to Your Head. Why Does It Work?",
+ "topic": "Your watery head couples to the fob and acts like a bigger (bad) antenna; tests found the temple and chin work best.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Try-it-yourself in any car park (T3); one 49K competitor.",
+ "evidence": [
+  {
+   "claim": "Snopes: holding car keys to your head boosts range (physicist explanation) (accessed 2026-10-24)",
+   "url": "https://www.snopes.com/fact-check/car-keys-locking-range-boost/"
+  },
+  {
+   "claim": "The Naked Scientists: does putting your car key to your head increase its range? (accessed 2026-10-24)",
+   "url": "https://thenakedscientists.com/articles/questions/does-putting-your-car-key-your-head-increase-its-range"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Holding Your Car Key to Your Head Actually Works",
+   "url": "https://youtube.com/shorts/9J-1mRYPSFc",
+   "views": "49K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Key fob to your head. Seriously?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Your watery head couples to the fob and acts like a bigger (bad) antenna; tests found the temple and chin work best. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Key fob to your head. Seriously?",
+ "twist": "Your watery head couples to the fob and acts like a bigger (bad) antenna; tests found the temple and chin work best.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-11-29 22:00 UTC",
+ "novelty": {
+  "overlap": "none. Physics explanations vary: say 'acts like an antenna', no exact gain figure.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 24,
+ "score10": 8.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,57 @@
+{
+  "channel": "tech",
+  "audience": "General Shorts viewers",
+  "format": "short",
+  "durationSec": 35,
+  "estCostUsd": 0,
+  "spare": false,
+  "run": 240,
+  "researchDate": "2026-10-25",
+  "brief": "Owner ideas from YouTube Studio advice, 2026-10-25; docs/run240-protocol.md Engagement enhancements v2",
+  "enhancements": "v2",
+  "window": null,
+  "newsPeg": null,
+  "competitors": [],
+  "title": "Does Charging Overnight Ruin Your Battery?",
+  "topic": "Phones slow or cap charging near full: Apple's Optimized Battery Charging holds around 80% until you wake; Samsung's Protect Battery caps at 85%. Scope by vendor.",
+  "hook": "Your phone charges to 80%. Then stops. On purpose.",
+  "twist": "Modern phones learn your routine and finish charging just before you unplug.",
+  "pinnedComment": "Plug in overnight, or unplug at 80%? Tell me 👇",
+  "commentPrompt": "Plug in overnight, or unplug at 80%? Tell me.",
+  "loop": "So... overnight charger or 80% rule?",
+  "difficulty": 1,
+  "category": "device/web quirk",
+  "sources": [
+    {
+      "label": "Macworld - iPhone 80% charging limit",
+      "url": "https://www.macworld.com/article/2192003/best-iphone-feature-youre-not-using-80-charging-limit.html",
+      "accessed": "2026-10-25"
+    },
+    {
+      "label": "iGeeksBlog - Optimized Battery Charging on iPhone",
+      "url": "https://www.igeeksblog.com/optimized-battery-charging-on-iphone/",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "weaknesses": "Third-party sources only: fetch Apple and Samsung support pages on script day. Say 'on iPhone' / 'on Samsung', never 'all phones'. The hard 80% limit exists only on newer iPhones (iPhone 15 and later, iOS 18+).",
+  "scores": {
+    "demand": 5,
+    "competitionGap": 3,
+    "visualPotential": 4,
+    "productionEase": 5,
+    "policyRisk": 1
+  },
+  "evidence": [
+    {
+      "claim": "Macworld - iPhone 80% charging limit (accessed 2026-10-25)",
+      "url": "https://www.macworld.com/article/2192003/best-iphone-feature-youre-not-using-80-charging-limit.html"
+    },
+    {
+      "claim": "iGeeksBlog - Optimized Battery Charging on iPhone (accessed 2026-10-25)",
+      "url": "https://www.igeeksblog.com/optimized-battery-charging-on-iphone/"
+    }
+  ],
+  "whyCare": "Owner idea from YouTube Studio advice",
+  "angle": "Your phone charges to 80%. Then stops. On purpose.",
+  "strengths": "Contradiction hook, pick-a-side comment, debate loop (v2)"
+}

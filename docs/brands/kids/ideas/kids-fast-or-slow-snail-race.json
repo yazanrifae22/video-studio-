@@ -1,0 +1,51 @@
+{
+ "channel": "kids",
+ "title": "Fast or Slow? Tiko & the Snail Race | Opposites for Kids",
+ "topic": "Opposites: fast / slow",
+ "audience": "Preschoolers 2-5 (co-viewing parents)",
+ "whyCare": "Opposite-word Shorts are among the biggest kids Shorts; fast/slow is a new pair (the backlog only has big/small) and motion makes it ideal for animation.",
+ "evidence": [
+  {
+   "claim": "Adi Connection 'Easy Opposite Words for Kids | Fast-Slow, Stop-Go, Yes-No' 829,602,984 views (0:20, ~7 months)",
+   "url": "https://www.youtube.com/watch?v=3bhSvqkZxKo"
+  },
+  {
+   "claim": "'Opposite Words in English | Hot-Cold, Fast-Slow, Heavy-Light' 160,818,795 views (0:20, ~9 months); Anokha 'This is Big Big Big' 238,611,355 views",
+   "url": "https://www.youtube.com/results?search_query=fast%20and%20slow%20for%20kids&sp=CAMSAggF"
+  },
+  {
+   "claim": "kids.md: Kidshire's 'Which One Is BIG/FAST/TALL?' comparison format is language-light and travels globally",
+   "url": "https://www.youtube.com/@Kidshire/shorts"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Easy Opposite Words for Kids | Fast-Slow, Stop-Go, Yes-No (Adi Connection)",
+   "url": "https://www.youtube.com/watch?v=3bhSvqkZxKo",
+   "views": "829,602,984",
+   "verified": true
+  },
+  {
+   "title": "Opposite Words in English | Hot-Cold, Fast-Slow, Heavy-Light (Adi Connection)",
+   "url": "https://www.youtube.com/watch?v=TQcWQlZqPTw",
+   "views": "160,818,795",
+   "verified": true
+  }
+ ],
+ "angle": "Learning goal: fast vs slow. Story: Tiko zooms by (fast!), a friendly snail inches along (slow...). Pip asks 'Who is fast? Who is slow?' (pause-and-guess, Pip glows on the answer). Twist: Tiko slows down to walk WITH the snail and they finish together; everyone cheers. Repeat both words at matching speeds.",
+ "durationSec": 30,
+ "format": "short",
+ "hook": "ZOOM! Tiko runs by so fast!",
+ "difficulty": 2,
+ "estCostUsd": 4,
+ "strengths": "Motion is the lesson (perfect for animation); kindness payoff avoids the 'same outcome' template risk; extends the opposites playlist",
+ "weaknesses": "Same concept family as 'Which One Is BIG?' - space them out and vary the story; needs one new snail character",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

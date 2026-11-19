@@ -1,0 +1,104 @@
+{
+ "channel": "celebrity",
+ "title": "The Big Lebowski Flopped. Then Fans Built a Festival",
+ "topic": "The Coen brothers' 1998 film disappointed at the box office, found its audience on video and DVD, and since 2002 fans have gathered at Lebowski Fest to bowl in bathrobes.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Jeff Bridges turns 77 (2026-12-04). Wikipedia The_Big_Lebowski 67,428 views Sept 2026.",
+ "hook": "A flop… with its own festival?",
+ "twist": "The Coen brothers' 1998 film disappointed at the box office, found its audience on video and DVD, and since 2002 fans have gathered at Lebowski Fest to bowl in bathrobes.",
+ "peg": {
+  "event": "Jeff Bridges turns 77",
+  "date": "2026-12-04",
+  "url": "https://en.wikipedia.org/wiki/Jeff_Bridges",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Text Matters (University of Lodz) - The Dude abides: from box-office bomb to fests (accessed 2026-10-24)",
+   "url": "https://czasopisma.uni.lodz.pl/textmatters/article/view/6919"
+  },
+  {
+   "claim": "Shepherd Express - Lebowski comes to Milwaukee (accessed 2026-10-24)",
+   "url": "https://shepherdexpress.com/culture/ae-feature/lebowski-comes-milwaukee/"
+  },
+  {
+   "claim": "Canongate - I'm a Lebowski, You're a Lebowski (accessed 2026-10-24)",
+   "url": "https://canongate.co.uk/books/560-im-a-lebowski-youre-a-lebowski-life-the-big-lebowski-and-what-have-you/"
+  },
+  {
+   "claim": "Peg source: Jeff Bridges turns 77 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Jeff_Bridges"
+  },
+  {
+   "claim": "Wikimedia pageviews The_Big_Lebowski: 67428 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=The_Big_Lebowski&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Text Matters (University of Lodz) - The Dude abides: from box-office bomb to fests",
+   "url": "https://czasopisma.uni.lodz.pl/textmatters/article/view/6919",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Shepherd Express - Lebowski comes to Milwaukee",
+   "url": "https://shepherdexpress.com/culture/ae-feature/lebowski-comes-milwaukee/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Canongate - I'm a Lebowski, You're a Lebowski",
+   "url": "https://canongate.co.uk/books/560-im-a-lebowski-youre-a-lebowski-life-the-big-lebowski-and-what-have-you/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The Big Lebowski (1998): A Cult Classic | Video Essay",
+   "url": "https://www.youtube.com/watch?v=QpLmPzgrxO4",
+   "views": 457,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Big Lebowski flop cult classic #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "How Did The Big Lebowski Become Such a Beloved Cult Classic",
+   "url": "https://www.youtube.com/watch?v=yBs4IAl17kc",
+   "views": 2524,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Big Lebowski flop cult classic #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A bowling ball resting on a patterned rug + hook. Twist by 2.5 s. Loop: 'A flop that got its own festival. Have you seen it?'",
+ "cta": "C2+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "'Flop' is relative (critics compared it with Fargo): say 'disappointed at the box office'. No stills or likeness: a bowling ball, a rug and a bathrobe.",
+ "window": {
+  "notBefore": "2026-12-02T12:00:00Z",
+  "deadline": "2026-12-06T00:00:00Z",
+  "label": "Jeff Bridges turns 77",
+  "suggestedSlot": "2026-12-03T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Jeff Bridges",
+  "Joel and Ethan Coen"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

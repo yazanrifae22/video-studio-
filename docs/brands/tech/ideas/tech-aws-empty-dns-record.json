@@ -1,0 +1,51 @@
+{
+ "channel": "tech",
+ "title": "One Empty DNS Record Took Down Thousands of Apps (AWS, One Year Later)",
+ "topic": "AWS us-east-1 outage, Oct 2025 (DNS race condition)",
+ "audience": "Devs, students, curious tech viewers",
+ "whyCare": "'Big Tech scale' failure stories are the format that wins on tech Shorts; AWS's own post-event summary makes it fully sourceable. One-year anniversary: Oct 19-20.",
+ "evidence": [
+  {
+   "claim": "AWS post-event summary: a latent race condition in DynamoDB's automated DNS management left an empty DNS record for the us-east-1 regional endpoint (Oct 19-20 2025)",
+   "url": "https://aws.amazon.com/message/101925/"
+  },
+  {
+   "claim": "Fireship 'US-EAST-1 is humanity's weakest link...' 1,148,219 views; ByteMonk 'How a Tiny Bug Crashed AWS' 73,639 views (both ~11 months)",
+   "url": "https://www.youtube.com/results?search_query=AWS%20outage%20us-east-1%20DNS%20explained&sp=CAMSAggF"
+  },
+  {
+   "claim": "tech.md: ByteByteGo's top Shorts are 'Big Tech scale' hooks (1.3M-2.4M views)",
+   "url": "https://www.youtube.com/@ByteByteGo/shorts"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "US-EAST-1 is humanity's weakest link... (Fireship)",
+   "url": "https://www.youtube.com/watch?v=HqL0xhwDz9s",
+   "views": "1,148,219",
+   "verified": true
+  },
+  {
+   "title": "How a Tiny Bug Crashed AWS | DynamoDB us-east-1 Outage Explained (ByteMonk)",
+   "url": "https://www.youtube.com/watch?v=ey0HsdZSpoc",
+   "views": "73,639",
+   "verified": true
+  }
+ ],
+ "angle": "Diagram: Planner -> two Enactors writing one DNS record; a slow Enactor applies an old plan, cleanup deletes it -> record empty (status). Apps' packets to DynamoDB fail (cross). Lesson card: automation needs guards against stale plans.",
+ "durationSec": 55,
+ "format": "short",
+ "hook": "October 20th, 2025: one DNS record went empty, and thousands of apps went dark.",
+ "difficulty": 3,
+ "estCostUsd": 4,
+ "strengths": "Proven demand; primary source available; strong diagram story",
+ "weaknesses": "Anniversary passes before the open slots (Oct 25-27), so it reads as a retrospective; must follow AWS's summary exactly, no speculation; 'thousands of apps' needs a cited source on production day",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

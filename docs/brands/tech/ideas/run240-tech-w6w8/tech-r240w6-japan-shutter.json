@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Why iPhones in Japan Can't Mute the Camera",
+ "topic": "Japanese carriers and makers agreed in the early 2000s that phone cameras must always make a shutter sound, to fight secret photos; Japan-model iPhones follow it even abroad.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "5.1M demand around the shutter sound; the rule's 'why' is a surprise for non-Japan viewers.",
+ "evidence": [
+  {
+   "claim": "BGR: why you can't turn off the camera shutter sound on Japanese iPhones (accessed 2026-10-24)",
+   "url": "https://bgr.com/2202551/why-you-cant-turn-off-camera-shutter-sound-on-japanese-iphones/"
+  },
+  {
+   "claim": "Wikipedia: Camera phone (mandatory shutter sound in Japan and South Korea) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Camera_phone"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "iPhone Camera Sound",
+   "url": "https://youtube.com/shorts/NMXYJB21xX8",
+   "views": "5.1M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "iPhone 15 Pro for Japan! Shutter Sound Peculiarities",
+   "url": "https://youtube.com/shorts/ZpNrYoScMlI",
+   "views": "518K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Silent mode on. Camera still clicks?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Japanese carriers and makers agreed in the early 2000s that phone cameras must always make a shutter sound, to fight secret photos; Japan-model iPhones follow it even abroad. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Silent mode on. Camera still clicks?",
+ "twist": "Japanese carriers and makers agreed in the early 2000s that phone cameras must always make a shutter sound, to fight secret photos; Japan-model iPhones follow it even abroad.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-05 18:00 UTC",
+ "novelty": {
+  "overlap": "none. Legal basis is murky (industry pact vs ordinance): say 'an industry rule'.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 15,
+ "score10": 8.8,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

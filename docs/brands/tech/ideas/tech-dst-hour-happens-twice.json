@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "The Hour That Happens Twice: Why Clock Changes Break Software",
+ "topic": "Daylight saving time / time zones in code",
+ "audience": "Junior devs, anyone whose calendar invite shifted by an hour",
+ "whyCare": "Europe falls back on Sun Oct 25 2026 and the US on Nov 1, so 01:30 happens twice and Europe-US meetings shift for a week. Timely, relatable bug.",
+ "evidence": [
+  {
+   "claim": "European clocks go back on Sunday 25 October 2026; the US changes on 1 November 2026, so the transatlantic offset differs for about a week",
+   "url": "https://www.universaltimedate.com/articles/daylight-saving-time-2026-when-clocks-change"
+  },
+  {
+   "claim": "UK: British Summer Time ends 25 Oct 2026, clocks go from 2am back to 1am",
+   "url": "https://www.timeout.com/london/news/when-do-the-clocks-go-back-2026-british-summer-time-091026"
+  },
+  {
+   "claim": "Low competition: 'Your Code Works. It Just Breaks Twice a Year.' 3,271 views (1 month); Short 'Why 2:30 AM Can Disappear in Code' 474 views",
+   "url": "https://www.youtube.com/results?search_query=daylight%20saving%20time%20bug%20programmers&sp=CAMSAggF"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Your Code Works. It Just Breaks Twice a Year. (NodeCanopy)",
+   "url": "https://www.youtube.com/watch?v=I6FMSxKhvAE",
+   "views": "3,271",
+   "verified": true
+  },
+  {
+   "title": "Why Do Time Zones Look So Weird? (Short)",
+   "url": "https://www.youtube.com/shorts/qErZetNk2_s",
+   "views": "3K",
+   "verified": true
+  },
+  {
+   "title": "Why 2:30 AM Can Disappear in Code (Short)",
+   "url": "https://www.youtube.com/shorts/4iCAPck_Zns",
+   "views": "474",
+   "verified": true
+  }
+ ],
+ "angle": "Timeline scene: 00:59 -> 01:00 -> 01:59 -> 01:00 again (strike + repeat). A nightly job fires twice (packet x2). Compare table: local time vs UTC. Rule card: store UTC, convert at the edge.",
+ "durationSec": 45,
+ "format": "short",
+ "hook": "This Sunday, 1:30 AM will happen twice. Your code might run twice too.",
+ "difficulty": 2,
+ "estCostUsd": 3,
+ "strengths": "Hard deadline hook (publish Oct 24-25); almost no competition; reusable every spring/autumn",
+ "weaknesses": "Search demand for the dev angle is modest (search volume unverified); hook only works in the week of the change",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

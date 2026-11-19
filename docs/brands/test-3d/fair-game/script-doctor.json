@@ -1,0 +1,36 @@
+{
+  "round": 2,
+  "verdict": "pass",
+  "forecast": 86,
+  "round1_check": [
+    {"item": "l04/l24/title overclaim", "status": "applied differently: l04 now states the almost-sure limit (defensible, fact-check r1); l24 still says every finite world 'eats the board' while the 300 runs went down to 33.5 percent for the leader; title kept 'Every Time' (accepted as the limit claim)"},
+    {"item": "toy vs real gap after l45", "status": "applied (l45a, plus tags 90% vs 32.5%)"},
+    {"item": "l05 superlative", "status": "applied"},
+    {"item": "c07 weak minute (l41/l43/l44)", "status": "partial: l41 opens on a question, l43 softened; l44 still carries both percentages, l45 still 24 words"},
+    {"item": "l30 stake-rule admission", "status": "rejected on purpose; acceptable because l40, l45a and l58 now carry three admissions"},
+    {"item": "l37/l40 baseline and admission", "status": "applied differently (baseline 'any one nobody'; l40 owns the numbers and asks for theirs)"},
+    {"item": "l58-l60 leap to politics", "status": "applied (not a real tax; close fit does not prove cause; vote 'about')"},
+    {"item": "l47 merit", "status": "applied"},
+    {"item": "l53/l54 contradiction and tease", "status": "applied"},
+    {"item": "Skeptic payoff l64a", "status": "applied, but see new problem: Skeptic is never named earlier"},
+    {"item": "l38 density and tags", "status": "applied"},
+    {"item": "l20 cut", "status": "rejected on purpose, kept short without 82 percent; fine"},
+    {"item": "l13, l51, l57 numbers", "status": "applied"},
+    {"item": "l01-l03, l10", "status": "applied"},
+    {"item": "silences", "status": "applied via pause_after (l40 1.5 vs 2, l47 1.5 vs 2, minor)"}
+  ],
+  "gap_to_gate": [
+    {"line": "l31 (new, from l64a)", "problem": "The Skeptic is named aloud for the first time in l64a. The viewer has never heard the name, so the payoff lands on a stranger.", "fix": "l31: 'I know. You are already typing. That is the Skeptic, and the Skeptic has a point. Real life is not a coin flip. Some people are smarter. Some work harder. Some start with more. Fine. Let's put all of that in.' Add tag THE SKEPTIC.", "points": 2},
+    {"line": "l24", "problem": "'every world heads the same way. One stack eats the board' is false for the low end (leader 33.5 percent in the worst of 300 worlds).", "fix": "'But every world heads the same way. One stack pulls far ahead of the board.'", "points": 1},
+    {"line": "l45", "problem": "Still 24 words in one breath, third numeric line in a row (l44, l45, l45a) in the weakest minute.", "fix": "'One stack. Less than one square. More than ten times taller than all the coins of thirty-two squares.'", "points": 1},
+    {"line": "l37", "problem": "'any one nobody' reads as a slip.", "fix": "'The Scholar, with a real edge on every single flip? Six. Far better than any single nobody gets. Still only six.'", "points": 1},
+    {"line": "l38", "problem": "'worse than the Fool' clashes with the Worker's two against the Fool's under one just before.", "fix": "'That is more often than the Fool.' ", "points": 1},
+    {"line": "l48", "problem": "'the best objection' then l53 'Second objection': order reads oddly.", "fix": "'Here is the first objection.'", "points": 1}
+  ],
+  "notes": {
+    "new_problems": "Skeptic unnamed until l64a (biggest). l40 now five sentences with four jobs (edge, lifetimes, owning numbers, ask); rhythm acceptable but do not add to it. No disclaimer too many: three admissions (l40, l45a, l58) are spread across c06, c07, c09. Numbers check: 90/90 (l03, l22), 47/6/2/<1/45 sums about 100, 9+55=64, 32.5 vs 2.3 about 14 matches 'more than ten times'.",
+    "c07": "Still the weakest minute, but no longer a leave risk by itself: it opens on a question now. l44 to l45a is the dip; shortening l45 and a 1 s silence after l45a would close it.",
+    "title": "'Every Time' stands as the limit claim; the comment fight it starts is the one wanted. Keep a pinned reply with the 300-world range ready.",
+    "verdict_reason": "Forecast 86 meets the 85 gate, no S1/S3/S5/S7 failure. Apply the first fix before TTS; the rest are polish."
+  }
+}

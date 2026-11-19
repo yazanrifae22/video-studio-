@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "The Most Famous Fossil Is Named After a Beatles Song",
+ "topic": "Found Nov 24, 1974 in Ethiopia; that night 'Lucy in the Sky with Diamonds' played over and over at camp, and the name stuck.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Lucy (AL 288-1) discovered, 52nd anniversary (2026-11-24). Wikipedia Lucy_(hominid) 30,228 views Sept 2026.",
+ "hook": "Why is our ancestor called Lucy?",
+ "twist": "Found Nov 24, 1974 in Ethiopia; that night 'Lucy in the Sky with Diamonds' played over and over at camp, and the name stuck.",
+ "peg": {
+  "event": "Lucy (AL 288-1) discovered, 52nd anniversary",
+  "date": "2026-11-24",
+  "url": "https://en.wikipedia.org/wiki/Lucy_(hominid)",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Britannica - Lucy (fossil) (accessed 2026-10-24)",
+   "url": "https://www.britannica.com/print/article/350713"
+  },
+  {
+   "claim": "Google Arts & Culture - Meet Lucy (accessed 2026-10-24)",
+   "url": "https://artsandculture.google.com/story/ygVREVFi46uRrA"
+  },
+  {
+   "claim": "Wikipedia - Lucy (hominid) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Lucy_(hominid)"
+  },
+  {
+   "claim": "Peg source: Lucy (AL 288-1) discovered, 52nd anniversary (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Lucy_(hominid)"
+  },
+  {
+   "claim": "Wikimedia pageviews Lucy_(hominid): 30228 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Lucy_(hominid)&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Britannica - Lucy (fossil)",
+   "url": "https://www.britannica.com/print/article/350713",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Google Arts & Culture - Meet Lucy",
+   "url": "https://artsandculture.google.com/story/ygVREVFi46uRrA",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Lucy (hominid)",
+   "url": "https://en.wikipedia.org/wiki/Lucy_(hominid)",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How The Beatles Named History's Most Famous Fossil",
+   "url": "https://youtube.com/shorts/y7ix2Fb0Ex0",
+   "views": 614,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The 3.2 million year old fossil Lucy is named after a Beatles song #shorts",
+   "url": "https://youtube.com/shorts/IbafyzlR84Y",
+   "views": 1600,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "She Was Named After a Beatles Song 🎶 #Shorts",
+   "url": "https://youtube.com/shorts/dvuh4e2oc48",
+   "views": 1200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a fossil skeleton outline under a starry 'diamond' sky + hook. Twist: a cassette at camp. Loop: 'Name your ancestor.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Who proposed the name differs (Wikipedia credits Pamela Alderman): say 'someone at camp'. No song audio or lyrics. Beatles cluster with White Album (Nov 22).",
+ "window": {
+  "notBefore": "2026-11-23T12:00:00Z",
+  "deadline": "2026-11-25T06:00:00Z",
+  "label": "Lucy (AL 288-1) discovered, 52nd anniversary",
+  "suggestedSlot": "2026-11-24T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

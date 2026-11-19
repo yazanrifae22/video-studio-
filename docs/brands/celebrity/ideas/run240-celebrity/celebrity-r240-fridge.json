@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Einstein Held a Patent for a Refrigerator",
+ "topic": "With Leo Szilard, Einstein patented a fridge with no moving parts (US patent granted Nov 11, 1930); Freon made it obsolete.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Evergreen with a twist hook. Wikipedia Einstein_refrigerator 3,716 views Sept 2026.",
+ "hook": "Einstein's patent was for a... fridge?",
+ "twist": "With Leo Szilard, Einstein patented a fridge with no moving parts (US patent granted Nov 11, 1930); Freon made it obsolete.",
+ "peg": {
+  "event": "Evergreen",
+  "date": null,
+  "url": "https://en.wikipedia.org/wiki/Einstein_refrigerator",
+  "pegged": false
+ },
+ "evidence": [
+  {
+   "claim": "APS News - This month in physics history: Einstein-Szilard refrigerator (accessed 2026-10-24)",
+   "url": "https://www.aps.org/apsnews/2010/11/patent-granted-einstein-szilard-refrigerator"
+  },
+  {
+   "claim": "Wikipedia - Einstein refrigerator (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Einstein_refrigerator"
+  },
+  {
+   "claim": "MoneyWeek - 11 November 1930: Einstein receives a patent for his fridge (accessed 2026-10-24)",
+   "url": "https://moneyweek.com/355754/11-november-1930-einstein-fridge"
+  },
+  {
+   "claim": "Peg source: Evergreen (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Einstein_refrigerator"
+  },
+  {
+   "claim": "Wikimedia pageviews Einstein_refrigerator: 3716 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Einstein_refrigerator&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "APS News - This month in physics history: Einstein-Szilard refrigerator",
+   "url": "https://www.aps.org/apsnews/2010/11/patent-granted-einstein-szilard-refrigerator",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Einstein refrigerator",
+   "url": "https://en.wikipedia.org/wiki/Einstein_refrigerator",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "MoneyWeek - 11 November 1930: Einstein receives a patent for his fridge",
+   "url": "https://moneyweek.com/355754/11-november-1930-einstein-fridge",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Albert Einstein has a US patent for a fridge",
+   "url": "https://youtube.com/shorts/jESQznCc0gE",
+   "views": 237,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Einstein's Surprising Invention: A Patented Refrigerator! #shorts  #einstein #patent #refrigerator",
+   "url": "https://youtube.com/shorts/28Vvdo8bU5k",
+   "views": 261,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "History of \\\"Einstein Refrigerator\\\" Patent #history #shorts #unknownfacts #historyfacts #scientist",
+   "url": "https://youtube.com/shorts/_4lNjX0r3T4",
+   "views": 1000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a vintage fridge with a patent seal + hook. Twist: E=mc2 meets ice cubes. Loop: 'Open the fridge, think of Einstein.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); evergreen filler with twist",
+ "weaknesses": "Skip the 'family killed by a fridge leak' origin (single blog, unverified). No Einstein likeness (wild-hair silhouette only, or none).",
+ "window": {
+  "notBefore": "2026-11-11T00:00:00Z",
+  "deadline": null,
+  "label": "Evergreen",
+  "suggestedSlot": "2026-11-20T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

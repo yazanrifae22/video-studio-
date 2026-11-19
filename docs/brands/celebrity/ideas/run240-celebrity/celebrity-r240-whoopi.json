@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "The Stage Name That Came From a Whoopee Cushion",
+ "topic": "Caryn Johnson became 'Whoopi' after a whoopee-cushion joke; her mother suggested 'Goldberg'.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Whoopi Goldberg turns 71 (2026-11-13). Wikipedia Whoopi_Goldberg 104,794 views Sept 2026.",
+ "hook": "A star named after a prank toy?",
+ "twist": "Caryn Johnson became 'Whoopi' after a whoopee-cushion joke; her mother suggested 'Goldberg'.",
+ "peg": {
+  "event": "Whoopi Goldberg turns 71",
+  "date": "2026-11-13",
+  "url": "https://en.wikipedia.org/wiki/Whoopi_Goldberg",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "ET Online - Whoopi shares how her stage name came to be (accessed 2026-10-24)",
+   "url": "https://etonline.com/whoopi-goldberg-shares-how-her-stage-name-came-to-be-i-was-whoopi-cushione-229346"
+  },
+  {
+   "claim": "NBC New York - Whoopi Goldberg shares cheeky story behind her stage name (accessed 2026-10-24)",
+   "url": "https://www.nbcnewyork.com/entertainment/entertainment-news/whoopi-goldberg-shares-cheeky-story-behind-her-stage-name/5607540/"
+  },
+  {
+   "claim": "Wikipedia - Whoopi Goldberg (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Whoopi_Goldberg"
+  },
+  {
+   "claim": "Peg source: Whoopi Goldberg turns 71 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Whoopi_Goldberg"
+  },
+  {
+   "claim": "Wikimedia pageviews Whoopi_Goldberg: 104794 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Whoopi_Goldberg&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "ET Online - Whoopi shares how her stage name came to be",
+   "url": "https://etonline.com/whoopi-goldberg-shares-how-her-stage-name-came-to-be-i-was-whoopi-cushione-229346",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "NBC New York - Whoopi Goldberg shares cheeky story behind her stage name",
+   "url": "https://www.nbcnewyork.com/entertainment/entertainment-news/whoopi-goldberg-shares-cheeky-story-behind-her-stage-name/5607540/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Whoopi Goldberg",
+   "url": "https://en.wikipedia.org/wiki/Whoopi_Goldberg",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Whoopi Goldberg Named Herself After a Whoopee Cushion Because She, Too, Is 'Gaseous'",
+   "url": "https://youtube.com/shorts/BOyy9rLF_1o",
+   "views": 2000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "How the Whoopee Cushion Became a Legend #nostalgia #prank #shorts",
+   "url": "https://youtube.com/shorts/S7ToOSmE7v4",
+   "views": 319,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Whoopi Goldberg on a Whoopie cushion eating Whoopie pie ￼",
+   "url": "https://youtube.com/shorts/xMQ-sSDFFfo",
+   "views": 437,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a whoopee cushion with a gold star on it + hook. Twist: it named Whoopi Goldberg. Loop: 'Would you take that name?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Keep the joke gentle (no crude sound effects beyond a soft 'pfft'). Surname came from family/ancestry per her own accounts - don't add other theories.",
+ "window": {
+  "notBefore": "2026-11-12T12:00:00Z",
+  "deadline": "2026-11-14T06:00:00Z",
+  "label": "Whoopi Goldberg turns 71",
+  "suggestedSlot": "2026-11-13T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

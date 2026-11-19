@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "A Man Claimed Her Novels. So George Eliot Unmasked",
+ "topic": "Mary Ann Evans wrote as George Eliot; when a man named Joseph Liggins let people think he was the author, she revealed herself.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: George Eliot born 22 Nov 1819 (2026-11-22). Wikipedia George_Eliot 53,256 views Sept 2026.",
+ "hook": "Who really was 'George Eliot'?",
+ "twist": "Mary Ann Evans wrote as George Eliot; when a man named Joseph Liggins let people think he was the author, she revealed herself.",
+ "peg": {
+  "event": "George Eliot born 22 Nov 1819",
+  "date": "2026-11-22",
+  "url": "https://en.wikipedia.org/wiki/George_Eliot",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "George Eliot Archive - Joseph Liggins (accessed 2026-10-24)",
+   "url": "https://georgeeliotarchive.org/items/show/2765"
+  },
+  {
+   "claim": "Penguin Random House - George Eliot (accessed 2026-10-24)",
+   "url": "https://penguinrandomhouse.com/authors/7953/george-eliot"
+  },
+  {
+   "claim": "Wikipedia - Adam Bede (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Adam_Bede"
+  },
+  {
+   "claim": "Peg source: George Eliot born 22 Nov 1819 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/George_Eliot"
+  },
+  {
+   "claim": "Wikimedia pageviews George_Eliot: 53256 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=George_Eliot&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "George Eliot Archive - Joseph Liggins",
+   "url": "https://georgeeliotarchive.org/items/show/2765",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Penguin Random House - George Eliot",
+   "url": "https://penguinrandomhouse.com/authors/7953/george-eliot",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Adam Bede",
+   "url": "https://en.wikipedia.org/wiki/Adam_Bede",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why George Eliot Used a Man's Name #history #shorts #victorianera",
+   "url": "https://youtube.com/shorts/lr9EEQZMfDo",
+   "views": 5700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "George Eliot was the pen name of Mary Ann Evans. #shortsfeed #shorts #youtubeshorts",
+   "url": "https://youtube.com/shorts/EzY9BGgsvw4",
+   "views": 162,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "George Eliot - the famous novelist was a Woman!! #shorts #shortsfeed #facts #surprise #new",
+   "url": "https://youtube.com/shorts/pBzjOXr0egE",
+   "views": 114,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a book spine 'GEORGE ELIOT' with a woman's quill shadow + hook. Twist: and an impostor forced the reveal. Loop: 'Who's really behind the name?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Liggins' scandal was 'part of the reason' (archive): don't say it was the only reason. Liggins died 1872; neutral tone.",
+ "window": {
+  "notBefore": "2026-11-21T12:00:00Z",
+  "deadline": "2026-11-23T06:00:00Z",
+  "label": "George Eliot born 22 Nov 1819",
+  "suggestedSlot": "2026-11-22T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

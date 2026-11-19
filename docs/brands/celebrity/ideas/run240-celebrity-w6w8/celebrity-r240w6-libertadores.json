@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "South America's Biggest Final Was Played in Madrid. Why?",
+ "topic": "In 2018 the River-Boca second leg was postponed after Boca's bus was attacked; CONMEBOL moved it to the Bernabéu on 9 Dec 2018, the first Libertadores final outside South America. River won 3-1 after extra time.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: 2026 Copa Libertadores final, Estadio Centenario, Montevideo (2026-11-28). Wikipedia Copa_Libertadores 36,617 views Sept 2026.",
+ "hook": "South America's final… in Madrid?",
+ "twist": "In 2018 the River-Boca second leg was postponed after Boca's bus was attacked; CONMEBOL moved it to the Bernabéu on 9 Dec 2018, the first Libertadores final outside South America. River won 3-1 after extra time.",
+ "peg": {
+  "event": "2026 Copa Libertadores final, Estadio Centenario, Montevideo",
+  "date": "2026-11-28",
+  "url": "https://en.wikipedia.org/wiki/2026_Copa_Libertadores_final_stages",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Bloomberg - Dream soccer match becomes South America's nightmare (accessed 2026-10-24)",
+   "url": "https://www.bloomberg.com/news/articles/2018-12-08/dream-soccer-match-becomes-south-america-s-nightmare"
+  },
+  {
+   "claim": "FourFourTwo - Gallardo slams absurd decision to move final to Madrid (accessed 2026-10-24)",
+   "url": "https://www.fourfourtwo.com/news/gallardo-slams-absurd-decision-move-copa-libertadores-madrid"
+  },
+  {
+   "claim": "Washington Times (AP) - River Plate rejects moving final (accessed 2026-10-24)",
+   "url": "https://www.washingtontimes.com/news/2018/dec/1/river-plate-rejects-moving-copa-libertadores-final/"
+  },
+  {
+   "claim": "Peg source: 2026 Copa Libertadores final, Estadio Centenario, Montevideo (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/2026_Copa_Libertadores_final_stages"
+  },
+  {
+   "claim": "Wikimedia pageviews Copa_Libertadores: 36617 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Copa_Libertadores&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Bloomberg - Dream soccer match becomes South America's nightmare",
+   "url": "https://www.bloomberg.com/news/articles/2018-12-08/dream-soccer-match-becomes-south-america-s-nightmare",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "FourFourTwo - Gallardo slams absurd decision to move final to Madrid",
+   "url": "https://www.fourfourtwo.com/news/gallardo-slams-absurd-decision-move-copa-libertadores-madrid",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Washington Times (AP) - River Plate rejects moving final",
+   "url": "https://www.washingtontimes.com/news/2018/dec/1/river-plate-rejects-moving-copa-libertadores-final/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Y VA EL TERCERO Y VA EL TERCERO| #shorts #rivervsboca #madrid #santiagobernabeu",
+   "url": "https://youtube.com/shorts/IgQR07l7InA",
+   "views": 228000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Libertadores final Madrid River Boca 2018 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "THE EPIC LIBERTADORES FINAL IN MADRID! 🔥 #Shorts",
+   "url": "https://youtube.com/shorts/--fYTF_cJk0",
+   "views": 544000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Libertadores final Madrid River Boca 2018 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "River Plate 3 x 1 Boca Juniors ● Final Libertadores 2018, Madrid, Santiago Bernabeu Stadium #viral",
+   "url": "https://youtube.com/shorts/Ii_-rPhEoP0",
+   "views": 32,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Libertadores final Madrid River Boca 2018 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A match ticket with 'Buenos Aires' crossed out and 'MADRID' stamped + hook. Twist by 2.5 s. Loop: 'Should a final ever leave its continent?'",
+ "cta": "C9+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Violence: say 'the Boca team bus was attacked', no injury imagery. Attack date 24 Nov 2018 (Bloomberg). Don't mention Maradona (Dec 8 slot). No club crests.",
+ "window": {
+  "notBefore": "2026-11-27T12:00:00Z",
+  "deadline": "2026-11-28T17:00:00Z",
+  "label": "2026 Copa Libertadores final, Estadio Centenario, Montevideo",
+  "suggestedSlot": "2026-11-28T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "River Plate",
+  "Boca Juniors"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

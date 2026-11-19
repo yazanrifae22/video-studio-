@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "How Face ID Sees You in Total Darkness",
+ "topic": "Structured-light depth sensing with infrared",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Face ID night-vision Short 93K; Face_ID ~7k views/30d.",
+ "evidence": [
+  {
+   "claim": "Apple Support: Face ID projects and analyzes thousands of invisible dots, captures an infrared image, works in total darkness (accessed 2026-10-23)",
+   "url": "https://support.apple.com/en-us/102381"
+  },
+  {
+   "claim": "Pageviews Face_ID 6,977 in 30 days (accessed 2026-10-23)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Face_ID&range=latest-30"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Face ID using a night vision camera",
+   "url": "https://youtube.com/shorts/HFUzbLm304c",
+   "views": "93K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "How does Face ID work in the dark?",
+   "url": "https://youtube.com/shorts/5chJlrwxMwk",
+   "views": "547",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a dark frame with a faint face outline and a phone unlocking + hook. Answer: it never needed visible light - it projects thousands of invisible infrared dots, reads the depth map and an IR image. Show the dot pattern (illustration). Loop: 'Pitch dark... and it still knows you.'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Pitch dark. Phone still knows you?",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "No Apple logos; illustrate, don't imply our footage is real IR capture.",
+ "window": null,
+ "novelty": {
+  "overlap": "low with TV-remote IR idea - keep 3+ days apart",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

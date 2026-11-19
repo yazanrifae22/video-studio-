@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Jimi Hendrix Once Opened for The Monkees. How Long?",
+ "topic": "In July 1967 Hendrix's manager booked him as support on The Monkees' US tour; the teen crowds kept chanting for the Monkees and he quit after a handful of shows.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Jimi Hendrix born 27 Nov 1942 (2026-11-27). Wikipedia Jimi_Hendrix 150,768 views Sept 2026.",
+ "hook": "Hendrix… opening for The Monkees?",
+ "twist": "In July 1967 Hendrix's manager booked him as support on The Monkees' US tour; the teen crowds kept chanting for the Monkees and he quit after a handful of shows.",
+ "peg": {
+  "event": "Jimi Hendrix born 27 Nov 1942",
+  "date": "2026-11-27",
+  "url": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "History.com - Hendrix drops out as opening act for The Monkees (accessed 2026-10-24)",
+   "url": "https://www.history.com/this-day-in-history/july-17/jimi-hendrix-drops-out-as-opening-act-for-the-monkees"
+  },
+  {
+   "claim": "Open Culture - Hendrix opens for The Monkees (accessed 2026-10-24)",
+   "url": "https://openculture.com/2016/01/jimi-hendrix-opens-for-the-monkees-on-a-1967-tour.html"
+  },
+  {
+   "claim": "Laughing Squid - Micky Dolenz recalls the tour (accessed 2026-10-24)",
+   "url": "https://laughingsquid.com/jimi-hendrix-opened-for-the-monkees-in-1967/"
+  },
+  {
+   "claim": "Peg source: Jimi Hendrix born 27 Nov 1942 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Jimi_Hendrix"
+  },
+  {
+   "claim": "Wikimedia pageviews Jimi_Hendrix: 150768 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Jimi_Hendrix&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "History.com - Hendrix drops out as opening act for The Monkees",
+   "url": "https://www.history.com/this-day-in-history/july-17/jimi-hendrix-drops-out-as-opening-act-for-the-monkees",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Open Culture - Hendrix opens for The Monkees",
+   "url": "https://openculture.com/2016/01/jimi-hendrix-opens-for-the-monkees-on-a-1967-tour.html",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Laughing Squid - Micky Dolenz recalls the tour",
+   "url": "https://laughingsquid.com/jimi-hendrix-opened-for-the-monkees-in-1967/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Jimi Hendrix Opened for The Monkees. Seriously 🎸",
+   "url": "https://youtube.com/shorts/kFMjZSHOTB4",
+   "views": 933,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Jimi Hendrix opened for the Monkees #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Jimi Hendrix Opening for The Monkees?",
+   "url": "https://youtube.com/shorts/sBY5fRt3IC4",
+   "views": 1400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Jimi Hendrix opened for the Monkees #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "3 Shocking Facts: Jimi Hendrix Opened For The Monkees! 🎸 #Shorts",
+   "url": "https://youtube.com/shorts/uTCsjOBv_P4",
+   "views": 430,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Jimi Hendrix opened for the Monkees #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A tour poster with a tiny 'and Jimi Hendrix' at the bottom + hook. Twist by 2.5 s. Loop: 'Hendrix, opening act. How long would you have lasted?'",
+ "cta": "C3+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Shows played: 7 vs 8 (of 29): say 'about seven shows'. The Daughters of the American Revolution story was a publicity invention: don't use it. Skip the rude-gesture detail. Don't mention Little Richard (Dec 4).",
+ "window": {
+  "notBefore": "2026-11-26T12:00:00Z",
+  "deadline": "2026-11-29T00:00:00Z",
+  "label": "Jimi Hendrix born 27 Nov 1942",
+  "suggestedSlot": "2026-11-27T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Jimi Hendrix",
+  "The Monkees"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

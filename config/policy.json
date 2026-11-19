@@ -1,0 +1,42 @@
+{
+  "geminiMultiKeyFailover": true,
+  "ttsDailyBudget": null,
+  "allowPaidApis": false,
+  "unattendedPublishing": {},
+  "allowYoutubeCcDownload": false,
+  "publishingMethod": "browser",
+  "publishingNote": "Owner decision 2026-10-21: no paid publishing service (Upload-Post off). Owner logs in to each platform in Chrome; the studio uploads through the browser, one approved video at a time.",
+  "remotionLicense": "free-tier (owner confirmed 2026-10-21: individual / ≤3 people)",
+  "ttsNote": "Owner decision 2026-10-22: no studio TTS cap; use all Gemini keys (failover across keys and models until Google returns quota-exhausted).",
+  "approvalMinQa": {
+    "clipping": 80,
+    "viral-rankings": 75,
+    "parable-salt": 80,
+    "parable-brass": 80,
+    "parable-copper": 75
+  },
+  "approvalMinQaNote": "Owner decision 2026-10-25 (Mission Voices goal-28): approve at QA >= 80 with no blockers (plus a retention review >= 80 — reviews.kind=retention, written by qa-director since 2026-11-02 — and rights countersign, checked by the orchestrator). Default bar elsewhere: QA review verdict 'pass' (>= 85).",
+  "viralRankings": {
+    "note": "2026-10-31 pipeline-engineer: same bar as rankings (no rankings entry = verdict pass = QA >= 85, no blockers; insights >= 85; all sources countersigned). Nothing lowered.",
+    "insightsMin": 85,
+    "reuseCooldownDays": 30,
+    "countersignActors": [
+      "rights-scout",
+      "owner"
+    ],
+    "maxEntriesPerSource": 2,
+    "publishableRights": [
+      "approved",
+      "approved_with_conditions"
+    ]
+  },
+  "pausedBrands": {
+    "rankings": {
+      "since": "2026-11-02",
+      "reason": "owner: Planet Extremes last 10 median 59 views",
+      "effect": "no new productions, no new publish slots; already-public/scheduled videos untouched",
+      "resume": "owner decision only"
+    }
+  },
+  "_approvalMinQa_doc": "viral-rankings 85 -> 75 on 2026-11-11 (owner: 'you can accept even if QA less than 85 if you think that is good' for the Podium Pop lab videos; the orchestrator still checks the frames itself and logs a force_note). Other brands unchanged. parable-salt/brass 80 and parable-copper 75 on 2026-11-15 (owner, test-3d three-channel visual test: 'share the three video on the channel on same time i think now its good' after being told QA was running; QA 84 / 84 / 79, no blockers)."
+}

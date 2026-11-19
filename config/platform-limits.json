@@ -1,0 +1,14 @@
+{
+ "_doc": "Platform metadata limits (owner 2026-11-08: 'max description is 5000 characters'). ONE source for packages/shared/src/platform-limits.ts and its Python twin scripts/platform_limits.py. Used by prelint (packaging.json + script.json fallback + publish-plan entry), packaging_meta.py, publish-plan.py, validate-review.py (packaging), youtube.ts upload payload. Over a limit = refuse with field, length, limit; never truncate silently. docs/packaging-playbook.md 'Platform limits'.",
+ "youtube": {
+  "_doc": "YouTube Data API v3 videos.insert snippet: title <= 100 characters (non-empty); description <= 5000 BYTES UTF-8 (Arabic ~2 bytes per letter); no '<' or '>' in title/description/tags; tags property <= 500 characters counting the commas between tags and 2 quote marks around a tag that contains a space; more than 15 hashtags in title + description and YouTube ignores ALL of them (counted distinct, case-insensitive, a hashtag needs at least one letter: '#1' is not one).",
+  "title_max_chars": 100,
+  "description_max_bytes": 5000,
+  "tags_max_chars": 500,
+  "hashtags_max": 15,
+  "forbidden_chars": "<>"
+ },
+ "facebook": {
+  "_doc": "No verified Facebook Reels caption limit: fb-plan.py does not enforce a YouTube limit on captions (skip, owner brief 2026-11-08). Add keys here when a documented limit is confirmed."
+ }
+}

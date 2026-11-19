@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "Those Slow Game Elevators Were Hiding Something",
+ "topic": "It was a loading screen in disguise: BioWare used Mass Effect's lift rides to load the next area, and admitted it when players complained.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Game Awards night; tiny competition; works for any gamer (squeezing-through-gaps loading trick too).",
+ "evidence": [
+  {
+   "claim": "Engadget (2009): Mass Effect 2 ditching elevators for load screens (BioWare quote) (accessed 2026-10-24)",
+   "url": "https://www.engadget.com/2009-12-06-mass-effect-2-ditching-elevators-for-load-screens.html"
+  },
+  {
+   "claim": "KitGuru: The Game Awards 2026 officially goes live on Dec 10 (accessed 2026-10-24)",
+   "url": "https://www.kitguru.net/tech-news/mustafa-mahmoud/the-game-awards-2026-officially-goes-live-on-the-10th-of-december/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Mass Effect's Slow Elevators Were Fake",
+   "url": "https://youtube.com/shorts/kRbc6sMoB5Y",
+   "views": "6.6K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Mass Effect Elevator music (long)",
+   "url": "https://www.youtube.com/watch?v=_tAcIGhh5Yo",
+   "views": "189K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Why is this elevator so slow?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: It was a loading screen in disguise: BioWare used Mass Effect's lift rides to load the next area, and admitted it when players complained. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Why is this elevator so slow?",
+ "twist": "It was a loading screen in disguise: BioWare used Mass Effect's lift rides to load the next area, and admitted it when players complained.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-12-08",
+  "deadline": "2026-12-11",
+  "event": "The Game Awards (Dec 10 2026, Los Angeles)"
+ },
+ "newsPeg": "The Game Awards (Dec 10 2026, Los Angeles)",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-10 15:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Why Old 3D Games Were Full of Fog' (hidden technical limits). No game footage; draw a generic sci-fi lift.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 47,
+ "score10": 8.1,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

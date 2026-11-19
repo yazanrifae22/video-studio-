@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why 'Page Not Found' Is Called 404",
+ "topic": "Not a room at CERN (that's a myth): 4xx means 'your request has a problem' and 04 is simply 'not found'.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Universal sight online; myth-busting twist; competitors are memes or dry tutorials.",
+ "evidence": [
+  {
+   "claim": "HTTP 404 incl. the room-404 myth (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/HTTP_404"
+  },
+  {
+   "claim": "RFC 9110 HTTP Semantics: 4xx client error, 404 Not Found (accessed 2026-10-24)",
+   "url": "https://www.rfc-editor.org/rfc/rfc9110#name-404-not-found"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "404 not found :( (meme)",
+   "url": "https://youtube.com/shorts/iZyK7zUpevE",
+   "views": "388K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "HTTP Status Code 404 (long)",
+   "url": "https://www.youtube.com/watch?v=ImEQFprFKWA",
+   "views": "166K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Why 404? Why not 1?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Not a room at CERN (that's a myth): 4xx means 'your request has a problem' and 04 is simply 'not found'. Loop ending: re-ask the hook.",
+ "hook": "Why 404? Why not 1?",
+ "twist": "Not a room at CERN (that's a myth): 4xx means 'your request has a problem' and 04 is simply 'not found'.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-16 22:00 UTC",
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 25,
+ "score10": 8.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

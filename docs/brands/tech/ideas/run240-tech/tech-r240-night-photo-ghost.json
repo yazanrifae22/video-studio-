@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why a Green Ghost Appears in Night Photos",
+ "topic": "Bright lights bounce inside the camera's lenses and land flipped across the centre of the photo: lens flare.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Proven demand (192K); checkable (move the light, the ghost moves opposite).",
+ "evidence": [
+  {
+   "claim": "Lens flare: internal reflections; ghosts appear opposite the light source (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Lens_flare"
+  },
+  {
+   "claim": "Apple support: lens flare in iPhone photos (accessed 2026-10-24)",
+   "url": "https://support.apple.com/en-us/102513"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Explaining the green dot in your photos",
+   "url": "https://youtube.com/shorts/YfYlNQa2Ijw",
+   "views": "192K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Green dots in iPhone photos (long)",
+   "url": "https://www.youtube.com/watch?v=TTGn9LAZ_3M",
+   "views": "249K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Where did this green dot come from?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Bright lights bounce inside the camera's lenses and land flipped across the centre of the photo: lens flare. Loop ending: re-ask the hook.",
+ "hook": "Where did this green dot come from?",
+ "twist": "Bright lights bounce inside the camera's lenses and land flipped across the centre of the photo: lens flare.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-19 18:00 UTC",
+ "novelty": {
+  "overlap": "LOW with green-dot privacy (different title words on screen; >= 3 days apart).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 18,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why Chrome Shows a Dinosaur When Wi-Fi Dies",
+ "topic": "It's a joke: no internet means you're back in the 'prehistoric ages', and the T-rex is a hidden game you can play.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Enormous demand around the game (64M); the 'why a dinosaur' answer is rarely the hook.",
+ "evidence": [
+  {
+   "claim": "Dinosaur Game (Chrome), 2014, 'prehistoric ages' joke (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Dinosaur_Game"
+  },
+  {
+   "claim": "Google Chrome blog on the Dino game's history (accessed 2026-10-24)",
+   "url": "https://blog.google/products/chrome/chrome-dino/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "I hacked the DINO game",
+   "url": "https://youtube.com/shorts/7CDoba2Lkh8",
+   "views": "64M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "T-Rex Dinosaur Game / sad ending",
+   "url": "https://youtube.com/shorts/ol29wlpgTtc",
+   "views": "2M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('No internet. Why a dinosaur?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: It's a joke: no internet means you're back in the 'prehistoric ages', and the T-rex is a hidden game you can play. Loop ending: re-ask the hook.",
+ "hook": "No internet. Why a dinosaur?",
+ "twist": "It's a joke: no internet means you're back in the 'prehistoric ages', and the T-rex is a hidden game you can play.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-11 12:00 UTC",
+ "novelty": {
+  "overlap": "none. Draw our own dino (no Google sprite).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 1,
+ "score10": 9.2,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

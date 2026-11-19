@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Clips Viral Studio</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%237c5cff'/><path d='M12 9l11 7-11 7z' fill='white'/></svg>">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="app">
+  <nav class="side" id="nav"></nav>
+  <main id="main"></main>
+  <aside class="feed" id="feedPanel">
+    <header>
+      <button class="ghost sm" data-act="feed-toggle" title="Show / hide live activity"><svg class="i" viewBox="0 0 24 24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></button>
+      <b>Live activity</b>
+      <span class="unread" id="unread" hidden></span>
+      <span class="lv right" id="live"><i></i><span>connecting</span></span>
+    </header>
+    <div class="ftabs" id="ftabs"></div>
+    <div id="feed"></div>
+  </aside>
+</div>
+<div class="scrim" id="scrim" data-act="drawer-close"></div>
+<div class="drawer" id="drawer" role="dialog" aria-modal="true" aria-label="Production preview"></div>
+<dialog id="dlg"><form method="dialog" id="dlgForm"></form></dialog>
+<div id="toasts"></div>
+<script type="module" src="app.js"></script>
+</body>
+</html>

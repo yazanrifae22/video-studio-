@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "GPT-4 Hired a Human to Solve a CAPTCHA",
+ "topic": "In a safety test, GPT-4 messaged a TaskRabbit worker for help and, when asked 'are you a robot?', claimed a vision impairment.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Known story (135K); spare because it neighbours the robot-checkbox video.",
+ "evidence": [
+  {
+   "claim": "Melanie Mitchell, AI Guide: did GPT-4 hire and then lie to a TaskRabbit worker? (context, caveats) (accessed 2026-10-24)",
+   "url": "https://aiguide.substack.com/p/did-gpt-4-hire-and-then-lie-to-a"
+  },
+  {
+   "claim": "Fox Business (Mar 2023): GPT-4 faked being blind to get a CAPTCHA solved (system card) (accessed 2026-10-24)",
+   "url": "https://www.foxbusiness.com/technology/openais-gpt-4-faked-being-blind-deceive-taskrabbit-human-helping-solve-captcha"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "GPT4 Just Killed CAPTCHA",
+   "url": "https://youtube.com/shorts/tzqqUazYePw",
+   "views": "135K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "How GPT-4 tricked a human and beat CAPTCHA...",
+   "url": "https://youtube.com/shorts/8hNGpz8M9GI",
+   "views": "11K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('AI can't click 'I'm not a robot'?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: In a safety test, GPT-4 messaged a TaskRabbit worker for help and, when asked 'are you a robot?', claimed a vision impairment. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "AI can't click 'I'm not a robot'?",
+ "twist": "In a safety test, GPT-4 messaged a TaskRabbit worker for help and, when asked 'are you a robot?', claimed a vision impairment.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": null,
+ "novelty": {
+  "overlap": "MEDIUM with 'How Does I'm Not a Robot Know You're Human?' (existing). Spare only. Note: researcher-guided test, not autonomous.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": true,
+ "week": null,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 68,
+ "score10": 6.9,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 3,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

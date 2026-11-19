@@ -1,0 +1,113 @@
+{
+ "channel": "celebrity",
+ "title": "140 Champions League Goals: Who Can Catch Ronaldo?",
+ "topic": "Cristiano Ronaldo has 140 Champions League goals and, at Al Nassr, won't add more; the active chasers (Lewandowski, Mbappé, Haaland) are still far behind.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Champions League matchday 6 (Dec 8-9) (2026-12-08). Wikipedia Cristiano_Ronaldo 646,892 views Sept 2026.",
+ "hook": "140 goals. Who catches Ronaldo?",
+ "twist": "Cristiano Ronaldo has 140 Champions League goals and, at Al Nassr, won't add more; the active chasers (Lewandowski, Mbappé, Haaland) are still far behind.",
+ "peg": {
+  "event": "Champions League matchday 6 (Dec 8-9)",
+  "date": "2026-12-08",
+  "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2176fa83582b-d99f0b27f405-1000--champions-league-league-phase-fixtures-by-team/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - List of UEFA Champions League top scorers (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/List_of_UEFA_Champions_League_top_scorers"
+  },
+  {
+   "claim": "The Analyst (Opta) - Most Champions League goals, all-time (accessed 2026-10-24)",
+   "url": "https://theanalyst.com/articles/most-champions-league-goals-all-time-top-scorers/"
+  },
+  {
+   "claim": "UEFA - Champions League top scorers (accessed 2026-10-24)",
+   "url": "https://www.uefa.com/uefachampionsleague/news/02a9-218f8e669a0a-debba167a199-1000--champions-league-top-scorers-ermedin-demirovic-ferran-torres/"
+  },
+  {
+   "claim": "Peg source: Champions League matchday 6 (Dec 8-9) (accessed 2026-10-24)",
+   "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2176fa83582b-d99f0b27f405-1000--champions-league-league-phase-fixtures-by-team/"
+  },
+  {
+   "claim": "Wikimedia pageviews Cristiano_Ronaldo: 646892 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Cristiano_Ronaldo&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - List of UEFA Champions League top scorers",
+   "url": "https://en.wikipedia.org/wiki/List_of_UEFA_Champions_League_top_scorers",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "The Analyst (Opta) - Most Champions League goals, all-time",
+   "url": "https://theanalyst.com/articles/most-champions-league-goals-all-time-top-scorers/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "UEFA - Champions League top scorers",
+   "url": "https://www.uefa.com/uefachampionsleague/news/02a9-218f8e669a0a-debba167a199-1000--champions-league-top-scorers-ermedin-demirovic-ferran-torres/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Kane Is ONE Game Away From Breaking Ronaldo's Record 👀🐐",
+   "url": "https://youtube.com/shorts/fdhkm6nP8b8",
+   "views": 9200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"who can break Ronaldo Champions League goals record #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Harry Kane Will Break Ronaldo's😍UCL 17 Goals World Record| #ronaldogoals #CR7 #UCLRecord",
+   "url": "https://youtube.com/shorts/dKmt770YnNU",
+   "views": 2500,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"who can break Ronaldo Champions League goals record #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Kane is ONE game from breaking Ronaldo’s Champions League record #shorts",
+   "url": "https://youtube.com/shorts/4JAPf9j-UjQ",
+   "views": 1100,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"who can break Ronaldo Champions League goals record #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A '140' scoreboard with three silhouetted boots lined up below it + hook. Twist by 2.5 s. Loop: '140 goals. Who's next?'",
+ "cta": "C7+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Refresh every chaser's tally on Dec 7 (sources are 2024-25 and disagree). Do not name Messi (Dec 7 idea). No club crests, no likeness.",
+ "window": {
+  "notBefore": "2026-12-07T12:00:00Z",
+  "deadline": "2026-12-10T00:00:00Z",
+  "label": "Champions League matchday 6 (Dec 8-9)",
+  "suggestedSlot": "2026-12-08T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Cristiano Ronaldo",
+  "Kylian Mbappé",
+  "Erling Haaland",
+  "Robert Lewandowski"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

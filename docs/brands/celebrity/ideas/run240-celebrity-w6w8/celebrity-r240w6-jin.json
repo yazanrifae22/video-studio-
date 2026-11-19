@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "BTS's Jin Was Scouted Getting Off a Bus",
+ "topic": "Kim Seok-jin was an acting student near Konkuk University when a Big Hit scout stopped him off a bus; he auditioned as an actor and ended up in BTS (he had ignored an earlier scout, thinking it was a scam).",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Jin turns 34 (2026-12-04). Wikipedia Jin_(singer) 47,576 views Sept 2026.",
+ "hook": "Off a bus… into BTS?",
+ "twist": "Kim Seok-jin was an acting student near Konkuk University when a Big Hit scout stopped him off a bus; he auditioned as an actor and ended up in BTS (he had ignored an earlier scout, thinking it was a scam).",
+ "peg": {
+  "event": "Jin turns 34",
+  "date": "2026-12-04",
+  "url": "https://en.wikipedia.org/wiki/Jin_(singer)",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Jin (singer) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Jin_(singer)"
+  },
+  {
+   "claim": "Sportskeeda - How Big Hit discovered each BTS member (accessed 2026-10-24)",
+   "url": "https://sportskeeda.com/pop-culture/how-bighit-music-discover-bts-member-all-need-know-k-pop-giant-s-creation"
+  },
+  {
+   "claim": "Republic World - What did Jin do before BTS (accessed 2026-10-24)",
+   "url": "https://www.republicworld.com/entertainment-news/rest-of-the-world/bts-jin-what-did-jin-do-before-bts-read-all-about-his-life-and-how-he-got-scouted.html"
+  },
+  {
+   "claim": "Peg source: Jin turns 34 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Jin_(singer)"
+  },
+  {
+   "claim": "Wikimedia pageviews Jin_(singer): 47576 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Jin_(singer)&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Jin (singer)",
+   "url": "https://en.wikipedia.org/wiki/Jin_(singer)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Sportskeeda - How Big Hit discovered each BTS member",
+   "url": "https://sportskeeda.com/pop-culture/how-bighit-music-discover-bts-member-all-need-know-k-pop-giant-s-creation",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Republic World - What did Jin do before BTS",
+   "url": "https://www.republicworld.com/entertainment-news/rest-of-the-world/bts-jin-what-did-jin-do-before-bts-read-all-about-his-life-and-how-he-got-scouted.html",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "When Jin’s Problem Became Tae’s Problem! 😂 #bts #funny #kpop #shorts #fypシ゚viral",
+   "url": "https://youtube.com/shorts/oVadLfAYyak",
+   "views": 1200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"BTS Jin scouted bus #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "JIN YOU’RE SO HANDSOME❤️ #bts #namjin #jin #rm #btsshorts #btsarmy #kpop #shorts #namjoon #seokjin",
+   "url": "https://youtube.com/shorts/IXxw8Mx3Nso",
+   "views": 4200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"BTS Jin scouted bus #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Jungkook and Suga's Reaction to Jin's Military Haircut 😭💜 #bts #jin #jungkook #suga #shorts",
+   "url": "https://youtube.com/shorts/7K0p0pBPAuA",
+   "views": 6800,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"BTS Jin scouted bus #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A Seoul bus door opening at a stop, a business card held out + hook. Twist by 2.5 s. Loop: 'Would you have taken that card?'",
+ "cta": "C2+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Year of the scouting differs (2010-2013): don't give a year. No BTS logo, no likeness: a city bus stop at dusk.",
+ "window": {
+  "notBefore": "2026-12-03T12:00:00Z",
+  "deadline": "2026-12-06T00:00:00Z",
+  "label": "Jin turns 34",
+  "suggestedSlot": "2026-12-04T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Jin"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

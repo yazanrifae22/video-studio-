@@ -1,0 +1,112 @@
+{
+ "channel": "celebrity",
+ "title": "Frozen's Elsa Was Written as the Villain. What Changed?",
+ "topic": "Early Frozen drafts made the Snow Queen a villain; when the Lopezes wrote 'Let It Go', Jennifer Lee rewrote the first act around it and Elsa became a hero (Hans became the villain).",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Frozen released in US cinemas 27 Nov 2013 (exact-date anniversary) (2026-11-27). Wikipedia Frozen_(2013_film) 62,717 views Sept 2026.",
+ "hook": "Elsa was the villain?",
+ "twist": "Early Frozen drafts made the Snow Queen a villain; when the Lopezes wrote 'Let It Go', Jennifer Lee rewrote the first act around it and Elsa became a hero (Hans became the villain).",
+ "peg": {
+  "event": "Frozen released in US cinemas 27 Nov 2013 (exact-date anniversary)",
+  "date": "2026-11-27",
+  "url": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Let It Go (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Let_It_Go"
+  },
+  {
+   "claim": "Wikipedia - Elsa (Frozen) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Elsa_(Frozen)"
+  },
+  {
+   "claim": "Fox News Radio - Producers reveal Elsa was originally pure evil (accessed 2026-10-24)",
+   "url": "https://radio.foxnews.com/?p=124125"
+  },
+  {
+   "claim": "Peg source: Frozen released in US cinemas 27 Nov 2013 (exact-date anniversary) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Frozen_(2013_film)"
+  },
+  {
+   "claim": "Wikimedia pageviews Frozen_(2013_film): 62717 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Frozen_(2013_film)&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Let It Go",
+   "url": "https://en.wikipedia.org/wiki/Let_It_Go",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Elsa (Frozen)",
+   "url": "https://en.wikipedia.org/wiki/Elsa_(Frozen)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Fox News Radio - Producers reveal Elsa was originally pure evil",
+   "url": "https://radio.foxnews.com/?p=124125",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Elsa Was Originally the Villain in Frozen 😱❄️ #Frozen #Elsa #Disney",
+   "url": "https://www.youtube.com/watch?v=1Zdq8Msz90k",
+   "views": 25164,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Elsa was originally the villain Frozen #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Elsa Was Supposed to Be The Villian of Frozen? #shorts #disney",
+   "url": "https://www.youtube.com/watch?v=vHPSiRXXmnU",
+   "views": 7733882,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Elsa was originally the villain Frozen #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Elsa Was Originally the Villain",
+   "url": "https://www.youtube.com/watch?v=JbVAxeI2lcg",
+   "views": 10331,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Elsa was originally the villain Frozen #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A cracked ice crown on a dark throne + hook. Twist by 2.5 s. Loop: 'Hero or villain: which Elsa would you watch?'",
+ "cta": "C2+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Heavy IP: no Elsa, Anna, Olaf or castle designs; use an original ice crown and snowflakes. No song audio or lyrics. Producer quote ('pure evil') is second-hand via EW.",
+ "window": {
+  "notBefore": "2026-11-26T12:00:00Z",
+  "deadline": "2026-11-29T00:00:00Z",
+  "label": "Frozen released in US cinemas 27 Nov 2013 (exact-date anniversary)",
+  "suggestedSlot": "2026-11-27T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Jennifer Lee",
+  "Kristen Anderson-Lopez",
+  "Robert Lopez"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 1,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

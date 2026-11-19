@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "A Chatbot Agreed to Sell a New SUV for $1",
+ "topic": "A dealer's ChatGPT-powered bot was told to agree with everything and end with 'legally binding'; it obeyed, because chatbots follow the latest instruction. No car was sold.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Black Friday 'too good to be true' deal frame; competitors <= 10K.",
+ "evidence": [
+  {
+   "claim": "AI Incident Database: Chevrolet of Watsonville chatbot agreed to $1 Tahoe (Dec 2023) (accessed 2026-10-24)",
+   "url": "https://incidentdatabase.ai/es/entities/chevrolet-of-watsonville"
+  },
+  {
+   "claim": "Business Insider (Dec 2023): car-dealership chatbot pranks (accessed 2026-10-24)",
+   "url": "https://www.businessinsider.com/car-dealership-chevrolet-chatbot-chatgpt-pranks-chevy-2023-12"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Man Tricks AI Chatbot to Sell Him Chevy Tahoe for $1",
+   "url": "https://youtube.com/shorts/Txa0ihbJ6kg",
+   "views": "10K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why did a chatbot agree to a $1 car?",
+   "url": "https://youtube.com/shorts/pln2LM34jho",
+   "views": "928",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('New SUV for $1. Deal?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: A dealer's ChatGPT-powered bot was told to agree with everything and end with 'legally binding'; it obeyed, because chatbots follow the latest instruction. No car was sold. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "New SUV for $1. Deal?",
+ "twist": "A dealer's ChatGPT-powered bot was told to agree with everything and end with 'legally binding'; it obeyed, because chatbots follow the latest instruction. No car was sold.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-26",
+  "deadline": "2026-12-02",
+  "event": "Black Friday deals (Nov 27); story dates from Dec 2023"
+ },
+ "newsPeg": "Black Friday deals (Nov 27); story dates from Dec 2023",
+ "category": "AI quirk",
+ "suggestedSlot": "2026-11-27 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW with McNuggets (Dec 2) and Amazon 'cannot fulfill' (Nov 30): all 'AI in business' fails, kept >= 3 days apart. Do not name the user; say 'no sale happened' (unverified legal claim).",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 37,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "What the Green Dot on Your Phone Means",
+ "topic": "An app is using your camera right now (orange = microphone); swipe down to see which one.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Strong demand (802K), many fear-bait competitors; we give the calm, correct answer.",
+ "evidence": [
+  {
+   "claim": "Apple support: orange and green indicators in the status bar (accessed 2026-10-24)",
+   "url": "https://support.apple.com/en-us/102538"
+  },
+  {
+   "claim": "Android privacy indicators (Android 12+) (accessed 2026-10-24)",
+   "url": "https://source.android.com/docs/core/permissions/privacy-indicators"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "If You See This Green Dot on Your iPhone, GET HELP",
+   "url": "https://youtube.com/shorts/gOhTXIAg7dc",
+   "views": "802K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Green or Orange Dot on iPhone: Are You Hacked? (long)",
+   "url": "https://www.youtube.com/watch?v=p_SJaSwW84w",
+   "views": "1M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Green dot up here. Who's watching?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: An app is using your camera right now (orange = microphone); swipe down to see which one. Loop ending: re-ask the hook.",
+ "hook": "Green dot up here. Who's watching?",
+ "twist": "An app is using your camera right now (orange = microphone); swipe down to see which one.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-13 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW with tiny-hole and green ghost (night photos) - not on the same day.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 13,
+ "score10": 8.4,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

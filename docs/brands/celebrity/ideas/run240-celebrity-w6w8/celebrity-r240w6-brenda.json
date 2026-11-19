@@ -1,0 +1,103 @@
+{
+ "channel": "celebrity",
+ "title": "Recorded at 13, No. 1 at 78: Brenda Lee's Christmas Hit",
+ "topic": "Brenda Lee recorded 'Rockin' Around the Christmas Tree' in 1958, aged 13; it peaked at No. 14 in 1960 and finally hit No. 1 on the Hot 100 in Dec 2023, making her the oldest woman to top the chart.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Brenda Lee turns 82 (2026-12-11). Wikipedia Brenda_Lee 24,716 views Sept 2026.",
+ "hook": "Recorded at 13. No. 1 at 78?",
+ "twist": "Brenda Lee recorded 'Rockin' Around the Christmas Tree' in 1958, aged 13; it peaked at No. 14 in 1960 and finally hit No. 1 on the Hot 100 in Dec 2023, making her the oldest woman to top the chart.",
+ "peg": {
+  "event": "Brenda Lee turns 82",
+  "date": "2026-12-11",
+  "url": "https://en.wikipedia.org/wiki/Brenda_Lee",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Stereogum - Rockin' Around the Christmas Tree hits No. 1, 65 years later (accessed 2026-10-24)",
+   "url": "https://stereogum.com/2244566/brenda-lees-rockin-around-the-christmas-tree-hits-1-65-years-after-release/news"
+  },
+  {
+   "claim": "Country Now - Brenda Lee oldest woman to top the Hot 100 (accessed 2026-10-24)",
+   "url": "https://countrynow.com/78-year-old-brenda-lee-makes-history-as-the-oldest-woman-to-top-the-billboard-hot-100/"
+  },
+  {
+   "claim": "UMG Catalog - Brenda Lee's song hits No. 1 for the first time (accessed 2026-10-24)",
+   "url": "https://www.umgcatalog.com/?p=18659"
+  },
+  {
+   "claim": "Peg source: Brenda Lee turns 82 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Brenda_Lee"
+  },
+  {
+   "claim": "Wikimedia pageviews Brenda_Lee: 24716 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Brenda_Lee&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Stereogum - Rockin' Around the Christmas Tree hits No. 1, 65 years later",
+   "url": "https://stereogum.com/2244566/brenda-lees-rockin-around-the-christmas-tree-hits-1-65-years-after-release/news",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Country Now - Brenda Lee oldest woman to top the Hot 100",
+   "url": "https://countrynow.com/78-year-old-brenda-lee-makes-history-as-the-oldest-woman-to-top-the-billboard-hot-100/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "UMG Catalog - Brenda Lee's song hits No. 1 for the first time",
+   "url": "https://www.umgcatalog.com/?p=18659",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Rockin around the Christmas tree Number one #brendalee #rockinaroundthechristmastree #shorts #short",
+   "url": "https://youtube.com/shorts/IKLunXS0a-E",
+   "views": 362,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Brenda Lee Rockin Around the Christmas Tree number one #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Brenda Lee's 'Rockin Around the Christmas Tree' Hits No. 1",
+   "url": "https://www.youtube.com/watch?v=Px2iaJ0_OHo",
+   "views": 53843,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Brenda Lee Rockin Around the Christmas Tree number one #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A 1958 studio mic beside a small tinsel tree + hook. Twist by 2.5 s. Loop: 'Recorded at 13, No. 1 at 78. Who's next?'",
+ "cta": "C3+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Close to the existing 'Mariah Carey's Christmas Song Waited 25 Years for No. 1' video: lead with 'recorded at 13', not the wait. No lyrics or audio. She was a minor when recording: show objects only (a 1958 mic, a tree).",
+ "window": {
+  "notBefore": "2026-12-07T12:00:00Z",
+  "deadline": "2026-12-13T00:00:00Z",
+  "label": "Brenda Lee turns 82",
+  "suggestedSlot": "2026-12-08T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Brenda Lee"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

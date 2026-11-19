@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Ask ChatGPT to Say 'Poem' Forever. It Leaked Data",
+ "topic": "After hundreds of repeats the model drifted and spat out memorised training text, including real contact details; OpenAI now flags the trick.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Repeat-after-me Shorts pull 11M, but the trick is now blocked (not checkable) and touches privacy.",
+ "evidence": [
+  {
+   "claim": "Nasr et al. 2023, 'Scalable Extraction of Training Data from (Production) Language Models' (accessed 2026-10-24)",
+   "url": "https://arxiv.org/abs/2311.17035"
+  },
+  {
+   "claim": "404 Media: asking ChatGPT to repeat words forever is now a terms-of-service violation (accessed 2026-10-24)",
+   "url": "https://www.404media.co/asking-chatgpt-to-repeat-words-forever-is-now-a-terms-of-service-violation/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "ChatGPT, Repeat After Me",
+   "url": "https://youtube.com/shorts/fDgjPStMj0g",
+   "views": "11M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "I broke ChatGPT!",
+   "url": "https://youtube.com/shorts/xB6AlzMnAVg",
+   "views": "693K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Repeat 'poem' forever. Then what?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: After hundreds of repeats the model drifted and spat out memorised training text, including real contact details; OpenAI now flags the trick. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Repeat 'poem' forever. Then what?",
+ "twist": "After hundreds of repeats the model drifted and spat out memorised training text, including real contact details; OpenAI now flags the trick.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": "DeepMind-led paper published Nov 28 2023 (3rd anniversary, weak)",
+ "category": "AI quirk",
+ "suggestedSlot": null,
+ "novelty": {
+  "overlap": "none. Spare: don't encourage trying it (ToS).",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": true,
+ "week": null,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 67,
+ "score10": 7.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 3
+ }
+}

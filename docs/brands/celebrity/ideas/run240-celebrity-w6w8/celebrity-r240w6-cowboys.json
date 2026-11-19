@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "Why Do the Cowboys Wear White at Home?",
+ "topic": "Since the 1960s GM Tex Schramm had Dallas wear white at home so fans saw every opponent's colours (and, per Gil Brandt, so visitors sweated in dark jerseys); blue later got a 'curse' after big losses.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Eagles at Cowboys, Thanksgiving Day (4:30 pm ET, FOX) (2026-11-26). Wikipedia Dallas_Cowboys 105,902 views Sept 2026.",
+ "hook": "Home team in white. Why?",
+ "twist": "Since the 1960s GM Tex Schramm had Dallas wear white at home so fans saw every opponent's colours (and, per Gil Brandt, so visitors sweated in dark jerseys); blue later got a 'curse' after big losses.",
+ "peg": {
+  "event": "Eagles at Cowboys, Thanksgiving Day (4:30 pm ET, FOX)",
+  "date": "2026-11-26",
+  "url": "https://www.nbcdfw.com/news/sports/nfl/nfl-thanksgiving-schedule-2026-chiefs-bills-eagles-cowboys-bears-lions/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "WFAA - Why the Cowboys wear white at home (accessed 2026-10-24)",
+   "url": "https://wfaa.com/article/sports/nfl/cowboys/dallas-cowboys-san-francisco-49ers-uniforms-white-jerseys-road-home-away/287-c98e6073-316e-4481-b000-88dc1368bd65"
+  },
+  {
+   "claim": "Wikipedia - Away colours (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Away_colours"
+  },
+  {
+   "claim": "Blogging the Boys - The blue jersey curse (accessed 2026-10-24)",
+   "url": "https://www.bloggingtheboys.com/2017/6/14/15797376/the-dallas-cowboys-could-be-wearing-their-navy-blue-jerseys-at-home-more-jersey-curse"
+  },
+  {
+   "claim": "Peg source: Eagles at Cowboys, Thanksgiving Day (4:30 pm ET, FOX) (accessed 2026-10-24)",
+   "url": "https://www.nbcdfw.com/news/sports/nfl/nfl-thanksgiving-schedule-2026-chiefs-bills-eagles-cowboys-bears-lions/"
+  },
+  {
+   "claim": "Wikimedia pageviews Dallas_Cowboys: 105902 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Dallas_Cowboys&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "WFAA - Why the Cowboys wear white at home",
+   "url": "https://wfaa.com/article/sports/nfl/cowboys/dallas-cowboys-san-francisco-49ers-uniforms-white-jerseys-road-home-away/287-c98e6073-316e-4481-b000-88dc1368bd65",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Away colours",
+   "url": "https://en.wikipedia.org/wiki/Away_colours",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Blogging the Boys - The blue jersey curse",
+   "url": "https://www.bloggingtheboys.com/2017/6/14/15797376/the-dallas-cowboys-could-be-wearing-their-navy-blue-jerseys-at-home-more-jersey-curse",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Do The Cowboys Wear White At Home? | #nfl #dallascowboys",
+   "url": "https://youtube.com/shorts/tWjXDVY_NFM",
+   "views": 37000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"why do the cowboys wear white at home #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "This Is Why The Cowboys Always Wear White! #shorts #cowboys #dallascowboys #dakprescott #nfl",
+   "url": "https://youtube.com/shorts/m5pCvYx5l_E",
+   "views": 1300,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"why do the cowboys wear white at home #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why Do the Cowboys Wear White at Home? #Shorts #Cowboys #DallasCowboys #NFL #Football #nflhistory",
+   "url": "https://youtube.com/shorts/nxTsf3_2nv0",
+   "views": 1500,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"why do the cowboys wear white at home #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: Two blank jerseys, white and navy, under a Texas sun + hook. Twist by 2.5 s. Loop: 'So: white at home. Lucky, or a curse?'",
+ "cta": "C2+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Start year disputed (1960 vs 1964): say 'since the 1960s'. The curse is a fan belief, not a fact. No NFL/Cowboys star logo; plain white vs navy shirts.",
+ "window": {
+  "notBefore": "2026-11-24T12:00:00Z",
+  "deadline": "2026-11-28T00:00:00Z",
+  "label": "Eagles at Cowboys, Thanksgiving Day (4:30 pm ET, FOX)",
+  "suggestedSlot": "2026-11-25T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Tex Schramm"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

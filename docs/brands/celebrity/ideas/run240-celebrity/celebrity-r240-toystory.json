@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Toy Story Was Shut Down Because Woody Was a Jerk",
+ "topic": "On 'Black Friday' (Nov 19, 1993) Disney halted production after a reel where Woody was mean; Pixar rewrote him and the film was saved.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Toy Story released 22 Nov 1995 (31st) (2026-11-22). Wikipedia Toy_Story 94,086 views Sept 2026.",
+ "hook": "Toy Story almost cancelled? Blame Woody.",
+ "twist": "On 'Black Friday' (Nov 19, 1993) Disney halted production after a reel where Woody was mean; Pixar rewrote him and the film was saved.",
+ "peg": {
+  "event": "Toy Story released 22 Nov 1995 (31st)",
+  "date": "2026-11-22",
+  "url": "https://en.wikipedia.org/wiki/Toy_Story",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "TIME - Toy Story concept art (accessed 2026-10-24)",
+   "url": "https://time.com/4115301/toy-story-concept-art/"
+  },
+  {
+   "claim": "Pixar - Toy Story (accessed 2026-10-24)",
+   "url": "https://pixar.com/toy-story"
+  },
+  {
+   "claim": "Inside the Magic - How Woody almost destroyed Pixar (accessed 2026-10-24)",
+   "url": "https://insidethemagic.net/2021/07/woody-destroyed-pixar-al1/"
+  },
+  {
+   "claim": "Peg source: Toy Story released 22 Nov 1995 (31st) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Toy_Story"
+  },
+  {
+   "claim": "Wikimedia pageviews Toy_Story: 94086 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Toy_Story&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "TIME - Toy Story concept art",
+   "url": "https://time.com/4115301/toy-story-concept-art/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Pixar - Toy Story",
+   "url": "https://pixar.com/toy-story",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Inside the Magic - How Woody almost destroyed Pixar",
+   "url": "https://insidethemagic.net/2021/07/woody-destroyed-pixar-al1/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Toy Story Black Friday Reel | 3,959,122 views",
+   "url": "https://youtu.be/GOxJpGI8SWc",
+   "views": 3959122,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Toy Story - Black Friday Unfinished Animation | 216,117 views",
+   "url": "https://youtu.be/AiqfjbXJ7Fw",
+   "views": 216117,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Original Black Friday Reel vs Final Movie - Save your batteries | 72,108 views",
+   "url": "https://youtu.be/ckXXzCgO2-Q",
+   "views": 72108,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a toy cowboy hat under a 'PRODUCTION HALTED' stamp + hook. Twist: the hero was too mean. Loop: 'Reach for the sky... or not.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "No Pixar characters at all (IP): a cowboy hat and a pull-string. 'Two weeks' deadline quote is weakly sourced - skip. Who pushed for edgy Woody is disputed - don't name executives.",
+ "window": {
+  "notBefore": "2026-11-21T12:00:00Z",
+  "deadline": "2026-11-23T06:00:00Z",
+  "label": "Toy Story released 22 Nov 1995 (31st)",
+  "suggestedSlot": "2026-11-22T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

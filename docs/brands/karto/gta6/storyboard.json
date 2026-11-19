@@ -1,0 +1,1304 @@
+{
+ "schema": "karto-storyboard/1",
+ "slug": "gta6",
+ "status": "r5: script-doctor r2 PASS 87 + fact-check r1 + Arabic editor read applied; waiting for OWNER review",
+ "title": {
+  "en": "Why GTA 6 Took 13 Years (A Teenager Hacked It With a Hotel TV)",
+  "ar": "ليش GTA 6 أخدت ١٣ سنة؟ (مراهق اخترقها بتلفزيون فندق)"
+ },
+ "hook_text": {
+  "en": "13 YEARS. 1 GAME.",
+  "ar": "١٣ سنة. لعبة وحدة."
+ },
+ "end_text": {
+  "en": "YOUR SCORE OUT OF 7?",
+  "ar": "كم جبت من ٧؟"
+ },
+ "rules": "No game footage, no Rockstar / GTA logos or lettering, no likeness of game characters or real people. Everything is rebuilt in cardboard. Numbers are spelled out in spoken lines; digits only in strings.",
+ "chapters": [
+  {
+   "id": "c00",
+   "mood": "curious",
+   "title": {
+    "en": "13 years",
+    "ar": "١٣ سنة"
+   },
+   "lines": [
+    {
+     "id": "l001",
+     "who": "karto",
+     "en": "Thirteen years. One game. Grand Theft Auto Six.",
+     "ar": "تلاتاشر سنة. لعبة وحدة. جي تي إيه ستة.",
+     "picture": "FRAME 0 = thumbnail: Karto beside a leaning tower of 13 cardboard calendar blocks (2013 at the bottom ... 2026 on top), a small cardboard game box with a neon '6' on the top block. Tower wobbles."
+    },
+    {
+     "id": "l002",
+     "who": "skip",
+     "en": "Thirteen years for a game? Cool story. I am skipping.",
+     "ar": "تلاتاشر سنة مشان لعبة؟ قصة حلوة. أنا رح أعمل سكيب. اسمي مو عالفاضي.",
+     "picture": "Skip pops in bottom right, pose about-to-skip: thumb moving to the skip arrows on his phone. A big cardboard SKIP button slides toward the centre."
+    },
+    {
+     "id": "l003",
+     "who": "karto",
+     "en": "A teenager broke into it. From a hotel room. Using the TV.",
+     "ar": "مراهق اخترقها. من غرفة فندق. وبالتلفزيون.",
+     "picture": "Three hard cuts on the three sentences: hooded cutout silhouette / cardboard hotel door with a room number / a cardboard hotel TV with a tiny stick plugged in, screen glowing green."
+    },
+    {
+     "id": "l004",
+     "who": "skip",
+     "en": "Wait. The TV?",
+     "ar": "لحظة. بالتلفزيون؟",
+     "picture": "Skip's thumb freezes; pose shocked; the SKIP button stops and tips over."
+    },
+    {
+     "id": "l005",
+     "who": "karto",
+     "en": "If the estimates are right, it may have cost more than any film ever made. It was delayed twice. And launch week, the whole internet started fighting about it.",
+     "ar": "وإذا التقديرات صح، ممكن تكون كلّفت أكتر من أي فيلم بالتاريخ. وتأجّلت مرتين. وبأسبوع نزولها، الإنترنت كله بلّش يتخانق عليها.",
+     "picture": "Three props drop in one per sentence: a money sack taller than a film clapperboard (masking tape strip 'ESTIMATE' on the sack) / two calendar pages stamped DELAYED / two crowds of small paper heads shouting across a tear line."
+    },
+    {
+     "id": "l006",
+     "who": "karto",
+     "en": "You do not need to play games to love this story. It is about waiting, money, and one very bad night for a hotel TV.",
+     "ar": "ومو لازم تكون بتلعب ألعاب لتحب هالقصة. هي قصة عن الانتظار، والفلوس، وليلة سودا مرّت على تلفزيون فندق.",
+     "picture": "Title flap drops: 'GTA 6: THE 13-YEAR WAIT' in plain cut letters over a cardboard night city with palm trees. Then three icons light up: hourglass, coin, hotel TV."
+    },
+    {
+     "id": "l007",
+     "who": "karto",
+     "en": "Seven pieces. The wait. The money. The hacker. The trailer. The delays. The price. And the panic.",
+     "ar": "سبع قطع. الانتظار. الفلوس. الهاكر. التريلر. التأجيل. السعر. والذعر.",
+     "picture": "The SCORE CARD swings in: 7 empty stamp circles, each labelled as its word is spoken (word-synced pops)."
+    },
+    {
+     "id": "l008",
+     "who": "karto",
+     "en": "Every piece you survive without skipping, you get a stamp. Seven stamps is a full card.",
+     "ar": "كل قطعة بتكمّلها بلا ما تعمل سكيب، بتاخد عليها ختم. سبع أختام يعني الكرت كامل.",
+     "picture": "A demo stamp slams on circle 1 then lifts off again (ghost mark). Card shakes."
+    },
+    {
+     "id": "l009",
+     "who": "skip",
+     "en": "And what do I win?",
+     "ar": "وشو بربح؟",
+     "picture": "Skip leans in, pose skeptical."
+    },
+    {
+     "id": "l010",
+     "who": "karto",
+     "en": "Nothing. It is cardboard.",
+     "ar": "ولا شي. هاد كرتون.",
+     "picture": "Karto deadpan. He knocks on the card: hollow cardboard sound. Beat of silence."
+    },
+    {
+     "id": "l011",
+     "who": "skip",
+     "en": "Fine. One piece. Go.",
+     "ar": "ماشي. قطعة وحدة. يلا.",
+     "picture": "Skip lowers the phone a little (not away). Score card slides to its corner home."
+    }
+   ]
+  },
+  {
+   "id": "c01",
+   "mood": "calm",
+   "title": {
+    "en": "Piece 1: The wait",
+    "ar": "القطعة ١: الانتظار"
+   },
+   "lines": [
+    {
+     "id": "l012",
+     "who": "karto",
+     "en": "Piece one. The wait. September, twenty thirteen. Grand Theft Auto Five comes out.",
+     "ar": "القطعة الأولى. الانتظار. أيلول، يعني سبتمبر، ألفين وتلاتاشر. بتنزل جي تي إيه خمسة.",
+     "picture": "Chapter flap 'PIECE 1 THE WAIT'. A cardboard shop window, calendar page SEPT 2013, a game box with a '5' on a shelf, a queue of paper people."
+    },
+    {
+     "id": "l013",
+     "who": "karto",
+     "en": "Look at the world that day. The iPhone five S is still three days away from the shops. And TikTok does not exist.",
+     "ar": "تطلّع عالعالم بهداك اليوم. الآيفون خمسة إس لسا باقيلو تلات أيام لينزل عالمحلات. والتيك توك لسا ما انخلق.",
+     "picture": "A small old phone cutout with a round home button behind a shop glass with a sign 'IN 3 DAYS'; beside it an empty app-shaped hole with a question mark where a music-note app would be."
+    },
+    {
+     "id": "l014",
+     "who": "skip",
+     "en": "No TikTok? What did people do all day?",
+     "ar": "ما في تيك توك؟ وشو كانوا الناس يعملوا طول النهار؟",
+     "picture": "Skip pose shocked, hugging his phone."
+    },
+    {
+     "id": "l015",
+     "who": "karto",
+     "en": "They watched six-second videos on an app called Vine. Then Vine died. That is how long ago this was.",
+     "ar": "كانوا يتفرّجوا على فيديوهات ست ثواني على تطبيق اسمه فاين. وبعدين فاين مات. لهالدرجة الموضوع قديم.",
+     "picture": "A green app square with a '6s' timer loops a tiny flip; then a small cardboard gravestone drops on it with a thud."
+    },
+    {
+     "id": "l016",
+     "who": "karto",
+     "en": "A kid who was ten years old that day is twenty-three now. He finished school and got a job.",
+     "ar": "الولد يلي كان عمره عشر سنين بهداك اليوم، صار عمره تلاتة وعشرين. خلّص مدرسة وصار يشتغل.",
+     "picture": "A paper kid on a stick grows in three plate swaps along a ruler: kid with controller (10) / graduate cap / office tie (23). Number sign counts 10 -> 23."
+    },
+    {
+     "id": "l017",
+     "who": "skip",
+     "en": "And still no new game.",
+     "ar": "ولسا ما في لعبة جديدة.",
+     "picture": "Skip deadpan. The shelf from 2013 still shows only the '5' box, now with a cobweb drawn in marker."
+    },
+    {
+     "id": "l018",
+     "who": "karto",
+     "en": "Still no new game. In those same years, the big football game put out a new version every single year.",
+     "ar": "ولسا ما في لعبة جديدة. بهدول السنين نفسهم، لعبة الفوتبول المشهورة كانت تنزّل نسخة جديدة كل سنة.",
+     "picture": "A conveyor of identical football-game boxes (plain ball icon, no brand) marches across, one per year label 2013...2026, piling up."
+    },
+    {
+     "id": "l019",
+     "who": "karto",
+     "en": "Rockstar, the company behind Grand Theft Auto, put out just one other giant new game in those years. So here is the real question. Why would anyone sit on the most wanted sequel on Earth for thirteen years?",
+     "ar": "وروكستار، الشركة يلي ورا جي تي إيه، نزّلت بهالسنين لعبة عملاقة جديدة وحدة بس غيرها. فهون السؤال الحقيقي: ليش حدا بيقعد تلاتاشر سنة فوق أكتر لعبة ناطرها العالم؟",
+     "picture": "One lonely box with a cowboy hat icon next to the football pile. Then Karto sits ON a giant box with a '6' like a hen on an egg; big question mark."
+    },
+    {
+     "id": "l020",
+     "who": "skip",
+     "en": "Nobody is that slow. What were they doing?",
+     "ar": "ما حدا بطيء لهالدرجة. شو كانوا عم يعملوا؟",
+     "picture": "Skip pose skeptical, tapping an invisible watch."
+    },
+    {
+     "id": "l021",
+     "who": "karto",
+     "en": "They did not need to hurry. Piece two shows why.",
+     "ar": "ما كانوا مستعجلين أبداً. والقطعة التانية بتفرجيك ليش.",
+     "picture": "STAMP 1 slams on the score card (card zooms in for the hit). Coin rolls in from the right as a teaser."
+    }
+   ]
+  },
+  {
+   "id": "c02",
+   "mood": "rise",
+   "title": {
+    "en": "Piece 2: The money",
+    "ar": "القطعة ٢: الفلوس"
+   },
+   "lines": [
+    {
+     "id": "l022",
+     "who": "karto",
+     "en": "Piece two. The money. Grand Theft Auto Five made eight hundred million dollars on its first day.",
+     "ar": "القطعة التانية. الفلوس. جي تي إيه خمسة جابت تمانمية مليون دولار بأول يوم.",
+     "picture": "Chapter flap. A cardboard cash register; counter sign races to $800,000,000 under a label DAY 1; coin stacks shoot up."
+    },
+    {
+     "id": "l023",
+     "who": "skip",
+     "en": "In one day?",
+     "ar": "بيوم واحد؟",
+     "picture": "Skip pose mind-blown."
+    },
+    {
+     "id": "l024",
+     "who": "karto",
+     "en": "One day. By day three it passed one billion. Faster than any film, any album, any game before it.",
+     "ar": "بيوم واحد. وبتالت يوم عدّت المليار. أسرع من أي فيلم، وأي ألبوم، وأي لعبة قبلها.",
+     "picture": "Race track: three runners on sticks (film reel, music disc, game pad). The game pad crosses a finish tape marked $1,000,000,000 under DAY 3 while the others are far behind."
+    },
+    {
+     "id": "l025",
+     "who": "karto",
+     "en": "Then it did something strange. It never stopped. It has sold more than two hundred million copies.",
+     "ar": "وبعدين صار شي غريب. ما وقّفت أبداً. انباع منها أكتر من ميتين مليون نسخة.",
+     "picture": "Bar chart of cardboard bars growing year after year, never dropping; counter 200,000,000+ COPIES."
+    },
+    {
+     "id": "l026",
+     "who": "karto",
+     "en": "They even sold the same game again on three generations of consoles.",
+     "ar": "حتى إنهم باعوا نفس اللعبة من جديد على تلات أجيال من أجهزة الألعاب.",
+     "picture": "The same '5' box is pushed into three consoles of growing size labelled 3, 4, 5; each spits out a coin."
+    },
+    {
+     "id": "l027",
+     "who": "skip",
+     "en": "The same game. Three times. And people bought it?",
+     "ar": "نفس اللعبة. تلات مرات. والناس اشترت؟",
+     "picture": "Skip pose deadpan, phone lowered."
+    },
+    {
+     "id": "l028",
+     "who": "karto",
+     "en": "People bought it. And here is the real trick. The game has an online city. In that city, players buy pretend money with real money.",
+     "ar": "اشترت. وهون الخدعة الحقيقية. اللعبة فيها مدينة أونلاين. وبهالمدينة، اللاعبين بيشتروا فلوس وهمية بفلوس حقيقية.",
+     "picture": "A cardboard online city with small player pins. A real banknote goes into a slot; a card with a cartoon shark fin and fake coins pops out."
+    },
+    {
+     "id": "l029",
+     "who": "skip",
+     "en": "They pay real money for fake money?",
+     "ar": "بيدفعوا فلوس حقيقية ليشتروا فلوس كذب؟",
+     "picture": "Skip holds one real note and one play note, pose skeptical. Versus sign REAL | FAKE."
+    },
+    {
+     "id": "l030",
+     "who": "karto",
+     "en": "Year after year, for more than a decade. So ask yourself. If your old game still prints money every morning, how fast do you run to replace it?",
+     "ar": "سنة ورا سنة، من أكتر من عشر سنين. فاسأل حالك: إذا لعبتك القديمة لسا عم تطبعلك فلوس كل يوم الصبح، بتركض لتبدّلها؟",
+     "picture": "The '5' box becomes a printing press with a crank, notes flying out each morning (sun rises, 3 quick days). The '6' box waits in a corner."
+    },
+    {
+     "id": "l031",
+     "who": "skip",
+     "en": "I would walk. Slowly.",
+     "ar": "بمشي. وعلى مهلي.",
+     "picture": "Skip slides across very slowly on his stick, whistling pose."
+    },
+    {
+     "id": "l032",
+     "who": "karto",
+     "en": "They walked slowly. And that slow walk built a monster. Nobody outside knows the real cost. Analysts and rumours say between one and two billion dollars.",
+     "ar": "ومشيوا على مهلهم. وهالمشية البطيئة عملت وحش. ما حدا برّا الشركة بيعرف الكلفة الحقيقية. بس المحللين والإشاعات بيحكوا عن مليار لمليارين دولار.",
+     "picture": "A giant money sack rises behind the stage like a monster shadow, sign '$1-2 BILLION?' with the question mark."
+    },
+    {
+     "id": "l033",
+     "who": "karto",
+     "en": "That number is a guess, so I am marking it with tape. The company has never given its own number. But even the low guess makes it one of the most expensive things ever made for a screen.",
+     "ar": "هالرقم تخمين، مشان هيك عم لزّق عليه شريط لاصق. الشركة ما أعطت رقم من عندها أبداً. بس حتى أقل تخمين بيخليها من أغلى الأشياء يلي انعملت لشاشة بالتاريخ.",
+     "picture": "Karto slaps a masking tape strip 'GUESS' across the sign. A film clapperboard cutout stands small beside the sack for scale."
+    },
+    {
+     "id": "l034",
+     "who": "skip",
+     "en": "Okay. Two stamps. But you promised me a hotel TV.",
+     "ar": "ماشي. ختمين. بس إنت وعدتني بتلفزيون فندق.",
+     "picture": "STAMP 2 slams. Skip points at the card then at Karto."
+    },
+    {
+     "id": "l035",
+     "who": "karto",
+     "en": "Piece three.",
+     "ar": "القطعة التالتة.",
+     "picture": "Lights drop to night: backdrop swaps to dark blue, a hotel sign flickers on."
+    }
+   ]
+  },
+  {
+   "id": "c03",
+   "mood": "tension",
+   "title": {
+    "en": "Piece 3: The hacker",
+    "ar": "القطعة ٣: الهاكر"
+   },
+   "lines": [
+    {
+     "id": "l036",
+     "who": "karto",
+     "en": "Piece three. The hacker. September, twenty twenty-two. A Sunday.",
+     "ar": "القطعة التالتة. الهاكر. أيلول، ألفين وتنين وعشرين. يوم أحد.",
+     "picture": "Chapter flap. Calendar page SEPT 2022 with SUNDAY circled in marker. Night backdrop."
+    },
+    {
+     "id": "l037",
+     "who": "karto",
+     "en": "Ninety video clips of the secret, unfinished game appear on a fan forum. Nobody outside the company was supposed to see any of it.",
+     "ar": "تسعين مقطع فيديو من اللعبة السرية، يلي لسا ما خلصت، بيطلعوا فجأة على منتدى للمعجبين. وما كان لازم حدا برّا الشركة يشوف منها شي.",
+     "picture": "A cardboard forum page; small film-frame cards rain onto it and pile up; counter 0 -> 90 CLIPS. Frames show only grey unfinished blocks and stick figures (no game art)."
+    },
+    {
+     "id": "l038",
+     "who": "karto",
+     "en": "Inside the company, a message appears in the staff chat. It is from the thief. Talk to me within twenty-four hours, or I start releasing the game's code.",
+     "ar": "وجوّا الشركة، بتطلع رسالة بشات الموظفين. من الحرامي نفسه. احكوا معي خلال أربعة وعشرين ساعة، أو ببلّش أنشر كود اللعبة.",
+     "picture": "An office of paper workers at desks; one giant chat bubble drops over them with the message (string), a 24:00 timer sign starts ticking down. Workers flip to shocked plates."
+    },
+    {
+     "id": "l039",
+     "who": "skip",
+     "en": "So who was it? A spy agency?",
+     "ar": "ومين كان؟ جهاز مخابرات؟",
+     "picture": "Skip pose whisper, a spy cutout with hat and sunglasses appears as his guess (question mark)."
+    },
+    {
+     "id": "l040",
+     "who": "karto",
+     "en": "A teenager from England. Part of a hacker group called Lapsus. And here is the part nobody believes.",
+     "ar": "مراهق من إنكلترا. من مجموعة هاكرز اسمها لابسوس. وهون الشي يلي ما حدا بيصدقو.",
+     "picture": "The spy cutout is swapped by hand for a small hooded teen silhouette (no face). Map of England with a pin. Label LAPSUS$."
+    },
+    {
+     "id": "l041",
+     "who": "karto",
+     "en": "He had already been arrested, for hacking other giant companies. The police had taken his laptop. He was staying in a hotel, with no computer.",
+     "ar": "كانوا قابضين عليه أصلاً قبلها، لأنو اخترق شركات عملاقة تانية. والشرطة كانت آخدة لابتوبه. وكان قاعد بفندق، بلا كمبيوتر.",
+     "picture": "Laptop cutout goes into an evidence bag stamped POLICE. Scene change (flap) to a cardboard hotel room: bed, lamp, window, TV on the wall."
+    },
+    {
+     "id": "l042",
+     "who": "skip",
+     "en": "So how do you hack anything with no computer?",
+     "ar": "وكيف بدو يخترق شي وهو ما معو كمبيوتر؟",
+     "picture": "Skip looks around the empty room, pose thinking."
+    },
+    {
+     "id": "l043",
+     "who": "karto",
+     "en": "The room had a TV. He got a streaming stick, the little thing you plug in to watch shows. He plugged it in and added a phone.",
+     "ar": "الغرفة كان فيها تلفزيون. جاب جهاز ستريمنغ صغير بحجم الفلاشة، بتركّبو بالتلفزيون لتتفرّج على مسلسلات. ركّبو، وزاد عليه موبايل.",
+     "picture": "Close on the hotel TV. Two pieces slide in and click, each with a label and a pop: STICK into the TV side, then PHONE. A marker arrow connects them. The screen turns green with code lines."
+    },
+    {
+     "id": "l044",
+     "who": "karto",
+     "en": "And from that hotel TV, he broke into one of the best-guarded secrets in gaming.",
+     "ar": "ومن تلفزيون هالفندق، اخترق واحد من أكتر الأسرار المحروسة بعالم الألعاب.",
+     "picture": "Camera push from the green TV, along a dotted marker line across the map, into the giant '6' vault box whose lid pops open. Big hit."
+    },
+    {
+     "id": "l045",
+     "who": "skip",
+     "en": "With the thing I use to watch cartoons.",
+     "ar": "بالشي يلي أنا بتفرّج فيه على كرتون.",
+     "picture": "Skip pose mind-blown, holding a tiny stick cutout."
+    },
+    {
+     "id": "l046",
+     "who": "karto",
+     "en": "With the thing you use to watch cartoons. The company told the court that cleaning up cost five million dollars and thousands of hours of work.",
+     "ar": "بالشي يلي إنت بتتفرّج فيه على كرتون. والشركة قالت للمحكمة إنو تصليح الوضع كلّفها خمسة مليون دولار وآلاف ساعات الشغل.",
+     "picture": "A cardboard courtroom bench. Bill slip prints out: $5,000,000 + a stack of clock faces (hours)."
+    },
+    {
+     "id": "l047",
+     "who": "karto",
+     "en": "In twenty twenty-three, a court found he did it. Doctors said he was too unwell for a normal trial, so a judge sent him to a secure hospital.",
+     "ar": "بألفين وتلاتة وعشرين، المحكمة أثبتت إنو هو يلي عملها. والدكاترة قالوا إنو وضعه الصحي ما بيسمح بمحاكمة عادية، فالقاضي بعته على مستشفى مغلق.",
+     "picture": "Calm, respectful: year sign 2023, gavel taps once. A plain hospital building cutout with a closed gate. No jokes, no face."
+    },
+    {
+     "id": "l047a",
+     "who": "karto",
+     "en": "This year he was let out of the hospital. And this month, days before the game finally came out, he stood in court and pleaded guilty.",
+     "ar": "وهالسنة طلع من المستشفى. وبهالشهر، قبل ما تنزل اللعبة بكم يوم، وقف قدام المحكمة واعترف.",
+     "picture": "The hospital gate opens. Calendar page NOVEMBER 2026 with two marks close together: a small courthouse on the 16th and the '6' game box on the 19th. Still calm, no face."
+    },
+    {
+     "id": "l048",
+     "who": "skip",
+     "en": "That got dark.",
+     "ar": "صارت القصة تقيلة.",
+     "picture": "Skip quiet, pose neutral, phone down. Stage light dim."
+    },
+    {
+     "id": "l049",
+     "who": "karto",
+     "en": "It did. And here is the twist. The leak that was supposed to hurt the game made the whole world want it more.",
+     "ar": "صح. بس هون المفاجأة. التسريب يلي كان لازم يضرّ اللعبة، خلّى العالم كلو يشتهيها أكتر.",
+     "picture": "The 90 clip cards fly out of the vault and turn into a crowd of paper heads with wide eyes pressing against a shop window. STAMP 3 slams."
+    }
+   ]
+  },
+  {
+   "id": "c04",
+   "mood": "curious",
+   "title": {
+    "en": "Piece 4: The trailer",
+    "ar": "القطعة ٤: التريلر"
+   },
+   "lines": [
+    {
+     "id": "l050",
+     "who": "karto",
+     "en": "Piece four. The trailer. December, twenty twenty-three. The first official trailer is ready. And it leaks. Again.",
+     "ar": "القطعة الرابعة. التريلر. كانون الأول، يعني ديسمبر، ألفين وتلاتة وعشرين. أول تريلر رسمي جاهز. وبيتسرّب. كمان مرة.",
+     "picture": "Chapter flap. A film can labelled TRAILER 1 on a table; it springs a leak (blue paper drops), the reel rolls away by itself."
+    },
+    {
+     "id": "l051",
+     "who": "skip",
+     "en": "Do these people own a lock?",
+     "ar": "هدول ما عندهم قفل؟",
+     "picture": "Skip holds up a padlock cutout, pose deadpan."
+    },
+    {
+     "id": "l052",
+     "who": "karto",
+     "en": "So the company gives up and posts it early. A minute and a half. No release date. Just one number at the end. Twenty twenty-five.",
+     "ar": "فالشركة بتستسلم وبتنشره بكّير. دقيقة ونص. بلا تاريخ نزول. بس رقم واحد بالآخر: ألفين وخمسة وعشرين.",
+     "picture": "A cardboard video player frame: inside, a sunset beach of paper palms (original drawing). Progress bar runs to 1:30, the screen ends on the cut number 2025."
+    },
+    {
+     "id": "l053",
+     "who": "karto",
+     "en": "On its first day it was watched ninety-three million times on YouTube.",
+     "ar": "وبأول يوم، شافوه تلاتة وتسعين مليون مرة على يوتيوب.",
+     "picture": "View counter under the player spins up to 93,000,000 under a tab DAY 1; a clock hand makes one turn."
+    },
+    {
+     "id": "l054",
+     "who": "skip",
+     "en": "Views are cheap. Is that actually a lot?",
+     "ar": "المشاهدات رخيصة. هاد فعلاً رقم كبير؟",
+     "picture": "Skip shrugs, pose skeptical."
+    },
+    {
+     "id": "l055",
+     "who": "karto",
+     "en": "At that time, only music videos had ever had a bigger first day on YouTube.",
+     "ar": "بوقتها، ما في فيديو على يوتيوب جاب أكتر من هيك بأول يوم، إلا الأغاني.",
+     "picture": "Podium: the trailer reel on step 1 with a paper crown; behind a rope, music-note videos stand in their own separate area."
+    },
+    {
+     "id": "l056",
+     "who": "karto",
+     "en": "Then came trailer two. May, twenty twenty-five. It was reported at four hundred and seventy-five million views in one day, across every platform.",
+     "ar": "وبعدين نزل التريلر التاني. أيار، يعني مايو، ألفين وخمسة وعشرين. والتقارير حكت عن أربعمية وخمسة وسبعين مليون مشاهدة بيوم واحد، على كل المنصات.",
+     "picture": "Second film can TRAILER 2. Counter rolls to 475,000,000 with a small tape note 'REPORTED'. Bar next to the 93M bar is five times taller and bends at the top of the frame."
+    },
+    {
+     "id": "l057",
+     "who": "skip",
+     "en": "For an advert.",
+     "ar": "مشان إعلان.",
+     "picture": "Skip pose deadpan."
+    },
+    {
+     "id": "l058",
+     "who": "karto",
+     "en": "For an advert. For a game nobody could buy yet. People were not watching a trailer. They were checking if the wait was almost over.",
+     "ar": "مشان إعلان. للعبة ما حدا كان بيقدر يشتريها لسا. الناس ما كانوا عم يتفرّجوا على تريلر. كانوا عم يتأكدوا إذا الانتظار قرّب يخلص.",
+     "picture": "The crowd of paper heads stares at an hourglass that is almost, not quite, empty."
+    },
+    {
+     "id": "l059",
+     "who": "karto",
+     "en": "But there was one problem. The trailer said twenty twenty-five.",
+     "ar": "بس كان في مشكلة وحدة. التريلر قال ألفين وخمسة وعشرين.",
+     "picture": "The cut number 2025 from the player hangs alone under a spotlight."
+    },
+    {
+     "id": "l060",
+     "who": "skip",
+     "en": "And it did not come out in twenty twenty-five.",
+     "ar": "وما نزلت بألفين وخمسة وعشرين.",
+     "picture": "Skip pose annoyed. STAMP 4 slams; the '2025' number cracks down the middle."
+    }
+   ]
+  },
+  {
+   "id": "c05",
+   "mood": "tension",
+   "title": {
+    "en": "Piece 5: The delays",
+    "ar": "القطعة ٥: التأجيل"
+   },
+   "lines": [
+    {
+     "id": "l061",
+     "who": "karto",
+     "en": "Piece five. The delays.",
+     "ar": "القطعة الخامسة. التأجيل.",
+     "picture": "Chapter flap. A long cardboard timeline strip 2025 - 2026 with a flag pin planted on 'FALL 2025'."
+    },
+    {
+     "id": "l062",
+     "who": "karto",
+     "en": "May, twenty twenty-five. The company moves it. New date: May twenty-sixth, twenty twenty-six. They say they need the time to reach the quality you expect.",
+     "ar": "أيار، ألفين وخمسة وعشرين. الشركة بتأجّلها. التاريخ الجديد: ستة وعشرين مايو، ألفين وستة وعشرين. وبيقولوا إنهم بحاجة هالوقت ليوصلوا للجودة يلي إنت متوقعها.",
+     "picture": "A hand-like stick lifts the flag pin and replants it on 'MAY 26, 2026'. Stamp DELAYED #1. A speech card with the quality quote (string)."
+    },
+    {
+     "id": "l063",
+     "who": "skip",
+     "en": "One delay. Fine. That happens.",
+     "ar": "تأجيل واحد. ماشي. بتصير.",
+     "picture": "Skip pose neutral, shrug."
+    },
+    {
+     "id": "l064",
+     "who": "karto",
+     "en": "November, twenty twenty-five. They move it again. New date: November nineteenth, twenty twenty-six.",
+     "ar": "تشرين التاني، يعني نوفمبر، ألفين وخمسة وعشرين. بيأجّلوها كمان مرة. التاريخ الجديد: تسعتاشر نوفمبر، ألفين وستة وعشرين.",
+     "picture": "The pin jumps again to 'NOV 19, 2026'. Stamp DELAYED #2. The timeline strip stretches (a paper extension unfolds)."
+    },
+    {
+     "id": "l065",
+     "who": "skip",
+     "en": "Twice? Okay, this piece is slow. Skipping.",
+     "ar": "مرتين؟ هالقطعة بطيئة. إيدي عالزر.",
+     "picture": "Skip pose about-to-skip: thumb goes for the skip arrows, the big SKIP button slides in again (running gag at the slowest moment)."
+    },
+    {
+     "id": "l066",
+     "who": "karto",
+     "en": "Do not touch that button. Every time this game moved, other companies had to think about moving their own games out of the way.",
+     "ar": "شيل إيدك عن هالزر. كل ما هاللعبة غيّرت تاريخها، شركات تانية كانت تفكر تبعّد ألعابها عن طريقها.",
+     "picture": "Karto blocks Skip's phone with a STOP paddle. On the timeline, small game boxes with legs scuttle away from the big '6' flag whenever it lands."
+    },
+    {
+     "id": "l067",
+     "who": "karto",
+     "en": "Nobody wants to open a lemonade stand next to a volcano.",
+     "ar": "ما حدا بيفتح بسطة ليموناضة جنب بركان.",
+     "picture": "A cardboard volcano with a '6' on it erupts paper lava and confetti; a tiny lemonade stand beside it packs up and runs."
+    },
+    {
+     "id": "l068",
+     "who": "skip",
+     "en": "So. Thirteen years, two delays, one hacked TV. It finally comes out. Everybody is happy. The end?",
+     "ar": "يعني: تلاتاشر سنة، تأجيلين، وتلفزيون مخترق. وأخيراً نزلت. والكل مبسوط. خلصت القصة؟",
+     "picture": "Recap row: calendar tower, two DELAYED stamps, hotel TV. Then the shop from piece 1 opens with the '6' box on the shelf, NOV 19 2026."
+    },
+    {
+     "id": "l069",
+     "who": "karto",
+     "en": "You sweet little sticky note. No. Now they fight.",
+     "ar": "يا ورقة صفرا يا طيّوبة. لأ. هلق بيبلشوا يتخانقوا.",
+     "picture": "STAMP 5 slams. The happy shop crowd splits into two shouting sides along a tear line."
+    }
+   ]
+  },
+  {
+   "id": "c06",
+   "mood": "rise",
+   "title": {
+    "en": "Piece 6: The price",
+    "ar": "القطعة ٦: السعر"
+   },
+   "lines": [
+    {
+     "id": "l070",
+     "who": "karto",
+     "en": "Piece six. The price. For years, a big game cost sixty dollars. Then seventy.",
+     "ar": "القطعة السادسة. السعر. لسنين، اللعبة الكبيرة كان سعرها ستين دولار. وبعدين صارت سبعين.",
+     "picture": "Chapter flap. Price tags on a string: $60, then $70 swings in."
+    },
+    {
+     "id": "l071",
+     "who": "karto",
+     "en": "This one: seventy-nine dollars and ninety-nine cents.",
+     "ar": "وهي: تسعة وسبعين دولار وتسعة وتسعين سنت.",
+     "picture": "A big tag $79.99 drops with a thud on the '6' box."
+    },
+    {
+     "id": "l072",
+     "who": "skip",
+     "en": "Eighty dollars? For one game?",
+     "ar": "تمانين دولار؟ مشان لعبة وحدة؟",
+     "picture": "Skip pose shocked; his paper wallet opens and a moth cutout flies out."
+    },
+    {
+     "id": "l073",
+     "who": "karto",
+     "en": "Fight number one. One side says: thirteen years of work, eighty is cheap. The other side says: if this one gets away with it, every game will cost eighty.",
+     "ar": "الخناقة الأولى. طرف بيقول: شغل تلاتاشر سنة، والتمانين رخيصة. والطرف التاني بيقول: إذا هي مرقت، كل الألعاب رح تصير بتمانين.",
+     "picture": "Versus board: left sign '13 YEARS = CHEAP', right sign 'NEXT: EVERY GAME $80'. Paper crowds behind each sign."
+    },
+    {
+     "id": "l074",
+     "who": "karto",
+     "en": "Fight number two. Smoothness. Many players want sixty frames per second. Rockstar confirmed the game runs at thirty. One of its directors said even the most powerful PlayStation is not powerful enough for more.",
+     "ar": "الخناقة التانية. النعومة. لاعبين كتير بدهم ستين فريم بالثانية. روكستار أكدت إنو اللعبة بتشتغل على تلاتين. وواحد من مدراءها قال إنو حتى أقوى بلايستيشن مو قوي كفاية لأكتر من هيك.",
+     "picture": "Sign 30 | 60 with the 60 crossed out by marker. A console cutout with a 'PRO' ribbon looks embarrassed (drawn sweat drop). Stamp 'CONFIRMED: 30'."
+    },
+    {
+     "id": "l075",
+     "who": "skip",
+     "en": "Explain frames like I am paper.",
+     "ar": "اشرحلي الفريمات كأني ورقة.",
+     "picture": "Skip pose skeptical."
+    },
+    {
+     "id": "l076",
+     "who": "karto",
+     "en": "You are paper. A game is a flip book. Thirty pages a second looks fine. Sixty looks like butter. And people paid extra for a console that promises butter.",
+     "ar": "إنت ورقة أصلاً. اللعبة متل دفتر الرسوم المتحركة. تلاتين صفحة بالثانية حلوة. ستين بتمشي متل الزبدة. والناس دفعت زيادة مشان جهاز وعدها بالزبدة.",
+     "picture": "Two flip books side by side showing a running car: left flips at a visibly choppy rate (30), right twice as smooth (60). A butter block cutout slides smoothly under the right one."
+    },
+    {
+     "id": "l077",
+     "who": "karto",
+     "en": "Fight number three. If you play on a computer, there is no version for you at launch. You wait. Again.",
+     "ar": "الخناقة التالتة. إذا بتلعب على الكمبيوتر، ما في نسخة إلك وقت النزول. بتستنى. كمان مرة.",
+     "picture": "Two consoles get a box each; a desktop PC cutout gets an hourglass instead. PC pose sad (drawn face)."
+    },
+    {
+     "id": "l078",
+     "who": "skip",
+     "en": "So they waited thirteen years to be told to wait.",
+     "ar": "يعني استنوا تلاتاشر سنة، ليقولولهم: استنوا.",
+     "picture": "Skip deadpan to camera."
+    },
+    {
+     "id": "l079",
+     "who": "karto",
+     "en": "Now you understand gaming.",
+     "ar": "هلق فهمت عالم الألعاب.",
+     "picture": "Karto pose laughing. STAMP 6 slams."
+    },
+    {
+     "id": "l080",
+     "who": "skip",
+     "en": "Okay, but my mum says this game is bad for me.",
+     "ar": "ماشي، بس ماما بتقول إنو هاللعبة بتخرّب عقلي.",
+     "picture": "A mum cutout silhouette with a wagging finger appears behind Skip."
+    },
+    {
+     "id": "l081",
+     "who": "karto",
+     "en": "Your mum is piece seven.",
+     "ar": "ماما هي القطعة السابعة.",
+     "picture": "The mum cutout gets a '7' rosette pinned on. Old newspaper backdrop rolls in."
+    }
+   ]
+  },
+  {
+   "id": "c07",
+   "mood": "curious",
+   "title": {
+    "en": "Piece 7: The panic",
+    "ar": "القطعة ٧: الذعر"
+   },
+   "lines": [
+    {
+     "id": "l082",
+     "who": "karto",
+     "en": "Piece seven. The panic. Days before this launch, a TV host said the game is not a good thing for our culture and society. The internet roasted her.",
+     "ar": "القطعة السابعة. الذعر. قبل النزول بكم يوم، مذيعة تلفزيون قالت إنو هاللعبة مو شي منيح لثقافتنا ومجتمعنا. والإنترنت ما رحمها.",
+     "picture": "Chapter flap. A cardboard TV news set with a generic presenter cutout (no likeness) and a ticker 'GAME = DANGER?'. Reply-bubble cutouts with flame marks pile up under it."
+    },
+    {
+     "id": "l083",
+     "who": "karto",
+     "en": "But here is the secret. This fight is as old as GTA itself. And the first time, the game's own publisher started it on purpose.",
+     "ar": "بس هون السر. هالخناقة عمرها من عمر جي تي إيه نفسها. وأول مرة، الناشر تبع اللعبة هو يلي ولّعها عن قصد.",
+     "picture": "Karto pose whisper, camera pushes in. A match cutout lights a tiny paper fire."
+    },
+    {
+     "id": "l084",
+     "who": "skip",
+     "en": "On purpose?",
+     "ar": "عن قصد؟",
+     "picture": "Skip pose shocked."
+    },
+    {
+     "id": "l085",
+     "who": "karto",
+     "en": "Nineteen ninety-seven. Scotland. A small studio makes the first Grand Theft Auto. Tiny cars, seen from above. Almost nobody cares.",
+     "ar": "ألف وتسعمية وسبعة وتسعين. اسكتلندا. استوديو صغير بيعمل أول جي تي إيه. سيارات صغيرة، مصوّرة من فوق. وتقريباً ما حدا مهتم.",
+     "picture": "Map pin on Scotland, year sign 1997. A top-down cardboard street grid with tiny car cutouts driving (original drawing). One bored paper customer walks past."
+    },
+    {
+     "id": "l086",
+     "who": "karto",
+     "en": "So the publisher brings in a famous publicist. He makes sure the newspapers hear the scariest version of the game.",
+     "ar": "فالناشر بيجيب خبير دعاية مشهور. وهاد بيتأكد إنو الجرايد تسمع أرعب نسخة عن اللعبة.",
+     "picture": "A publicist cutout (suit, no face detail) drops paper notes into newspaper mouths; headlines pop up: 'BAN THIS GAME!' (strings)."
+    },
+    {
+     "id": "l087",
+     "who": "karto",
+     "en": "It works. Months before the game reaches the shops, politicians in the British parliament are talking about banning it.",
+     "ar": "ونجحت الخطة. قبل ما توصل اللعبة عالمحلات بشهور، سياسيين بالبرلمان البريطاني كانوا عم يحكوا عن منعها.",
+     "picture": "A parliament building cutout with speech spikes and a 'BAN?' sign. The shop shelf is still empty with a 'COMING SOON' card."
+    },
+    {
+     "id": "l088",
+     "who": "skip",
+     "en": "And then everybody bought it.",
+     "ar": "وبعدين الكل اشتراها.",
+     "picture": "Skip pose deadpan, already knows."
+    },
+    {
+     "id": "l089",
+     "who": "karto",
+     "en": "And then everybody bought it. Since then, the same fight comes back with every release. Somebody on TV says it will ruin the youth. The youth says: thanks for the advert.",
+     "ar": "وبعدين الكل اشتراها. ومن وقتها، نفس الخناقة بترجع مع كل إصدار جديد. حدا عالتلفزيون بيقول: رح تخرّب الشباب. والشباب بيردوا: شكراً عالدعاية.",
+     "picture": "Loop machine: TV shouts -> newspaper -> queue at the shop -> coin, with year tags flipping 1997, 2001, 2004, 2008, 2013, 2026."
+    },
+    {
+     "id": "l090",
+     "who": "karto",
+     "en": "Scientists have studied this for more than twenty years. The big reviews say there is not enough evidence that these games cause real-world violence.",
+     "ar": "العلماء درسوا هالموضوع أكتر من عشرين سنة. والمراجعات الكبيرة بتقول إنو ما في دليل كافي إنو هالألعاب بتسبب عنف حقيقي.",
+     "picture": "A stack of study papers with a magnifying glass; the scale cutout does not tip. Tape note 'NOT ENOUGH EVIDENCE'."
+    },
+    {
+     "id": "l091",
+     "who": "karto",
+     "en": "But it is a game made for adults. It says so on the box. That part, your mum has right.",
+     "ar": "بس هي لعبة معمولة للكبار. ومكتوب هالشي عالعلبة. بهاي النقطة، ماما معها حق.",
+     "picture": "The '6' box turns to show a plain age badge '17+ / 18+'. The mum cutout nods."
+    },
+    {
+     "id": "l092",
+     "who": "skip",
+     "en": "Do not tell her I said that.",
+     "ar": "لا تقلها إني قلت هيك.",
+     "picture": "Skip pose whisper. STAMP 7 slams: full card, confetti burst."
+    }
+   ]
+  },
+  {
+   "id": "c08",
+   "mood": "warm",
+   "title": {
+    "en": "Full card",
+    "ar": "الكرت كامل"
+   },
+   "lines": [
+    {
+     "id": "l093",
+     "who": "karto",
+     "en": "Seven stamps. Full card. Thirteen years. Maybe more than a billion dollars. One hotel TV. Two delays. And one very old trick.",
+     "ar": "سبع أختام. الكرت كامل. تلاتاشر سنة. ويمكن أكتر من مليار دولار. تلفزيون فندق واحد. تأجيلين. وخدعة قديمة كتير.",
+     "picture": "The full score card centre stage; the five hero props line up under it as named: calendar tower, taped money sack, hotel TV, two DELAYED stamps, the match."
+    },
+    {
+     "id": "l094",
+     "who": "karto",
+     "en": "So was it worth it? Thirteen years of trailers say yes. Eighty dollars says: ask your wallet.",
+     "ar": "طيب، كانت بتستاهل؟ تلاتاشر سنة تريلرات بتقول: أكيد. والتمانين دولار بتقلك: اسأل محفظتك.",
+     "picture": "Scale cutout: trailer reel with the 475M counter on one side, the $79.99 tag on the other; it rocks and does not settle."
+    },
+    {
+     "id": "l095",
+     "who": "skip",
+     "en": "Hold on. I have a question.",
+     "ar": "لحظة. عندي سؤال.",
+     "picture": "Skip hops to the centre for the first time, phone in his pocket (pose typing-a-comment)."
+    },
+    {
+     "id": "l096",
+     "who": "karto",
+     "en": "You? You wanted to skip.",
+     "ar": "إنت؟ إنت كان بدك تعمل سكيب.",
+     "picture": "Karto pose shocked then laughing."
+    },
+    {
+     "id": "l097",
+     "who": "skip",
+     "en": "If this one took thirteen years, when is the next one? Twenty thirty-nine? I will be old. I will be recycled.",
+     "ar": "إذا هاي أخدت تلاتاشر سنة، فإمتى الجاية؟ ألفين وتسعة وتلاتين؟ بكون صرت عجوز. ويمكن يكونوا عملوني كرتونة بيض.",
+     "picture": "The calendar tower regrows upward 2026 -> 2039 with a '7?' box on top; a recycling bin cutout slides next to Skip."
+    },
+    {
+     "id": "l098",
+     "who": "karto",
+     "en": "That one I cannot answer. But they can. Is any game worth eighty dollars and a thirteen-year wait? Tell Skip he is wrong.",
+     "ar": "هي ما بعرف جوابها. بس هنن بيعرفوا. في لعبة بتستاهل تمانين دولار وتلاتاشر سنة انتظار؟ قولوا لسكيب إنو غلطان.",
+     "picture": "Karto points straight at the viewer; a comment box cutout opens below with a blinking marker cursor. Versus mini-signs WORTH IT | NOT WORTH IT."
+    },
+    {
+     "id": "l099",
+     "who": "skip",
+     "en": "I am never wrong. I am yellow.",
+     "ar": "أنا ما بغلط. أنا ورقة ملاحظات، والملاحظة دايماً صح.",
+     "picture": "Skip deadpan, arms-crossed plate."
+    },
+    {
+     "id": "l100",
+     "who": "karto",
+     "en": "How many of the seven did you guess before Karto said it? Write your score out of seven.",
+     "ar": "كم قطعة من السبعة حزرتها قبل ما يقولها كرتو؟ اكتب نتيجتك من سبعة.",
+     "picture": "END SCREEN layout: end text 'YOUR SCORE OUT OF 7?', two video slots and the subscribe area on cardboard, Karto and Skip at the sides; holds for the tail."
+    }
+   ]
+  }
+ ],
+ "strings": {
+  "estimate": {
+   "en": "ESTIMATE",
+   "ar": "تقدير"
+  },
+  "guess": {
+   "en": "GUESS",
+   "ar": "تخمين"
+  },
+  "delayed": {
+   "en": "DELAYED",
+   "ar": "تأجّلت"
+  },
+  "skip_btn": {
+   "en": "SKIP",
+   "ar": "تخطّي"
+  },
+  "clips": {
+   "en": "CLIPS",
+   "ar": "مقطع"
+  },
+  "copies": {
+   "en": "COPIES",
+   "ar": "نسخة"
+  },
+  "day1": {
+   "en": "DAY 1",
+   "ar": "اليوم ١"
+  },
+  "day3": {
+   "en": "DAY 3",
+   "ar": "اليوم ٣"
+  },
+  "thief_msg": {
+   "en": "Talk to me in 24 hours or I release the code.",
+   "ar": "احكوا معي خلال ٢٤ ساعة أو بنشر الكود."
+  },
+  "quality_quote": {
+   "en": "\"We need this extra time to deliver at the level of quality you expect and deserve.\"",
+   "ar": "«بحاجة لهالوقت الإضافي لنقدّم مستوى الجودة يلي بتتوقعوه وبتستاهلوه.»"
+  },
+  "company_count": {
+   "en": "REPORTED",
+   "ar": "حسب التقارير"
+  },
+  "reports": {
+   "en": "REPORTS",
+   "ar": "حسب التقارير"
+  },
+  "ban_headline": {
+   "en": "BAN THIS GAME!",
+   "ar": "امنعوا هاللعبة!"
+  },
+  "not_enough": {
+   "en": "NOT ENOUGH EVIDENCE",
+   "ar": "الدليل مو كافي"
+  },
+  "worth": {
+   "en": "WORTH IT",
+   "ar": "بتستاهل"
+  },
+  "not_worth": {
+   "en": "NOT WORTH IT",
+   "ar": "ما بتستاهل"
+  },
+  "p1": {
+   "en": "THE WAIT",
+   "ar": "الانتظار"
+  },
+  "p2": {
+   "en": "THE MONEY",
+   "ar": "الفلوس"
+  },
+  "p3": {
+   "en": "THE HACKER",
+   "ar": "الهاكر"
+  },
+  "p4": {
+   "en": "THE TRAILER",
+   "ar": "التريلر"
+  },
+  "p5": {
+   "en": "THE DELAYS",
+   "ar": "التأجيل"
+  },
+  "p6": {
+   "en": "THE PRICE",
+   "ar": "السعر"
+  },
+  "p7": {
+   "en": "THE PANIC",
+   "ar": "الذعر"
+  },
+  "confirmed30": {
+   "en": "CONFIRMED: 30",
+   "ar": "مؤكد: ٣٠"
+  },
+  "in3days": {
+   "en": "IN 3 DAYS",
+   "ar": "بعد ٣ أيام"
+  },
+  "score_title": {
+   "en": "SKIP'S SCORE CARD",
+   "ar": "كرت سكيب"
+  },
+  "usd": {
+   "en": "$",
+   "ar": "دولار"
+  },
+  "usd_sp": {
+   "en": " $",
+   "ar": " دولار"
+  },
+  "dnd": {
+   "en": "DO NOT DISTURB",
+   "ar": "ممنوع الإزعاج"
+  },
+  "title_kicker": {
+   "en": "GTA 6",
+   "ar": "GTA 6"
+  },
+  "title_main": {
+   "en": "THE 13-YEAR WAIT",
+   "ar": "انتظار ١٣ سنة"
+  },
+  "month_sep": {
+   "en": "SEPTEMBER",
+   "ar": "أيلول"
+  },
+  "month_nov": {
+   "en": "NOVEMBER",
+   "ar": "تشرين التاني"
+  },
+  "sunday": {
+   "en": "SUNDAY",
+   "ar": "يوم أحد"
+  },
+  "forum": {
+   "en": "FAN FORUM",
+   "ar": "منتدى المعجبين"
+  },
+  "secret": {
+   "en": "TOP SECRET",
+   "ar": "سرّي"
+  },
+  "staff_chat": {
+   "en": "STAFF CHAT",
+   "ar": "شات الموظفين"
+  },
+  "england": {
+   "en": "ENGLAND",
+   "ar": "إنكلترا"
+  },
+  "lapsus": {
+   "en": "LAPSUS$",
+   "ar": "‎LAPSUS$‎"
+  },
+  "arrested": {
+   "en": "ARRESTED",
+   "ar": "مقبوض عليه"
+  },
+  "police": {
+   "en": "POLICE EVIDENCE",
+   "ar": "دليل للشرطة"
+  },
+  "stick": {
+   "en": "STREAMING STICK",
+   "ar": "جهاز ستريمنغ"
+  },
+  "phone": {
+   "en": "PHONE",
+   "ar": "موبايل"
+  },
+  "hours": {
+   "en": "+ 1,000s OF HOURS",
+   "ar": "+ آلاف ساعات الشغل"
+  },
+  "court": {
+   "en": "COURT",
+   "ar": "المحكمة"
+  },
+  "hospital": {
+   "en": "HOSPITAL",
+   "ar": "مستشفى"
+  },
+  "c01_6s": {
+   "en": "6s",
+   "ar": "٦ ث"
+  },
+  "c01_age": {
+   "en": "YEARS OLD",
+   "ar": "سنة"
+  },
+  "c01_school": {
+   "en": "SCHOOL DONE",
+   "ar": "خلّص مدرسة"
+  },
+  "c01_job": {
+   "en": "GOT A JOB",
+   "ar": "صار يشتغل"
+  },
+  "c01_justone": {
+   "en": "JUST ONE",
+   "ar": "وحدة بس"
+  },
+  "c02_film": {
+   "en": "FILM",
+   "ar": "فيلم"
+  },
+  "c02_album": {
+   "en": "ALBUM",
+   "ar": "ألبوم"
+  },
+  "c02_game": {
+   "en": "GAME",
+   "ar": "لعبة"
+  },
+  "c02_plus": {
+   "en": "+",
+   "ar": "+"
+  },
+  "c02_real": {
+   "en": "REAL",
+   "ar": "حقيقي"
+  },
+  "c02_fake": {
+   "en": "FAKE",
+   "ar": "وهمي"
+  },
+  "c02_cost": {
+   "en": "$1-2 BILLION?",
+   "ar": "١-٢ مليار دولار؟"
+  },
+  "c02_nonumber": {
+   "en": "NO OFFICIAL NUMBER",
+   "ar": "ما في رقم رسمي"
+  },
+  "c02_unknown": {
+   "en": "REAL COST: UNKNOWN",
+   "ar": "الكلفة الحقيقية: مجهولة"
+  },
+  "c02_hotel": {
+   "en": "HOTEL",
+   "ar": "فندق"
+  },
+  "c02_x3": {
+   "en": "×3",
+   "ar": "×٣"
+  }
+ },
+ "shorts_plan": [
+  {
+   "id": "s1",
+   "piece": 3,
+   "from": "l041",
+   "to": "l046",
+   "hook": {
+    "en": "NO COMPUTER. ONE HOTEL TV.",
+    "ar": "بلا كمبيوتر. بتلفزيون فندق."
+   }
+  },
+  {
+   "id": "s2",
+   "piece": 2,
+   "from": "l022",
+   "to": "l029",
+   "hook": {
+    "en": "$800 MILLION. ONE DAY.",
+    "ar": "٨٠٠ مليون دولار. بيوم واحد."
+   }
+  },
+  {
+   "id": "s3",
+   "piece": 7,
+   "from": "l082",
+   "to": "l088",
+   "hook": {
+    "en": "THE FIRST GTA PANIC WAS PLANNED",
+    "ar": "أول ذعر من GTA كان مقصود"
+   }
+  },
+  {
+   "id": "s4",
+   "piece": 6,
+   "from": "l070",
+   "to": "l076",
+   "hook": {
+    "en": "$79.99 FOR ONE GAME?",
+    "ar": "٧٩٫٩٩ دولار للعبة وحدة؟"
+   }
+  },
+  {
+   "id": "s5",
+   "piece": 4,
+   "from": "l050",
+   "to": "l057",
+   "hook": {
+    "en": "93 MILLION VIEWS. ONE DAY.",
+    "ar": "٩٣ مليون مشاهدة. بيوم واحد."
+   }
+  },
+  {
+   "id": "s6",
+   "piece": 1,
+   "from": "l013",
+   "to": "l018",
+   "hook": {
+    "en": "NO TIKTOK. 13 YEARS AGO.",
+    "ar": "قبل ١٣ سنة. بلا تيك توك."
+   }
+  },
+  {
+   "id": "s7",
+   "piece": 5,
+   "from": "l062",
+   "to": "l067",
+   "hook": {
+    "en": "DELAYED. TWICE.",
+    "ar": "تأجّلت. مرتين."
+   },
+   "note": "weakest piece: optional"
+  }
+ ],
+ "fact_notes": [
+  "Page-confirmed (fact-check.json r1 + research/radar/2026-11-18/gta6-facts.json): GTA V Sept 2013, $800M day one, $1B in three days, 200M+ copies, three console generations; 18 Sept 2022 leak, about 90 clips, Lapsus$ teenager from England, streaming stick + hotel TV + phone, laptop seized, on bail, $5M + thousands of staff hours; trailer 1 Dec 2023 ending on 2025, 93M first-day YouTube views and the non-music first-day record; trailer 2 May 2025, 475M reported (THR); delays to 26 May 2026 (quality quote, TechRadar) and 19 Nov 2026; price $79.99; no PC at launch; 30 FPS confirmed + director quote on PS5 Pro (Kotaku 18 Nov 2026); TV host quote (Yahoo); 1997 Dundee studio, publicist campaign, House of Lords talk of a ban before release.",
+  "Wikipedia (Lapsus$) citing BBC 21 Dec 2023, The Register 16 Jul 2026, BBC 16 Nov 2026 and the CPS: hospital order 2023, order ended 2026, guilty plea 16 Nov 2026, sentencing due 23 Nov 2026 at Woolwich Crown Court. OPEN: read the BBC 16 Nov story itself before publishing; after 23 Nov add the sentence in the pinned comment (line l047a stays true either way).",
+  "From the orchestrator's own knowledge, not re-opened this round: 24-hour deadline in the staff-chat message (BBC, Dec 2023); 18 Sept 2022 was a Sunday; trailer 1 runs 1:31; TikTok launched after 2013; real-money in-game currency in GTA Online; most expensive films cost under $500M (l005 comparison, conditional on the estimates); APA 2020 resolution: insufficient evidence that violent games cause violent behaviour (l090).",
+  "Left out on purpose: the hacker's name, the hotel brand, keyboard and mouse (not on the pages read), the '$11.6M crypto' headline (not found), review scores and sales numbers (not out yet)."
+ ],
+ "short_cta": {
+  "who": "karto",
+  "en": "That was piece {n} of seven. All seven are in the full video.",
+  "ar": "هي القطعة {n} من سبعة. والسبعة كلهم بالفيديو الكامل."
+ },
+ "ar_policy": "Arabic = simple Syrian-leaning dialect with pan-Arab word choices where the Syrian word is opaque elsewhere (editor 2026-11-18): الفلوس not المصاري, يتفرّج not يحضر, مستشفى, ماما, التريلر; teens spelled تلاتاشر for the voice; Levantine month names with the common name on first mention; the game is always «جي تي إيه». Owner may switch back to pure Syrian.",
+ "cast": {
+  "karto": {
+   "en": {
+    "voice": "Achird",
+    "style": "Warm, quick storyteller with a smile in his voice. Clear, energetic, a little dramatic on big numbers. Natural pace, never rushed, never an announcer."
+   },
+   "ar": {
+    "voice": "Achird",
+    "style": "حكواتي دافي وسريع، بنبرة فيها ابتسامة. لهجة سورية بسيطة وواضحة. بيشدّ عالأرقام الكبيرة. إيقاع طبيعي، مو مذيع أخبار."
+   }
+  },
+  "skip": {
+   "en": {
+    "voice": "Puck",
+    "style": "Dry, fast, teasing teenager. Deadpan one-liners, a little bored, sharp when surprised."
+   },
+   "ar": {
+    "voice": "Puck",
+    "style": "شب صغير ناشف وسريع ومناكف. بيرمي الجملة ببرود، ملّان شوي، وبيتفاجأ بحدّة. لهجة سورية بسيطة."
+   }
+  }
+ },
+ "voices_note": "Voices are first picks, not auditioned: run a short audition (2-3 pairs, 4 lines, both languages) and let the owner pick before the full build.",
+ "tail": 12,
+ "chapter_gap": 1,
+ "captions": true,
+ "shorts": [
+  {
+   "id": "s1",
+   "piece": 3,
+   "from": "l041",
+   "to": "l046",
+   "hook_text": {
+    "en": "NO COMPUTER. ONE HOTEL TV.",
+    "ar": "بلا كمبيوتر. بتلفزيون فندق."
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece three of seven. All seven are in the full video.",
+     "ar": "هي القطعة التالتة من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  },
+  {
+   "id": "s2",
+   "piece": 2,
+   "from": "l022",
+   "to": "l029",
+   "hook_text": {
+    "en": "$800 MILLION. ONE DAY.",
+    "ar": "٨٠٠ مليون دولار. بيوم واحد."
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece two of seven. All seven are in the full video.",
+     "ar": "هي القطعة التانية من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  },
+  {
+   "id": "s3",
+   "piece": 7,
+   "from": "l082",
+   "to": "l088",
+   "hook_text": {
+    "en": "THE FIRST GTA PANIC WAS PLANNED",
+    "ar": "أول ذعر من GTA كان مقصود"
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece seven of seven. All seven are in the full video.",
+     "ar": "هي القطعة السابعة من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  },
+  {
+   "id": "s4",
+   "piece": 6,
+   "from": "l070",
+   "to": "l076",
+   "hook_text": {
+    "en": "$79.99 FOR ONE GAME?",
+    "ar": "٧٩٫٩٩ دولار للعبة وحدة؟"
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece six of seven. All seven are in the full video.",
+     "ar": "هي القطعة السادسة من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  },
+  {
+   "id": "s5",
+   "piece": 4,
+   "from": "l050",
+   "to": "l057",
+   "hook_text": {
+    "en": "93 MILLION VIEWS. ONE DAY.",
+    "ar": "٩٣ مليون مشاهدة. بيوم واحد."
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece four of seven. All seven are in the full video.",
+     "ar": "هي القطعة الرابعة من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   },
+   "retake": 1
+  },
+  {
+   "id": "s6",
+   "piece": 1,
+   "from": "l013",
+   "to": "l018",
+   "hook_text": {
+    "en": "NO TIKTOK. 13 YEARS AGO.",
+    "ar": "قبل ١٣ سنة. بلا تيك توك."
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece one of seven. All seven are in the full video.",
+     "ar": "هي القطعة الأولى من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  },
+  {
+   "id": "s7",
+   "piece": 5,
+   "from": "l062",
+   "to": "l067",
+   "hook_text": {
+    "en": "DELAYED. TWICE.",
+    "ar": "تأجّلت. مرتين."
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece five of seven. All seven are in the full video.",
+     "ar": "هي القطعة الخامسة من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  }
+ ],
+ "productions": {
+  "en": "expl-261118-p72p",
+  "ar": "expl-261118-ddib"
+ }
+}

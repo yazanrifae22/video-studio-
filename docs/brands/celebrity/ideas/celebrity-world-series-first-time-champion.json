@@ -1,0 +1,57 @@
+{
+ "channel": "celebrity",
+ "title": "Rays vs Brewers: Baseball Gets a Brand-New Champion",
+ "topic": "2026 World Series (first-ever title guaranteed)",
+ "audience": "Baseball fans and casual sports viewers",
+ "whyCare": "Neither the Rays (lost 2008, 2020) nor the Brewers (lost 1982) has ever won the World Series, so a first-time champion is guaranteed. Series runs Oct 23-31.",
+ "evidence": [
+  {
+   "claim": "2026 World Series: AL champion Tampa Bay Rays vs NL champion Milwaukee Brewers, from Oct 23, possible Game 7 Oct 31 (Wikipedia, revised 2026-10-20)",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series"
+  },
+  {
+   "claim": "MLB.com: Brewers' only previous World Series was 1982; Rays reached it in 2008 and 2020 and have never won",
+   "url": "https://www.mlb.com/news/playoff-teams-that-could-win-first-world-series-in-2026"
+  },
+  {
+   "claim": "Wikipedia '2026 World Series' 8,500-10,000 views/day Oct 17-19 and rising; FOX 'Brewers Advance to World Series!' 212,207 views in 3 days",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=2026_World_Series&start=2026-10-01&end=2026-10-19"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Brewers Advance to World Series! Jeter, Papi & A-Rod Break Down HISTORIC Sweep (FOX Sports)",
+   "url": "https://www.youtube.com/watch?v=fUjO-xg6BUo",
+   "views": "212,207",
+   "verified": true
+  },
+  {
+   "title": "Each MLB Team's Last World Series: Seattle Never (Short)",
+   "url": "https://www.youtube.com/shorts/Xa2baGKDgoo",
+   "views": "6.1K",
+   "verified": true
+  },
+  {
+   "title": "RAYS VS. BREWERS WS IS SET (Short)",
+   "url": "https://www.youtube.com/shorts/pT4UJDZU68k",
+   "views": "4.3K",
+   "verified": true
+  }
+ ],
+ "angle": "Compare table Rays vs Brewers (founded, previous WS trips, years waiting); timeline of near-misses (1982, 2008, 2020); closing stat on the last first-time champion (verify before production). Team colours and a trophy icon - no player likenesses needed.",
+ "durationSec": 45,
+ "format": "short",
+ "hook": "Whoever wins this World Series, it will be their first title. Ever.",
+ "difficulty": 2,
+ "estCostUsd": 3,
+ "strengths": "Unique factual hook; little competition on the angle; no individual-person risk",
+ "weaknesses": "Team story rather than a 'celebrity moment' (brand stretch); MLB clip temptation (+1 risk); peak window Oct 23-31 only",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 3
+ }
+}

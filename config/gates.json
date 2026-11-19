@@ -1,0 +1,29 @@
+{
+  "script_forecast": 85,
+  "script_rounds_max": 10,
+  "qa": 85,
+  "insights": 85,
+  "review_bars_until": "2026-11-22",
+  "_review_bars_doc": "owner 2026-11-08: QA 85 and insights 85 bars KEPT unchanged until this date, then decided from research/calibration/ data (note only, no behaviour change).",
+  "viral": 75,
+  "retention": 80,
+  "video_rounds_max": 3,
+  "panel_block_hate": 3,
+  "panel_block_swipe": 3,
+  "fresh_eyes_block": "hate",
+  "packaging": 85,
+  "shelve_viral_round2": 65,
+  "shelve_viral_round2_paused_until": "2026-11-22",
+  "_shelve_doc": "owner 2026-11-08 (audit #2 O1): the round-2 viral shelve suggestion is PAUSED until this date (viral score ran backwards vs views, rho -0.18 n=30); /api progress shows no SHELVE SUGGESTED while paused.",
+  "viral_mode": "record",
+  "viral_mode_until": "2026-11-22",
+  "puzzle_enjoy": 7,
+  "cut_entry_min": 8,
+  "daily_target_approved": 2,
+  "_daily_target_doc": "owner 2026-11-08: output target = 2 approved videos per channel per day (/api/throughput, dashboard Overview).",
+  "brand_overrides": {
+    "_doc": "owner 2026-11-08: per-brand values for ANY gate key above, merged by packages/shared/src/gates.ts loadGates(file, brand) / gatesFor(brand). Sunny Hill (kids) script gate 90, every other brand 85.",
+    "kids": { "script_forecast": 90 },
+    "viral-rankings": { "cut_entry_min": 7, "footage_scorecard": true, "_doc": "owner 2026-11-08 (10-video run): cut gate 7 for Podium Pop; #1 must still be strongest. footage_scorecard = docs/review-rubric.md 'Footage-led scorecard' (videos built from other people's clips); add the key to another brand to switch it on there" }
+  }
+}

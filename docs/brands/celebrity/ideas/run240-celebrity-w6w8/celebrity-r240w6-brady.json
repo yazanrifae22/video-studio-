@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "The GOAT's NFL Debut: 3 Passes, 6 Yards. On Thanksgiving",
+ "topic": "Tom Brady's first NFL snaps came late in a 34-9 Thanksgiving loss at Detroit on 23 Nov 2000: 1 of 3 for 6 yards. He called it 'a pretty inauspicious start'.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Thanksgiving Day NFL triple-header (2026-11-26). Wikipedia Tom_Brady 300,022 views Sept 2026.",
+ "hook": "3 passes. 6 yards. The GOAT?",
+ "twist": "Tom Brady's first NFL snaps came late in a 34-9 Thanksgiving loss at Detroit on 23 Nov 2000: 1 of 3 for 6 yards. He called it 'a pretty inauspicious start'.",
+ "peg": {
+  "event": "Thanksgiving Day NFL triple-header",
+  "date": "2026-11-26",
+  "url": "https://www.nbcdfw.com/news/sports/nfl/nfl-thanksgiving-schedule-2026-chiefs-bills-eagles-cowboys-bears-lions/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Patriots.com - Patriots head to Detroit for Thanksgiving (accessed 2026-10-24)",
+   "url": "https://patriots.com/news/patriots-head-to-detroit-for-thanksgiving-matchup-114936"
+  },
+  {
+   "claim": "Fox Sports - Tom Brady's most memorable Thanksgiving moments (accessed 2026-10-24)",
+   "url": "https://www.foxsports.com/stories/nfl/tom-brady-most-memorable-thanksgiving-football-moments"
+  },
+  {
+   "claim": "Boston.com - Thanksgiving and the Patriots (accessed 2026-10-24)",
+   "url": "https://www.boston.com/sports/new-england-patriots/2010/03/18/thanksgiving_a"
+  },
+  {
+   "claim": "Peg source: Thanksgiving Day NFL triple-header (accessed 2026-10-24)",
+   "url": "https://www.nbcdfw.com/news/sports/nfl/nfl-thanksgiving-schedule-2026-chiefs-bills-eagles-cowboys-bears-lions/"
+  },
+  {
+   "claim": "Wikimedia pageviews Tom_Brady: 300022 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Tom_Brady&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Patriots.com - Patriots head to Detroit for Thanksgiving",
+   "url": "https://patriots.com/news/patriots-head-to-detroit-for-thanksgiving-matchup-114936",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Fox Sports - Tom Brady's most memorable Thanksgiving moments",
+   "url": "https://www.foxsports.com/stories/nfl/tom-brady-most-memorable-thanksgiving-football-moments",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Boston.com - Thanksgiving and the Patriots",
+   "url": "https://www.boston.com/sports/new-england-patriots/2010/03/18/thanksgiving_a",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Tom Brady's first NFL pass completion happened on Thanksgiving 🦃 #NFL #football",
+   "url": "https://youtube.com/shorts/33gveETtkGc",
+   "views": 68000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Tom Brady first NFL game Thanksgiving 2000 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Tom Brady made his NFL debut in the HOF Game! #shorts",
+   "url": "https://youtube.com/shorts/jq7oKfTOPqI",
+   "views": 266000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Tom Brady first NFL game Thanksgiving 2000 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Tom Brady makes his NFL debut",
+   "url": "https://youtube.com/shorts/b46PgSYBv2I",
+   "views": 23000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Tom Brady first NFL game Thanksgiving 2000 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A frozen stat line '1/3, 6 YDS' on an old stadium board + hook. Twist by 2.5 s. Loop: '3 passes, 6 yards. Would you have kept him?'",
+ "cta": "C3+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Receiver name differs (Rod vs Todd Rutledge vs J.R. Redmond): don't name him. Don't call Brady '4th string' (not in our sources). No Patriots logo, no likeness: a turkey-day scoreboard.",
+ "window": {
+  "notBefore": "2026-11-25T12:00:00Z",
+  "deadline": "2026-11-28T00:00:00Z",
+  "label": "Thanksgiving Day NFL triple-header",
+  "suggestedSlot": "2026-11-26T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Tom Brady"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

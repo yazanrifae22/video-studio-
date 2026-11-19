@@ -1,0 +1,120 @@
+{
+ "channel": "celebrity",
+ "title": "Pick 15 Who Sold Sunglasses: Biggest Draft Steal Ever?",
+ "topic": "As a boy Giannis sold sunglasses and watches on Athens streets to help his family; Milwaukee drafted him 15th in 2013, and he became a two-time MVP and 2021 champion. Is he the biggest steal, or is Jokic at 41?",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Giannis Antetokounmpo turns 32 (2026-12-06). Wikipedia Giannis_Antetokounmpo 78,436 views Sept 2026.",
+ "hook": "Street seller to two-time MVP?",
+ "twist": "As a boy Giannis sold sunglasses and watches on Athens streets to help his family; Milwaukee drafted him 15th in 2013, and he became a two-time MVP and 2021 champion. Is he the biggest steal, or is Jokic at 41?",
+ "peg": {
+  "event": "Giannis Antetokounmpo turns 32",
+  "date": "2026-12-06",
+  "url": "https://en.wikipedia.org/wiki/Giannis_Antetokounmpo",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Britannica - Giannis Antetokounmpo (accessed 2026-10-24)",
+   "url": "https://www.britannica.com/print/article/2098637"
+  },
+  {
+   "claim": "Wikipedia - Giannis Antetokounmpo (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Giannis_Antetokounmpo"
+  },
+  {
+   "claim": "The Star (Kenya) - From hustling on Athens streets to MVP (accessed 2026-10-24)",
+   "url": "https://www.the-star.co.ke/news/infographics/2021-07-15-giannis-antetokounmpo-nba-stars-rise-from-hustling-on-athens-streets-to-mvp-award"
+  },
+  {
+   "claim": "Wikipedia - Nikola Jokic (41st pick, 2014) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Joki%C4%87"
+  },
+  {
+   "claim": "Peg source: Giannis Antetokounmpo turns 32 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Giannis_Antetokounmpo"
+  },
+  {
+   "claim": "Wikimedia pageviews Giannis_Antetokounmpo: 78436 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Giannis_Antetokounmpo&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Britannica - Giannis Antetokounmpo",
+   "url": "https://www.britannica.com/print/article/2098637",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Giannis Antetokounmpo",
+   "url": "https://en.wikipedia.org/wiki/Giannis_Antetokounmpo",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "The Star (Kenya) - From hustling on Athens streets to MVP",
+   "url": "https://www.the-star.co.ke/news/infographics/2021-07-15-giannis-antetokounmpo-nba-stars-rise-from-hustling-on-athens-streets-to-mvp-award",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Nikola Jokic (41st pick, 2014)",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Joki%C4%87",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "He Sold Sunglasses on the Street. Now He's a 2x MVP 🕶️ #giannis #nba #heat #basketball #shorts",
+   "url": "https://youtube.com/shorts/vq0x8TlOX3E",
+   "views": 1300,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Giannis sold sunglasses Athens draft #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Giannis Antetokounmpo Sold Sunglasses On Streets 🇬🇷🕶️ #giannis #nba",
+   "url": "https://youtube.com/shorts/cj2fCGkbcVo",
+   "views": 613,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Giannis sold sunglasses Athens draft #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "From Selling Sunglasses on Athens Streets to NBA Champion",
+   "url": "https://youtube.com/shorts/H3lgI6WAHvY",
+   "views": 1400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Giannis sold sunglasses Athens draft #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: Sunglasses laid out on a street blanket under a basketball hoop + hook. Twist by 2.5 s. Loop: 'Biggest steal: Giannis at 15 or Jokic at 41?'",
+ "cta": "C9+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Items sold vary by source (sunglasses/watches consistent). Skip trade rumours. No Bucks logo, no likeness: sunglasses on a street blanket under a hoop.",
+ "window": {
+  "notBefore": "2026-12-04T12:00:00Z",
+  "deadline": "2026-12-08T00:00:00Z",
+  "label": "Giannis Antetokounmpo turns 32",
+  "suggestedSlot": "2026-12-05T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Giannis Antetokounmpo",
+  "Nikola Jokic"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

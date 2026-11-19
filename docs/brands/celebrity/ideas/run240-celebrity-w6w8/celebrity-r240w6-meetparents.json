@@ -1,0 +1,112 @@
+{
+ "channel": "celebrity",
+ "title": "Before De Niro, Meet the Parents Was a Tiny 1992 Indie",
+ "topic": "Greg Glienna and Mary Ruth Clarke made a 72-minute, micro-budget Meet the Parents in 1992; no distributor would take it, so Universal bought the rights and turned it into the $330M De Niro-Stiller hit.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Focker-In-Law (Meet the Parents 4) opens in US cinemas (2026-11-25). Wikipedia Meet_the_Parents 50,766 views Sept 2026.",
+ "hook": "Meet the Parents is a remake?",
+ "twist": "Greg Glienna and Mary Ruth Clarke made a 72-minute, micro-budget Meet the Parents in 1992; no distributor would take it, so Universal bought the rights and turned it into the $330M De Niro-Stiller hit.",
+ "peg": {
+  "event": "Focker-In-Law (Meet the Parents 4) opens in US cinemas",
+  "date": "2026-11-25",
+  "url": "https://en.wikipedia.org/wiki/Focker-in-Law",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Meet the Parents (1992 film) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Meet_the_Parents_(1992_film)"
+  },
+  {
+   "claim": "Mental Floss - 15 fun facts about Meet the Parents (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/article/69414/15-fun-facts-about-meet-parents"
+  },
+  {
+   "claim": "Little White Lies - How Hollywood buried the original Meet the Parents (accessed 2026-10-24)",
+   "url": "https://lwlies.com/article/original-meet-the-parents"
+  },
+  {
+   "claim": "Peg source: Focker-In-Law (Meet the Parents 4) opens in US cinemas (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Focker-in-Law"
+  },
+  {
+   "claim": "Wikimedia pageviews Meet_the_Parents: 50766 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Meet_the_Parents&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Meet the Parents (1992 film)",
+   "url": "https://en.wikipedia.org/wiki/Meet_the_Parents_(1992_film)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Mental Floss - 15 fun facts about Meet the Parents",
+   "url": "https://www.mentalfloss.com/article/69414/15-fun-facts-about-meet-parents",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Little White Lies - How Hollywood buried the original Meet the Parents",
+   "url": "https://lwlies.com/article/original-meet-the-parents",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The Orignal Meet the Parents (Trailer)",
+   "url": "https://www.youtube.com/watch?v=-OInTtNzbFo",
+   "views": 2145,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Meet the Parents original 1992 movie #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Vibing with his logic, honestly | 🎬 Meet the Parents (2000)",
+   "url": "https://youtube.com/shorts/y5enXUe327s",
+   "views": 59000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Meet the Parents original 1992 movie #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Meet the Parents Cast (2000–2025) Then and Now #shortvideo #meettheparents #hollywood#youtubeshorts",
+   "url": "https://youtube.com/shorts/UMmYceoVuDQ",
+   "views": 13000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Meet the Parents original 1992 movie #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A dusty VHS tape labelled '1992' next to a cat-shaped silhouette + hook. Twist by 2.5 s. Loop: 'So which one did you see first?'",
+ "cta": "C2+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Budget conflicts ($30-35k Wikipedia vs ~$100k Mental Floss): say 'a tiny budget'. Release date: US Nov 25 (Box Office Mojo), some markets Nov 26. No stills, no actor likeness.",
+ "window": {
+  "notBefore": "2026-11-24T12:00:00Z",
+  "deadline": "2026-11-27T00:00:00Z",
+  "label": "Focker-In-Law (Meet the Parents 4) opens in US cinemas",
+  "suggestedSlot": "2026-11-25T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Robert De Niro",
+  "Ben Stiller",
+  "Greg Glienna"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

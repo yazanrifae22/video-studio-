@@ -1,0 +1,57 @@
+{
+  "channel": "tech",
+  "audience": "General Shorts viewers",
+  "format": "short",
+  "durationSec": 35,
+  "estCostUsd": 0,
+  "spare": false,
+  "run": 240,
+  "researchDate": "2026-10-25",
+  "brief": "Owner ideas from YouTube Studio advice, 2026-10-25; docs/run240-protocol.md Engagement enhancements v2",
+  "enhancements": "v2",
+  "window": null,
+  "newsPeg": null,
+  "competitors": [],
+  "title": "Why AI Voices Still Can't Laugh or Whisper Right",
+  "topic": "Text-to-speech handles words well but non-verbal sounds like laughs, breaths and sighs are harder: research cites scarce, clean training data.",
+  "hook": "AI can read a book aloud. But ask it to laugh.",
+  "twist": "Nearly all training data is clean speech; laughs and breaths are rare and messy, so models fake them.",
+  "pinnedComment": "Can you spot an AI voice by its laugh, or is it already perfect? 👇",
+  "commentPrompt": "Real laugh or AI laugh: which would you trust more?",
+  "loop": "So... would you notice a fake laugh?",
+  "difficulty": 2,
+  "category": "AI quirk",
+  "sources": [
+    {
+      "label": "arXiv 2507.13155 - NonverbalTTS corpus",
+      "url": "https://arxiv.org/pdf/2507.13155",
+      "accessed": "2026-10-25"
+    },
+    {
+      "label": "arXiv 2305.12442 - laughter synthesis",
+      "url": "https://ar5iv.labs.arxiv.org/html/2305.12442",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "weaknesses": "Whispering: no paper found measuring TTS whisper failures; either drop it or find a source on script day. 'Still can't' is strong: say 'often sound off' and name no vendor.",
+  "scores": {
+    "demand": 4,
+    "competitionGap": 4,
+    "visualPotential": 3,
+    "productionEase": 4,
+    "policyRisk": 1
+  },
+  "evidence": [
+    {
+      "claim": "arXiv 2507.13155 - NonverbalTTS corpus (accessed 2026-10-25)",
+      "url": "https://arxiv.org/pdf/2507.13155"
+    },
+    {
+      "claim": "arXiv 2305.12442 - laughter synthesis (accessed 2026-10-25)",
+      "url": "https://ar5iv.labs.arxiv.org/html/2305.12442"
+    }
+  ],
+  "whyCare": "Owner idea from YouTube Studio advice",
+  "angle": "AI can read a book aloud. But ask it to laugh.",
+  "strengths": "Contradiction hook, pick-a-side comment, debate loop (v2)"
+}

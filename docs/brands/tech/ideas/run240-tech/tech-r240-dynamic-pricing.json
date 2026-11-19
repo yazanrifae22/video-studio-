@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "Same Cart, New Price: Why Online Prices Move",
+ "topic": "Shop software reprices automatically, often many times a day; you looking is rarely the trigger, the algorithm is.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Singles' Day Nov 11 = world's biggest online sale day (Wikipedia); price-change complaints spike in BF season. Shorts demand proven (3.1M).",
+ "evidence": [
+  {
+   "claim": "FTC surveillance-pricing 6(b) study (Jan 17 2025): intermediaries help 250+ retailers set prices algorithmically from personal data (law-firm summary; ftc.gov bot-blocks scripts) (accessed 2026-10-24)",
+   "url": "https://www.mccarter.com/insights/ftc-surveillance-pricing-study-finds-personal-data-is-used-to-set-individualized-consumer-prices-and-generate-higher-profits-for-companies/"
+  },
+  {
+   "claim": "Dynamic pricing: definition and e-commerce examples (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Dynamic_pricing"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Dynamic Pricing Is Insane",
+   "url": "https://youtube.com/shorts/dA2JwKIGpYI",
+   "views": "3.1M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Dynamic Pricing Hits Walmart",
+   "url": "https://youtube.com/shorts/M4xkPN-yttc",
+   "views": "120K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Same cart. New price. Why?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Shop software reprices automatically, often many times a day; you looking is rarely the trigger, the algorithm is. Loop ending: re-ask the hook.",
+ "hook": "Same cart. New price. Why?",
+ "twist": "Shop software reprices automatically, often many times a day; you looking is rarely the trigger, the algorithm is.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-11",
+  "deadline": "2026-11-27",
+  "event": "Singles' Day (11.11) and the start of the Black Friday sales season"
+ },
+ "newsPeg": "Singles' Day (11.11) and the start of the Black Friday sales season",
+ "suggestedSlot": "2026-11-11 15:00 UTC",
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 60,
+ "score10": 7.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

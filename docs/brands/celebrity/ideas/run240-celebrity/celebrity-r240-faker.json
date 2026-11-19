@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Worlds Final: Why Faker Turned Down $20 Million",
+ "topic": "T1's CEO said a $20M bid was put to Faker and he turned it down to stay with T1; he has also described refusing a blank cheque.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: League of Legends World Championship final, Barclays Center, New York (2026-11-14). Wikipedia Faker_(gamer) 28,294 views Sept 2026.",
+ "hook": "$20 million offer. He said no?",
+ "twist": "T1's CEO said a $20M bid was put to Faker and he turned it down to stay with T1; he has also described refusing a blank cheque.",
+ "peg": {
+  "event": "League of Legends World Championship final, Barclays Center, New York",
+  "date": "2026-11-14",
+  "url": "https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship_final",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "GGRecon - Faker was offered $20 million a year to move to China (accessed 2026-10-24)",
+   "url": "https://www.ggrecon.com/articles/faker-offered-20-million-a-year-to-move-to-china/"
+  },
+  {
+   "claim": "Dot Esports - Faker earnings (accessed 2026-10-24)",
+   "url": "https://dotesports.com/league-of-legends/news/faker-earnings-league-of-legends"
+  },
+  {
+   "claim": "Fragster - Faker reportedly turned down a million-dollar LPL proposal (accessed 2026-10-24)",
+   "url": "https://www.fragster.com/faker-reportedly-turned-down-a-million-dollar-proposal-from-lpl/"
+  },
+  {
+   "claim": "Peg source: League of Legends World Championship final, Barclays Center, New York (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/2026_League_of_Legends_World_Championship_final"
+  },
+  {
+   "claim": "Wikimedia pageviews Faker_(gamer): 28294 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Faker_(gamer)&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "GGRecon - Faker was offered $20 million a year to move to China",
+   "url": "https://www.ggrecon.com/articles/faker-offered-20-million-a-year-to-move-to-china/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Dot Esports - Faker earnings",
+   "url": "https://dotesports.com/league-of-legends/news/faker-earnings-league-of-legends",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Fragster - Faker reportedly turned down a million-dollar LPL proposal",
+   "url": "https://www.fragster.com/faker-reportedly-turned-down-a-million-dollar-proposal-from-lpl/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "He Turned Down $20 Million A Year…😳 | League of Legends",
+   "url": "https://youtube.com/shorts/mHjJkBT4HSA",
+   "views": 1300,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Faker turned down $20M to play in China",
+   "url": "https://youtube.com/shorts/uqNTg2KStHg",
+   "views": 190000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "FAKER IS WINNING WORLDS AGAIN #leagueoflegends  #midbeast  #shorts",
+   "url": "https://youtube.com/shorts/12yLayH035U",
+   "views": 37000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a cheque for $20,000,000 being slid across a desk + hook. Twist: he slid it back. Loop: 'Would you?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Offer sizes vary by outlet ($10M-$20M); attribute $20M to T1 CEO Joe Marsh and say 'reportedly'. Blank cheque came from a North American team (his TV account). Works whether or not T1 reach the final - check finalists Nov 9. No Riot/T1 logos. A 190K-view Short already uses this angle: differentiate with the Worlds peg.",
+ "window": {
+  "notBefore": "2026-11-12T12:00:00Z",
+  "deadline": "2026-11-15T06:00:00Z",
+  "label": "League of Legends World Championship final, Barclays Center, New York",
+  "suggestedSlot": "2026-11-14T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 2,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

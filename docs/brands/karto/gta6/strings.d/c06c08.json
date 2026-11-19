@@ -1,0 +1,114 @@
+{
+  "c06_fight1": {
+    "en": "FIGHT 1",
+    "ar": "الخناقة ١"
+  },
+  "c06_fight2": {
+    "en": "FIGHT 2",
+    "ar": "الخناقة ٢"
+  },
+  "c06_fight3": {
+    "en": "FIGHT 3",
+    "ar": "الخناقة ٣"
+  },
+  "c06_cheap": {
+    "en": "13 YEARS = CHEAP",
+    "ar": "١٣ سنة شغل = رخيصة"
+  },
+  "c06_every80": {
+    "en": "NEXT: EVERY GAME $80",
+    "ar": "بعدها: كل لعبة ٨٠ دولار"
+  },
+  "c06_smooth": {
+    "en": "SMOOTHNESS",
+    "ar": "النعومة"
+  },
+  "c06_fps": {
+    "en": "FPS",
+    "ar": "فريم/ث"
+  },
+  "c06_pro": {
+    "en": "PRO",
+    "ar": "‎PRO‎"
+  },
+  "c06_frames": {
+    "en": "FRAMES?",
+    "ar": "الفريمات؟"
+  },
+  "c06_butter": {
+    "en": "BUTTER",
+    "ar": "زبدة"
+  },
+  "c06_pcwait": {
+    "en": "NOT AT LAUNCH",
+    "ar": "مو وقت النزول"
+  },
+  "c06_wait": {
+    "en": "WAIT",
+    "ar": "استنّى"
+  },
+  "c06_years": {
+    "en": "YEARS",
+    "ar": "سنة"
+  },
+  "c07_ticker": {
+    "en": "GAME = DANGER?",
+    "ar": "لعبة = خطر؟"
+  },
+  "c07_live": {
+    "en": "LIVE",
+    "ar": "مباشر"
+  },
+  "c07_ban": {
+    "en": "BAN?",
+    "ar": "منع؟"
+  },
+  "c07_soon": {
+    "en": "COMING SOON",
+    "ar": "قريباً"
+  },
+  "c07_scotland": {
+    "en": "SCOTLAND",
+    "ar": "اسكتلندا"
+  },
+  "c07_thanks": {
+    "en": "THANKS FOR THE ADVERT!",
+    "ar": "شكراً عالدعاية!"
+  },
+  "c07_years20": {
+    "en": "20+ YEARS",
+    "ar": "+٢٠ سنة"
+  },
+  "c07_n_tv": {
+    "en": "TV SHOUTS",
+    "ar": "التلفزيون بيصرخ"
+  },
+  "c07_n_news": {
+    "en": "NEWSPAPERS",
+    "ar": "الجرايد"
+  },
+  "c07_n_shop": {
+    "en": "SHOP QUEUE",
+    "ar": "طابور المحل"
+  },
+  "c07_n_coin": {
+    "en": "MONEY",
+    "ar": "فلوس"
+  },
+  "c07_onbox": {
+    "en": "ON THE BOX",
+    "ar": "عالعلبة"
+  },
+  "c08_mviews": {
+    "en": "M VIEWS",
+    "ar": "مليون مشاهدة"
+  },
+  "c08_trailers": {
+    "en": "TRAILERS",
+    "ar": "تريلرات"
+  },
+  "c08_you": {
+    "en": "YOU",
+    "ar": "إنتو"
+  }
+}

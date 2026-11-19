@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Excel Thinks Feb 29, 1900 Existed",
+ "topic": "It wasn't, but Excel says yes: it copied a Lotus 1-2-3 bug on purpose so old spreadsheets kept the same dates.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Checkable in 5 seconds; no Short on the bug itself (only leap-year formula tutorials).",
+ "evidence": [
+  {
+   "claim": "Microsoft Learn: Excel incorrectly assumes 1900 is a leap year (Lotus 1-2-3 compatibility) (accessed 2026-10-24)",
+   "url": "https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year"
+  },
+  {
+   "claim": "Joel Spolsky, 'My First BillG Review' (the 1900 bug story) (accessed 2026-10-24)",
+   "url": "https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How to Know if a Year is a Leap Year in Excel",
+   "url": "https://youtube.com/shorts/5xrv3AB6Tps",
+   "views": "2.7K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Was 1900 a leap year? Ask Excel.') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: It wasn't, but Excel says yes: it copied a Lotus 1-2-3 bug on purpose so old spreadsheets kept the same dates. Loop ending: re-ask the hook.",
+ "hook": "Was 1900 a leap year? Ask Excel.",
+ "twist": "It wasn't, but Excel says yes: it copied a Lotus 1-2-3 bug on purpose so old spreadsheets kept the same dates.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-17 18:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 2038 and clock-change Shorts (date bugs); MEDIUM with Excel genes.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 36,
+ "score10": 8.0,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

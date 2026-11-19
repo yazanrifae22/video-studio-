@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "Before Kung Fu Fame, Bruce Lee Won a Cha-Cha Title",
+ "topic": "In 1958, aged 18, Bruce Lee won Hong Kong's Crown Colony Cha-Cha Championship; he reportedly knew more than 100 steps and gave cha-cha lessons on the ship to America.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Bruce Lee born 27 Nov 1940 (2026-11-27). Wikipedia Bruce_Lee 194,637 views Sept 2026.",
+ "hook": "Bruce Lee's first title? Dancing.",
+ "twist": "In 1958, aged 18, Bruce Lee won Hong Kong's Crown Colony Cha-Cha Championship; he reportedly knew more than 100 steps and gave cha-cha lessons on the ship to America.",
+ "peg": {
+  "event": "Bruce Lee born 27 Nov 1940",
+  "date": "2026-11-27",
+  "url": "https://en.wikipedia.org/wiki/Bruce_Lee",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "HistoryLink - Lee, Bruce (1940-1973) (accessed 2026-10-24)",
+   "url": "https://historylink.org/File/3999"
+  },
+  {
+   "claim": "Dangerous Minds - Bruce Lee, the 1958 Hong Kong cha-cha champion (accessed 2026-10-24)",
+   "url": "https://dangerousminds.net/movies/bruce-lee-the-1958-hong-kong-cha-cha-champion/"
+  },
+  {
+   "claim": "Martial Arts Entertainment - The Bruce Lee story (accessed 2026-10-24)",
+   "url": "https://www.martialartsentertainment.com/bruce-lee/"
+  },
+  {
+   "claim": "Peg source: Bruce Lee born 27 Nov 1940 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Bruce_Lee"
+  },
+  {
+   "claim": "Wikimedia pageviews Bruce_Lee: 194637 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Bruce_Lee&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "HistoryLink - Lee, Bruce (1940-1973)",
+   "url": "https://historylink.org/File/3999",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Dangerous Minds - Bruce Lee, the 1958 Hong Kong cha-cha champion",
+   "url": "https://dangerousminds.net/movies/bruce-lee-the-1958-hong-kong-cha-cha-champion/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Martial Arts Entertainment - The Bruce Lee story",
+   "url": "https://www.martialartsentertainment.com/bruce-lee/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Bruce Lee dances the cha cha dance",
+   "url": "https://youtube.com/shorts/k7bMcgwOLI4",
+   "views": 30000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bruce Lee cha cha champion #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Bruce Lee the Cha Cha Champion showing off his dance moves",
+   "url": "https://youtube.com/shorts/v-ELiitMnCM",
+   "views": 3100,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bruce Lee cha cha champion #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Bruce Lee – The Cha-Cha Champion! 💃🥋 #BruceLee #HiddenTalent #shorts",
+   "url": "https://youtube.com/shorts/i01FaY3Nunk",
+   "views": 26000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bruce Lee cha cha champion #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A small dance trophy on a dojo floor next to nunchaku-free practice pads + hook. Twist by 2.5 s. Loop: 'So what was Bruce Lee's first title?'",
+ "cta": "C2+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Ship lessons are single-source: say 'reportedly'. Boxing-title year conflicts (1957/58): skip it. No likeness, no death details.",
+ "window": {
+  "notBefore": "2026-11-26T12:00:00Z",
+  "deadline": "2026-11-29T00:00:00Z",
+  "label": "Bruce Lee born 27 Nov 1940",
+  "suggestedSlot": "2026-11-27T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Bruce Lee"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

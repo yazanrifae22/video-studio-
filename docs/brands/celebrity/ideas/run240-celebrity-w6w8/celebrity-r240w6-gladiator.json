@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Gladiator Won Best Picture. Its Script Wasn't Finished",
+ "topic": "When Gladiator started shooting in early 1999 the script wasn't done; William Nicholson was brought in and scenes were reworked during the shoot. It won Best Picture.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Ridley Scott turns 89 (2026-11-30). Wikipedia Gladiator_(2000_film) 100,939 views Sept 2026.",
+ "hook": "An epic with no finished script?",
+ "twist": "When Gladiator started shooting in early 1999 the script wasn't done; William Nicholson was brought in and scenes were reworked during the shoot. It won Best Picture.",
+ "peg": {
+  "event": "Ridley Scott turns 89",
+  "date": "2026-11-30",
+  "url": "https://en.wikipedia.org/wiki/Ridley_Scott",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Gladiator (2000 film) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Gladiator_(2000_film)"
+  },
+  {
+   "claim": "Filmink - 10 fascinating facts about Gladiator (accessed 2026-10-24)",
+   "url": "https://www.filmink.com.au/10-fascinating-facts-about-the-film-gladiator/"
+  },
+  {
+   "claim": "Empire (via PressReader) - Into the battle (accessed 2026-10-24)",
+   "url": "https://www.pressreader.com/uk/empire-uk/20200601/282982517098561"
+  },
+  {
+   "claim": "Peg source: Ridley Scott turns 89 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Ridley_Scott"
+  },
+  {
+   "claim": "Wikimedia pageviews Gladiator_(2000_film): 100939 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Gladiator_(2000_film)&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Gladiator (2000 film)",
+   "url": "https://en.wikipedia.org/wiki/Gladiator_(2000_film)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Filmink - 10 fascinating facts about Gladiator",
+   "url": "https://www.filmink.com.au/10-fascinating-facts-about-the-film-gladiator/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Empire (via PressReader) - Into the battle",
+   "url": "https://www.pressreader.com/uk/empire-uk/20200601/282982517098561",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "\"Gladiator's Script Wasn't Ready for Filming! \" #Shorts",
+   "url": "https://youtube.com/shorts/6l1hrC_5Iik",
+   "views": 1000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Gladiator script unfinished filming #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Russell Crowe Reveals How He Changed The Gladiator Script 🎬😲 #shorts",
+   "url": "https://youtube.com/shorts/-jY7fsMu7kk",
+   "views": 88000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Gladiator script unfinished filming #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Russell Crowe Had NO Script While Filming Gladiator 😳",
+   "url": "https://youtube.com/shorts/RzXlqrAn9ww",
+   "views": 34000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Gladiator script unfinished filming #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A gladiator helmet resting on a script with blank pages + hook. Twist by 2.5 s. Loop: 'An unfinished script won Best Picture. Would you have bet on it?'",
+ "cta": "C2+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "No source says 'rewritten daily': say 'reworked during the shoot'. Avoid Crowe quotes. No stills, no likeness: an empty arena and a blank script page.",
+ "window": {
+  "notBefore": "2026-11-29T12:00:00Z",
+  "deadline": "2026-12-03T00:00:00Z",
+  "label": "Ridley Scott turns 89",
+  "suggestedSlot": "2026-12-01T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Ridley Scott",
+  "Russell Crowe"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

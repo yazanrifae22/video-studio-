@@ -1,0 +1,114 @@
+Why GTA 6 Took 13 Years (A Teenager Hacked It With a Hotel TV)
+HOOK TEXT ON SCREEN: 13 YEARS. 1 GAME.
+
+--- 13 years ---
+[l001] KARTO: Thirteen years. One game. Grand Theft Auto Six.
+[l002] SKIP: Thirteen years for a game? Cool story. I am skipping.
+[l003] KARTO: A teenager broke into it. From a hotel room. Using the TV.
+[l004] SKIP: Wait. The TV?
+[l005] KARTO: If the estimates are right, it may have cost more than any film ever made. It was delayed twice. And launch week, the whole internet started fighting about it.
+[l006] KARTO: You do not need to play games to love this story. It is about waiting, money, and one very bad night for a hotel TV.
+[l007] KARTO: Seven pieces. The wait. The money. The hacker. The trailer. The delays. The price. And the panic.
+[l008] KARTO: Every piece you survive without skipping, you get a stamp. Seven stamps is a full card.
+[l009] SKIP: And what do I win?
+[l010] KARTO: Nothing. It is cardboard.
+[l011] SKIP: Fine. One piece. Go.
+--- Piece 1: The wait ---
+[l012] KARTO: Piece one. The wait. September, twenty thirteen. Grand Theft Auto Five comes out.
+[l013] KARTO: Look at the world that day. The iPhone five S is still three days away from the shops. And TikTok does not exist.
+[l014] SKIP: No TikTok? What did people do all day?
+[l015] KARTO: They watched six-second videos on an app called Vine. Then Vine died. That is how long ago this was.
+[l016] KARTO: A kid who was ten years old that day is twenty-three now. He finished school and got a job.
+[l017] SKIP: And still no new game.
+[l018] KARTO: Still no new game. In those same years, the big football game put out a new version every single year.
+[l019] KARTO: Rockstar, the company behind Grand Theft Auto, put out just one other giant new game in those years. So here is the real question. Why would anyone sit on the most wanted sequel on Earth for thirteen years?
+[l020] SKIP: Nobody is that slow. What were they doing?
+[l021] KARTO: They did not need to hurry. Piece two shows why.
+--- Piece 2: The money ---
+[l022] KARTO: Piece two. The money. Grand Theft Auto Five made eight hundred million dollars on its first day.
+[l023] SKIP: In one day?
+[l024] KARTO: One day. By day three it passed one billion. Faster than any film, any album, any game before it.
+[l025] KARTO: Then it did something strange. It never stopped. It has sold more than two hundred million copies.
+[l026] KARTO: They even sold the same game again on three generations of consoles.
+[l027] SKIP: The same game. Three times. And people bought it?
+[l028] KARTO: People bought it. And here is the real trick. The game has an online city. In that city, players buy pretend money with real money.
+[l029] SKIP: They pay real money for fake money?
+[l030] KARTO: Year after year, for more than a decade. So ask yourself. If your old game still prints money every morning, how fast do you run to replace it?
+[l031] SKIP: I would walk. Slowly.
+[l032] KARTO: They walked slowly. And that slow walk built a monster. Nobody outside knows the real cost. Analysts and rumours say between one and two billion dollars.
+[l033] KARTO: That number is a guess, so I am marking it with tape. The company has never given its own number. But even the low guess makes it one of the most expensive things ever made for a screen.
+[l034] SKIP: Okay. Two stamps. But you promised me a hotel TV.
+[l035] KARTO: Piece three.
+--- Piece 3: The hacker ---
+[l036] KARTO: Piece three. The hacker. September, twenty twenty-two. A Sunday.
+[l037] KARTO: Ninety video clips of the secret, unfinished game appear on a fan forum. Nobody outside the company was supposed to see any of it.
+[l038] KARTO: Inside the company, a message appears in the staff chat. It is from the thief. Talk to me within twenty-four hours, or I start releasing the game's code.
+[l039] SKIP: So who was it? A spy agency?
+[l040] KARTO: A teenager from England. Part of a hacker group called Lapsus. And here is the part nobody believes.
+[l041] KARTO: He had already been arrested, for hacking other giant companies. The police had taken his laptop. He was staying in a hotel, with no computer.
+[l042] SKIP: So how do you hack anything with no computer?
+[l043] KARTO: The room had a TV. He got a streaming stick, the little thing you plug in to watch shows. He plugged it in and added a phone.
+[l044] KARTO: And from that hotel TV, he broke into one of the best-guarded secrets in gaming.
+[l045] SKIP: With the thing I use to watch cartoons.
+[l046] KARTO: With the thing you use to watch cartoons. The company told the court that cleaning up cost five million dollars and thousands of hours of work.
+[l047] KARTO: In twenty twenty-three, a court found he did it. Doctors said he was too unwell for a normal trial, so a judge sent him to a secure hospital.
+[l047a] KARTO: This year he was let out of the hospital. And this month, days before the game finally came out, he stood in court and pleaded guilty.
+[l048] SKIP: That got dark.
+[l049] KARTO: It did. And here is the twist. The leak that was supposed to hurt the game made the whole world want it more.
+--- Piece 4: The trailer ---
+[l050] KARTO: Piece four. The trailer. December, twenty twenty-three. The first official trailer is ready. And it leaks. Again.
+[l051] SKIP: Do these people own a lock?
+[l052] KARTO: So the company gives up and posts it early. A minute and a half. No release date. Just one number at the end. Twenty twenty-five.
+[l053] KARTO: On its first day it was watched ninety-three million times on YouTube.
+[l054] SKIP: Views are cheap. Is that actually a lot?
+[l055] KARTO: At that time, only music videos had ever had a bigger first day on YouTube.
+[l056] KARTO: Then came trailer two. May, twenty twenty-five. It was reported at four hundred and seventy-five million views in one day, across every platform.
+[l057] SKIP: For an advert.
+[l058] KARTO: For an advert. For a game nobody could buy yet. People were not watching a trailer. They were checking if the wait was almost over.
+[l059] KARTO: But there was one problem. The trailer said twenty twenty-five.
+[l060] SKIP: And it did not come out in twenty twenty-five.
+--- Piece 5: The delays ---
+[l061] KARTO: Piece five. The delays.
+[l062] KARTO: May, twenty twenty-five. The company moves it. New date: May twenty-sixth, twenty twenty-six. They say they need the time to reach the quality you expect.
+[l063] SKIP: One delay. Fine. That happens.
+[l064] KARTO: November, twenty twenty-five. They move it again. New date: November nineteenth, twenty twenty-six.
+[l065] SKIP: Twice? Okay, this piece is slow. Skipping.
+[l066] KARTO: Do not touch that button. Every time this game moved, other companies had to think about moving their own games out of the way.
+[l067] KARTO: Nobody wants to open a lemonade stand next to a volcano.
+[l068] SKIP: So. Thirteen years, two delays, one hacked TV. It finally comes out. Everybody is happy. The end?
+[l069] KARTO: You sweet little sticky note. No. Now they fight.
+--- Piece 6: The price ---
+[l070] KARTO: Piece six. The price. For years, a big game cost sixty dollars. Then seventy.
+[l071] KARTO: This one: seventy-nine dollars and ninety-nine cents.
+[l072] SKIP: Eighty dollars? For one game?
+[l073] KARTO: Fight number one. One side says: thirteen years of work, eighty is cheap. The other side says: if this one gets away with it, every game will cost eighty.
+[l074] KARTO: Fight number two. Smoothness. Many players want sixty frames per second. Rockstar confirmed the game runs at thirty. One of its directors said even the most powerful PlayStation is not powerful enough for more.
+[l075] SKIP: Explain frames like I am paper.
+[l076] KARTO: You are paper. A game is a flip book. Thirty pages a second looks fine. Sixty looks like butter. And people paid extra for a console that promises butter.
+[l077] KARTO: Fight number three. If you play on a computer, there is no version for you at launch. You wait. Again.
+[l078] SKIP: So they waited thirteen years to be told to wait.
+[l079] KARTO: Now you understand gaming.
+[l080] SKIP: Okay, but my mum says this game is bad for me.
+[l081] KARTO: Your mum is piece seven.
+--- Piece 7: The panic ---
+[l082] KARTO: Piece seven. The panic. Days before this launch, a TV host said the game is not a good thing for our culture and society. The internet roasted her.
+[l083] KARTO: But here is the secret. This fight is as old as GTA itself. And the first time, the game's own publisher started it on purpose.
+[l084] SKIP: On purpose?
+[l085] KARTO: Nineteen ninety-seven. Scotland. A small studio makes the first Grand Theft Auto. Tiny cars, seen from above. Almost nobody cares.
+[l086] KARTO: So the publisher brings in a famous publicist. He makes sure the newspapers hear the scariest version of the game.
+[l087] KARTO: It works. Months before the game reaches the shops, politicians in the British parliament are talking about banning it.
+[l088] SKIP: And then everybody bought it.
+[l089] KARTO: And then everybody bought it. Since then, the same fight comes back with every release. Somebody on TV says it will ruin the youth. The youth says: thanks for the advert.
+[l090] KARTO: Scientists have studied this for more than twenty years. The big reviews say there is not enough evidence that these games cause real-world violence.
+[l091] KARTO: But it is a game made for adults. It says so on the box. That part, your mum has right.
+[l092] SKIP: Do not tell her I said that.
+--- Full card ---
+[l093] KARTO: Seven stamps. Full card. Thirteen years. Maybe more than a billion dollars. One hotel TV. Two delays. And one very old trick.
+[l094] KARTO: So was it worth it? Thirteen years of trailers say yes. Eighty dollars says: ask your wallet.
+[l095] SKIP: Hold on. I have a question.
+[l096] KARTO: You? You wanted to skip.
+[l097] SKIP: If this one took thirteen years, when is the next one? Twenty thirty-nine? I will be old. I will be recycled.
+[l098] KARTO: That one I cannot answer. But they can. Is any game worth eighty dollars and a thirteen-year wait? Tell Skip he is wrong.
+[l099] SKIP: I am never wrong. I am yellow.
+[l100] KARTO: How many of the seven did you guess before Karto said it? Write your score out of seven.
+END TEXT ON SCREEN: YOUR SCORE OUT OF 7?

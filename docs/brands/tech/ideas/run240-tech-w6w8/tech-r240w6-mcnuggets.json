@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "AI Drive-Thru Kept Adding McNuggets. Why?",
+ "topic": "Voice AI struggled with noise, accents and two people talking at once; it kept hearing 'add more'. McDonald's ended the IBM test in 2024.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Proven demand (337K Short, 3.3M long) but competitors are clip compilations, not the 'why'.",
+ "evidence": [
+  {
+   "claim": "AP via News4JAX (Jun 18 2024): McDonald's is ending its test run of AI-powered drive-thrus with IBM (accessed 2026-10-24)",
+   "url": "https://www.news4jax.com/business/2024/06/18/mcdonalds-is-ending-its-test-run-of-ai-powered-drive-thrus-with-ibm/"
+  },
+  {
+   "claim": "Museum of Failure: McDonald's AI drive-thru (viral order errors) (accessed 2026-10-24)",
+   "url": "https://museumoffailure.com/exhibition/mcdonalds-ai-failure"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Ranking The Funniest AI Drive-Thru Moments",
+   "url": "https://youtube.com/shorts/oEmmXkAHXtM",
+   "views": "337K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "I Tested AI Drive Thrus (long)",
+   "url": "https://www.youtube.com/watch?v=j1i-84ICREA",
+   "views": "3.3M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Ordered 1. AI added hundreds?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Voice AI struggled with noise, accents and two people talking at once; it kept hearing 'add more'. McDonald's ended the IBM test in 2024. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Ordered 1. AI added hundreds?",
+ "twist": "Voice AI struggled with noise, accents and two people talking at once; it kept hearing 'add more'. McDonald's ended the IBM test in 2024.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-02 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW with chevy-1 (5 days apart). Use 'hundreds of dollars of McNuggets' (exact 260 not confirmed by AP). No logos or real customers.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 12,
+ "score10": 8.9,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

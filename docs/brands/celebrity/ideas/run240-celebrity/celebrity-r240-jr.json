@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Who Shot J.R.? 83 Million Tuned In to Find Out",
+ "topic": "Dallas filmed the cliffhanger before choosing a culprit; the Nov 21, 1980 reveal drew about 83 million US viewers, a record until M*A*S*H.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: 'Who Done It' episode, 46th anniversary (Nov 21) (2026-11-21). Wikipedia Who_shot_J.R.? 9,348 views Sept 2026.",
+ "hook": "Who shot J.R.? Even writers didn't know.",
+ "twist": "Dallas filmed the cliffhanger before choosing a culprit; the Nov 21, 1980 reveal drew about 83 million US viewers, a record until M*A*S*H.",
+ "peg": {
+  "event": "'Who Done It' episode, 46th anniversary (Nov 21)",
+  "date": "2026-11-21",
+  "url": "https://en.wikipedia.org/wiki/Who_shot_J.R.%3F",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Who shot J.R.? (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Who_shot_J.R.%3F"
+  },
+  {
+   "claim": "MeTV - Who shot J.R.? by the numbers (accessed 2026-10-24)",
+   "url": "https://metv.com/lists/who-shot-jr-by-the-numbers"
+  },
+  {
+   "claim": "American Press - 35 years ago, Dallas fans found out (accessed 2026-10-24)",
+   "url": "https://americanpress.com/?p=126090"
+  },
+  {
+   "claim": "Peg source: 'Who Done It' episode, 46th anniversary (Nov 21) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Who_shot_J.R.%3F"
+  },
+  {
+   "claim": "Wikimedia pageviews Who_shot_J.R.?: 9348 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Who_shot_J.R.%3F&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Who shot J.R.?",
+   "url": "https://en.wikipedia.org/wiki/Who_shot_J.R.%3F",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "MeTV - Who shot J.R.? by the numbers",
+   "url": "https://metv.com/lists/who-shot-jr-by-the-numbers",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "American Press - 35 years ago, Dallas fans found out",
+   "url": "https://americanpress.com/?p=126090",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Dallas, Who shot JR",
+   "url": "https://youtube.com/shorts/RtY-Y6lqlSY",
+   "views": 27000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "1980 U.S.A Dallas Who Shot JR #shorts",
+   "url": "https://youtube.com/shorts/qFml_UeojxQ",
+   "views": 80,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Who Shot J.R.? The Ultimate TV Cliffhanger! #shorts",
+   "url": "https://youtube.com/shorts/2ML2OM9z9a8",
+   "views": 144,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a Stetson with a giant '?' and '1980' + hook. Twist: the answer didn't exist yet. Loop: 'Who shot J.R.? Now you know.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Fictional shooting: no gun shown (cowboy hat + question mark). Viewer count 83M (some say 90M). 'Writers didn't know' = 'hadn't settled on whodunit' (Wikipedia/MeTV): phrase carefully.",
+ "window": {
+  "notBefore": "2026-11-19T12:00:00Z",
+  "deadline": "2026-11-22T00:00:00Z",
+  "label": "'Who Done It' episode, 46th anniversary (Nov 21)",
+  "suggestedSlot": "2026-11-20T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

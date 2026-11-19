@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "Casablanca Was Rushed Out Because of a Real Invasion",
+ "topic": "Casablanca was previewed in Sept 1942 and set for 1943, but after Allied troops landed in North Africa on 8 Nov 1942, Warner Bros. premiered it in New York on 26 Nov to ride the headlines.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Casablanca premiered in New York, 26 Nov 1942 (2026-11-26). Wikipedia Casablanca_(film) 80,194 views Sept 2026.",
+ "hook": "A film rushed out… by a war?",
+ "twist": "Casablanca was previewed in Sept 1942 and set for 1943, but after Allied troops landed in North Africa on 8 Nov 1942, Warner Bros. premiered it in New York on 26 Nov to ride the headlines.",
+ "peg": {
+  "event": "Casablanca premiered in New York, 26 Nov 1942",
+  "date": "2026-11-26",
+  "url": "https://en.wikipedia.org/wiki/Casablanca_(film)",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Slashfilm - Casablanca's release was rushed to capitalize on real history (accessed 2026-10-24)",
+   "url": "https://slashfilm.com/1640516/casablanca-movie-release-history"
+  },
+  {
+   "claim": "Wikipedia - Casablanca (film) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Casablanca_(film)"
+  },
+  {
+   "claim": "Deep Roots - Casablanca is 70 (accessed 2026-10-24)",
+   "url": "https://deeprootsmag.org/2012/11/19/factoid-casablanca-is-70-2/"
+  },
+  {
+   "claim": "Peg source: Casablanca premiered in New York, 26 Nov 1942 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Casablanca_(film)"
+  },
+  {
+   "claim": "Wikimedia pageviews Casablanca_(film): 80194 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Casablanca_(film)&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Slashfilm - Casablanca's release was rushed to capitalize on real history",
+   "url": "https://slashfilm.com/1640516/casablanca-movie-release-history",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Casablanca (film)",
+   "url": "https://en.wikipedia.org/wiki/Casablanca_(film)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Deep Roots - Casablanca is 70",
+   "url": "https://deeprootsmag.org/2012/11/19/factoid-casablanca-is-70-2/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Casablanca (1942), dir. Michael Curtiz",
+   "url": "https://youtube.com/shorts/3wvqUGLy8cY",
+   "views": 3700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Casablanca movie release rushed 1942 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Casablanca (1942)  #movies  #movie  #casablancamorocco",
+   "url": "https://youtube.com/shorts/jIzElsMpPtQ",
+   "views": 152,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Casablanca movie release rushed 1942 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "He rigged his own roulette wheel to SAVE her | Casablanca (1942)  #moviefacts #shorts",
+   "url": "https://youtube.com/shorts/00iq-tueKag",
+   "views": 1200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Casablanca movie release rushed 1942 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A cinema marquee being rushed up beside a 1942 newspaper headline (generic text-free) + hook. Twist by 2.5 s. Loop: 'Would you release a film early for the headlines?'",
+ "cta": "C3+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Operation Torch landed at several places, not only Casablanca: say 'North Africa'. No film stills, no dialogue quotes, no actor likeness.",
+ "window": {
+  "notBefore": "2026-11-25T12:00:00Z",
+  "deadline": "2026-11-30T00:00:00Z",
+  "label": "Casablanca premiered in New York, 26 Nov 1942",
+  "suggestedSlot": "2026-11-28T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Warner Bros."
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

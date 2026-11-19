@@ -1,0 +1,108 @@
+{
+ "channel": "celebrity",
+ "title": "The First International Match Ever: 8 Strikers, 0 Goals",
+ "topic": "Scotland v England, 30 Nov 1872 in Glasgow, finished 0-0 in front of 4,000 people even though England fielded eight forwards; the Scots were all Queen's Park players.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: First official international, 30 Nov 1872 (154th anniversary, St Andrew's Day) (2026-11-30). Wikipedia 1872_Scotland_v_England_football_match 2,606 views Sept 2026.",
+ "hook": "Eight strikers. Zero goals. How?",
+ "twist": "Scotland v England, 30 Nov 1872 in Glasgow, finished 0-0 in front of 4,000 people even though England fielded eight forwards; the Scots were all Queen's Park players.",
+ "peg": {
+  "event": "First official international, 30 Nov 1872 (154th anniversary, St Andrew's Day)",
+  "date": "2026-11-30",
+  "url": "https://en.wikipedia.org/wiki/1872_Scotland_v_England_football_match",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - 1872 Scotland v England football match (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/1872_Scotland_v_England_football_match"
+  },
+  {
+   "claim": "Scottish Football Museum - The world's first football international (accessed 2026-10-24)",
+   "url": "https://www.scottishfootballmuseum.org.uk/news/scotland-v-england-the-world-s-first-football-international-fixture/"
+  },
+  {
+   "claim": "Open University - Match report, 1872 (accessed 2026-10-24)",
+   "url": "https://www.open.edu/openlearn/history-the-arts/history/match-report-england-v-scotland-1872"
+  },
+  {
+   "claim": "Peg source: First official international, 30 Nov 1872 (154th anniversary, St Andrew's Day) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/1872_Scotland_v_England_football_match"
+  },
+  {
+   "claim": "Wikimedia pageviews 1872_Scotland_v_England_football_match: 2606 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=1872_Scotland_v_England_football_match&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - 1872 Scotland v England football match",
+   "url": "https://en.wikipedia.org/wiki/1872_Scotland_v_England_football_match",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Scottish Football Museum - The world's first football international",
+   "url": "https://www.scottishfootballmuseum.org.uk/news/scotland-v-england-the-world-s-first-football-international-fixture/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Open University - Match report, 1872",
+   "url": "https://www.open.edu/openlearn/history-the-arts/history/match-report-england-v-scotland-1872",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "\"The First International Football Match in History: 1872 Scotland vs England\"",
+   "url": "https://youtube.com/shorts/0LnBci2afmg",
+   "views": 1400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"first international football match 1872 Scotland England #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "First International Football Match 1872: How Scotland's Secret Tactic Changed Sports FOREVER",
+   "url": "https://www.youtube.com/watch?v=bxWuWWZgKkk",
+   "views": 4308,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"first international football match 1872 Scotland England #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Birth of International Football: Scotland vs England, 1872",
+   "url": "https://www.youtube.com/watch?v=W3mMkC0SY3I",
+   "views": 441,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"first international football match 1872 Scotland England #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: An old leather ball on a cricket ground with '0-0' chalked on a board + hook. Twist by 2.5 s. Loop: 'Eight strikers and no goals. Who'd win today?'",
+ "cta": "C9+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Formation: England one back, one half-back, eight forwards (Wikipedia). Scots side 'all from Queen's Park' per Scottish Football Museum/Substack. No modern FA crests.",
+ "window": {
+  "notBefore": "2026-11-29T12:00:00Z",
+  "deadline": "2026-12-02T00:00:00Z",
+  "label": "First official international, 30 Nov 1872 (154th anniversary, St Andrew's Day)",
+  "suggestedSlot": "2026-11-30T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 2,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

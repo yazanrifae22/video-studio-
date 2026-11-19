@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Why Is Paste Ctrl+V, Not P?",
+ "topic": "Z, X, C, V sit side by side under your left hand: undo, cut, copy, paste. Xerox and Apple picked keys for reach, not letters; V even looks like an 'insert here' mark.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Everyone uses it daily; existing Shorts are memes/tutorials, not the reason.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: Cut, copy, and paste (Larry Tesler, Xerox PARC; Apple Lisa/Mac shortcuts) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Cut,_copy,_and_paste"
+  },
+  {
+   "claim": "Wikipedia: Larry Tesler (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Larry_Tesler"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "CTRL C vs CTRL V",
+   "url": "https://youtube.com/shorts/IU3UyI4-kvI",
+   "views": "109K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Shortcut keys ctrl+c copy ctrl+v paste (tutorial)",
+   "url": "https://youtube.com/shorts/sWUskuNWOQg",
+   "views": "142K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Copy is C. Why is paste V?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Z, X, C, V sit side by side under your left hand: undo, cut, copy, paste. Xerox and Apple picked keys for reach, not letters; V even looks like an 'insert here' mark. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Copy is C. Why is paste V?",
+ "twist": "Z, X, C, V sit side by side under your left hand: undo, cut, copy, paste. Xerox and Apple picked keys for reach, not letters; V even looks like an 'insert here' mark.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-07 22:00 UTC",
+ "novelty": {
+  "overlap": "none. 'V looks like a caret' is a common explanation, not documented: say 'it's said'.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 22,
+ "score10": 8.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

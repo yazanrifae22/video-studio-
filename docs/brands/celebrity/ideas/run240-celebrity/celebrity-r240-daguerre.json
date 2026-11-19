@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "The First Person Ever Photographed Never Knew It",
+ "topic": "Daguerre's 1838 exposure took minutes, so moving crowds vanished; a man standing still for a shoeshine became the first person in a photo.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Louis Daguerre born 18 Nov 1787 (2026-11-18). Wikipedia Louis_Daguerre 6,412 views Sept 2026.",
+ "hook": "Busy Paris street. Why only one man?",
+ "twist": "Daguerre's 1838 exposure took minutes, so moving crowds vanished; a man standing still for a shoeshine became the first person in a photo.",
+ "peg": {
+  "event": "Louis Daguerre born 18 Nov 1787",
+  "date": "2026-11-18",
+  "url": "https://en.wikipedia.org/wiki/Louis_Daguerre",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "History.com - The oldest known photograph of a person (accessed 2026-10-24)",
+   "url": "https://www.history.com/articles/oldest-known-photograph-person"
+  },
+  {
+   "claim": "Smithsonian - Where the first humans captured in a photograph stood (accessed 2026-10-24)",
+   "url": "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
+  },
+  {
+   "claim": "Guinness World Records - First photograph of a human (accessed 2026-10-24)",
+   "url": "https://www.guinnessworldrecords.com.br/world-records/107088-first-photograph-of-a-human"
+  },
+  {
+   "claim": "Peg source: Louis Daguerre born 18 Nov 1787 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Louis_Daguerre"
+  },
+  {
+   "claim": "Wikimedia pageviews Louis_Daguerre: 6412 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Louis_Daguerre&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "History.com - The oldest known photograph of a person",
+   "url": "https://www.history.com/articles/oldest-known-photograph-person",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Smithsonian - Where the first humans captured in a photograph stood",
+   "url": "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Guinness World Records - First photograph of a human",
+   "url": "https://www.guinnessworldrecords.com.br/world-records/107088-first-photograph-of-a-human",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The first human ever photographed… but who was he? 👀 #shorts",
+   "url": "https://youtube.com/shorts/Kpf_xBs8paM",
+   "views": 2700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Everyone Vanished From This 1838 Photo… Except One Man 📷",
+   "url": "https://youtube.com/shorts/GySh2SC1aNY",
+   "views": 5300,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The First Photograph of a Person Was Taken in Paris in 1838, No views - play Short",
+   "url": "https://youtube.com/shorts/G3vl25VC3GQ",
+   "views": null,
+   "verified": false,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: an empty sepia boulevard with one tiny figure circled + hook. Twist: everyone else moved. Loop: 'Spot him?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Exposure 5 to 10+ minutes: say 'several minutes'. Recreate as original illustration (the 1838 image is public domain but log it if used).",
+ "window": {
+  "notBefore": "2026-11-17T12:00:00Z",
+  "deadline": "2026-11-19T06:00:00Z",
+  "label": "Louis Daguerre born 18 Nov 1787",
+  "suggestedSlot": "2026-11-18T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

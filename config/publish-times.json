@@ -1,0 +1,120 @@
+{
+ "rankings": {
+  "audience_tz": "America/New_York",
+  "times": [
+   "16:00"
+  ],
+  "previous_times": [
+   "12:00",
+   "16:00",
+   "19:00"
+  ],
+  "source": "UNPAUSED 2026-11-08 (owner revival, docs/brands/rankings/revival-2026-11-08.md): 1/day to start, no bursts; 16:00 ET from the pre-pause grid. History: paused 2026-11-02 (last 10 median 59 views).",
+  "updated": "2026-11-08"
+ },
+ "clipping": {
+  "audience_tz": "America/New_York",
+  "times": [
+   "15:00"
+  ],
+  "source": "owner 2026-11-02: 1/day each (shared 6-uploads/day Google quota: PP 3, MV 1, TWIWM 1, celebrity rest); US Eastern default grid slot",
+  "data_through": "2026-10-26",
+  "updated": "2026-11-02",
+  "previous_times": [
+   "12:00",
+   "15:00",
+   "18:00",
+   "21:00"
+  ]
+ },
+ "compilations": {
+  "audience_tz": "America/New_York",
+  "times": [
+   "18:00"
+  ],
+  "source": "owner 2026-11-02: 1/day each (shared 6-uploads/day Google quota: PP 3, MV 1, TWIWM 1, celebrity rest); US Eastern default grid slot",
+  "data_through": "2026-10-26",
+  "updated": "2026-11-02",
+  "previous_times": [
+   "12:00",
+   "15:00",
+   "18:00",
+   "21:00"
+  ]
+ },
+ "quiz-ar": {
+  "audience_tz": "Asia/Riyadh",
+  "times": [
+   "12:00",
+   "15:00",
+   "18:00",
+   "21:00"
+  ],
+  "source": "default by language (only 0 country views; need 300)",
+  "data_through": "2026-10-26",
+  "updated": "2026-10-26",
+  "front_insert": true
+ },
+ "viral-rankings": {
+  "audience_tz": "America/New_York",
+  "times": [
+   "18:00"
+  ],
+  "source": "owner 2026-11-11: one video a day (was 4/day 12/15/18/21 ET since 2026-10-31); 18:00 US Eastern",
+  "data_through": null,
+  "updated": "2026-11-11",
+  "uploads_per_day": 3,
+  "front_insert": true,
+  "_front_insert_doc": "owner 2026-11-08: a newly approved video takes the earliest upcoming slot; the video holding it moves to the new video's plan slot (newest). scripts/youtube.ts frontSlot; --no-front disables per run."
+ },
+ "tech": {
+  "audience_tz": "Africa/Cairo",
+  "times": [
+   "19:00"
+  ],
+  "updated": "2026-11-03",
+  "previous_times_utc": [
+   "12:00",
+   "15:00",
+   "18:00",
+   "22:00"
+  ],
+  "source": "resumed 2026-11-03 (owner request, channel run): 1/day; top viewer country EG (1,000 of ~5.2K views 28d), then ID, US"
+ },
+ "celebrity": {
+  "audience_tz": "America/New_York",
+  "times": [
+   "09:00",
+   "13:00",
+   "17:00"
+  ],
+  "source": "UNPAUSED for publishing only 2026-11-02 (owner OK): 51 legacy approved videos, no new production. Audience (YouTube Analytics 90d): US 3489 views, IN 938, GB 552, PH 386, CA 378 -> US Eastern grid, mornings reach IN/GB. Upload cap ~2/day (shared quota, Podium Pop reserves 4/day); slots filled in order by scripts/youtube.ts upload-legacy. | REVIVED 2026-11-08 (owner): new celebrity:build productions 1/day at new_times 11:00 ET via publish-plan/upload; legacy queue keeps \"times\" via upload-legacy (docs/brands/celebrity/revival-2026-11-08.md).",
+  "data_through": "2026-11-02",
+  "updated": "2026-11-08",
+  "previous_times_utc": [
+   "13:00",
+   "16:00",
+   "19:00",
+   "23:00"
+  ],
+  "uploads_per_day": 1.5,
+  "new_times": [
+   "11:00"
+  ]
+ },
+ "kids": {
+  "audience_tz": "America/New_York",
+  "times": [
+   "10:00",
+   "16:00"
+  ],
+  "updated": "2026-11-08",
+  "previous_times_utc": [
+   "12:00",
+   "20:00"
+  ],
+  "source": "Tiko & Pip dropped by owner 2026-11-01; Made for Kids. All its videos are on YouTube.",
+  "uploads_per_day": 2,
+  "note": "Back 2026-11-02 (owner): Sunny Hill with Tiko & Pip series; uploads only approved episodes, Made for Kids | owner 2026-11-08: Sunny Hill Ep 6-15 twice a day from 2026-11-09 (17:00 + 23:00 Cairo = 10:00 + 16:00 New York), episode order = upload order (slots placed by episode number)."
+ }
+}

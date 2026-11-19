@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "Jumanji Started as a Picture Book With No Color",
+ "topic": "Before the films, Jumanji was Chris Van Allsburg's 1981 picture book of pencil drawings; it won the 1982 Caldecott Medal. Jumanji 3 opens Dec 11.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Jumanji 3 opens in US cinemas (2026-12-11). Wikipedia Jumanji 30,168 views Sept 2026.",
+ "hook": "Jumanji began… in black and white?",
+ "twist": "Before the films, Jumanji was Chris Van Allsburg's 1981 picture book of pencil drawings; it won the 1982 Caldecott Medal. Jumanji 3 opens Dec 11.",
+ "peg": {
+  "event": "Jumanji 3 opens in US cinemas",
+  "date": "2026-12-11",
+  "url": "https://www.boxofficemojo.com/calendar/2026-11-25/?area=CZ",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Britannica - Chris Van Allsburg (accessed 2026-10-24)",
+   "url": "https://www.britannica.com/print/article/1472076"
+  },
+  {
+   "claim": "Wikipedia - Chris Van Allsburg (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Chris_Van_Allsburg"
+  },
+  {
+   "claim": "Books of Wonder - Jumanji first edition (accessed 2026-10-24)",
+   "url": "https://booksofwonder.com/products/jumanji-1"
+  },
+  {
+   "claim": "Peg source: Jumanji 3 opens in US cinemas (accessed 2026-10-24)",
+   "url": "https://www.boxofficemojo.com/calendar/2026-11-25/?area=CZ"
+  },
+  {
+   "claim": "Wikimedia pageviews Jumanji: 30168 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Jumanji&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Britannica - Chris Van Allsburg",
+   "url": "https://www.britannica.com/print/article/1472076",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Chris Van Allsburg",
+   "url": "https://en.wikipedia.org/wiki/Chris_Van_Allsburg",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Books of Wonder - Jumanji first edition",
+   "url": "https://booksofwonder.com/products/jumanji-1",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "From Pages To Pictures - The Chris Van Allsburg Trilogy: Jumanji",
+   "url": "https://www.youtube.com/watch?v=RdSZlLAU8W0",
+   "views": 8849,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Jumanji original book Chris Van Allsburg #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "JUMANJI di Chris Van Allsburg",
+   "url": "https://www.youtube.com/watch?v=OoxDi4RgwVw",
+   "views": 825,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Jumanji original book Chris Van Allsburg #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Jumanji Is Very Different From The Book It’s Based On!",
+   "url": "https://www.youtube.com/watch?v=xTxpnkJdt4s",
+   "views": 1814,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Jumanji original book Chris Van Allsburg #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A grey pencil-drawn board game with one coloured die + hook. Twist by 2.5 s. Loop: 'Jumanji began as a black-and-white book. Did you know?'",
+ "cta": "C3+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Release date from Box Office Mojo (Dec 11): reconfirm. No film likeness, no book illustrations: draw our own grey-pencil board game.",
+ "window": {
+  "notBefore": "2026-12-08T12:00:00Z",
+  "deadline": "2026-12-13T00:00:00Z",
+  "label": "Jumanji 3 opens in US cinemas",
+  "suggestedSlot": "2026-12-09T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Chris Van Allsburg"
+ ],
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "karto-ar",
+ "name": "كرتو",
+ "format": "explainer",
+ "language": "ar",
+ "status": "test",
+ "audience": "General 16-45, Arabic (Syrian-leaning simple dialect)",
+ "positioning": "Owner 2026-11-18: the Arabic twin of Karto: same characters and picture, Arabic talk and on-screen words. One 16:9 long video (9+ min) + 5 Shorts cut from it.",
+ "data": {
+  "engine": "packages/cutout (film.json -> two-speaker TTS -> align -> show.json -> page capture -> mix -> master -> techqa; Shorts cut from the film)",
+  "docs": "docs/brands/karto/",
+  "cast": {
+   "karto": "host",
+   "skip": "viewer on screen"
+  }
+ }
+}

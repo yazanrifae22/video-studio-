@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Does the 'Close Door' Button Do Anything?",
+ "topic": "In many US lifts it's disabled in normal use: since 1990 disability rules require doors to stay open long enough; it works for firefighters with a key.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Proven 171K demand; our twist adds the firefighter key and the 'placebo button' idea.",
+ "evidence": [
+  {
+   "claim": "Big Think: 'I knew it!' The door close button does nothing (NYT 2016 reporting) (accessed 2026-10-24)",
+   "url": "https://bigthink.com/culture-religion/i-knew-it-the-door-close-button-does-nothing/"
+  },
+  {
+   "claim": "You Are Not So Smart: placebo buttons (elevators, crosswalks, thermostats) (accessed 2026-10-24)",
+   "url": "https://youarenotsosmart.com/2010/02/10/placebo-buttons/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Are elevator close door button fake?",
+   "url": "https://youtube.com/shorts/LIqLS3CoRYc",
+   "views": "171K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "your elevator close button is fake",
+   "url": "https://youtube.com/shorts/jpwyEqhKlg8",
+   "views": "13K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Pressing 'close door'. Does it work?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: In many US lifts it's disabled in normal use: since 1990 disability rules require doors to stay open long enough; it works for firefighters with a key. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Pressing 'close door'. Does it work?",
+ "twist": "In many US lifts it's disabled in normal use: since 1990 disability rules require doors to stay open long enough; it works for firefighters with a key.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-07 18:00 UTC",
+ "novelty": {
+  "overlap": "none. Not all lifts (varies by country/building): say 'many'.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 21,
+ "score10": 8.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

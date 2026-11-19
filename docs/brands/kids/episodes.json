@@ -1,0 +1,720 @@
+{
+ "_doc": "Sunny Hill series registry (brand kids). Read by packages/kids3d/src/series.ts during kids:build: episode number, topic, production id, thumbnail, next topic, recap words and the hero object. Ep numbers = upload order, never reused. Tokens: {actor: cow|pig|duck|sheep|horse|hen|tiko|pip} | {ball: '#hex'} | {apple: true} | {shape: circle|square|triangle|star|heart|rectangle|oval|diamond, color} | {pair: <token>} (big + small) | {text: 'word', color}. thumb_mark: the thumbnail mark ('?' for guessing games, '123', '@colours', '@shapes', or null). See docs/brands/kids/series-bible.md and episode-recipe.md section 6.",
+ "series": {
+  "name": "Sunny Hill with Tiko & Pip",
+  "short": "Sunny Hill",
+  "playlist": "Sunny Hill: All Episodes (in order)",
+  "season_size": 12,
+  "title_max": 70,
+  "voices": {
+   "narrator": {
+    "voice": "Leda",
+    "style": "Warm, gentle, playful preschool teacher talking to a toddler on her lap. Slow and very clear, smiling in the voice. Never loud."
+   },
+   "narrator_sing": {
+    "voice": "Leda",
+    "style": "Sing it softly as a short, bouncy children's show jingle, bright and smiling, gentle and slow, never loud. Keep a happy rhythm."
+   },
+   "tiko": {
+    "voice": "Puck",
+    "style": "A small, cheerful cartoon fox cub, young and bright, playful and friendly. Speak slowly and clearly for toddlers, with a big smile."
+   }
+  },
+  "lines": {
+   "jingle": "Sunny Hill, Sunny Hill, come and play!",
+   "catchphrase": "Up the hill, up the hill... Ready, friend? Boing!",
+   "recap_intro": "Let's sing what we learned!",
+   "next": "Next time on Sunny Hill: {next}!",
+   "ask": "Grown-ups, if you liked playing with us, you can subscribe so we can play again!",
+   "playlist_first": "Grown-ups, all our episodes are in the Sunny Hill playlist.",
+   "playlist": "Grown-ups, find {eps} in our Sunny Hill playlist.",
+   "bye": "See you on the hill!"
+  }
+ },
+ "episodes": [
+  {
+   "ep": 1,
+   "topic": "Animal Sounds",
+   "spoken": "Animal Sounds",
+   "production_id": "epis-261102-5p3a",
+   "thumb_mark": "?",
+   "search": "Farm Animals for Kids",
+   "hero": {
+    "actor": "cow"
+   },
+   "recap": [
+    {
+     "word": "Cow",
+     "token": {
+      "actor": "cow"
+     }
+    },
+    {
+     "word": "Pig",
+     "token": {
+      "actor": "pig"
+     }
+    },
+    {
+     "word": "Duck",
+     "token": {
+      "actor": "duck"
+     }
+    },
+    {
+     "word": "Sheep",
+     "token": {
+      "actor": "sheep"
+     }
+    },
+    {
+     "word": "Horse",
+     "token": {
+      "actor": "horse"
+     }
+    },
+    {
+     "word": "Hen",
+     "token": {
+      "actor": "hen"
+     }
+    }
+   ]
+  },
+  {
+   "ep": 2,
+   "topic": "Colours",
+   "spoken": "Colours",
+   "production_id": "epis-261102-d4ak",
+   "thumb_mark": "@colours",
+   "search": "Learn Colors for Toddlers",
+   "hero": {
+    "apple": true
+   },
+   "recap": [
+    {
+     "word": "Red",
+     "token": {
+      "ball": "#E5383B"
+     }
+    },
+    {
+     "word": "Orange",
+     "token": {
+      "ball": "#FF8C1A"
+     }
+    },
+    {
+     "word": "Yellow",
+     "token": {
+      "ball": "#FFD23F"
+     }
+    },
+    {
+     "word": "Green",
+     "token": {
+      "ball": "#3DBB5A"
+     }
+    },
+    {
+     "word": "Blue",
+     "token": {
+      "ball": "#2F7DE1"
+     }
+    },
+    {
+     "word": "Purple",
+     "token": {
+      "ball": "#9B5DE5"
+     }
+    }
+   ]
+  },
+  {
+   "ep": 3,
+   "topic": "Count to 10",
+   "spoken": "Counting",
+   "production_id": "epis-261102-2i5j",
+   "thumb_mark": "123",
+   "search": "Numbers for Toddlers",
+   "hero": {
+    "apple": true
+   },
+   "recap": [
+    {
+     "word": "One",
+     "token": {
+      "apple": true
+     }
+    },
+    {
+     "word": "Two",
+     "token": {
+      "apple": true
+     }
+    },
+    {
+     "word": "Three",
+     "token": {
+      "apple": true
+     }
+    },
+    {
+     "word": "Four",
+     "token": {
+      "apple": true
+     }
+    },
+    {
+     "word": "Five",
+     "token": {
+      "apple": true
+     }
+    },
+    {
+     "word": "Six",
+     "token": {
+      "apple": true
+     }
+    },
+    {
+     "word": "Seven",
+     "token": {
+      "apple": true
+     }
+    },
+    {
+     "word": "Eight",
+     "token": {
+      "apple": true
+     }
+    },
+    {
+     "word": "Nine",
+     "token": {
+      "apple": true
+     }
+    },
+    {
+     "word": "Ten",
+     "token": {
+      "apple": true
+     }
+    }
+   ]
+  },
+  {
+   "ep": 4,
+   "topic": "Shapes",
+   "spoken": "Shapes",
+   "production_id": "epis-261102-4j9x",
+   "thumb_mark": "@shapes",
+   "search": "Learn Shapes for Toddlers",
+   "hero": {
+    "shape": "star",
+    "color": "#FFC93C"
+   },
+   "recap": [
+    {
+     "word": "Circle",
+     "token": {
+      "shape": "circle",
+      "color": "#2F7DE1"
+     }
+    },
+    {
+     "word": "Square",
+     "token": {
+      "shape": "square",
+      "color": "#3DBB5A"
+     }
+    },
+    {
+     "word": "Triangle",
+     "token": {
+      "shape": "triangle",
+      "color": "#FF7A45"
+     }
+    },
+    {
+     "word": "Star",
+     "token": {
+      "shape": "star",
+      "color": "#FFC93C"
+     }
+    },
+    {
+     "word": "Heart",
+     "token": {
+      "shape": "heart",
+      "color": "#E5383B"
+     }
+    }
+   ]
+  },
+  {
+   "ep": 5,
+   "topic": "Big and Small",
+   "spoken": "Big and Small",
+   "production_id": "epis-261108-djxc",
+   "thumb_mark": null,
+   "search": "Toddler Opposites",
+   "hero": {
+    "pair": {
+     "ball": "#FF7A45"
+    }
+   },
+   "recap": [
+    {
+     "word": "Big",
+     "token": {
+      "ball": "#FF7A45",
+      "scale": 1.4
+     }
+    },
+    {
+     "word": "Small",
+     "token": {
+      "ball": "#FF7A45",
+      "scale": 0.55
+     }
+    },
+    {
+     "word": "Big",
+     "token": {
+      "actor": "cow"
+     }
+    },
+    {
+     "word": "Small",
+     "token": {
+      "actor": "duck"
+     }
+    }
+   ]
+  },
+  {
+   "ep": 6,
+   "topic": "Brush Your Teeth",
+   "spoken": "Brush Your Teeth",
+   "production_id": "epis-261108-9if1",
+   "search": "Toothbrushing Song for Kids",
+   "hero": {
+    "text": "Brush!",
+    "color": "#2EC4B6"
+   },
+   "recap": [
+    {
+     "word": "Top",
+     "token": {
+      "text": "Top",
+      "color": "#2EC4B6"
+     }
+    },
+    {
+     "word": "Bottom",
+     "token": {
+      "text": "Bottom",
+      "color": "#FF7A45"
+     }
+    },
+    {
+     "word": "Front",
+     "token": {
+      "text": "Front",
+      "color": "#8E5CF7"
+     }
+    },
+    {
+     "word": "Back",
+     "token": {
+      "text": "Back",
+      "color": "#E94F64"
+     }
+    }
+   ],
+   "thumb_mark": null
+  },
+  {
+   "ep": 7,
+   "topic": "ABC: A to E",
+   "spoken": "A, B, C",
+   "production_id": "epis-261108-kwd1",
+   "search": "Letters for Toddlers",
+   "hero": {
+    "text": "ABC",
+    "color": "#FF7A45"
+   },
+   "recap": [
+    {
+     "word": "A",
+     "token": {
+      "text": "A",
+      "color": "#FF7A45"
+     }
+    },
+    {
+     "word": "B",
+     "token": {
+      "text": "B",
+      "color": "#2EC4B6"
+     }
+    },
+    {
+     "word": "C",
+     "token": {
+      "text": "C",
+      "color": "#8E5CF7"
+     }
+    },
+    {
+     "word": "D",
+     "token": {
+      "text": "D",
+      "color": "#FFD23F"
+     }
+    },
+    {
+     "word": "E",
+     "token": {
+      "text": "E",
+      "color": "#E94F64"
+     }
+    }
+   ],
+   "thumb_mark": null
+  },
+  {
+   "ep": 8,
+   "topic": "Feelings",
+   "spoken": "Feelings",
+   "production_id": "epis-261108-a82b",
+   "search": "Feelings for Toddlers",
+   "hero": {
+    "shape": "heart",
+    "color": "#FF9EB5"
+   },
+   "recap": [
+    {
+     "word": "Happy",
+     "token": {
+      "text": "Happy",
+      "color": "#FFD23F"
+     }
+    },
+    {
+     "word": "Surprised",
+     "token": {
+      "text": "Surprised",
+      "color": "#FF7A45"
+     }
+    },
+    {
+     "word": "Sleepy",
+     "token": {
+      "text": "Sleepy",
+      "color": "#8E5CF7"
+     }
+    },
+    {
+     "word": "Sad",
+     "token": {
+      "text": "Sad",
+      "color": "#2F7DE1"
+     }
+    }
+   ],
+   "thumb_mark": null
+  },
+  {
+   "ep": 9,
+   "topic": "Fruits and Veggies",
+   "spoken": "Fruits and Veggies",
+   "production_id": "epis-261108-jf2o",
+   "search": "Healthy Food for Kids",
+   "hero": {
+    "apple": true
+   },
+   "recap": [
+    {
+     "word": "Apple",
+     "token": {
+      "apple": true
+     }
+    },
+    {
+     "word": "Carrot",
+     "token": {
+      "text": "Carrot",
+      "color": "#FF8C1A"
+     }
+    },
+    {
+     "word": "Banana",
+     "token": {
+      "text": "Banana",
+      "color": "#E0B000"
+     }
+    },
+    {
+     "word": "Broccoli",
+     "token": {
+      "text": "Broccoli",
+      "color": "#3DBB5A"
+     }
+    }
+   ],
+   "thumb_mark": null
+  },
+  {
+   "ep": 10,
+   "topic": "Weather",
+   "spoken": "Weather",
+   "production_id": "epis-261108-i4x8",
+   "search": "Weather for Toddlers",
+   "hero": {
+    "ball": "#FFD23F"
+   },
+   "recap": [
+    {
+     "word": "Sunny",
+     "token": {
+      "ball": "#FFD23F"
+     }
+    },
+    {
+     "word": "Rainy",
+     "token": {
+      "ball": "#4EA8FF"
+     }
+    },
+    {
+     "word": "Windy",
+     "token": {
+      "ball": "#7BD389"
+     }
+    },
+    {
+     "word": "Snowy",
+     "token": {
+      "ball": "#BFD9F5"
+     }
+    }
+   ],
+   "thumb_mark": null
+  },
+  {
+   "ep": 11,
+   "topic": "Animal Homes",
+   "spoken": "Animal Homes",
+   "production_id": "epis-261108-q3be",
+   "search": "Where Animals Live for Kids",
+   "hero": {
+    "actor": "duck"
+   },
+   "recap": [
+    {
+     "word": "Pond",
+     "token": {
+      "actor": "duck"
+     }
+    },
+    {
+     "word": "Barn",
+     "token": {
+      "actor": "cow"
+     }
+    },
+    {
+     "word": "Coop",
+     "token": {
+      "actor": "hen"
+     }
+    },
+    {
+     "word": "Nest",
+     "token": {
+      "actor": "pip"
+     }
+    }
+   ],
+   "thumb_mark": null
+  },
+  {
+   "ep": 12,
+   "topic": "Wash Your Hands",
+   "spoken": "Wash Your Hands",
+   "production_id": "epis-261108-1i4b",
+   "search": "Handwashing Song for Kids",
+   "hero": {
+    "text": "Wash!",
+    "color": "#2F7DE1"
+   },
+   "recap": [
+    {
+     "word": "Water",
+     "token": {
+      "ball": "#4EA8FF"
+     }
+    },
+    {
+     "word": "Soap",
+     "token": {
+      "ball": "#FF9EB5"
+     }
+    },
+    {
+     "word": "Bubbles",
+     "token": {
+      "ball": "#BFD9F5"
+     }
+    },
+    {
+     "word": "Towel",
+     "token": {
+      "ball": "#FFD23F"
+     }
+    }
+   ],
+   "thumb_mark": null
+  },
+  {
+   "ep": 13,
+   "topic": "ABC: F to J",
+   "spoken": "F, G, H",
+   "production_id": "epis-261108-1121",
+   "search": "Letter Sounds for Toddlers",
+   "hero": {
+    "text": "FGH",
+    "color": "#8E5CF7"
+   },
+   "recap": [
+    {
+     "word": "F",
+     "token": {
+      "text": "F",
+      "color": "#2F7DE1"
+     }
+    },
+    {
+     "word": "G",
+     "token": {
+      "text": "G",
+      "color": "#3DBB5A"
+     }
+    },
+    {
+     "word": "H",
+     "token": {
+      "text": "H",
+      "color": "#E94F64"
+     }
+    },
+    {
+     "word": "I",
+     "token": {
+      "text": "I",
+      "color": "#8E5CF7"
+     }
+    },
+    {
+     "word": "J",
+     "token": {
+      "text": "J",
+      "color": "#FF7A45"
+     }
+    }
+   ],
+   "thumb_mark": null
+  },
+  {
+   "ep": 14,
+   "topic": "Fast and Slow",
+   "spoken": "Fast and Slow",
+   "production_id": "epis-261108-mlwi",
+   "search": "Opposites for Kids",
+   "hero": {
+    "actor": "pip"
+   },
+   "recap": [
+    {
+     "word": "Fast",
+     "token": {
+      "actor": "pip"
+     }
+    },
+    {
+     "word": "Slow",
+     "token": {
+      "actor": "cow"
+     }
+    },
+    {
+     "word": "Fast",
+     "token": {
+      "actor": "duck"
+     }
+    },
+    {
+     "word": "Slow",
+     "token": {
+      "actor": "cow"
+     }
+    }
+   ],
+   "thumb_mark": null
+  },
+  {
+   "ep": 15,
+   "topic": "Getting Dressed",
+   "spoken": "Getting Dressed",
+   "production_id": "epis-261108-ouu9",
+   "search": "Clothes for Toddlers",
+   "hero": {
+    "text": "Hat!",
+    "color": "#E94F64"
+   },
+   "recap": [
+    {
+     "word": "Hat",
+     "token": {
+      "text": "Hat",
+      "color": "#E94F64"
+     }
+    },
+    {
+     "word": "Shirt",
+     "token": {
+      "text": "Shirt",
+      "color": "#2F7DE1"
+     }
+    },
+    {
+     "word": "Socks",
+     "token": {
+      "text": "Socks",
+      "color": "#FFD23F"
+     }
+    },
+    {
+     "word": "Shoes",
+     "token": {
+      "text": "Shoes",
+      "color": "#3DBB5A"
+     }
+    }
+   ],
+   "thumb_mark": null
+  },
+  {
+   "ep": 16,
+   "topic": "Up and Down",
+   "spoken": "Up and Down",
+   "production_id": null,
+   "search": "Opposites for Toddlers",
+   "hero": {
+    "ball": "#2EC4B6"
+   }
+  }
+ ]
+}

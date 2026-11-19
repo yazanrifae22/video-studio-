@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "He Never Led the F1 Title All Year. Until the Last Race",
+ "topic": "Sebastian Vettel went to the 2010 Abu Dhabi finale 15 points behind Alonso, had never led the standings, won from pole and became the youngest champion. Abu Dhabi decides the 2026 title this weekend.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Abu Dhabi Grand Prix, season finale (Dec 4-6) (2026-12-06). Wikipedia Sebastian_Vettel 57,687 views Sept 2026.",
+ "hook": "Never led all year. Champion?",
+ "twist": "Sebastian Vettel went to the 2010 Abu Dhabi finale 15 points behind Alonso, had never led the standings, won from pole and became the youngest champion. Abu Dhabi decides the 2026 title this weekend.",
+ "peg": {
+  "event": "Abu Dhabi Grand Prix, season finale (Dec 4-6)",
+  "date": "2026-12-06",
+  "url": "https://www.formula1.com/en/latest/article/formula-1-reveals-calendar-for-2026-season.YctbMZWqBvrgyddrnauo8",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Crash.net - Vettel victorious as title rivals tyre out (accessed 2026-10-24)",
+   "url": "https://www.crash.net/f1/race-report/165065/1/vettel-victorious-as-title-rivals-tyre-out"
+  },
+  {
+   "claim": "Eurosport - Vettel takes F1 title (accessed 2026-10-24)",
+   "url": "https://www.eurosport.com/formula-1/vettel-takes-f1-title_sto2543774/story.shtml"
+  },
+  {
+   "claim": "Gulf News - Vettel wins 2010 drivers' championship (accessed 2026-10-24)",
+   "url": "https://gulfnews.com/sport/motorsport/red-bulls-vettel-wins-2010-drivers-championship-1.712077"
+  },
+  {
+   "claim": "Peg source: Abu Dhabi Grand Prix, season finale (Dec 4-6) (accessed 2026-10-24)",
+   "url": "https://www.formula1.com/en/latest/article/formula-1-reveals-calendar-for-2026-season.YctbMZWqBvrgyddrnauo8"
+  },
+  {
+   "claim": "Wikimedia pageviews Sebastian_Vettel: 57687 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Sebastian_Vettel&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Crash.net - Vettel victorious as title rivals tyre out",
+   "url": "https://www.crash.net/f1/race-report/165065/1/vettel-victorious-as-title-rivals-tyre-out",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Eurosport - Vettel takes F1 title",
+   "url": "https://www.eurosport.com/formula-1/vettel-takes-f1-title_sto2543774/story.shtml",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Gulf News - Vettel wins 2010 drivers' championship",
+   "url": "https://gulfnews.com/sport/motorsport/red-bulls-vettel-wins-2010-drivers-championship-1.712077",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Abu Dhabi GP 2010 in 30 Seconds 🏁 Vettel wins #F1 #Shorts",
+   "url": "https://youtube.com/shorts/ldinuw05Muw",
+   "views": 547,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Vettel 2010 Abu Dhabi never led championship #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Vettel: “What a Stupid Overtake!” 😂",
+   "url": "https://youtube.com/shorts/Zn9Csv8oLeg",
+   "views": 93000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Vettel 2010 Abu Dhabi never led championship #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Youngest F1 Champion Ever? Antonelli Could Beat Vettel 🏆 #shorts",
+   "url": "https://youtube.com/shorts/_mAuSprXdTI",
+   "views": 1,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Vettel 2010 Abu Dhabi never led championship #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A standings board with one name jumping from 3rd to 1st on the final line + hook. Twist by 2.5 s. Loop: 'Never led until the end. Who wins this year's?'",
+ "cta": "C7+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Age 23 y 106 d vs 23 y 135 d differs: say 'aged 23'. If the 2026 title is already decided by Qatar (Nov 29), reframe the last line. No team or F1 logos.",
+ "window": {
+  "notBefore": "2026-12-04T12:00:00Z",
+  "deadline": "2026-12-08T00:00:00Z",
+  "label": "Abu Dhabi Grand Prix, season finale (Dec 4-6)",
+  "suggestedSlot": "2026-12-05T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Sebastian Vettel",
+  "Fernando Alonso"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

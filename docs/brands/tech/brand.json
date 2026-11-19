@@ -1,0 +1,41 @@
+{
+ "id": "tech",
+ "name": "Tech Made Simple",
+ "format": "explainer",
+ "positioning": "Animated software/AI explainers (mechanism-first, original motion graphics + Gemini TTS narration)",
+ "audience": "Self-taught devs, PMs, career-switchers 18-40",
+ "language": "en",
+ "status": "active",
+ "data": {
+  "voice": {
+   "name": "Charon",
+   "alt": [
+    "Puck",
+    "Iapetus"
+   ]
+  },
+  "music": "tech-focus",
+  "palette": [
+   "#070A12",
+   "#5B8CFF",
+   "#3DF2C2",
+   "#FFB547"
+  ],
+  "strategy": "Viral Shorts first (studio goal 1M views per reel): AI quirks and everyday-device mysteries with demand evidence from trend-hunter, 35-40 s, mechanism in motion at frame 0.",
+  "titleStyle": "\"Why …\" / \"what really happens when …\" question about a surprise the viewer has seen (channel data 2026-11-03: never \"X Explained\", \"A vs B\" or \"in N Seconds\")",
+  "thumbnail": "Dark ink bg, one big diagram glyph, 3-word label, blue/mint accent",
+  "origin": "merged from the old explainer studio (video-automation) 2026-11-02",
+  "engine": "packages/tech (tech:build: spec.json + HyperFrames scene fragments -> TTS -> timeline.json -> packages/render; docs/brands/tech/build.md). Old spec engine archived in data/legacy/video-automation/code.",
+  "youtube": {
+   "handle": "@TechMadeSimpleAnimated",
+   "channel_id": "UCp8RqP31XtjU8snoTMrUKrA",
+   "token": "data/tokens/tech.json"
+  },
+  "docs": "docs/brands/tech/",
+  "resumed": {
+   "since": "2026-11-03",
+   "reason": "owner request",
+   "agent": "showrunner-tech-made-simple"
+  }
+ }
+}

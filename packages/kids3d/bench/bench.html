@@ -1,0 +1,45 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>html,body{margin:0;background:#000;overflow:hidden}canvas{display:block}</style>
+<script type="importmap">{"imports":{"three":"/three/build/three.module.js"}}</script></head>
+<body><script type="module">
+import * as THREE from 'three';
+const W = 1920, H = 1080;
+const r = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true });
+r.setSize(W, H); r.shadowMap.enabled = true; r.shadowMap.type = THREE.PCFSoftShadowMap;
+r.toneMapping = THREE.ACESFilmicToneMapping; r.outputColorSpace = THREE.SRGBColorSpace;
+document.body.appendChild(r.domElement);
+const scene = new THREE.Scene(); scene.background = new THREE.Color('#8fd3ff');
+const cam = new THREE.PerspectiveCamera(35, W / H, 0.1, 200);
+scene.add(new THREE.HemisphereLight('#dff4ff', '#6aa84f', 1.2));
+const sun = new THREE.DirectionalLight('#fff3dd', 2.5); sun.position.set(6, 10, 6); sun.castShadow = true; sun.shadow.mapSize.set(2048, 2048);
+Object.assign(sun.shadow.camera, { left: -12, right: 12, top: 12, bottom: -12 }); scene.add(sun);
+const ground = new THREE.Mesh(new THREE.CircleGeometry(40, 64), new THREE.MeshStandardMaterial({ color: '#6cc46a' }));
+ground.rotation.x = -Math.PI / 2; ground.receiveShadow = true; scene.add(ground);
+const balls = [];
+for (let i = 0; i < 40; i++) {
+  const m = new THREE.Mesh(new THREE.SphereGeometry(0.5 + (i % 3) * 0.2, 48, 32), new THREE.MeshStandardMaterial({ color: new THREE.Color().setHSL(i / 40, 0.7, 0.55), roughness: 0.5 }));
+  m.castShadow = true; m.position.set((i % 8 - 4) * 2, 0.6, Math.floor(i / 8) * -2 + 2); scene.add(m); balls.push(m);
+}
+window.seek = (t) => {
+  balls.forEach((b, i) => { b.position.y = 0.7 + Math.abs(Math.sin(t * 3 + i)) * 1.2; b.rotation.y = t + i; });
+  cam.position.set(Math.sin(t * 0.3) * 14, 5 + Math.sin(t) * 0.5, Math.cos(t * 0.3) * 14); cam.lookAt(0, 1, 0);
+  r.render(scene, cam);
+};
+window.glinfo = () => { const gl = r.getContext(); const e = gl.getExtension('WEBGL_debug_renderer_info'); return e ? gl.getParameter(e.UNMASKED_RENDERER_WEBGL) : gl.getParameter(gl.RENDERER); };
+// path B: WebCodecs hardware H.264, Annex B chunks kept in page
+let enc = null, chunks = [], encErr = null;
+window.encStart = async (fps) => {
+  chunks = [];
+  enc = new VideoEncoder({ output: (c) => { const b = new Uint8Array(c.byteLength); c.copyTo(b); chunks.push(b); }, error: (e) => { encErr = String(e); } });
+  const cfg = { codec: 'avc1.640033', width: W, height: H, bitrate: 24e6, framerate: fps, hardwareAcceleration: 'prefer-hardware', avc: { format: 'annexb' }, latencyMode: 'quality' };
+  const s = await VideoEncoder.isConfigSupported(cfg); enc.configure(cfg); return s.supported;
+};
+window.encFrame = async (i, fps) => {
+  const vf = new VideoFrame(r.domElement, { timestamp: Math.round(i * 1e6 / fps), duration: Math.round(1e6 / fps) });
+  enc.encode(vf, { keyFrame: i % 60 === 0 }); vf.close();
+  if (enc.encodeQueueSize > 8) await new Promise(res => { const f = () => enc.encodeQueueSize > 2 ? setTimeout(f, 1) : res(); f(); });
+};
+window.encFlush = async () => { await enc.flush(); if (encErr) throw new Error(encErr); };
+window.encTake = () => { const n = chunks.reduce((a, b) => a + b.length, 0); const out = new Uint8Array(n); let o = 0; for (const c of chunks) { out.set(c, o); o += c.length; } chunks = []; let s = ''; for (let i = 0; i < out.length; i += 0x8000) s += String.fromCharCode.apply(null, out.subarray(i, i + 0x8000)); return btoa(s); };
+window.ready = true;
+</script></body></html>

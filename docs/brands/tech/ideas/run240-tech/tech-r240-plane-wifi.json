@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "Why Plane Wi-Fi Is So Painfully Slow",
+ "topic": "The whole plane shares one link, often to a satellite ~36,000 km up, so every request makes a long round trip.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Busiest travel week of the year in the US; few explainer Shorts (15K) = gap. Note the Starlink-on-planes change in the ending.",
+ "evidence": [
+  {
+   "claim": "In-flight connectivity: air-to-ground vs geostationary satellite vs LEO (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/In-flight_connectivity"
+  },
+  {
+   "claim": "Geostationary orbit altitude 35,786 km (latency source) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Geostationary_orbit"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "MKBHD Talks About SLOW Airplane Wi-Fi",
+   "url": "https://youtube.com/shorts/NhZiLw3-BLE",
+   "views": "15K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Tip to get free WiFi on an airplane",
+   "url": "https://youtube.com/shorts/kgnRYqF-MsI",
+   "views": "217K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('35,000 feet. Nothing loads. Why?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: The whole plane shares one link, often to a satellite ~36,000 km up, so every request makes a long round trip. Loop ending: re-ask the hook.",
+ "hook": "35,000 feet. Nothing loads. Why?",
+ "twist": "The whole plane shares one link, often to a satellite ~36,000 km up, so every request makes a long round trip.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-22",
+  "deadline": "2026-11-29",
+  "event": "US Thanksgiving travel peak (Thanksgiving Nov 26 2026)"
+ },
+ "newsPeg": "US Thanksgiving travel peak (Thanksgiving Nov 26 2026)",
+ "suggestedSlot": "2026-11-24 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Does Your Phone Really Endanger the Plane?' (week 2). Different question.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 19,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

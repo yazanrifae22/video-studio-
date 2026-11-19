@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Does Dark Mode Really Save Battery?",
+ "topic": "Only on OLED screens, where black pixels are off; at normal brightness the saving is a few percent.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Common belief, checkable, battery tips get millions.",
+ "evidence": [
+  {
+   "claim": "Purdue 2021 study: dark mode saves 3-9% at typical brightness (accessed 2026-10-24)",
+   "url": "https://www.purdue.edu/newsroom/releases/2021/Q3/dark-mode-may-not-save-your-phones-battery-life-as-much-as-you-think,-but-there-are-a-few-silver-linings.html"
+  },
+  {
+   "claim": "OLED: pixels emit their own light (black = off) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/OLED"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "iPhone 14 DARK MODE vs LIGHT MODE Battery Test",
+   "url": "https://youtube.com/shorts/iRIP6CeM_74",
+   "views": "328K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "3 iPhone Battery Saving Tips",
+   "url": "https://youtube.com/shorts/_TEdO3TrEfs",
+   "views": "3M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Dark mode on. Battery saved?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Only on OLED screens, where black pixels are off; at normal brightness the saving is a few percent. Loop ending: re-ask the hook.",
+ "hook": "Dark mode on. Battery saved?",
+ "twist": "Only on OLED screens, where black pixels are off; at normal brightness the saving is a few percent.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-13 18:00 UTC",
+ "novelty": {
+  "overlap": "LOW-MEDIUM with charging-80% and cold-battery Shorts; keep >= 3 days from them (they ran week 2/3).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 7,
+ "score10": 8.6,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

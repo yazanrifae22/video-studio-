@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Was Napoleon Actually Short? The Inch That Fooled Everyone",
+ "topic": "Napoleon's height was recorded as 5 ft 2 in in French units, about 5 ft 6-7 in English measure, average for his time; British cartoonist James Gillray made 'Little Boney' stick.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Napoleon crowned Emperor, 2 Dec 1804 (222nd anniversary) (2026-12-02). Wikipedia Napoleon 335,771 views Sept 2026.",
+ "hook": "Napoleon was short… right?",
+ "twist": "Napoleon's height was recorded as 5 ft 2 in in French units, about 5 ft 6-7 in English measure, average for his time; British cartoonist James Gillray made 'Little Boney' stick.",
+ "peg": {
+  "event": "Napoleon crowned Emperor, 2 Dec 1804 (222nd anniversary)",
+  "date": "2026-12-02",
+  "url": "https://en.wikipedia.org/wiki/Coronation_of_Napoleon",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Napoleon complex (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Napoleon_complex"
+  },
+  {
+   "claim": "The Local - French history myths: Napoleon was short (accessed 2026-10-24)",
+   "url": "https://www.thelocal.fr/20220804/french-history-myths-napoleon-bonaparte-was-short"
+  },
+  {
+   "claim": "National Geographic - Was Napoleon even short? (accessed 2026-10-24)",
+   "url": "https://www.nationalgeographic.com/history/article/napoleon-complex-height-discrimination-men-history"
+  },
+  {
+   "claim": "Peg source: Napoleon crowned Emperor, 2 Dec 1804 (222nd anniversary) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Coronation_of_Napoleon"
+  },
+  {
+   "claim": "Wikimedia pageviews Napoleon: 335771 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Napoleon&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Napoleon complex",
+   "url": "https://en.wikipedia.org/wiki/Napoleon_complex",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "The Local - French history myths: Napoleon was short",
+   "url": "https://www.thelocal.fr/20220804/french-history-myths-napoleon-bonaparte-was-short",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "National Geographic - Was Napoleon even short?",
+   "url": "https://www.nationalgeographic.com/history/article/napoleon-complex-height-discrimination-men-history",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The Verdict: Napoleon Was NOT Short #shorts",
+   "url": "https://youtube.com/shorts/HLaHnw05mh4",
+   "views": 0,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"was Napoleon actually short #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Was Napoleon Actually Short? #napoleon #history #france #britain",
+   "url": "https://youtube.com/shorts/mpvZ8ycI7Sw",
+   "views": 5700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"was Napoleon actually short #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Was Napoleon Actually Short?",
+   "url": "https://youtube.com/shorts/Y-ZK31BmFNY",
+   "views": 27000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"was Napoleon actually short #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A bicorne hat on a measuring stick marked in two kinds of inches + hook. Twist by 2.5 s. Loop: 'So was Napoleon short? Comment yes or no.'",
+ "cta": "C9+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Modern estimates vary (1.67-1.70 m): say 'about 5 ft 6 or 7'. No battle imagery. Gillray cartoons are public domain but draw our own.",
+ "window": {
+  "notBefore": "2026-12-01T12:00:00Z",
+  "deadline": "2026-12-04T00:00:00Z",
+  "label": "Napoleon crowned Emperor, 2 Dec 1804 (222nd anniversary)",
+  "suggestedSlot": "2026-12-02T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Napoleon Bonaparte",
+  "James Gillray"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

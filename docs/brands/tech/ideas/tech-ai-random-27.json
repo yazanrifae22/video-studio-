@@ -1,0 +1,36 @@
+{
+ "channel": "tech",
+ "title": "Why Every AI Says 27 When You Ask for a Random Number",
+ "topic": "LLM 'random' numbers: models copy the numbers humans call random (27/37/73 in ranges, 7 in 1-10)",
+ "audience": "Anyone who has used ChatGPT/Gemini/Claude; people who like testing AI",
+ "whyCare": "Viewers can test it in 10 seconds on their own AI and compare answers with friends; the surprise is that 'random' is a copied human habit.",
+ "evidence": [
+  {
+   "claim": "Press (OfficeChai, The Register June 2025): ChatGPT, Gemini, Claude, Llama all answer 27 for 'random number 1 to 50'; widely shared on Reddit/X, multi-language coverage through 2026 (73 variant for 1-100)",
+   "url": "https://www.theregister.com/2025/06/30/ai_models_favorite_number_27"
+  },
+  {
+   "claim": "Paper: Coronado-Blazquez, 'Deterministic or probabilistic? The psychology of LLMs as random number generators' arXiv 2502.19965: 1-10 -> 7 about 80% for several models; 1-100 -> 37/47/73; bigger models not less biased",
+   "url": "https://arxiv.org/abs/2502.19965"
+  },
+  {
+   "claim": "Humans do the same: about a third pick 7 in 1-10 (YouGov/Hill, secondary), Veritasium 1-100 study favours numbers containing 7 (via arXiv paper)",
+   "url": "https://towardsdatascience.com/pick-a-number-between-1-and-10/"
+  }
+ ],
+ "competitors": [],
+ "gap": "Existing tech catalogue (62 videos, checked 2026-11-03) has no random-number video; neighbours: sycophancy, hangman, strawberry (different mechanism).",
+ "angle": "Frame 0: 50-tile grid, scanner racing, locks on 27. Mechanism: AI predicts the most common human answer, it does not roll dice. Payoff: it mirrors human 'random'. Fix: make it run code.",
+ "send_reason": "Send to a friend with 'ask your AI for a random number 1-50, what did you get?'",
+ "durationSec": 38,
+ "format": "short",
+ "hook": "Random 1 to 50. Why always 27?",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "novelty": {
+  "checkedAgainst": "production:list brand tech, 2026-11-03",
+  "overlap": "LOW"
+ },
+ "researchDate": "2026-11-03",
+ "brand_id": "tech"
+}

@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why Your Phone Ignores You in Gloves",
+ "topic": "Phone screens sense the electric charge in your skin; wool blocks it, but a sausage works.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Seasonal (northern winter, Nov); every competitor ~1K = wide gap.",
+ "evidence": [
+  {
+   "claim": "Capacitive touchscreens sense conductive objects (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Touchscreen"
+  },
+  {
+   "claim": "Capacitive sensing basics (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Capacitive_sensing"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Doesn't Your Phone Work With Normal Gloves?",
+   "url": "https://youtube.com/shorts/FZ58PX25Utw",
+   "views": "1.4K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "A Sausage Can Text. Your Gloves Can't.",
+   "url": "https://youtube.com/shorts/d9J9QNGxN6g",
+   "views": "1.1K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Gloves on. Screen ignores you. Why?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Phone screens sense the electric charge in your skin; wool blocks it, but a sausage works. Loop ending: re-ask the hook.",
+ "hook": "Gloves on. Screen ignores you. Why?",
+ "twist": "Phone screens sense the electric charge in your skin; wool blocks it, but a sausage works.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-21 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW with Face ID (week 2).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 38,
+ "score10": 8.0,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Why YouTube Views Froze at 301",
+ "topic": "Past about 300, YouTube paused the counter to check the views weren't bots; an off-by-one in the code made the stop land at 301. The freeze was dropped later.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Very high demand (2-3.7M); saturated, win on hook. Meta for a YouTube audience.",
+ "evidence": [
+  {
+   "claim": "TweakTown: why YouTube views seemingly pause at 301 (YouTube PM on Numberphile) (accessed 2026-10-24)",
+   "url": "https://www.tweaktown.com/news/24695/why_youtube_views_seemingly_pause_at_301/index.html"
+  },
+  {
+   "claim": "Adweek: YouTube explains why views freeze at 301 (accessed 2026-10-24)",
+   "url": "https://www.adweek.com/performance-marketing/youtube-views-301/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why do youtube views freeze at 301",
+   "url": "https://youtube.com/shorts/lewmJIJbGv8",
+   "views": "3.7M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why This Video Is Trapped At 301 Views",
+   "url": "https://youtube.com/shorts/vkLal4yqDtQ",
+   "views": "2.2M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('301 views. Then frozen. Why?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Past about 300, YouTube paused the counter to check the views weren't bots; an off-by-one in the code made the stop land at 301. The freeze was dropped later. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "301 views. Then frozen. Why?",
+ "twist": "Past about 300, YouTube paused the counter to check the views weren't bots; an off-by-one in the code made the stop land at 301. The freeze was dropped later.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-09 22:00 UTC",
+ "novelty": {
+  "overlap": "none. Say the freeze no longer happens (2015 change); the '<=' off-by-one detail is second-hand.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 36,
+ "score10": 8.4,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

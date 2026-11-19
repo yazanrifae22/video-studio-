@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "Your Microwave Clock Drifts. Your Phone Never Does",
+ "topic": "Many appliance clocks count the mains power wiggle (50 or 60 times a second); in 2018 a grid dispute in Europe slowed it and clocks lost 6 minutes. Phones get time from the network.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Everyone has two clocks that disagree; no explainer Short.",
+ "evidence": [
+  {
+   "claim": "ENTSO-E press release (Mar 6 2018): continuing frequency deviation in the Continental European power system (accessed 2026-10-24)",
+   "url": "https://www.entsoe.eu/news/2018/03/06/press-release-continuing-frequency-deviation-in-the-continental-european-power-system-originating-in-serbia-kosovo-political-solution-urgently-needed-in-addition-to-technical/"
+  },
+  {
+   "claim": "WGBH/NPR (Mar 2018): a political dispute slowed millions of European clocks (accessed 2026-10-24)",
+   "url": "https://wgbh.org/news/2018-03-07/a-political-dispute-puts-a-wrinkle-in-time-slowing-millions-of-european-clocks"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Hamilton Beach Microwave time (DST)",
+   "url": "https://youtube.com/shorts/kGRQLAMrwpo",
+   "views": "67K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Microwave: 9:04. Phone: 9:10. Why?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Many appliance clocks count the mains power wiggle (50 or 60 times a second); in 2018 a grid dispute in Europe slowed it and clocks lost 6 minutes. Phones get time from the network. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Microwave: 9:04. Phone: 9:10. Why?",
+ "twist": "Many appliance clocks count the mains power wiggle (50 or 60 times a second); in 2018 a grid dispute in Europe slowed it and clocks lost 6 minutes. Phones get time from the network.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-03 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Why Your Microwave Kills Your Wi-Fi' (existing). Say 'a power dispute in the Balkans', no politics.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 58,
+ "score10": 7.8,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

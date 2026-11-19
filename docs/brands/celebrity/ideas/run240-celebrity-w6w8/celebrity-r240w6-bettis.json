@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Heads or Tails? The Thanksgiving Call That Changed NFL Rules",
+ "topic": "Thanksgiving 1998, overtime: Jerome Bettis's call was ruled 'heads', Detroit won the toss and kicked the winning field goal without Pittsburgh touching the ball; the NFL changed its coin-toss procedure the next season.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Thanksgiving Day NFL (28th anniversary of the 26 Nov 1998 coin toss) (2026-11-26). Wikipedia Jerome_Bettis 26,525 views Sept 2026.",
+ "hook": "He said tails. Ref heard heads.",
+ "twist": "Thanksgiving 1998, overtime: Jerome Bettis's call was ruled 'heads', Detroit won the toss and kicked the winning field goal without Pittsburgh touching the ball; the NFL changed its coin-toss procedure the next season.",
+ "peg": {
+  "event": "Thanksgiving Day NFL (28th anniversary of the 26 Nov 1998 coin toss)",
+  "date": "2026-11-26",
+  "url": "https://www.nfl.com/news/sidelines/remembering-coin-toss-randy-moss-and-wild-thanksgiving-1998",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "NFL.com - Remembering the coin toss and wild Thanksgiving 1998 (accessed 2026-10-24)",
+   "url": "https://www.nfl.com/news/sidelines/remembering-coin-toss-randy-moss-and-wild-thanksgiving-1998"
+  },
+  {
+   "claim": "Wikipedia - Phil Luckett (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Phil_Luckett"
+  },
+  {
+   "claim": "Football Zebras - Phil Luckett was right (dissent) (accessed 2026-10-24)",
+   "url": "https://www.footballzebras.com/2012/11/phil-luckett-was-right/"
+  },
+  {
+   "claim": "Peg source: Thanksgiving Day NFL (28th anniversary of the 26 Nov 1998 coin toss) (accessed 2026-10-24)",
+   "url": "https://www.nfl.com/news/sidelines/remembering-coin-toss-randy-moss-and-wild-thanksgiving-1998"
+  },
+  {
+   "claim": "Wikimedia pageviews Jerome_Bettis: 26525 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Jerome_Bettis&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "NFL.com - Remembering the coin toss and wild Thanksgiving 1998",
+   "url": "https://www.nfl.com/news/sidelines/remembering-coin-toss-randy-moss-and-wild-thanksgiving-1998",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Phil Luckett",
+   "url": "https://en.wikipedia.org/wiki/Phil_Luckett",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Football Zebras - Phil Luckett was right (dissent)",
+   "url": "https://www.footballzebras.com/2012/11/phil-luckett-was-right/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Referee Botches Jerome Bettis OT Coin Toss (1998) 🏈🦃 #NFL  #JeromeBettis #CoinTossBlunder",
+   "url": "https://youtube.com/shorts/3mTLofYUIb4",
+   "views": 21000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bettis coin toss Thanksgiving 1998 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "NFL Ref SCREWED Bettis on Coin Toss! 1998 Robbery! #shorts",
+   "url": "https://youtube.com/shorts/BxtR1Ut4az8",
+   "views": 3100,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bettis coin toss Thanksgiving 1998 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The 1998 Thanksgiving Coin Toss Controversy",
+   "url": "https://youtube.com/shorts/jSrgV3XI_Wk",
+   "views": 475,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Bettis coin toss Thanksgiving 1998 #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A coin spinning in mid-air over a snowy field + hook. Twist by 2.5 s. Loop: 'So what did he say: heads or tails?'",
+ "cta": "C9+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Disputed: Bettis says 'tails', referee maintained the first word was 'heads'; Football Zebras argues Luckett was right. Present both; don't mock the referee. No team logos.",
+ "window": {
+  "notBefore": "2026-11-25T12:00:00Z",
+  "deadline": "2026-11-28T00:00:00Z",
+  "label": "Thanksgiving Day NFL (28th anniversary of the 26 Nov 1998 coin toss)",
+  "suggestedSlot": "2026-11-26T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Jerome Bettis",
+  "Phil Luckett"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 2,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

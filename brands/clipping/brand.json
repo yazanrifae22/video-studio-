@@ -1,0 +1,18 @@
+{
+  "id": "clipping",
+  "name": "Mission Voices",
+  "format": "clipping",
+  "positioning": "Astronauts and scientists in their own words — rights-clean clips from NASA PD and CC BY talks",
+  "audience": "Space/science fans 18-45",
+  "language": "en",
+  "status": "draft",
+  "data": {
+    "pillars": [
+      "what space feels like",
+      "mission moments",
+      "science explained by the people who did it"
+    ],
+    "tone": "conversational, respectful of context",
+    "arabic": "Arabic dub/sub test using NASA-produced AlNeyadi footage only"
+  }
+}

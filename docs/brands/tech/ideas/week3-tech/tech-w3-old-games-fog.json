@@ -1,0 +1,71 @@
+{
+ "channel": "tech",
+ "title": "Why Old 3D Games Were Full of Fog",
+ "topic": "Distance fog and draw distance on 1990s consoles",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Zelda: Ocarina of Time article 73k views/30d ahead of the Nov 5 remake; fog explainers do 1-51K on Shorts.",
+ "evidence": [
+  {
+   "claim": "Game Informer: Ocarina of Time remake launches November 5, 2026, exclusively on Switch 2 (accessed 2026-10-23)",
+   "url": "https://www.gameinformer.com/nintendo-direct/2026/09/08/the-legend-of-zelda-ocarina-of-time-remake-launches-this-november"
+  },
+  {
+   "claim": "Wikipedia \"Distance fog\": used to hide draw-distance limits/pop-in (Turok, Silent Hill) (accessed 2026-10-23)",
+   "url": "https://en.wikipedia.org/wiki/Distance_fog"
+  },
+  {
+   "claim": "Pageviews The_Legend_of_Zelda:_Ocarina_of_Time 73,077 in 30 days (3.0k/day last week) (accessed 2026-10-23)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=The_Legend_of_Zelda:_Ocarina_of_Time&range=latest-30"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The History of Fog",
+   "url": "https://youtube.com/shorts/oXZ81cX94DY",
+   "views": "51K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why Old Games Had SO MUCH Fog.",
+   "url": "https://youtube.com/shorts/PSZp3XVhHmg",
+   "views": "1.5K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Silent Hill's fog was a hardware glitch",
+   "url": "https://youtube.com/shorts/PcXmL8UCL6Y",
+   "views": "1.8K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: an original low-poly field drowned in fog + hook. Answer by 2.5 s: the console couldn't draw that far. Lift the fog to show the world ending in a hard edge / pop-in; fog hides it and saves work. Peg: the Ocarina of Time remake (Switch 2, Nov 5) - mention only, no Nintendo assets. Loop: 'Now look again: why is it foggy?'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Why is this whole world foggy?",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Do not claim Ocarina itself used fog for a specific reason unless sourced; use generic N64-era examples (Turok is documented).",
+ "window": {
+  "notBefore": "2026-11-03T00:00:00Z",
+  "deadline": "2026-11-12T00:00:00Z",
+  "label": "Ocarina of Time remake out Nov 5"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

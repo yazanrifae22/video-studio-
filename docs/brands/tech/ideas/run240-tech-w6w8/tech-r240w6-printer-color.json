@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "No Colour Ink, So It Won't Print Black. Why?",
+ "topic": "Inkjets use a little of every colour to clean and prime the print head, and some mix colours into 'black'; so an empty cyan can stop a black page.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Printer fix-it Shorts reach 1.2-1.6M; nobody explains the colour-for-black rule. Holiday-weekend 'fix Mom's printer' moment.",
+ "evidence": [
+  {
+   "claim": "Epson FAQ: why are the colour inks used when I am printing in black? (accessed 2026-10-24)",
+   "url": "https://www.epson.eu/en_EU/faq/KA-01507"
+  },
+  {
+   "claim": "Epson US FAQ: colour ink is expended even though I print in black only (accessed 2026-10-24)",
+   "url": "https://epson.com/faq/SPT_C11C657001~faq-79066"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Cleaning Cycles Not Helping? (fix-it)",
+   "url": "https://youtube.com/shorts/MR_ltfV1ers",
+   "views": "1.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Epson L3250 Ink Flashing (fix-it)",
+   "url": "https://youtube.com/shorts/YoFdB8SyZ1A",
+   "views": "1.2M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Black-only page. Colour ink needed?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Inkjets use a little of every colour to clean and prime the print head, and some mix colours into 'black'; so an empty cyan can stop a black page. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Black-only page. Colour ink needed?",
+ "twist": "Inkjets use a little of every colour to clean and prime the print head, and some mix colours into 'black'; so an empty cyan can stop a black page.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-26",
+  "deadline": "2026-11-30",
+  "event": "Thanksgiving family tech support (Nov 26 2026)"
+ },
+ "newsPeg": "Thanksgiving family tech support (Nov 26 2026)",
+ "category": "news peg",
+ "suggestedSlot": "2026-11-26 12:00 UTC",
+ "novelty": {
+  "overlap": "none. Not all printers refuse; say 'many inkjets'. No brand logos.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 10,
+ "score10": 9.0,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

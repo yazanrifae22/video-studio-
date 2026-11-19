@@ -1,0 +1,121 @@
+{
+ "channel": "celebrity",
+ "title": "Aragorn Was Recast After Filming Began. Who Saved It?",
+ "topic": "Stuart Townsend was dropped as Aragorn around the start of filming for being too young; Viggo Mortensen took the part only because his son loved the books. Fellowship premiered in London on 10 Dec 2001.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: The Fellowship of the Ring premiered in London, 10 Dec 2001 (25th anniversary) (2026-12-10). Wikipedia The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring 77,993 views Sept 2026.",
+ "hook": "Filming started. No Aragorn?",
+ "twist": "Stuart Townsend was dropped as Aragorn around the start of filming for being too young; Viggo Mortensen took the part only because his son loved the books. Fellowship premiered in London on 10 Dec 2001.",
+ "peg": {
+  "event": "The Fellowship of the Ring premiered in London, 10 Dec 2001 (25th anniversary)",
+  "date": "2026-12-10",
+  "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - The Fellowship of the Ring (film) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+  },
+  {
+   "claim": "Wikipedia - Viggo Mortensen (citing Esquire, 2006) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Viggo_Mortensen"
+  },
+  {
+   "claim": "Esquire - Eats Roadkill, Speaks Danish (2006) (accessed 2026-10-24)",
+   "url": "https://www.esquire.com/entertainment/movies/a1414/esq0306viggo-194/"
+  },
+  {
+   "claim": "TheOneRing.net - So what was the Stuart Townsend story? (accessed 2026-10-24)",
+   "url": "https://www.theonering.net/torwp/2001/05/16/27822-so-what-was-the-stuart-townsend-story/"
+  },
+  {
+   "claim": "Peg source: The Fellowship of the Ring premiered in London, 10 Dec 2001 (25th anniversary) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+  },
+  {
+   "claim": "Wikimedia pageviews The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring: 77993 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - The Fellowship of the Ring (film)",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Viggo Mortensen (citing Esquire, 2006)",
+   "url": "https://en.wikipedia.org/wiki/Viggo_Mortensen",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Esquire - Eats Roadkill, Speaks Danish (2006)",
+   "url": "https://www.esquire.com/entertainment/movies/a1414/esq0306viggo-194/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "TheOneRing.net - So what was the Stuart Townsend story?",
+   "url": "https://www.theonering.net/torwp/2001/05/16/27822-so-what-was-the-stuart-townsend-story/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Viggo Mortensen broke TWO toes and kept acting 😳 #lotr #aragorn #lordoftherings #shorts",
+   "url": "https://youtube.com/shorts/uDBbQw1WhjQ",
+   "views": 25,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Viggo Mortensen Aragorn recast #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Viggo Mortensen Almost Wasn't Aragorn in Lord of the Rings (LOTR) #shorts #lotr #lordoftherings",
+   "url": "https://youtube.com/shorts/CE1aUmMofg4",
+   "views": 73000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Viggo Mortensen Aragorn recast #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Viggo Mortensen is Open To Playing Aragorn in The New Movie - The Hunt For Gollum#gollum #aragorn",
+   "url": "https://youtube.com/shorts/YY8hhUQ67CA",
+   "views": 71000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Viggo Mortensen Aragorn recast #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A ranger's sword leaning on a battered fantasy paperback + hook. Twist by 2.5 s. Loop: 'No Viggo, no Aragorn. Who else could have played him?'",
+ "cta": "C2+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Timing disputed (Townsend says he was let go the day before filming; others say days in): say 'around the start of filming'. No film imagery, no ring design from the films, no likeness: a sword hilt and a son's well-worn paperback.",
+ "window": {
+  "notBefore": "2026-12-09T12:00:00Z",
+  "deadline": "2026-12-12T00:00:00Z",
+  "label": "The Fellowship of the Ring premiered in London, 10 Dec 2001 (25th anniversary)",
+  "suggestedSlot": "2026-12-10T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Viggo Mortensen",
+  "Stuart Townsend",
+  "Peter Jackson"
+ ],
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

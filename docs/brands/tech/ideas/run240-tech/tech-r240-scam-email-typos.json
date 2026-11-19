@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Why Scam Emails Look So Obviously Fake",
+ "topic": "Often on purpose: obvious scams filter out sceptics so scammers only spend time on people likely to pay (Microsoft Research, 2012).",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Counter-intuitive, no competition (175 views). Avoid country stereotypes in the script; say 'a famous study'.",
+ "evidence": [
+  {
+   "claim": "Cormac Herley, Microsoft Research 2012: 'Why do Nigerian Scammers Say They are From Nigeria?' (accessed 2026-10-24)",
+   "url": "https://www.microsoft.com/en-us/research/publication/why-do-nigerian-scammers-say-they-are-from-nigeria/"
+  },
+  {
+   "claim": "Advance-fee scam (background, incl. Herley's self-selection argument) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Advance-fee_scam"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Bad Grammar in Scam Emails Is No Mistake (long)",
+   "url": "https://www.youtube.com/watch?v=_45MuBZUq38",
+   "views": "175",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Spot the scam. Too easy?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Often on purpose: obvious scams filter out sceptics so scammers only spend time on people likely to pay (Microsoft Research, 2012). Loop ending: re-ask the hook.",
+ "hook": "Spot the scam. Too easy?",
+ "twist": "Often on purpose: obvious scams filter out sceptics so scammers only spend time on people likely to pay (Microsoft Research, 2012).",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-23 18:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with delivery-text scam (keep >= 4 days apart).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 59,
+ "score10": 7.4,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "Why Spotify Wrapped Forgets December",
+ "topic": "Wrapped counts roughly January to mid-November, so the recap can be built before launch; holiday songs you play in December wait for next year.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Wrapped day is one of the year's biggest app moments; the cut-off is a checkable surprise.",
+ "evidence": [
+  {
+   "claim": "ABC7 / AP (Dec 2025): how Spotify compiled your 2025 Wrapped (Jan 1 to mid-November) (accessed 2026-10-24)",
+   "url": "https://abc7news.com/post/time-unpack-spotify-wrapped-heres-how-music-streamer-compiled-2025-recap/18245154/"
+  },
+  {
+   "claim": "SoundGuys (Dec 2025): Spotify Wrapped listening-data window and thresholds (accessed 2026-10-24)",
+   "url": "https://www.soundguys.com/spotify-wrapped-listening-data-149926/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Spotify Wrapped 2026",
+   "url": "https://youtube.com/shorts/mr2Nae2Vg80",
+   "views": "1.4M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "if my spotify wrapped only counted for this week",
+   "url": "https://youtube.com/shorts/8JHIrLM3U7s",
+   "views": "4.8K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('December songs. Missing from Wrapped?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Wrapped counts roughly January to mid-November, so the recap can be built before launch; holiday songs you play in December wait for next year. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "December songs. Missing from Wrapped?",
+ "twist": "Wrapped counts roughly January to mid-November, so the recap can be built before launch; holiday songs you play in December wait for next year.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-12-02",
+  "deadline": "2026-12-08",
+  "event": "Spotify Wrapped 2026 launch (expected early Dec; date unconfirmed)"
+ },
+ "newsPeg": "Spotify Wrapped 2026 launch (expected early Dec; date unconfirmed)",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-04 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Why Spotify Shuffle Doesn't Feel Random' (existing). Slot the day after Wrapped actually launches; re-check the 2026 window. No Spotify logo/UI copy.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 14,
+ "score10": 8.9,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "You're #48,213 in Line. Is the Queue Real?",
+ "topic": "Many sale queues shuffle everyone who arrived before opening into random order (a raffle), so being early doesn't help; only after opening is it first come, first served.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Black Friday morning peg; competitors are rants, not the rule.",
+ "evidence": [
+  {
+   "claim": "Queue-it blog: first-in-first-out vs randomization (pre-queue raffle) (accessed 2026-10-24)",
+   "url": "https://www.queue-it.com/blog/first-in-first-out-randomization"
+  },
+  {
+   "claim": "Queue-it: how does Queue-it work (early visitors get random positions) (accessed 2026-10-24)",
+   "url": "https://queue-it.com/how-does-queue-it-work"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "finally got through the 2000+ Ticketmaster queue...",
+   "url": "https://youtube.com/shorts/j5CAhEYwNnU",
+   "views": "12K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "When you had to wait in a 30,000 person Ticketmaster queue",
+   "url": "https://youtube.com/shorts/Z8x0gzOSdMU",
+   "views": "5.1K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Joined early. Still #48,213. Why?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Many sale queues shuffle everyone who arrived before opening into random order (a raffle), so being early doesn't help; only after opening is it first come, first served. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Joined early. Still #48,213. Why?",
+ "twist": "Many sale queues shuffle everyone who arrived before opening into random order (a raffle), so being early doesn't help; only after opening is it first come, first served.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-26",
+  "deadline": "2026-11-30",
+  "event": "Black Friday (Nov 27 2026) sale queues"
+ },
+ "newsPeg": "Black Friday (Nov 27 2026) sale queues",
+ "category": "news peg",
+ "suggestedSlot": "2026-11-27 12:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Only 2 Left! Refresh' (Nov 22): 5 days apart. Not every shop randomises: say 'many'.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 49,
+ "score10": 8.1,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "His First Words on the Moon Won a $500 Bet",
+ "topic": "Pete Conrad's 'that may have been a small one for Neil' (Nov 19, 1969) answered a journalist who said NASA scripted lines; he said he was never paid.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Apollo 12 Moon landing, 57th anniversary (2026-11-19). Wikipedia Pete_Conrad 7,471 views Sept 2026.",
+ "hook": "First words on the Moon: a bet?",
+ "twist": "Pete Conrad's 'that may have been a small one for Neil' (Nov 19, 1969) answered a journalist who said NASA scripted lines; he said he was never paid.",
+ "peg": {
+  "event": "Apollo 12 Moon landing, 57th anniversary",
+  "date": "2026-11-19",
+  "url": "https://en.wikipedia.org/wiki/Apollo_12",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Mental Floss - The astronaut whose first words on the Moon were a joke (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/science/space/astronaut-whose-first-words-moon-were-joke"
+  },
+  {
+   "claim": "Space.com - Pete Conrad biography (accessed 2026-10-24)",
+   "url": "https://space.com/20519-pete-conrad-astronaut-biography.html"
+  },
+  {
+   "claim": "Space Center Houston - Pete Conrad (accessed 2026-10-24)",
+   "url": "https://spacecenter.org/?p=25226"
+  },
+  {
+   "claim": "Peg source: Apollo 12 Moon landing, 57th anniversary (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Apollo_12"
+  },
+  {
+   "claim": "Wikimedia pageviews Pete_Conrad: 7471 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Pete_Conrad&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Mental Floss - The astronaut whose first words on the Moon were a joke",
+   "url": "https://www.mentalfloss.com/science/space/astronaut-whose-first-words-moon-were-joke",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Space.com - Pete Conrad biography",
+   "url": "https://space.com/20519-pete-conrad-astronaut-biography.html",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Space Center Houston - Pete Conrad",
+   "url": "https://spacecenter.org/?p=25226",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Pete Conrad (Apollo 12) Banters with Neil Armstrong (Apollo 11)",
+   "url": "https://youtube.com/shorts/ZwB4pk5MdC8",
+   "views": 3600,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Pete Conrad's Moon Landing Bet",
+   "url": "https://youtube.com/shorts/ZziwAOQjuuk",
+   "views": 701,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Pete Conrad's First Words on the Moon Won a $500 Bet",
+   "url": "https://youtube.com/shorts/nNkn--2QqRU",
+   "views": 365,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a short boot stepping off a ladder with '$500' floating above + hook. Twist: he was short, so it was a long step. Loop: 'Small one... or long one?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Quote from the mission transcript only. Bet was with Oriana Fallaci (deceased): state her claim neutrally. Space cluster Nov 18-20.",
+ "window": {
+  "notBefore": "2026-11-18T12:00:00Z",
+  "deadline": "2026-11-20T06:00:00Z",
+  "label": "Apollo 12 Moon landing, 57th anniversary",
+  "suggestedSlot": "2026-11-19T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

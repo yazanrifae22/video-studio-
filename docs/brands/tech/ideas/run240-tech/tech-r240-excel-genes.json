@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Scientists Renamed Genes Because of Excel",
+ "topic": "Excel turns it into the date 1-Mar; so many papers were corrupted that gene names were changed in 2020 (MARCH1 is now MARCHF1).",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Play-along hook anyone with Excel can check; no on-topic Short found = biggest gap of the set.",
+ "evidence": [
+  {
+   "claim": "Bruford et al., Nature Genetics 2020: HGNC guidelines renamed genes that Excel converts to dates (accessed 2026-10-24)",
+   "url": "https://www.nature.com/articles/s41588-020-0669-3"
+  },
+  {
+   "claim": "Ziemann et al., Genome Biology 2016: ~1 in 5 papers with Excel gene lists had errors (accessed 2026-10-24)",
+   "url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1044-7"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "(no on-topic Short found; Excel date-format tutorials reach 1.6M)",
+   "url": "https://youtube.com/shorts/MmVNgulU1-c",
+   "views": "1.6M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Type MARCH1 in Excel. What happens?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Excel turns it into the date 1-Mar; so many papers were corrupted that gene names were changed in 2020 (MARCH1 is now MARCHF1). Loop ending: re-ask the hook.",
+ "hook": "Type MARCH1 in Excel. What happens?",
+ "twist": "Excel turns it into the date 1-Mar; so many papers were corrupted that gene names were changed in 2020 (MARCH1 is now MARCHF1).",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-11 18:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with Excel-1900 idea (same app). Keep >= 5 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 2,
+ "score10": 9.0,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

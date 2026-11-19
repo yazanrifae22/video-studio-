@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Why Some Texts Are Green, Not Blue",
+ "topic": "Blue means Apple's own iMessage over the internet; green means the phone fell back to carrier SMS (now RCS) because the other side isn't an Apple device or iMessage is off.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Strong demand (610K); debate frame (T9).",
+ "evidence": [
+  {
+   "claim": "Wikipedia: iMessage (blue vs green bubbles) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/IMessage"
+  },
+  {
+   "claim": "Wikipedia: Rich Communication Services (iOS 18 support) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Rich_Communication_Services"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "MKBHD On Green vs Blue Bubbles",
+   "url": "https://youtube.com/shorts/AtVG4czPZLo",
+   "views": "610K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Let's talk about green vs. blue bubbles (long)",
+   "url": "https://www.youtube.com/watch?v=ED4es0-j8M4",
+   "views": "726K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Blue bubble or green? Why?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Blue means Apple's own iMessage over the internet; green means the phone fell back to carrier SMS (now RCS) because the other side isn't an Apple device or iMessage is off. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Blue bubble or green? Why?",
+ "twist": "Blue means Apple's own iMessage over the internet; green means the phone fell back to carrier SMS (now RCS) because the other side isn't an Apple device or iMessage is off.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-12-08 18:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with sms-160 (Dec 3): 5 days apart. Neutral on Apple vs Android.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 42,
+ "score10": 8.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

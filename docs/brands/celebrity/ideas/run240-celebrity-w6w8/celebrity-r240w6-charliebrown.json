@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "CBS Thought A Charlie Brown Christmas Would Flop. Why?",
+ "topic": "CBS executives disliked the special (real children's voices, no laugh track, jazz, a Bible reading); it aired on 9 Dec 1965 anyway, drew about 15 million viewers and won an Emmy and a Peabody.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: A Charlie Brown Christmas first aired 9 Dec 1965 (61st anniversary) (2026-12-09). Wikipedia A_Charlie_Brown_Christmas 6,741 views Sept 2026.",
+ "hook": "Bosses hated it. Then 15 million watched?",
+ "twist": "CBS executives disliked the special (real children's voices, no laugh track, jazz, a Bible reading); it aired on 9 Dec 1965 anyway, drew about 15 million viewers and won an Emmy and a Peabody.",
+ "peg": {
+  "event": "A Charlie Brown Christmas first aired 9 Dec 1965 (61st anniversary)",
+  "date": "2026-12-09",
+  "url": "https://en.wikipedia.org/wiki/A_Charlie_Brown_Christmas",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Smithsonian - CBS executives thought it would fail (accessed 2026-10-24)",
+   "url": "https://www.smithsonianmag.com/smart-news/cbs-executives-thought-charlie-brown-christmas-would-fail-180953728/"
+  },
+  {
+   "claim": "Fortune - It almost never aired (accessed 2026-10-24)",
+   "url": "https://fortune.com/2024/12/25/a-charlie-brown-christmas-almost-never-aired-because-cbs-executives-didnt-like-it"
+  },
+  {
+   "claim": "WOSU - 10 things to know about A Charlie Brown Christmas (accessed 2026-10-24)",
+   "url": "https://www.wosu.org/wvxu-stories/2019-12-05/10-things-to-know-about-a-charlie-brown-christmas"
+  },
+  {
+   "claim": "Peg source: A Charlie Brown Christmas first aired 9 Dec 1965 (61st anniversary) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/A_Charlie_Brown_Christmas"
+  },
+  {
+   "claim": "Wikimedia pageviews A_Charlie_Brown_Christmas: 6741 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=A_Charlie_Brown_Christmas&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Smithsonian - CBS executives thought it would fail",
+   "url": "https://www.smithsonianmag.com/smart-news/cbs-executives-thought-charlie-brown-christmas-would-fail-180953728/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Fortune - It almost never aired",
+   "url": "https://fortune.com/2024/12/25/a-charlie-brown-christmas-almost-never-aired-because-cbs-executives-didnt-like-it",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "WOSU - 10 things to know about A Charlie Brown Christmas",
+   "url": "https://www.wosu.org/wvxu-stories/2019-12-05/10-things-to-know-about-a-charlie-brown-christmas",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Did you know that Bill Melendez thought THIS before A CHARLIE BROWN CHRISTMAS (1965) was released?",
+   "url": "https://www.youtube.com/watch?v=JwhRbrP4hD8",
+   "views": 1589,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"CBS thought Charlie Brown Christmas would flop #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why Scenes Were Deleted From Charlie Brown Christmas 😳 #edutuber #mystery #christmas #charliebrown",
+   "url": "https://www.youtube.com/watch?v=jxnDpjJ3X54",
+   "views": 42773,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"CBS thought Charlie Brown Christmas would flop #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Did you know Charles Schulz said THIS when A CHARLIE BROWN CHRISTMAS (1965) won an Emmy award?",
+   "url": "https://www.youtube.com/watch?v=mFuh_PEifas",
+   "views": 2743,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"CBS thought Charlie Brown Christmas would flop #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A drooping little sapling with one ornament under a TV-studio light + hook. Twist by 2.5 s. Loop: 'The flop that wasn't. Did you know?'",
+ "cta": "C2+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Peanuts characters are trademarked: no Charlie Brown, Snoopy or the famous tree design; draw an original sad little sapling. Viewer count 15 million vs 15.4 million: say 'about 15 million'. No Vince Guaraldi audio.",
+ "window": {
+  "notBefore": "2026-12-08T12:00:00Z",
+  "deadline": "2026-12-11T00:00:00Z",
+  "label": "A Charlie Brown Christmas first aired 9 Dec 1965 (61st anniversary)",
+  "suggestedSlot": "2026-12-09T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Charles M. Schulz",
+  "Lee Mendelson"
+ ],
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 2,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

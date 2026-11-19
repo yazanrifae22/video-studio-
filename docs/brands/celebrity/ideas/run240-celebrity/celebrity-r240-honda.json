@@ -1,0 +1,97 @@
+{
+ "channel": "celebrity",
+ "title": "Toyota Rejected His Piston Rings. So He Built Honda",
+ "topic": "Soichiro Honda's first piston rings failed Toyota's quality checks; he studied, fixed them, supplied Toyota, then founded Honda in 1948.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Soichiro Honda born 17 Nov 1906 (120th) (2026-11-17). Wikipedia Soichiro_Honda 9,544 views Sept 2026.",
+ "hook": "Toyota rejected his parts. Then what?",
+ "twist": "Soichiro Honda's first piston rings failed Toyota's quality checks; he studied, fixed them, supplied Toyota, then founded Honda in 1948.",
+ "peg": {
+  "event": "Soichiro Honda born 17 Nov 1906 (120th)",
+  "date": "2026-11-17",
+  "url": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "ASME - Soichiro Honda (accessed 2026-10-24)",
+   "url": "https://www.asme.org/topics-resources/content/soichiro-honda"
+  },
+  {
+   "claim": "New World Encyclopedia - Soichiro Honda (accessed 2026-10-24)",
+   "url": "https://newworldencyclopedia.org/entry/Soichiro_Honda"
+  },
+  {
+   "claim": "Peg source: Soichiro Honda born 17 Nov 1906 (120th) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Soichiro_Honda"
+  },
+  {
+   "claim": "Wikimedia pageviews Soichiro_Honda: 9544 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Soichiro_Honda&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "ASME - Soichiro Honda",
+   "url": "https://www.asme.org/topics-resources/content/soichiro-honda",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "New World Encyclopedia - Soichiro Honda",
+   "url": "https://newworldencyclopedia.org/entry/Soichiro_Honda",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Soichiro Honda Was Rejected by Toyota. He Built Honda | TrueRise | Motivational",
+   "url": "https://youtube.com/shorts/PNI5I94HcIw",
+   "views": 2700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "He Was Rejected by Toyota Then Built Honda | The Soichiro Honda Story #Honda #successstory #shorts",
+   "url": "https://youtube.com/shorts/OH1hfuQQ1pw",
+   "views": 2700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Rejected by Toyota... Then He Built Honda 🤯 | Real Story #shorts #InspireFusion",
+   "url": "https://youtube.com/shorts/WjxvQC5WEgs",
+   "views": 8200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a piston ring stamped 'REJECTED' + hook. Twist: the reject built a rival. Loop: 'Rejected... or redirected?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "It was a rejected parts order, NOT a job interview (common myth). '3 of 50 passed' is single-sourced - skip. No Honda/Toyota logos. Several motivational Shorts exist; be precise where they aren't.",
+ "window": {
+  "notBefore": "2026-11-16T12:00:00Z",
+  "deadline": "2026-11-18T06:00:00Z",
+  "label": "Soichiro Honda born 17 Nov 1906 (120th)",
+  "suggestedSlot": "2026-11-17T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

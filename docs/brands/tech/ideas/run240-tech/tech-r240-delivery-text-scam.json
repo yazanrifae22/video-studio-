@@ -1,0 +1,60 @@
+{
+ "channel": "tech",
+ "title": "'Missed Delivery' Texts: How Do They Know?",
+ "topic": "They don't know: scammers blast millions of random numbers in shopping season, betting that many people are waiting for a parcel.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Almost no Shorts competition (search returned one 13-view video). Seasonal and protective; strong share potential.",
+ "evidence": [
+  {
+   "claim": "US Postal Inspection Service: smishing texts about failed deliveries; USPS never texts with links unless you signed up (accessed 2026-10-24)",
+   "url": "https://www.uspis.gov/news/scam-article/smishing"
+  },
+  {
+   "claim": "FTC (Apr 2025): text scams cost $470M in 2024; fake package-delivery alerts were the most common type (ftc.gov bot-blocks scripts; URL from search) (accessed 2026-10-24)",
+   "url": "https://www.ftc.gov/news-events/news/press-releases/2025/04/new-ftc-data-show-top-text-message-scams-2024-overall-losses-text-scams-hit-470-million"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The delivery scam: how to spot a fake missed parcel text (long)",
+   "url": "https://www.youtube.com/watch?v=38OqzyDLaTw",
+   "views": "13",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Missed delivery? Tap here. Should you?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: They don't know: scammers blast millions of random numbers in shopping season, betting that many people are waiting for a parcel. Loop ending: re-ask the hook.",
+ "hook": "Missed delivery? Tap here. Should you?",
+ "twist": "They don't know: scammers blast millions of random numbers in shopping season, betting that many people are waiting for a parcel.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-14",
+  "deadline": "2026-12-15",
+  "event": "Holiday shopping season / Black Friday (Nov 27) parcel peak"
+ },
+ "newsPeg": "Holiday shopping season / Black Friday (Nov 27) parcel peak",
+ "suggestedSlot": "2026-11-14 15:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Why Scam Emails Look So Obviously Fake' - keep >= 4 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 15,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 5,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

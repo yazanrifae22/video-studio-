@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "DiMaggio's 56-Game Streak: Will Anyone Ever Break It?",
+ "topic": "From 15 May to 16 July 1941 Joe DiMaggio hit safely in 56 straight games; 85 years later the closest anyone has come is Pete Rose's 44 in 1978.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Joe DiMaggio born 25 Nov 1914 (2026-11-25). Wikipedia Joe_DiMaggio 60,421 views Sept 2026.",
+ "hook": "56 straight games. Still unbeaten?",
+ "twist": "From 15 May to 16 July 1941 Joe DiMaggio hit safely in 56 straight games; 85 years later the closest anyone has come is Pete Rose's 44 in 1978.",
+ "peg": {
+  "event": "Joe DiMaggio born 25 Nov 1914",
+  "date": "2026-11-25",
+  "url": "https://en.wikipedia.org/wiki/Joe_DiMaggio",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Click Americana - DiMaggio's 56-game hit streak (1941 coverage) (accessed 2026-10-24)",
+   "url": "https://clickamericana.com/topics/culture-and-lifestyle/sports/joe-dimaggio-baseball-record-56-game-hit-streak-1941"
+  },
+  {
+   "claim": "Sportsnaut - Longest MLB hitting streaks (accessed 2026-10-24)",
+   "url": "https://sportsnaut.com/longest-mlb-hitting-streaks/"
+  },
+  {
+   "claim": "Wikipedia - Joe DiMaggio (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Joe_DiMaggio"
+  },
+  {
+   "claim": "Peg source: Joe DiMaggio born 25 Nov 1914 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Joe_DiMaggio"
+  },
+  {
+   "claim": "Wikimedia pageviews Joe_DiMaggio: 60421 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Joe_DiMaggio&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Click Americana - DiMaggio's 56-game hit streak (1941 coverage)",
+   "url": "https://clickamericana.com/topics/culture-and-lifestyle/sports/joe-dimaggio-baseball-record-56-game-hit-streak-1941",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Sportsnaut - Longest MLB hitting streaks",
+   "url": "https://sportsnaut.com/longest-mlb-hitting-streaks/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Joe DiMaggio",
+   "url": "https://en.wikipedia.org/wiki/Joe_DiMaggio",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "He Got a Hit in 56 Straight Games #shorts",
+   "url": "https://youtube.com/shorts/UlYoM5nubRU",
+   "views": 1000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"DiMaggio 56 game hitting streak #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Joe DiMaggio’s 56 Game Hit Streak!",
+   "url": "https://youtube.com/shorts/MhZ-GYCtCv4",
+   "views": 3400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"DiMaggio 56 game hitting streak #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Joe DiMaggio Hitting Streak #joedimaggio #baseball #shorts #56games",
+   "url": "https://youtube.com/shorts/N2QFyQa0ehw",
+   "views": 3000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"DiMaggio 56 game hitting streak #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: 56 tally marks scratched on a dugout wall + hook. Twist by 2.5 s. Loop: '56 in a row. Who could ever break it?'",
+ "cta": "C7+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Keeler's old mark is given as 44 or 45: don't use. Streak ended 17 July (game 57). Rose: name the stat only (betting ban irrelevant). Skip Marilyn Monroe.",
+ "window": {
+  "notBefore": "2026-11-24T12:00:00Z",
+  "deadline": "2026-11-30T00:00:00Z",
+  "label": "Joe DiMaggio born 25 Nov 1914",
+  "suggestedSlot": "2026-11-28T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Joe DiMaggio",
+  "Pete Rose"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

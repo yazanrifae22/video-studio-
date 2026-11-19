@@ -1,0 +1,97 @@
+{
+ "channel": "celebrity",
+ "title": "'The Entertainer' Became a Hit 56 Years After Joplin Died",
+ "topic": "Scott Joplin died in 1917 largely forgotten; The Sting (1973) and Marvin Hamlisch's arrangement put 'The Entertainer' at No. 3 in 1974.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Evergreen with a twist hook. Wikipedia The_Entertainer_(rag) 2,175 views Sept 2026.",
+ "hook": "A 1902 rag, a 1974 chart hit?",
+ "twist": "Scott Joplin died in 1917 largely forgotten; The Sting (1973) and Marvin Hamlisch's arrangement put 'The Entertainer' at No. 3 in 1974.",
+ "peg": {
+  "event": "Evergreen (Joplin birthday given as 24 Nov 1868 but disputed)",
+  "date": null,
+  "url": "https://en.wikipedia.org/wiki/Scott_Joplin",
+  "pegged": false
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - The Entertainer (rag) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/The_Entertainer_(rag)"
+  },
+  {
+   "claim": "Syncopated Times - When Scott Joplin made the Top 40 (accessed 2026-10-24)",
+   "url": "https://syncopatedtimes.com/when-scott-joplin-made-the-top-40-fifty-years-of-the-sting/"
+  },
+  {
+   "claim": "Peg source: Evergreen (Joplin birthday given as 24 Nov 1868 but disputed) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Scott_Joplin"
+  },
+  {
+   "claim": "Wikimedia pageviews The_Entertainer_(rag): 2175 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=The_Entertainer_(rag)&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - The Entertainer (rag)",
+   "url": "https://en.wikipedia.org/wiki/The_Entertainer_(rag)",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Syncopated Times - When Scott Joplin made the Top 40",
+   "url": "https://syncopatedtimes.com/when-scott-joplin-made-the-top-40-fifty-years-of-the-sting/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The Entertainer-Scott Joplin #theentertainer #pianoshorts #pianocovers #pianist",
+   "url": "https://youtube.com/shorts/8UXDzXf-BLU",
+   "views": 499000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Sting Theme | Scott Joplin - The Entertainer #shorts",
+   "url": "https://youtube.com/shorts/Z7vHIl8Jmew",
+   "views": 3400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Scott Joplin - The Entertainer - 2 (1902) #shorts",
+   "url": "https://youtube.com/shorts/84K7H58e0Qk",
+   "views": 2400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a ragtime sheet-music cover dated 1902 next to a 1974 chart + hook. Twist: a movie revived it. Loop: 'Hum it - you know it.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); evergreen filler with twist",
+ "weaknesses": "Composition is public domain, but any performance must be our own recording; never the film/Hamlisch audio. Birth date is uncertain - don't peg to it.",
+ "window": {
+  "notBefore": "2026-11-11T00:00:00Z",
+  "deadline": null,
+  "label": "Evergreen (Joplin birthday given as 24 Nov 1868 but disputed)",
+  "suggestedSlot": "spare"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": true,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 2,
+  "competitionGap": 3,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "channel": "tech",
+ "title": "Why AI Always Draws Clocks at 10:10",
+ "topic": "Training-data bias in image generators (watch ads set to 10:10)",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Viewer can check it in any image tool; AI-fail meme with a known answer.",
+ "evidence": [
+  {
+   "claim": "Popular Science: Why does AI suck at making clocks? (accessed 2026-10-23)",
+   "url": "https://www.popsci.com/technology/ai-making-clocks/"
+  },
+  {
+   "claim": "Monochrome Watches: 10:10 is so rooted in watch photography that AI only generates it (accessed 2026-10-23)",
+   "url": "https://monochrome-watches.com/just-because-editorial-10-past-10-position-of-hands-so-deeply-rooted-in-watchmaking-ai-only-generate-this-even-if-asked-different"
+  },
+  {
+   "claim": "Designboom (2026-01-14): AI can't generate correct analog clocks (accessed 2026-10-23)",
+   "url": "https://www.designboom.com/technology/ai-cant-generate-correct-analog-clocks-tell-time-why-01-14-2026/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why does AI always draw clocks at 10:10?",
+   "url": "https://youtube.com/shorts/reSzeYD29Vo",
+   "views": "1.7K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why Every AI Watch Image Is Stuck at 10:10",
+   "url": "https://youtube.com/shorts/0UFMe0OQHWI",
+   "views": "1K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: an AI-generated clock we asked to show 3:00 (generate it ourselves with image:gen as a real test; label 'AI image') + hook. Answer: 10:10. Why: most watch/clock photos online are product shots set to 10:10, so the model learned 'clock = 10:10'. Loop: 'So... what time does it show?'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "What time does this clock show?",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Newer models sometimes get it right; run our own test and report what happened honestly.",
+ "window": null,
+ "novelty": {
+  "overlap": "low (strawberry = text tokens; this = image data bias)",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

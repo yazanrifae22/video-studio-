@@ -1,0 +1,97 @@
+{
+ "channel": "celebrity",
+ "title": "Pinocchio's First Ending Was So Dark Readers Revolted",
+ "topic": "Collodi's 1881 serial ended with the puppet hanged and gone; disappointed readers (and his publisher) got him brought back months later.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Carlo Collodi born 24 Nov 1826 (spare) (2026-11-24). Wikipedia The_Adventures_of_Pinocchio 20,012 views Sept 2026.",
+ "hook": "Pinocchio's original ending: what happened?",
+ "twist": "Collodi's 1881 serial ended with the puppet hanged and gone; disappointed readers (and his publisher) got him brought back months later.",
+ "peg": {
+  "event": "Carlo Collodi born 24 Nov 1826 (spare)",
+  "date": "2026-11-24",
+  "url": "https://en.wikipedia.org/wiki/Carlo_Collodi",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Britannica - The Adventures of Pinocchio (accessed 2026-10-24)",
+   "url": "https://britannica.com/topic/The-Adventures-of-Pinocchio"
+  },
+  {
+   "claim": "Topipittori - Pinocchio history (accessed 2026-10-24)",
+   "url": "https://topipittori.it/en/node/5103"
+  },
+  {
+   "claim": "Peg source: Carlo Collodi born 24 Nov 1826 (spare) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Carlo_Collodi"
+  },
+  {
+   "claim": "Wikimedia pageviews The_Adventures_of_Pinocchio: 20012 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=The_Adventures_of_Pinocchio&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Britannica - The Adventures of Pinocchio",
+   "url": "https://britannica.com/topic/The-Adventures-of-Pinocchio",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Topipittori - Pinocchio history",
+   "url": "https://topipittori.it/en/node/5103",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The DARKEST Moments from Pinocchio’s ORIGINAL Story! 😨 | 179,239 views",
+   "url": "https://youtu.be/hBY-JoNxdAU",
+   "views": 179239,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Pinocchio was KILLED in the original story?! 😱 | 2,911,378 views",
+   "url": "https://youtu.be/YIVg-B6STQI",
+   "views": 2911378,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Did you know Disney's Pinocchio had a MUCH darker alternate ending!? #shorts | 227,854 views",
+   "url": "https://youtu.be/0GKyxIjnKSk",
+   "views": 227854,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a puppet's cut strings + 'THE END?' + hook. Twist: readers demanded more. Loop: 'Which ending would you pick?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Dark: no hanging imagery - an empty set of strings and a 'THE END?' card. A 2.9M-view Short exists: only use if a slot opens.",
+ "window": {
+  "notBefore": "2026-11-20T00:00:00Z",
+  "deadline": null,
+  "label": "Carlo Collodi born 24 Nov 1826 (spare)",
+  "suggestedSlot": "spare"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": true,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

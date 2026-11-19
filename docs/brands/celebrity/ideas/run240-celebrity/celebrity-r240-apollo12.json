@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Apollo 12 Was Hit by Lightning Twice. One Switch Saved It",
+ "topic": "Bolts struck 36 and 52 seconds after launch (Nov 14, 1969); flight controller John Aaron's 'SCE to AUX' call brought the data back.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Apollo 12 launch, 14 Nov 1969 (spare) (2026-11-14). Wikipedia Apollo_12 11,159 views Sept 2026.",
+ "hook": "Lightning hit the rocket. Twice. Then?",
+ "twist": "Bolts struck 36 and 52 seconds after launch (Nov 14, 1969); flight controller John Aaron's 'SCE to AUX' call brought the data back.",
+ "peg": {
+  "event": "Apollo 12 launch, 14 Nov 1969 (spare)",
+  "date": "2026-11-14",
+  "url": "https://en.wikipedia.org/wiki/Apollo_12",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "NASA - Apollo 12 lightning launch (accessed 2026-10-24)",
+   "url": "https://science.nasa.gov/?p=142462"
+  },
+  {
+   "claim": "Live Science - Apollo 12 lightning launch (accessed 2026-10-24)",
+   "url": "https://www.livescience.com/apollo-12-lightning-launch.html"
+  },
+  {
+   "claim": "Wikipedia - John Aaron (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/John_Aaron"
+  },
+  {
+   "claim": "Peg source: Apollo 12 launch, 14 Nov 1969 (spare) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Apollo_12"
+  },
+  {
+   "claim": "Wikimedia pageviews Apollo_12: 11159 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Apollo_12&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "NASA - Apollo 12 lightning launch",
+   "url": "https://science.nasa.gov/?p=142462",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Live Science - Apollo 12 lightning launch",
+   "url": "https://www.livescience.com/apollo-12-lightning-launch.html",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - John Aaron",
+   "url": "https://en.wikipedia.org/wiki/John_Aaron",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Apollo 12 Lightning Strike and the SCE to AUX Fix",
+   "url": "https://youtube.com/shorts/uTCFX5Sb9Cw",
+   "views": 1300,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Apollo 12 Was Struck by Lightning Twice—Then Came SCE to AUX",
+   "url": "https://youtube.com/shorts/xFLfOERGIvk",
+   "views": 81,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Lightning Hit Apollo 12 Twice. One Switch Saved It. #shorts",
+   "url": "https://youtube.com/shorts/wAUDE-51Yfo",
+   "views": 9,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a rocket with two lightning bolts + hook. Twist: one obscure switch. Loop: 'SCE to AUX.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Same mission as the Conrad idea (Nov 19): use one or the other, at least 5 days apart.",
+ "window": {
+  "notBefore": "2026-11-13T00:00:00Z",
+  "deadline": "2026-11-16T00:00:00Z",
+  "label": "Apollo 12 launch, 14 Nov 1969 (spare)",
+  "suggestedSlot": "spare"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": true,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "One Bulb Dies, the Whole String Goes Dark. Why?",
+ "topic": "Old light strings are wired in series, one long loop; a missing or broken bulb opens the loop. Newer bulbs have a tiny 'shunt' that bridges a dead filament, but not a missing bulb.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Fix-it long-forms reach 0.8-4.7M; no Short explains the circuit.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: Christmas lights (series wiring, shunts) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Christmas_lights"
+  },
+  {
+   "claim": "Wikipedia: Series and parallel circuits (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Series_and_parallel_circuits"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How To Fix Christmas Lights Half Out - Ace Hardware (long)",
+   "url": "https://www.youtube.com/watch?v=9PbK0LNnRW4",
+   "views": "827K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  },
+  {
+   "title": "The SECRET Trick To Find Faulty Christmas Lights (long)",
+   "url": "https://www.youtube.com/watch?v=lm7MRNBMDZk",
+   "views": "911K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('One bulb out. All dark?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Old light strings are wired in series, one long loop; a missing or broken bulb opens the loop. Newer bulbs have a tiny 'shunt' that bridges a dead filament, but not a missing bulb. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "One bulb out. All dark?",
+ "twist": "Old light strings are wired in series, one long loop; a missing or broken bulb opens the loop. Newer bulbs have a tiny 'shunt' that bridges a dead filament, but not a missing bulb.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-12-04",
+  "deadline": "2026-12-20",
+  "event": "Christmas-decorating weekend (Dec 5-6)"
+ },
+ "newsPeg": "Christmas-decorating weekend (Dec 5-6)",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-05 12:00 UTC",
+ "novelty": {
+  "overlap": "none. Safety line: unplug before touching bulbs.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 18,
+ "score10": 8.7,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "The Bass Player Who Gave Up His Seat on Buddy Holly's Plane",
+ "topic": "Waylon Jennings gave his seat to the flu-stricken Big Bopper; his parting joke with Buddy Holly haunted him for decades.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Posthumous Waylon Jennings album 'Diamonds' released (2026-11-13). Wikipedia Waylon_Jennings 86,507 views Sept 2026.",
+ "hook": "1959: who gave up their seat?",
+ "twist": "Waylon Jennings gave his seat to the flu-stricken Big Bopper; his parting joke with Buddy Holly haunted him for decades.",
+ "peg": {
+  "event": "Posthumous Waylon Jennings album 'Diamonds' released",
+  "date": "2026-11-13",
+  "url": "https://www.mnprmagazine.com/music-news/shooter-jennings-diamonds-waylon-jennings-album/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Biography.com - Waylon Jennings and the Day the Music Died (accessed 2026-10-24)",
+   "url": "https://www.biography.com/musicians/waylon-jennings-plane-crash-day-the-music-died"
+  },
+  {
+   "claim": "Snopes - American Pie / the seat swaps (accessed 2026-10-24)",
+   "url": "https://www.snopes.com/music/artists/americanpie.asp"
+  },
+  {
+   "claim": "Ultimate Classic Rock - Buddy Holly, Ritchie Valens, Big Bopper killed (accessed 2026-10-24)",
+   "url": "https://ultimateclassicrock.com/buddy-holly-richie-valens-big-bopper-killed-in-plane-crash/"
+  },
+  {
+   "claim": "Peg source: Posthumous Waylon Jennings album 'Diamonds' released (accessed 2026-10-24)",
+   "url": "https://www.mnprmagazine.com/music-news/shooter-jennings-diamonds-waylon-jennings-album/"
+  },
+  {
+   "claim": "Wikimedia pageviews Waylon_Jennings: 86507 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Waylon_Jennings&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Biography.com - Waylon Jennings and the Day the Music Died",
+   "url": "https://www.biography.com/musicians/waylon-jennings-plane-crash-day-the-music-died",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Snopes - American Pie / the seat swaps",
+   "url": "https://www.snopes.com/music/artists/americanpie.asp",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Ultimate Classic Rock - Buddy Holly, Ritchie Valens, Big Bopper killed",
+   "url": "https://ultimateclassicrock.com/buddy-holly-richie-valens-big-bopper-killed-in-plane-crash/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "WAYLON JENNINGS Gave His Seat to THE BIG BOPPER ✈️His Last Words to BUDDY HOLLY Were meant as a JOKE",
+   "url": "https://youtube.com/shorts/td4Lj8SgGbI",
+   "views": 174000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "He gave up his seat on the plane that killed Buddy Holly — and carried that guilt for 40...",
+   "url": "https://youtube.com/shorts/QGJrpbxXrkQ",
+   "views": 17,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "📍 Waylon Jennings gave up his seat on the plane that killed Buddy Holly!!! #fyp #countrymusic",
+   "url": "https://youtube.com/shorts/z8uYmOINuQ4",
+   "views": 73,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: an empty plane seat with a guitar case beside a bus + hook. Twist: he took the bus. Loop: 'One seat. One coin. One bus.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Fatal crash: no wreck imagery, gentle tone. Exact wording of the jokes differs between sources: paraphrase. Several popular Shorts already tell this - lean on the album peg and the guilt angle.",
+ "window": {
+  "notBefore": "2026-11-12T12:00:00Z",
+  "deadline": "2026-11-15T00:00:00Z",
+  "label": "Posthumous Waylon Jennings album 'Diamonds' released",
+  "suggestedSlot": "2026-11-13T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 2,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 3
+ }
+}

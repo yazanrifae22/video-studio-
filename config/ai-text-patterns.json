@@ -1,0 +1,85 @@
+{
+ "_doc": "AI-generation / disclosure text guard (owner rule 2026-10-28, widened 2026-11-08: 'the description must never mention that it is created by AI - in the full info, never'). ONE pattern list for TS (packages/shared/src/ai-text.ts) and Python (scripts/ai_text.py); both compile these strings with the case-insensitive flag, per line. A hit inside a line that reads as a TOPIC (question / explainer phrasing: a video ABOUT AI, e.g. tech 'Why AI Kept Drawing Six Fingers') and has no SELF marker (this video / narration / our / voiced by ...) is ignored, except rules marked always:true. Rules with brands_exempt do not apply to those brands (tech explains AI, so a plain #AI hashtag is topical there). Fixtures: config/ai-text-fixtures.json. Keep the syntax portable: no lookbehind, no named groups, \\b only next to ASCII.",
+ "rules": [
+  {
+   "id": "ai_made",
+   "re": "\\bA\\.?I\\.?[- ]?(?:generated|created|made|produced|rendered|animated|written|narrated|voiced|assisted|enhanced|powered voice)\\b"
+  },
+  {
+   "id": "made_with_ai",
+   "re": "\\b(?:generated|created|made|produced|narrated|voiced|written|animated|rendered|illustrated|drawn|designed|edited|built|composed)\\s+(?:\\w+\\s+){0,2}?(?:by|with|using|via|through|thanks to)\\s+(?:the\\s+help\\s+of\\s+)?(?:an?\\s+)?(?:A\\.?I\\.?|artificial intelligence|generative AI|gen-?AI|ChatGPT|Midjourney|DALL[- ]?E|Stable Diffusion|Sora|Veo|Runway|Imagen|Gemini|Codex|Eleven ?Labs|Suno|Udio|Kling|Pika)\\b"
+  },
+  {
+   "id": "ai_voice",
+   "re": "\\b(?:A\\.?I\\.?|synthetic|computer[- ]generated|artificial|cloned|robotic|text[- ]to[- ]speech)\\s+(?:voice[- ]?overs?|voices?|narration|narrators?|speech|speaker|presenter|host|vocals?|audio)\\b"
+  },
+  {
+   "id": "synthetic",
+   "re": "\\bsynthetic\\s+(?:media|content|narration|narrator|images?|footage)\\b"
+  },
+  {
+   "id": "is_ai",
+   "re": "\\b(?:narration|voice[- ]?over|voice|narrator|images?|art|artwork|visuals?|illustrations?|pictures?|thumbnail|music|script|animation|footage|video|content)\\s+(?:is|are|was|were|by|from)\\s+(?:an?\\s+|fully\\s+|partly\\s+|entirely\\s+|100%\\s+)?(?:A\\.?I\\.?|artificial intelligence|synthetic|computer[- ]generated|generated)\\b"
+  },
+  {
+   "id": "tts",
+   "re": "\\btext[- ]to[- ]speech\\b|\\bTTS\\b"
+  },
+  {
+   "id": "voice_clone",
+   "re": "\\bvoice[- ]?clon(?:e|ed|es|ing)\\b|\\bcloned\\s+voice"
+  },
+  {
+   "id": "voice_vendor",
+   "re": "\\b(?:voices?|voice[- ]?overs?|narration|narrator|narrated|voiced|speech|credits?)\\b[^.\\n]{0,40}?\\b(?:Gemini|Eleven ?Labs|Murf|Speechify|WellSaid|Play\\.ht|Polly|Azure TTS|Google TTS|Charon|Kore|Puck|Fenrir|Aoede|Leda|Orus|Zephyr)\\b"
+  },
+  {
+   "id": "vendor_voice",
+   "re": "\\b(?:Gemini|Eleven ?Labs|Murf|Speechify|WellSaid|Play\\.ht)\\b[^.\\n]{0,25}?\\b(?:voices?|TTS|narrat\\w*|speech)\\b"
+  },
+  {
+   "id": "elevenlabs",
+   "re": "\\bEleven ?Labs\\b"
+  },
+  {
+   "id": "hashtag_ai_made",
+   "always": true,
+   "re": "#(?:ai(?:generated|voice|voiceover|narration|narrator|art|artwork|made|video|animation|images?|content|tools?|music|created)|madewithai|createdwithai|tts|texttospeech|syntheticvoice|syntheticmedia|eleven ?labs|voiceclon\\w*|midjourney|generativeai|genai)\\b"
+  },
+  {
+   "id": "hashtag_ai",
+   "always": true,
+   "brands_exempt": [
+    "tech"
+   ],
+   "re": "#(?:ai|a\\.i\\.|artificialintelligence)\\b|#(?:ال)?ذكاء_(?:ال)?اصطناعي"
+  },
+  {
+   "id": "ar_voice",
+   "re": "(?:صوت|أصوات|اصوات)\\s*(?:مولّ?د|مُولّ?د|اصطناعي|إصطناعي|آلي|صناعي)|(?:التعليق|تعليق)\\s*(?:الصوتي\\s*)?(?:آلي|اصطناعي|إصطناعي|مولّ?د)"
+  },
+  {
+   "id": "ar_made_ai",
+   "re": "(?:مولّ?د[ةه]?|مُولّ?د[ةه]?|منشأ[ةه]?|مصنوع[ةه]?|مصمم[ةه]?|معمول[ةه]?|منتج[ةه]?|مرسوم[ةه]?|تم\\s+\\S+|أُ?نشئ[تَ]?|انشئ[تَ]?|صُ?نع[تَ]?|أُ?نتج[تَ]?|رُ?سم[تَ]?|توليد|إنشاء|انشاء|صنع|إنتاج|انتاج)\\s+(?:\\S+\\s+){0,3}?(?:ب|باستخدام\\s+|بإستخدام\\s+|بمساعدة\\s+|عبر\\s+|بواسطة\\s+|من\\s+)(?:ال)?ذكاء\\s+(?:ال)?[اإ]صطناعي"
+  },
+  {
+   "id": "ar_noun_ai",
+   "re": "(?:صور|الصور|رسوم|الرسوم|رسومات|الرسومات|صوت|الصوت|فيديو|الفيديو|الأصوات|موسيقى|الموسيقى)\\s+(?:\\S+\\s+)?ب(?:ال)?ذكاء\\s+(?:ال)?[اإ]صطناعي"
+  },
+  {
+   "id": "ar_generated",
+   "re": "(?:مولّ?د[ةه]?|مُولّ?د[ةه]?)\\s+(?:آليًا|آليا|اصطناعيًا|اصطناعيا)"
+  },
+  {
+   "id": "ar_tts",
+   "re": "تحويل\\s+النص\\s+إلى\\s+(?:كلام|صوت)|(?:النص|نص)\\s+إلى\\s+كلام"
+  },
+  {
+   "id": "ar_hashtag",
+   "always": true,
+   "re": "#(?:صوت_اصطناعي|صوت_مولد|ذكاء_اصطناعي_توليدي|مولد_بالذكاء_الاصطناعي)"
+  }
+ ],
+ "topic": "^\\s*(?:why|how|what|when|which|who|can|could|does|do|did|is|are|should|will|would)\\b|\\b(?:explained|explainer|the trick behind|the science of|versus|how to tell|how to spot|tell if|tell whether|detect|spot the)\\b|(?:^|\\s)(?:كيف|لماذا|ليش|ليه)(?:\\s|$)",
+ "self": "\\b(?:this (?:video|short|clip|episode|channel|reel)|our|we|us|narration|narrated|narrator|voice[- ]?over|voiced by|credits?|disclaimer|disclosure)\\b|هذا الفيديو|في الفيديو|التعليق الصوتي|قناتنا|الراوي|تم إنشاء|تم إنشاؤه|صوت مولّد|صوت مولد"
+}

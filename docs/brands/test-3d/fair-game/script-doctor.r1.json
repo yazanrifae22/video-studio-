@@ -1,0 +1,114 @@
+{
+  "round": 1,
+  "verdict": "revise",
+  "forecast": 78,
+  "forecast_reasoning": "Strong spine (fair rules, unfair outcome, why, objections, one fix), a visible proof from second one and a real fight topic; held under 85 because 'every time' and 'most honest picture' overclaim what the toy model shows, the toy-versus-real gap (ninety percent versus thirty-two percent) is never admitted, c07 is a citation dump, and the Skeptic has no payoff.",
+  "gap_to_gate": [
+    {
+      "line": "l04, l24, title",
+      "problem": "Overclaim. Claim data: across 300 worlds the leader's share at 6,000 flips each ranged 33.5 to 99 percent, median 85. 'Every single time' and 'every world ends the same way. One stack eats the board' are false for the low end. Title 'One Winner. Every Time.' has the same problem. A hostile commenter finds this in one sentence and the whole video is discredited.",
+      "fix": "l04: 'Not sometimes. We played it three hundred times, and in every single one, one stack ended far ahead of the rest.' | l24 (last three sentences): 'Every one of the sixty-four squares won at least once. In every world, the top stack held a third of the board or more. In half of them, more than eighty-five percent.' | Title: 'A Fair Coin Game Ends With One Rich Player. 300 Out Of 300.'",
+      "points": 3
+    },
+    {
+      "line": "l45 (new line after it)",
+      "problem": "Biggest missing step. The toy board ends at ninety percent for one stack; real United States data in l44 says thirty-two percent for the top one percent. Any smart commenter says the model is wrong or exaggerated, and the script never says so. Without this the video looks like it hides the gap.",
+      "fix": "Insert after l45: 'Our toy board ends far worse than the real one. Real countries have taxes, inheritance rules, death and second chances. The toy board has none of that. It shows a direction, not a size.'",
+      "points": 3
+    },
+    {
+      "line": "l05",
+      "problem": "'The most honest picture we have of how people get rich' is an unprovable superlative and invites 'it is a toy' as the first comment; 'hate it' is mild bait. It also gives no reason to stay past minute one.",
+      "fix": "'I will show you every flip that matters. Then I will show you what this toy board can say about how people get rich, and where it cannot. Some of you are going to hate it.'",
+      "points": 2
+    },
+    {
+      "line": "l41-l43",
+      "problem": "Weakest sixty seconds of the video (l41 to l45, about one hundred and thirty words of citation and percentages, abstract picture of pawns changing size). c06 ends on a high (l40) and c07 opens with a statement, not a question. Viewer leaves at l41 ('three Italian physicists... forty years') or at l44's two percentages. Also 'almost never the most talented' is stronger than the paper.",
+      "fix": "l41: 'Is this only a toy? Three Italian physicists built a bigger one in twenty eighteen. A thousand people. Forty years. Talent spread like real life: most in the middle, a few brilliant.' | l43: 'After forty years, the richest person in the model was rarely the most talented one. It was somebody close to average, who kept getting lucky.' | l44: cut 'The bottom half hold about two and a half percent' from the spoken line and let the tag carry it, or keep and add 1.5 s silence.",
+      "points": 3
+    },
+    {
+      "line": "l30",
+      "problem": "The whole result rests on the stake rule (one fifth of the poorer stack), which the script chose. l08 sells it as 'as fair as a bet gets'. A commenter says the rule is rigged. The script needs to own the choice here, once, before c06.",
+      "fix": "Append after l30: 'I chose this stake rule. Change the rule and the size of the effect changes. Keep that in mind, because the real world is not this board.'",
+      "points": 2
+    },
+    {
+      "line": "l37, l40",
+      "problem": "The comparison is stacked: the Heir gets ten times the coins, the Scholar a 55 to 45 edge, and the listener has no baseline. Six in a hundred sounds tiny but a plain player's chance is one in sixty-four (about one and a half). A smart reader says 'you chose the numbers'. l40's 'nobody gets ten lifetimes' is a dodge without the admission.",
+      "fix": "l37: 'The Scholar, with a real edge on every single flip? Six. A plain player gets one and a half.' | l40: 'Talent is not useless. Let the game run ten times longer and the Scholar becomes the most likely winner. But nobody gets ten lifetimes. And yes, I chose these numbers. Change them, and the order changes.'",
+      "points": 2
+    },
+    {
+      "line": "l58-l60",
+      "problem": "Leap from the toy to politics. The fix rule takes one percent every round forever, which is no real tax; a fitted model matching data is not proof of cause; 'matched within a fraction of a percent' is fact-check pending; 'two weeks ago' dates the video and breaks the moment it is a month old. This is the exact weak spot a hostile commenter attacks.",
+      "fix": "l58: 'Still winners. Still losers. Still unequal. But the game never ends. This rule is not a real tax. It takes one percent every round, forever. It only shows that a steady flow back stops the king.' | l59: 'A mathematician named Bruce Boghosian added a rule like this to the model and fitted it to real wealth data from the United States. The fit was close. A close fit does not prove the cause. It does mean the toy is not nonsense.' | l60: 'That is the argument underneath every fight about taxing the very rich. In November twenty twenty-six, California voted on a one-time five percent tax on billionaires. It lost, fifty-three to forty-seven.' (drop l60 if the vote result is not confirmed on a primary page)",
+      "points": 3
+    },
+    {
+      "line": "l47",
+      "problem": "'Scholars exist' equates self-made billionaires with skill alone. That hands the 'merit wins' side an easy win and goes soft against the video's own claim. It also adds no new point after l46.",
+      "fix": "'And to be fair, in the same year a hundred and ninety-six people got there by building something, and together they made more than the heirs did. Skill is real. But nobody counts the equally good builders who never got lucky.'",
+      "points": 2
+    },
+    {
+      "line": "l53, l54",
+      "problem": "'The coin picks the winner' contradicts l40 (given ten times longer, the Scholar wins). l53 also sounds like an ending, so c09 starts with no open question and a viewer who feels finished leaves at the l54 reset.",
+      "fix": "l53 (last two sentences): 'But among the people at the table, luck decides far more than anyone likes. And the coin does not check who deserved it. So can anything stop the king?' | l54 stays unchanged.",
+      "points": 2
+    },
+    {
+      "line": "l64 (new line before l65)",
+      "problem": "The Skeptic is the only character with no payoff: three objections and then gone. The Worker is a casualty only, but pays off in l33, l38 and l64. Scholar, Heir and Fool pay off properly.",
+      "fix": "Insert before l65: 'Even the Skeptic, still standing off the board, has a hundred coins waiting. Step on.' Picture: black pawn hops onto the board and gets its own tower of ten discs; then l65.",
+      "points": 2
+    },
+    {
+      "line": "l38",
+      "problem": "About sixty words, five sentences, the longest block in the video and the number-densest (seventy, nine out of ten, two, less than one). The tag says 'broke' while the claim is 'under ten coins', and 'broke' elsewhere means under one coin. Mismatch invites a correction comment.",
+      "fix": "'The Worker? Two. The Fool? Less than one. Here is the ugly part. In seventy worlds out of a hundred, the Worker ends with less than ten coins. That is worse than the Fool. Working harder at a coin flip is just more coin flips.' Change the tags to 'under 10 coins: 70 in 100' and 'under 10 coins: 46 in 100'.",
+      "points": 2
+    },
+    {
+      "line": "l20, l13, l51, l57",
+      "problem": "Number stack in c03-c04 (l20 and l21 back to back: eighty-two percent, then fifty-five percent, reads as a contradiction). l13 has three near-identical twenties. l51 'ahead / behind' has no baseline and 'more than half' hides the tag 36. l57 says twelve thousand while the tag says 12,500.",
+      "fix": "l20: CUT, let the time-lapse run in silence for about five seconds with tags '82%' and '37 out'. | l13: 'Twenty flips each. Twenty-two players are ahead. Twenty have already lost more than half their coins.' (cut 'Nothing dramatic.') | l51: 'Now count the players. Nine are above where they started. Fifty-five are below. Thirty-six have less than a single coin. And one stack holds seventy-one percent of everything.' | l57: 'Play as long as you like. Twelve and a half thousand flips each. No king. The richest player holds about eight percent. Nobody is out.'",
+      "points": 2
+    },
+    {
+      "line": "l01-l02",
+      "problem": "First thirty seconds: promise is clear and the proof is on screen (board, then flash-forward at l03), a stranger would stay. Two small fixes: l01 opens on bare numbers with no stake; l02 and l10 both say nobody is smarter / no skill, so the premise is told twice. 'Play long enough' hides that long means six thousand flips each.",
+      "fix": "l01: 'Sixty-four players. Each one starts with exactly one hundred gold coins. One fair coin decides every bet.' | l02: 'Same rules for everyone. Nobody cheats. Nobody is smarter than anybody else.' | l03: 'Play six thousand flips each, and one player owns almost every coin on the board. Nearly everyone else has nothing.' | l10: 'Then two more players. And two more. That is the whole game. Just the coin.'",
+      "points": 2
+    },
+    {
+      "line": "silences (picture needs more time than words give)",
+      "problem": "Several animations are longer than the speech that names them. Without silence the picture is cut off or the words run ahead of it.",
+      "fix": "Add silence: after l04 1.5 s (three world cuts); after l09 1.5 s (discs slide, tower rises); between each name in l11 0.7 s (hat drop); before l23 1 s and after l23 3 s (king drop, hat pop); after l24 2 s (64 chips rain); after l29 1.5 s (pawn tips); after l34 1 s (tower to 1,000); after l36 2 s (47 chips) and after l39 2 s (45 chips); after l40 2 s (counter 200 to 2,000); after l47 2 s (discs stack); after l50 2 s (time-lapse of 100 rounds); after l60 2 s; after l65 4 s (hold end text).",
+      "points": 1
+    }
+  ],
+  "notes": {
+    "retention_map": {
+      "c01": "Earns its place. Frame-0 image is strong. Leave risk: l02 (premise told twice with l10) and l05 (superlative). First 30 s: promise clear, proof under way, stay likely.",
+      "c02": "Needed (the stake rule). Slowest point is l08 ('Why the poorer one?') but it is a real question and the explanation is short; keep. l11 hat drop is the hook for character payoff; l12 keeps the thread.",
+      "c03": "Earns its place as the Scholar-up, Fool-down setup for the reversal. Low risk, short (about 20 s). Leave risk at l13 (number stack).",
+      "c04": "Strongest chapter (l18 to l19 reversal, l23 king). Leave risk at l20 to l21 (two percentages in a row, same shape 'N flips each. X players hold Y'). Cut l20.",
+      "c05": "Earns its place: the answer to the question c04 opened. l26 and l27 arithmetic is the hardest to follow by ear (eighty, ninety-six, four gone). Needs the tower outline held a full second. l30 closes the question and opens c06 correctly.",
+      "c06": "Earns its place; strongest comment chapter. Opens a new question before closing the old one (Skeptic in l31). Leave risk at l38 (sixty words, five numbers). l39 plain-pawn column is the best surprise in the chapter.",
+      "c07": "Weakest chapter. Opens on a citation, not a question, and stacks seven numbers in five lines (l41 to l45). Weakest 60 seconds of the video: l41 to l44. l46 to l47 recover because the Heir returns.",
+      "c08": "Earns its place (the best objection answered by changing the coin, with a visible result). Opens a new question before the old closes. l51 is the number-heavy spot; l52 ('the average is a story about one lucky stack') is the best line of the video and must have a silence before it.",
+      "c09": "Needed (the fix) but starts with no open question after l53. Add the tease. l59 to l60 is the leap that overclaims; see gap item seven.",
+      "c10": "Reframes the hook (fair coin, one king). Share reason is clear (l62, l63, l64 are quotable). Add the Skeptic payoff."
+    },
+    "comment_fights": "Sentences people will argue with: l62 ('Being rich does not prove you were better'), l63 ('being broke does not prove you played badly'), l53 ('the coin does not check who deserved it'), l38 ('Working harder at a coin flip is just more coin flips'), l60 (billionaire tax). All stated hard enough, and l62 to l64 are the right spine. They are true only as a statement about the toy model; the honest-limits part (l40, l47, c08) is currently not enough, because the model-versus-reality size gap (ninety versus thirty-two percent), the chosen stake rule, the chosen Heir/Scholar numbers and the one-percent-forever fix rule are never admitted. The fixes above add those four admissions in one sentence each, so the video stays hard and gets harder to dismiss without going soft. l62 also reads a touch too universal: 'it proves you were at the table, good enough to play, and the coin liked you early' is fine in the toy but a hostile reader will say 'rich people also work'; l47 and l53 now carry that.",
+    "read_aloud": "At 2.6 words per second the script is about 530 s of speech plus about 25 s of added silences and about 40 s of natural pauses, so about 10 minutes; inside the 9 to 12 minute band. Sentences over twelve words: l45 (24), l41 (20+), l38 (long block), l53 (four sentences). l45 rewrite for one breath: 'One stack. Less than one square. Over ten times taller than the coins of thirty-two squares combined.' Tongue-twisters / hard to hear: l13 'twenty, twenty-two, twenty', l17 'two hundred ... top tenth ... twenty', l49 'forty percent ... fifty'. 'Nineteen thousand two hundred' time-lapse numbers are on screen only, correctly not spoken.",
+    "line_jobs": "Cut or merge: l20 (cut), l10 last three sentences (shorten, premise repeated), l02 'nobody is smarter' only once, l27 first sentence repeats l26 with the tag; keep l27's second sentence ('A fifth down and a fifth up do not cancel out'), it is the key step. Missing steps: (1) why the toy is not reality, new line after l45; (2) who owns the stake rule, l30; (3) a baseline for 'six in a hundred', l37; (4) 'ahead of what' in l51. l16 ('Nobody did anything right...') and l64 repeat the idea on purpose (setup and payoff), keep both.",
+    "characters": "Scholar: pays off (l14 up, l18 gone, l32 edge, l37 six, l40 wins in the long run, l47 on a built tower, l63). Worker: l18 earlier gone, l33 twice as often, l38 worse than the Fool, l64; good. Heir: l22 survives small, l34, l36 forty-seven, l46; good. Fool: wins (l19), gets nothing extra (l35), l64 'did nothing right'; the best-built character. Skeptic: decoration until the new line before l65; l31, l48 and l53 give the objections, so the payoff is an invitation to step on the board.",
+    "ending": "Reframes the opening (same sixty-four equal players, same coins, which one are you). Comment ask is honest and open (four named choices, no held answer). Share reason: l62 to l64 are one-sentence quotables. Suggest the pinned comment 'Which hat did you pick, and why?' (not part of the script).",
+    "length": "KEEP length. Net after fixes about plus fifty words (cut about seventy: l20, l02, l10, l13, l41; add about one hundred and twenty: toy-versus-real limit, stake-rule admission, chosen-numbers admission, one-percent-forever admission, Skeptic payoff, tease). Do not add more content; the middle already has enough new questions.",
+    "evidence_open": "Fact lines pending check before TTS: l41 to l43 (paper), l44 to l45 (Fed), l46 to l47 (UBS), l59 (Boghosian fit wording), l60 (California result). Hard cap: if l60 and l59 stay unconfirmed, drop them rather than hedge.",
+    "one_change_with_biggest_lift": "Fix the 'every time' overclaim (l04, l24, title) and add the toy-versus-real admission after l45; together they remove the two sentences a hostile commenter would use to discredit the whole video."
+  }
+}

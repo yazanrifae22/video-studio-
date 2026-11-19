@@ -1,0 +1,56 @@
+# quiz-ar long-form series «تعلّم بالأسئلة» (started 2026-11-12)
+
+Format `quiz-long`: 16:9, 1920x1080, 8-12 min, built by `packages/quizlong` (`quizlong:plan <id>` / `quizlong:build <id>`), picture template `packages/quizlong/template/` ("blocks" look: CSS-3D toy-TV frame, four level palettes, flag effects zoom / blur / shutters, speed rounds, score ladder, end frame). Rulebook: `research/quiz-longform-2026-11-12/longform-rules.md`. Reference analysis: `research/quiz-longform-2026-11-12/reference-analysis.md`. Playlist: «تعلّم بالأسئلة 🌍 | اختبارات طويلة».
+
+## Episode shape (v1, from episode 1)
+- 40 points = 4 levels (تسخين / عادي / صعب / ابن بطوطة) x (7 standard questions + a speed round of 3 flags).
+- Q1 on screen at t=0; plain one-breath opening + one teaser that is paid at the end; no intro scene, no ask before the last reveal.
+- After every answer one learn line on screen; the voice reacts instead of re-reading it.
+- Mechanic caps per episode: capitals <= 3, nicknames <= 2, true/false <= 3, bigger <= 2 (2-option types never in level 4); no mechanic twice in a row; 5-6 flag-effect questions.
+- Speed rounds: famous flags, the clock is the difficulty (3 s, then 2.5 s).
+- Ending: score ladder (سائح فضولي / جواز سفر ممتلئ / بوصلة بشرية / ابن بطوطة) -> one comment ask with a reason -> hand-off -> sign-off -> 8 s end frame.
+- Every fact has a source URL in episode.json and passes an independent fact-check before script approval.
+- Every episode must differ from the last 10 in question set and use at least 2 new mechanics (inauthentic-content defence); max one long-form per week at first.
+
+## Plan
+| # | Topic | Status | Notes |
+|---|---|---|---|
+| 1 | دول العالم (flags, capitals, landmarks, neighbours) | quiz-261112-fpr4 | hand-off line promises episode 2 |
+| 2 | عالم الحيوان (NEW CATEGORY, owner 2026-11-13 "create another one new categorie") | quiz-261113-cqz3 (v4 9:05, scheduled Fri 2026-11-20 16:30 UTC, https://youtu.be/EJe3HnSgpe0) | schema v1.4: animal picture clues (zoom / blur / shutters / silhouette), shadow speed rounds, Arabic-language mechanics (sound / baby / home names), who_am_i, versus; palette "wild"; top level + ladder title «الجاحظ»; hand-off still promises «أعلام متشابهة» |
+| 3 | أعلام متشابهة (look-alike flags) | quiz-261113-5gku (v2 9:50, APPROVED 2026-11-14: QA 88, insights 89, viral 80; NOT uploaded, proposed slot Fri 2026-11-27 16:30 UTC, owner OK needed) | schema v1.5: multi-flag layouts (`flag_pick` / `flag_pair` = the flags are the options, `flag_diff` / `flag_family` = flags as the clue), palette "twin", top level + ladder title «عين الصقر»; promise "after this video you never mix these flags up again"; q40 = Chad among Romania / Moldova / Andorra (hint states the rule at half time, Romania stays lit); "returning question" = Croatia (q31); hand-off promises «عواصم العالم» |
+| 4 | عواصم العالم (capitals that are not the biggest city) | promised at the end of episode 3 | |
+| 5 | الدول العربية الـ٢٢ | idea | owner decision on contested entities first |
+
+## Categories (schema v1.4, 2026-11-13)
+The builder is no longer flags-only. A category = a clue source + its own palette (`theme.palette`), same episode shape.
+- **countries** (episode 1): `clue.type "flag"` (flag-icons by iso), default palette.
+- **animals** (episode 2): `clue.type "animal"` (one glyph of the bundled Noto Color Emoji font, vector-sharp at any zoom) with `effect` zoom | blur | strips | silhouette, `answer_emoji` / `subject_emoji` reveal stickers, option `emoji`, text mechanics `sound`, `baby`, `home`, `number`, `record`, `habitat`, `who_am_i` (`clue.lines`, <= 14 chars each), `versus` (2 options with emoji), palette `"wild"`. Schema notes: `productions/quiz-261113-cqz3/brief.md`. Dev fixture: `packages/quizlong/template/dev/` (`make-animal-fixture.ts`, `make-silent-show.ts <episode.json> <out show.json>` = silent show.json with estimated timings, `render-animals.mjs show <show.json> <outDir> <t...>` renders single frames of any show.json: check real pictures before the first voiced build).
+- **Picture art test (2026-11-13, owner: "try 3D images with Codex and tell me if it's better"): NOT run.** Codex image generation is off because the ChatGPT plan on the Codex login is `free` since 2026-11-04 (was `plus`); no image was generated. Ready for when it is back: `show.art = {"<emoji>": "<image url relative to frame.html>"}` puts a square transparent cut-out (animal bottom-aligned) on the animal plate instead of the glyph, with zoom / blur / strips / silhouette unchanged (checked with a stand-in picture; real builds do not emit `art`). Tools: `packages/quizlong/template/dev/art-test.mjs` (`show <show.json> <out> <emoji>=<url>`), then `render-animals.mjs show`. Still to do after generation: cut the green background to alpha, view every shadow for fairness, rights-scout on each generated picture.
+- Lessons from episode 2: emoji art needs a fairness list (look-alike animals never share a question); Arabic names must be the dictionary ones and unarguable (the ant-home question had to be turned round: give the rare word, ask for the animal); level-card callout lines <= 7 words; the voice does not read the ladder (ending speech <= 15 s); the host speaks Syrian, so ق may sound like ء (ASR flags on such words are not defects).
+
+- **look-alike flags** (episode 3, schema v1.5, 2026-11-14): `clue.type "flags"`. Pick mode `{"type":"flags","pick":true,"label"}` + `options [{"iso","text","keep"?}]` (2 = `flag_pair`, 4 = `flag_pick`; numbered flags, names under every flag at the reveal, `keep: true` leaves one loser lit for comparison). Clue mode `{"type":"flags","isos":[2-4],"labels":[...],"names":bool,"ratio":{iso:[w,h]}}` + 4 text options (`flag_diff`, `flag_family`; 4 flags = 2x2; `ratio` draws true proportions, e.g. Monaco / Indonesia). The question that carries `hook_text` (Q1) gets the opening motion (flags pop one by one, moving highlight until the countdown) and a banner chip. Palette `"twin"`. Schema notes + fairness list for the 4:3 flag set: `productions/quiz-261113-5gku/brief.md`. Dev fixture: `packages/quizlong/template/dev/flags15-fixture-*.json`.
+- Lessons from episode 3: ask the question at 0 s INSIDE the opening line (hook after it) and move the picture in the first second (insights 85 -> 89); speed rounds re-test flags TAUGHT earlier (shown is not taught); learn lines = memory tricks, never "first / last" colour order (reads from the wrong side in Arabic: say «عند السارية» or name the colour); a mirror twin may be an option of a single-flag item, a shade-only twin never; flags that are twins at phone size never go in a no-option speed item (Nicaragua / El Salvador); text-only reviewers (blind viewers, fresh-eyes S, panel S) keep doubting what only the picture shows (speed-round answer timing, shade visibility): answer them in the ledger, verify on frames at 360 px, do not rewrite the script for it; give viewer reviewers pre-extracted frames named by second (`NN_at_<t>s.jpg` + index.txt), fresh-eyes mixed up its own frames once and reported a false out-of-sync; every edit to `episode.json` after script-doctor forces doctor delta + fresh-eyes S + panel S again when the hook changed: batch ALL wording changes before the re-check.
+
+## Team and loop (agents created 2026-11-13, owner: "create the agents for Shu Shayef long videos")
+Own agents of the series (`.claude/agents/`): **`showrunner-shu-shayef-long`** (one stage per call: W write/revise, B build, K kit + thumbnails), **`quiz-fact-checker`** (every answer + learn line, `fact-check.json`), **`quiz-picture-judge`** (EVERY picture item in question phase at 360 px, `picture-judge.json`), **`blind-viewer-nada`** + **`blind-viewer-abukarim`** (read only `script.txt`, `review.json`). Shared studio agents still used: packaging-director, script-doctor, fresh-eyes, audience-panel, persona-keeper, qa-director, frame-text-inspector, rights-scout. Not used: hook-architect, story-architect (the episode shape is the story).
+
+Order for one episode (the orchestrator runs it; <= 3-4 agents at once):
+1. Orchestrator writes `productions/<id>/brief.md` (category, level names, schema additions, fairness list, promises to keep from the last episode).
+2. `showrunner-shu-shayef-long` stage W round 1 -> `episode.json`, checker CLEAN, `script.txt`, `quizlong:plan` ok.
+3. In parallel: `quiz-fact-checker` (all items), `quiz-picture-judge` stage P (silent frames), `blind-viewer-nada` + `blind-viewer-abukarim` (each gets a folder `reviews/blind-<name>/` holding ONLY `script.txt`, plus the one-line picture note below; copy their `review.json` to `reviews/blind-<name>.rN.json`), `script-doctor`.
+4. Orchestrator merges everything into ONE fix list -> stage W round N. Later rounds re-check only changed items (fact-checker delta, picture-judge changed ids). Blind viewers: rounds 1-3 only (they plateau at 7/10 on text; judge the rest on the render).
+5. When script-doctor >= 85, no fact blocker and picture-judge passes: `packaging-director`, `fresh-eyes` S, `audience-panel` S, `fix-ledger.json`, then `npm run -s cli -- script:approve <id>`.
+6. Stage B build -> video round in parallel: `qa-director`, `frame-text-inspector` (standing 360 px criterion, never "letter by letter"), `fresh-eyes` V, `audience-panel` V, `rights-scout` (new art/fonts only), `quiz-picture-judge` stage V only if picture items changed since stage P. Max 3 QA rounds.
+7. Approve call, then stage K (two thumbnails, `publish-kit.json`, upload dry run). Upload and schedule only on the owner's OK (weekly slot Friday 16:30 UTC).
+
+Picture note for the blind viewers (paste the matching one into their task message, nothing else):
+- flags: "In the finished video every question has a visible countdown, the flag or clue is big on screen, the answer lights up at the reveal, and some flags start zoomed-in, blurred or behind shutters and open up during the countdown."
+- animals: "In the finished video every question has a visible countdown, the animal picture or clue is big on screen, the answer lights up at the reveal, some pictures start zoomed-in, blurred or behind shutters and open up during the countdown, and in the shadow rounds the animal is a black silhouette that turns to full colour at the reveal."
+
+## Owner decisions pending
+- Opening line: episode 1 does NOT use the owner hook bank (two bank lines failed with blind viewers); say if long-form must use a bank line.
+- Contested entities (Palestine, Taiwan, Kosovo, Western Sahara, Jerusalem) are kept out by default.
+- (done 2026-11-13) Episode 1 published: https://youtu.be/ch0-hvps19g, not made for kids, playlist «تعلّم بالأسئلة 🌍 | اختبارات طويلة».
+
+## Upload path (long-form)
+`npx tsx scripts/youtube-long.ts upload <pid>` reads `productions/<pid>/publish-kit.json` and uploads PRIVATE with thumbnail, playlist and Arabic captions; `--at <ISO time>` schedules it (private + publishAt; weekly slot = Friday 16:30 UTC, i.e. 18:30 Cairo / 19:30 Riyadh, clear of the Shorts at 09/12/15/18 UTC); end screen, visibility and the pinned comment are done in Studio (owner's Chrome, owner OK per video); then `youtube-long.ts record <pid> <videoId>`. The end frame has a video slot (left) and a subscribe circle (right): place the end-screen elements on them, 8 s before the end.

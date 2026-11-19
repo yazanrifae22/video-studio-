@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "16 and in a World Final: Who Breaks Luke Littler's Record?",
+ "topic": "On debut at the 2024 World Championship, 16-year-old Luke Littler reached the final (the old youngest-finalist mark was 21); he lost 7-4, then won the title a year later at 17. The 2026-27 event starts Dec 11.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: PDC World Darts Championship opens at Alexandra Palace (Dec 11 - Jan 3) (2026-12-11). Wikipedia Luke_Littler 40,870 views Sept 2026.",
+ "hook": "16 years old. World final?",
+ "twist": "On debut at the 2024 World Championship, 16-year-old Luke Littler reached the final (the old youngest-finalist mark was 21); he lost 7-4, then won the title a year later at 17. The 2026-27 event starts Dec 11.",
+ "peg": {
+  "event": "PDC World Darts Championship opens at Alexandra Palace (Dec 11 - Jan 3)",
+  "date": "2026-12-11",
+  "url": "https://www.skysports.com/darts/news/12040/13570429/world-darts-championship-2026-27-dates-confirmed-for-alexandra-palace-with-sunday-final-in-great-hall-for-first-time",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "The Globe and Mail (AP) - Littler, 16, loses World Darts final (accessed 2026-10-24)",
+   "url": "https://www.theglobeandmail.com/world/article-luke-littler-world-darts-championship-2024"
+  },
+  {
+   "claim": "Flashscore - Littler demolishes Van Gerwen to win first world title (accessed 2026-10-24)",
+   "url": "https://www.flashscore.com/news/darts-pdc-world-championship-littler-demolishes-van-gerwen-to-win-maiden-pdc-darts-world-championship-title/GM5d2MrH"
+  },
+  {
+   "claim": "Barking and Dagenham Post (PA) - Luke Littler playing in final (accessed 2026-10-24)",
+   "url": "https://www.barkinganddagenhampost.co.uk/news/national/uk-today/24024727.luke-littler-playing-final-darts/"
+  },
+  {
+   "claim": "Peg source: PDC World Darts Championship opens at Alexandra Palace (Dec 11 - Jan 3) (accessed 2026-10-24)",
+   "url": "https://www.skysports.com/darts/news/12040/13570429/world-darts-championship-2026-27-dates-confirmed-for-alexandra-palace-with-sunday-final-in-great-hall-for-first-time"
+  },
+  {
+   "claim": "Wikimedia pageviews Luke_Littler: 40870 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Luke_Littler&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "The Globe and Mail (AP) - Littler, 16, loses World Darts final",
+   "url": "https://www.theglobeandmail.com/world/article-luke-littler-world-darts-championship-2024",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Flashscore - Littler demolishes Van Gerwen to win first world title",
+   "url": "https://www.flashscore.com/news/darts-pdc-world-championship-littler-demolishes-van-gerwen-to-win-maiden-pdc-darts-world-championship-title/GM5d2MrH",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Barking and Dagenham Post (PA) - Luke Littler playing in final",
+   "url": "https://www.barkinganddagenhampost.co.uk/news/national/uk-today/24024727.luke-littler-playing-final-darts/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "🎯 CLINICAL 81 CHECKOUT! Luke Littler takes the lead against Clayton! 💥 #shorts #darts #pdc",
+   "url": "https://youtube.com/shorts/Dtg2db8XF4w",
+   "views": 4900,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Luke Littler 16 world final #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "NEW DETAILS EMERGE After PDC Faces HUGE Backlash Over Littler",
+   "url": "https://youtube.com/shorts/x79Z8VKW0f4",
+   "views": 18,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Luke Littler 16 world final #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Moment Luke Littler, 16, wins World Darts Championship semi-final #shorts",
+   "url": "https://youtube.com/shorts/zcSR24nTjgo",
+   "views": 2000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Luke Littler 16 world final #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: Three darts in a treble 20 with a school backpack on the oche + hook. Twist by 2.5 s. Loop: 'Final at 16. Who's next?'",
+ "cta": "C7+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "He was a minor in the story: objects only (dartboard, oche, a school bag). He is now an adult defending champion; check his 2025-26 result before scripting.",
+ "window": {
+  "notBefore": "2026-12-07T12:00:00Z",
+  "deadline": "2026-12-13T00:00:00Z",
+  "label": "PDC World Darts Championship opens at Alexandra Palace (Dec 11 - Jan 3)",
+  "suggestedSlot": "2026-12-08T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Luke Littler",
+  "Luke Humphries"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

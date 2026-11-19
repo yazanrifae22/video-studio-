@@ -1,0 +1,84 @@
+{
+ "channel": "celebrity",
+ "title": "Rodin's Statue Looked So Real, Critics Called It a Cheat",
+ "topic": "Critics accused Rodin of casting The Age of Bronze from a living man; he proved them wrong and France bought the statue in 1880.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Auguste Rodin born 12 Nov 1840 (186th) (2026-11-12). Wikipedia Auguste_Rodin 19,110 views Sept 2026.",
+ "hook": "Too lifelike to be real art?",
+ "twist": "Critics accused Rodin of casting The Age of Bronze from a living man; he proved them wrong and France bought the statue in 1880.",
+ "peg": {
+  "event": "Auguste Rodin born 12 Nov 1840 (186th)",
+  "date": "2026-11-12",
+  "url": "https://en.wikipedia.org/wiki/Auguste_Rodin",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Musee Rodin - Rodin's life 1840-2015 (accessed 2026-10-24)",
+   "url": "https://www.musee-rodin.fr/en/resources/rodin-life/1840-2015"
+  },
+  {
+   "claim": "Wikipedia - Auguste Rodin (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Auguste_Rodin"
+  },
+  {
+   "claim": "Tate - The Making of Rodin exhibition guide (accessed 2026-10-24)",
+   "url": "https://www.tate.org.uk/whats-on/tate-modern/ey-exhibition-rodin/exhibition-guide"
+  },
+  {
+   "claim": "Peg source: Auguste Rodin born 12 Nov 1840 (186th) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Auguste_Rodin"
+  },
+  {
+   "claim": "Wikimedia pageviews Auguste_Rodin: 19110 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Auguste_Rodin&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Musee Rodin - Rodin's life 1840-2015",
+   "url": "https://www.musee-rodin.fr/en/resources/rodin-life/1840-2015",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Auguste Rodin",
+   "url": "https://en.wikipedia.org/wiki/Auguste_Rodin",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Tate - The Making of Rodin exhibition guide",
+   "url": "https://www.tate.org.uk/whats-on/tate-modern/ey-exhibition-rodin/exhibition-guide",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [],
+ "angle": "Frame 0: a bronze hand beside a real hand, 'WHICH IS REAL?' + hook. Twist: critics said he cheated by casting a person. Loop: 'Which hand is real?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Statue is a nude: show plaster-cast silhouette/hand only. Sequence of Brussels/Paris shows differs: say 'in 1877'. Also rejected 3x by the Ecole des Beaux-Arts (optional detail).",
+ "window": {
+  "notBefore": "2026-11-11T12:00:00Z",
+  "deadline": "2026-11-14T00:00:00Z",
+  "label": "Auguste Rodin born 12 Nov 1840 (186th)",
+  "suggestedSlot": "2026-11-12T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

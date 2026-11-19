@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "U2 Began With a Note on a School Noticeboard",
+ "topic": "In 1976 Larry Mullen Jr. pinned up 'drummer seeks musicians' at Mount Temple school; they first played in his kitchen as 'Feedback'.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: U2 album 'Carnaval de Luz' released (2026-11-13). Wikipedia U2 151,264 views Sept 2026.",
+ "hook": "One school notice started which band?",
+ "twist": "In 1976 Larry Mullen Jr. pinned up 'drummer seeks musicians' at Mount Temple school; they first played in his kitchen as 'Feedback'.",
+ "peg": {
+  "event": "U2 album 'Carnaval de Luz' released",
+  "date": "2026-11-13",
+  "url": "https://variety.com/2026/music/news/u2-album-carnaval-de-luz-dolly-parton-duet-1236874546/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "U2.com - Larry pins up note in school, Feedback formed (accessed 2026-10-24)",
+   "url": "https://www.u2.com/news/title/larry_mullen_jr_dik_and_dave_evans_adam_clayton_and_paul_hewson_form_feedback_after_larry_pins_up_note_in_school_1076"
+  },
+  {
+   "claim": "American Songwriter - The grammar school origins of U2 (accessed 2026-10-24)",
+   "url": "https://americansongwriter.com/the-grammar-school-origins-of-u2/"
+  },
+  {
+   "claim": "Wikipedia - Larry Mullen Jr. (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Larry_Mullen_Jr."
+  },
+  {
+   "claim": "Peg source: U2 album 'Carnaval de Luz' released (accessed 2026-10-24)",
+   "url": "https://variety.com/2026/music/news/u2-album-carnaval-de-luz-dolly-parton-duet-1236874546/"
+  },
+  {
+   "claim": "Wikimedia pageviews U2: 151264 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=U2&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "U2.com - Larry pins up note in school, Feedback formed",
+   "url": "https://www.u2.com/news/title/larry_mullen_jr_dik_and_dave_evans_adam_clayton_and_paul_hewson_form_feedback_after_larry_pins_up_note_in_school_1076",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "American Songwriter - The grammar school origins of U2",
+   "url": "https://americansongwriter.com/the-grammar-school-origins-of-u2/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Larry Mullen Jr.",
+   "url": "https://en.wikipedia.org/wiki/Larry_Mullen_Jr.",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "50 years ago Larry Mullen jr posted a musicians wanted notice. U2 back to where they started #u2",
+   "url": "https://youtube.com/shorts/zjwjBmf4_Hs",
+   "views": 5600,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "LARRY MULLEN JR.U2 With Or Without You",
+   "url": "https://youtube.com/shorts/VvoUYUhiWl8",
+   "views": 32000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "LARRY MULLEN JR U2 NEWS",
+   "url": "https://youtube.com/shorts/mcqAYH_dVe0",
+   "views": 54000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a pinned index card 'Drummer seeks musicians' + hook. Twist: it became U2. Loop: 'Ever answered a note like this?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Mullen was 14 (one source 15): keep to the note and the kitchen. Note wording varies - show a paraphrase. No album art, no song audio, no likeness.",
+ "window": {
+  "notBefore": "2026-11-12T12:00:00Z",
+  "deadline": "2026-11-15T00:00:00Z",
+  "label": "U2 album 'Carnaval de Luz' released",
+  "suggestedSlot": "2026-11-13T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "ChatGPT Turns 4. It Was Meant to Be 'Low-Key'",
+ "topic": "OpenAI called it a 'low-key research preview'; staff bet on first-week users and the top guess was 100,000. It hit 1 million in 5 days.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Exact-date anniversary; competitors <= 5K; the 'bet' detail is a guessable number (T2).",
+ "evidence": [
+  {
+   "claim": "Simon Willison on ChatGPT's launch: 'low-key research preview', staff betting pool, 1M users in 5 days (accessed 2026-10-24)",
+   "url": "https://simonwillison.net/2023/Nov/20/chatgpt-launch/"
+  },
+  {
+   "claim": "Wikipedia: ChatGPT (released Nov 30 2022) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/ChatGPT"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How FAST OpenAI's ChatGPT Reached 1 Million Users",
+   "url": "https://youtube.com/shorts/yPJUaSyciYQ",
+   "views": "5.1K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "ChatGPT got a million sign-ups in 5 days",
+   "url": "https://youtube.com/shorts/mN3C9XEteaE",
+   "views": "1.3K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('ChatGPT: planned as a big launch?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: OpenAI called it a 'low-key research preview'; staff bet on first-week users and the top guess was 100,000. It hit 1 million in 5 days. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "ChatGPT: planned as a big launch?",
+ "twist": "OpenAI called it a 'low-key research preview'; staff bet on first-week users and the top guess was 100,000. It hit 1 million in 5 days.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-30",
+  "deadline": "2026-12-01",
+  "event": "ChatGPT launch 4th anniversary (Nov 30 2022)"
+ },
+ "newsPeg": "ChatGPT launch 4th anniversary (Nov 30 2022)",
+ "category": "AI quirk",
+ "suggestedSlot": "2026-11-30 15:00 UTC",
+ "novelty": {
+  "overlap": "none.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 57,
+ "score10": 7.8,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

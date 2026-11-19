@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "Why Do AI Stories Keep Naming Her Elara?",
+ "topic": "Chatbots pick the 'safest' likely name, so the same few (Elara, Elias, Mara) keep coming back; the name even spread through AI-written e-books.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Checkable in 5 s on any chatbot (T3 'try it'); only one tiny competitor. Fresh Cornell coverage (Oct 2026).",
+ "evidence": [
+  {
+   "claim": "Max Read, 'Who is Elara Voss?' (AI-name pattern across Kindle books) (accessed 2026-10-24)",
+   "url": "https://maxread.substack.com/p/who-is-elara-voss"
+  },
+  {
+   "claim": "Lifeboat summary (Oct 2026) of Cornell research: ~90% of AI stories reuse 11 recurring names/words (accessed 2026-10-24)",
+   "url": "https://lifeboat.com/blog/2026/10/who-is-elias-the-lighthouse-keeper-ai-fiction-tells-the-same-old-story"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why every ChatGPT hero is called Elara",
+   "url": "https://youtube.com/shorts/NSCWO1kJbN0",
+   "views": "996",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Ask AI for a story. Her name?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Chatbots pick the 'safest' likely name, so the same few (Elara, Elias, Mara) keep coming back; the name even spread through AI-written e-books. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Ask AI for a story. Her name?",
+ "twist": "Chatbots pick the 'safest' likely name, so the same few (Elara, Elias, Mara) keep coming back; the name even spread through AI-written e-books.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-11-29 18:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with 'Pick 1 to 50: Why So Many AIs Say 27' (AI favourites) and 'same joke' (Dec 5). Keep >= 5 days apart. Cornell figure is from a secondary summary: verify the paper on script day.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 51,
+ "score10": 8.0,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

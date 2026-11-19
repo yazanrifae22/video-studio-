@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "A Man and a Goat Cross a River. AI Panics",
+ "topic": "One trip. But many chatbots answered with the famous wolf-goat-cabbage puzzle: they matched the pattern, not your question.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Viewer answers in 1 s ('one trip'), then sees AI fail; no Short on the AI angle.",
+ "evidence": [
+  {
+   "claim": "The Decoder: LLMs give ridiculous answers to a simple river-crossing puzzle (accessed 2026-10-24)",
+   "url": "https://the-decoder.com/llms-give-ridiculous-answers-to-a-simple-river-crossing-puzzle/"
+  },
+  {
+   "claim": "Williams & Huckle 2024, 'Easy Problems That LLMs Get Wrong' (modified classic puzzles) (accessed 2026-10-24)",
+   "url": "https://arxiv.org/abs/2405.19616"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "River Crossing - Wolf, Sheep, Cabbage (long, 10y)",
+   "url": "https://www.youtube.com/watch?v=pU-5OBl_ucM",
+   "views": "72K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  },
+  {
+   "title": "Artificial Intelligence - Farmer Crosses River Puzzle (long)",
+   "url": "https://www.youtube.com/watch?v=qboEZ_WrNZA",
+   "views": "39K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Man, goat, boat. How many trips?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: One trip. But many chatbots answered with the famous wolf-goat-cabbage puzzle: they matched the pattern, not your question. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Man, goat, boat. How many trips?",
+ "twist": "One trip. But many chatbots answered with the famous wolf-goat-cabbage puzzle: they matched the pattern, not your question.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-11-27 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Why AI Said 9.11 Is Bigger Than 9.9'. Newer models often pass: show it as a known failure and invite viewers to test (T3).",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 53,
+ "score10": 8.0,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

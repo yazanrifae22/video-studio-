@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "A Car Thought the Moon Was a Yellow Light",
+ "topic": "A driver-assist camera saw a round, yellow, glowing dot high in the sky and matched it to 'traffic light'; it doesn't know how far away things are.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Funny visual, one 66K competitor (news clip, no explanation).",
+ "evidence": [
+  {
+   "claim": "Interesting Engineering (Jul 2021): Moon tricks Tesla's Full Self-Driving into thinking it is a yellow light (accessed 2026-10-24)",
+   "url": "https://interestingengineering.com/moon-tricks-teslas-full-self-driving-into-thinking-it-is-a-yellow-light"
+  },
+  {
+   "claim": "Inverse (Jul 2021): Tesla's Autopilot thinks the moon is a traffic light (accessed 2026-10-24)",
+   "url": "https://www.inverse.com/input/tech/teslas-autopilot-thinks-the-moon-is-a-big-old-traffic-light-in-the-sky"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Video: Tesla Autopilot Features Mistakes Moon For Traffic Light",
+   "url": "https://youtube.com/shorts/7UF-S2czdCk",
+   "views": "66K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Yellow light ahead. It's the Moon?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: A driver-assist camera saw a round, yellow, glowing dot high in the sky and matched it to 'traffic light'; it doesn't know how far away things are. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Yellow light ahead. It's the Moon?",
+ "twist": "A driver-assist camera saw a round, yellow, glowing dot high in the sky and matched it to 'traffic light'; it doesn't know how far away things are.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-10 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW with supermoon photo (Nov 24): 16 days apart. No brand logo; don't show the owner's footage.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 59,
+ "score10": 7.8,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

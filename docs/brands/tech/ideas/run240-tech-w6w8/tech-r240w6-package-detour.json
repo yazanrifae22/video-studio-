@@ -1,0 +1,61 @@
+{
+ "channel": "tech",
+ "title": "Why Your Package Went the Wrong Way",
+ "topic": "Carriers send almost everything to a few giant sorting hubs first, so a parcel for the next town can fly or drive hundreds of miles out and back.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Everyone tracking gifts has seen it; no explainer Short.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: Spoke-hub distribution paradigm (FedEx Memphis hub) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Spoke%E2%80%93hub_distribution_paradigm"
+  },
+  {
+   "claim": "Shipware glossary: hub and spoke (accessed 2026-10-24)",
+   "url": "https://shipware.com/glossary-of-shipping-terms/hub-and-spoke/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Where is my package? (logistics joke)",
+   "url": "https://youtube.com/shorts/zxNujIiqNXQ",
+   "views": "2.6K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Package moving away from you?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Carriers send almost everything to a few giant sorting hubs first, so a parcel for the next town can fly or drive hundreds of miles out and back. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Package moving away from you?",
+ "twist": "Carriers send almost everything to a few giant sorting hubs first, so a parcel for the next town can fly or drive hundreds of miles out and back.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-12-01",
+  "deadline": "2026-12-15",
+  "event": "Holiday shipping peak (early December)"
+ },
+ "newsPeg": "Holiday shipping peak (early December)",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-02 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Missed Delivery' texts (Nov 14).",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 34,
+ "score10": 8.4,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

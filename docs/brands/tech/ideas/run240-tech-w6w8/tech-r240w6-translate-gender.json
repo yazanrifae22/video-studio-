@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "'She Is a Doctor' Came Back as 'He'. Why?",
+ "topic": "Turkish and Hungarian have one word for he/she; old Google Translate guessed from its training text, where doctors were mostly 'he'. Google added both versions in 2018.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Translate memes pull millions; the gender-guess quirk is checkable and unexplained in Shorts.",
+ "evidence": [
+  {
+   "claim": "Google blog (Dec 2018): reducing gender bias in Google Translate (accessed 2026-10-24)",
+   "url": "https://blog.google/products/translate/reducing-gender-bias-google-translate/"
+  },
+  {
+   "claim": "Google Research (2020): a scalable approach to reducing gender bias in Google Translate (accessed 2026-10-24)",
+   "url": "https://research.google/blog/a-scalable-approach-to-reducing-gender-bias-in-google-translate/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Google Translate (meme, not this)",
+   "url": "https://youtube.com/shorts/tk_F7K5FYQw",
+   "views": "1.4M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Ranking Funny Google Translation Moments",
+   "url": "https://youtube.com/shorts/kHO7gdVhqt8",
+   "views": "15M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('She is a doctor. Translated: he?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Turkish and Hungarian have one word for he/she; old Google Translate guessed from its training text, where doctors were mostly 'he'. Google added both versions in 2018. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "She is a doctor. Translated: he?",
+ "twist": "Turkish and Hungarian have one word for he/she; old Google Translate guessed from its training text, where doctors were mostly 'he'. Google added both versions in 2018.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-06 15:00 UTC",
+ "novelty": {
+  "overlap": "none. Neutral tone: explain the data, don't moralise.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 39,
+ "score10": 8.3,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

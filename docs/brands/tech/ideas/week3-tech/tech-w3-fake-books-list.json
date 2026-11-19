@@ -1,0 +1,45 @@
+{
+ "channel": "tech",
+ "title": "The Newspaper That Recommended Books That Don't Exist",
+ "topic": "AI hallucination with a real-world consequence",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Hallucination made concrete; small competitor numbers.",
+ "evidence": [
+  {
+   "claim": "NPR (2025-05-20): Chicago Sun-Times and others ran an AI-generated reading list with fake books (accessed 2026-10-23)",
+   "url": "https://www.npr.org/2025/05/20/nx-s1-5405022/fake-summer-reading-list-ai"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The Chicago Sun Times used AI to write a summer reading list…",
+   "url": "https://youtube.com/shorts/xfK67eeoQy4",
+   "views": "857",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: three book covers (original art, invented titles) + hook. Twist: in May 2025 a syndicated summer reading list in the Chicago Sun-Times recommended books that real authors never wrote; it was AI-written. Why AI invents: it produces likely-sounding titles, not checked facts. Loop: 'So which of these is real?'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Which of these books is real?",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Do not name or blame the freelance writer; no real covers. Needs a 2nd source at script time.",
+ "window": null,
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

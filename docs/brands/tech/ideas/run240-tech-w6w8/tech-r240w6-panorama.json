@@ -1,0 +1,61 @@
+{
+ "channel": "tech",
+ "title": "Why Panoramas Turn People Into Monsters",
+ "topic": "A panorama is many photos taken over a few seconds and stitched; if someone moves, the stitcher glues together different moments of them.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "1.5M on a fails compilation; nobody explains it. Viewers can try it at the family table.",
+ "evidence": [
+  {
+   "claim": "Metabunk: explained Hampton Court 'ghost' as an iPhone panorama glitch (accessed 2026-10-24)",
+   "url": "https://www.metabunk.org/threads/explained-hampton-court-ghost-photo-iphone-panorama-glitch.5814/"
+  },
+  {
+   "claim": "Wikipedia: Image stitching (ghosting from moving objects) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Image_stitching"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Panoramic Fails",
+   "url": "https://youtube.com/shorts/cSsy0RdaLw0",
+   "views": "1.5M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Panorama photo. Why two heads?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: A panorama is many photos taken over a few seconds and stitched; if someone moves, the stitcher glues together different moments of them. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Panorama photo. Why two heads?",
+ "twist": "A panorama is many photos taken over a few seconds and stitched; if someone moves, the stitcher glues together different moments of them.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-26",
+  "deadline": "2026-11-30",
+  "event": "Thanksgiving family photos (Nov 26-27)"
+ },
+ "newsPeg": "Thanksgiving family photos (Nov 26-27)",
+ "category": "news peg",
+ "suggestedSlot": "2026-11-27 18:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Why Propellers Look Bent in Phone Videos' (rolling shutter): different mechanism (stitching). No real people's photos; illustrate.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 19,
+ "score10": 8.7,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

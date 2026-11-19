@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "10,000 Steps a Day Came From an Ad",
+ "topic": "It started as a 1960s Japanese pedometer name ('manpo-kei', 10,000-step meter); a 2019 Harvard study saw benefits from about 4,400 steps, levelling off near 7,500.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Every phone/watch shows this goal; explainer Shorts are tiny.",
+ "evidence": [
+  {
+   "claim": "Harvard Health blog (2019): 10,000 steps a day, or fewer? (I-Min Lee study) (accessed 2026-10-24)",
+   "url": "https://www.health.harvard.edu/blog/10000-steps-a-day-or-fewer-2019071117305"
+  },
+  {
+   "claim": "Popular Science: no, you don't need 10,000 steps a day (manpo-kei origin) (accessed 2026-10-24)",
+   "url": "https://www.popsci.com/health/10000-steps-debunk-science/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Reconsider... The Origin of 10,000 Steps",
+   "url": "https://youtube.com/shorts/fXuRiZxXCKk",
+   "views": "1.8K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "10,000 Steps Was Never Science",
+   "url": "https://youtube.com/shorts/q--ynRtPMb8",
+   "views": "1.3K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Why exactly 10,000 steps?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: It started as a 1960s Japanese pedometer name ('manpo-kei', 10,000-step meter); a 2019 Harvard study saw benefits from about 4,400 steps, levelling off near 7,500. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Why exactly 10,000 steps?",
+ "twist": "It started as a 1960s Japanese pedometer name ('manpo-kei', 10,000-step meter); a 2019 Harvard study saw benefits from about 4,400 steps, levelling off near 7,500.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "device/web quirk",
+ "suggestedSlot": "2026-11-28 22:00 UTC",
+ "novelty": {
+  "overlap": "LOW with steps-teeth (Dec 9). Health claim: quote the study population (older women), no advice.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 44,
+ "score10": 8.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

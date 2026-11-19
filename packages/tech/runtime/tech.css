@@ -1,0 +1,28 @@
+/* Tech Made Simple base stage (1080x1920). Palette = docs/brands/tech/bible.md. Scenes add their own CSS scoped to #scene-<id>. */
+@font-face { font-family: 'Inter'; font-weight: 400; src: url(fonts/inter-latin-400-normal.woff2) format('woff2'); }
+@font-face { font-family: 'Inter'; font-weight: 600; src: url(fonts/inter-latin-600-normal.woff2) format('woff2'); }
+@font-face { font-family: 'Inter'; font-weight: 800; src: url(fonts/inter-latin-800-normal.woff2) format('woff2'); }
+@font-face { font-family: 'JetBrains Mono'; font-weight: 500; src: url(fonts/jetbrains-mono-latin-500-normal.woff2) format('woff2'); }
+@font-face { font-family: 'Space Grotesk'; font-weight: 700; src: url(fonts/space-grotesk-latin-700-normal.woff2) format('woff2'); }
+:root {
+  --bg: #070A12; --ink: #EEF3FF; --muted: #8B9BC0; --acc: #5B8CFF; --good: #3DF2C2; --warn: #FFB547; --bad: #FF5C7A;
+  --panel: #0F172B; --line: #24324F; --vio: #B18CFF; --gold: #FFC94D;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: var(--bg); width: 1080px; height: 1920px; overflow: hidden; }
+body { color: var(--ink); font-family: 'Inter', 'Segoe UI', sans-serif; font-weight: 600; }
+#root { position: absolute; inset: 0; overflow: hidden; background: var(--bg); }
+#bg { position: absolute; inset: -120px; background-image: linear-gradient(var(--line) 1px, transparent 1px), linear-gradient(90deg, var(--line) 1px, transparent 1px); background-size: 90px 90px; opacity: .35; }
+#glow { position: absolute; width: 1400px; height: 1400px; left: -160px; top: 260px; border-radius: 50%; background: radial-gradient(circle, rgba(91,140,255,.22), rgba(91,140,255,0) 62%); }
+.scene { position: absolute; inset: 0; visibility: hidden; transform-origin: 50% 45%; }
+/* stage = where the mechanism lives: y 380-1300 px (hook pill sits at ~28-38 %, captions at ~72 %, Shorts UI below 1620 px / right of 930 px) */
+.stage { position: absolute; left: 60px; right: 60px; top: 380px; height: 920px; }
+.card { background: var(--panel); border: 3px solid var(--line); border-radius: 28px; box-shadow: 0 18px 50px rgba(0,0,0,.55), inset 0 1px 0 rgba(255,255,255,.06); }
+.chip { display: inline-block; padding: 10px 26px; border-radius: 999px; background: var(--panel); border: 3px solid var(--line); font-weight: 800; }
+.mono { font-family: 'JetBrains Mono', Consolas, monospace; font-variant-ligatures: none; }
+.disp { font-family: 'Space Grotesk', 'Inter', sans-serif; font-weight: 700; letter-spacing: -0.01em; }
+.abs { position: absolute; }
+.center { display: flex; align-items: center; justify-content: center; }
+.good { color: var(--good); } .warn { color: var(--warn); } .bad { color: var(--bad); } .acc { color: var(--acc); } .vio { color: var(--vio); } .gold { color: var(--gold); } .muted { color: var(--muted); }
+.stamp { position: absolute; padding: 8px 30px; border: 8px solid currentColor; border-radius: 18px; font: 800 96px 'Space Grotesk', sans-serif; transform: rotate(-8deg); opacity: 0; }
+svg { overflow: visible; }

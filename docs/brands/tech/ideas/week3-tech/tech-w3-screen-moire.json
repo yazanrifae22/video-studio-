@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Why Photos of Screens Get Rainbow Ripples",
+ "topic": "Moiré: pixel grid vs camera sensor grid",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Everyone has seen it; Moiré_pattern ~13.6k views/30d; Shorts 0.8-22K.",
+ "evidence": [
+  {
+   "claim": "Wikipedia Moiré pattern (accessed 2026-10-23)",
+   "url": "https://en.wikipedia.org/wiki/Moir%C3%A9_pattern"
+  },
+  {
+   "claim": "Pageviews Moiré_pattern 13,606 in 30 days (accessed 2026-10-23)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Moir%C3%A9_pattern&range=latest-30"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "What is Camera Moiré?",
+   "url": "https://youtube.com/shorts/S_1S_4EFLhk",
+   "views": "22K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why Does a Screen Photo Have Ripples?",
+   "url": "https://youtube.com/shorts/B0fiJHeRS5s",
+   "views": "776",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a photo of a monitor covered in rainbow waves + hook. Answer: two grids - the screen's pixels and the camera's sensor - overlap slightly out of line and make a third, giant pattern. Animate two line grids sliding over each other. Loop: 'Now you know where the stripes come from.'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Where did these stripes come from?",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Must render a real moiré (two line grids) - no flicker; slow motion.",
+ "window": null,
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

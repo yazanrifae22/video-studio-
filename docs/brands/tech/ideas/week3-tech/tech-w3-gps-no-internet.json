@@ -1,0 +1,60 @@
+{
+ "channel": "tech",
+ "title": "Why GPS Still Works With No Signal Bars",
+ "topic": "GPS is receive-only; A-GPS just speeds it up",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "GPS article ~33k views/30d; Shorts small (1-2.8K) = gap.",
+ "evidence": [
+  {
+   "claim": "Wikipedia Assisted GNSS: internet assistance speeds time-to-first-fix (accessed 2026-10-23)",
+   "url": "https://en.wikipedia.org/wiki/Assisted_GNSS"
+  },
+  {
+   "claim": "GIS Geography: Can GPS work without the internet? (accessed 2026-10-23)",
+   "url": "https://gisgeography.com/can-gps-work-without-the-internet/"
+  },
+  {
+   "claim": "Pageviews Global_Positioning_System 33,384 in 30 days (accessed 2026-10-23)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Global_Positioning_System&range=latest-30"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Your GPS Needs the Internet to Be Fast",
+   "url": "https://youtube.com/shorts/jC8ZhqNrOo4",
+   "views": "2.8K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Does GPS work without Internet?",
+   "url": "https://youtube.com/shorts/1mWXuIQhG44",
+   "views": "2.3K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: phone in airplane mode, blue dot on an offline map + hook. Answer: the phone never talks to the satellites - it only listens to timing signals from 4+ of them and does the maths itself. Internet only speeds up the first fix (A-GPS) and downloads the map. Loop: 'No internet... and the map still finds you.'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "No internet. Map still finds you?",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Get a gps.gov primary for the receive-only fact at script time (gps.gov/systems/gps/ returned 404 today).",
+ "window": null,
+ "novelty": {
+  "overlap": "low with 'This Tag Has No GPS' (location tech) - keep 2+ days apart",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

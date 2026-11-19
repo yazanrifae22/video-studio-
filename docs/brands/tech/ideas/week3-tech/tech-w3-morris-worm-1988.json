@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Why a 1988 Experiment Froze 6,000 Computers",
+ "topic": "Morris worm (Nov 2, 1988) and its reinfection bug",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Anniversary week; Morris_worm ~10.4k views/30d; Shorts on it are small (gap).",
+ "evidence": [
+  {
+   "claim": "Wikipedia: released Nov 2, 1988; ~6,000 machines (rough estimate; Stoll said a couple thousand); copied itself 14% of the time regardless of infection (accessed 2026-10-23)",
+   "url": "https://en.wikipedia.org/wiki/Morris_worm"
+  },
+  {
+   "claim": "FBI history: The Morris Worm (accessed 2026-10-23)",
+   "url": "https://www.fbi.gov/history/famous-cases/morris-worm"
+  },
+  {
+   "claim": "Pageviews Morris_worm 10,430 in 30 days (accessed 2026-10-23)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Morris_worm&range=latest-30"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Morris Worm",
+   "url": "https://youtube.com/shorts/u1uk1OUvIho",
+   "views": "5.7K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The FIRST Computer Worm: The Morris Worm (1988) - WhatTheHack (long)",
+   "url": "https://youtu.be/SKi2qE9xK1c",
+   "views": "18,057",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a 1988 terminal grid + hook. Twist by 2.5 s: one rule - copy yourself anyway about 1 time in 7 - so machines got infected again and again until they choked. Animate copies multiplying on one machine. Anniversary peg Nov 2. Loop: 'All from a harmless test?'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "A harmless test froze the internet?",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Real person with a 1990 conviction: keep to the documented facts, say \"about 6,000 (estimate)\", no judgement of the person. Anniversary peg is weak (38th).",
+ "window": {
+  "notBefore": "2026-10-30T00:00:00Z",
+  "deadline": "2026-11-11T00:00:00Z",
+  "label": "38th anniversary Nov 2"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

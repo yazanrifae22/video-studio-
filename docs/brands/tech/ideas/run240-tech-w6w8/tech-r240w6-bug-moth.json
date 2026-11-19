@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "Was the First Computer Bug Really a Moth?",
+ "topic": "A moth was taped into Harvard's 1947 log as the 'first actual case of bug being found': a joke, because engineers (even Edison in 1878) already said 'bug'.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "120th-birthday peg; every competitor repeats the myth, our twist corrects it.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: Software bug (etymology: Edison 1878; 1947 moth log) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Software_bug"
+  },
+  {
+   "claim": "Wikipedia: Grace Hopper (born Dec 9 1906) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Grace_Hopper"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The First Computer Bug Was a Moth",
+   "url": "https://youtube.com/shorts/9ETpQGRpyxw",
+   "views": "6.7K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "The First Computer Bug Was a Real Bug",
+   "url": "https://youtube.com/shorts/e2VYLHbMKZ4",
+   "views": "1.5K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('A moth caused the first 'bug'?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: A moth was taped into Harvard's 1947 log as the 'first actual case of bug being found': a joke, because engineers (even Edison in 1878) already said 'bug'. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "A moth caused the first 'bug'?",
+ "twist": "A moth was taped into Harvard's 1947 log as the 'first actual case of bug being found': a joke, because engineers (even Edison in 1878) already said 'bug'.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-12-09",
+  "deadline": "2026-12-10",
+  "event": "Grace Hopper born Dec 9 1906 (120th anniversary)"
+ },
+ "newsPeg": "Grace Hopper born Dec 9 1906 (120th anniversary)",
+ "category": "news peg",
+ "suggestedSlot": "2026-12-09 15:00 UTC",
+ "novelty": {
+  "overlap": "none.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 32,
+ "score10": 8.4,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

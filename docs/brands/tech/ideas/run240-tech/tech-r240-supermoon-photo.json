@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "Giant Moon, Tiny Blob: Why Phones Fail the Moon",
+ "topic": "The moon is a sunlit rock in a black sky; auto-exposure brightens for the dark, so the moon blows out, and it's tiny without zoom.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Supermoon day; moon-photo Shorts reach millions. Twist + the Samsung AI-moon controversy as the kicker.",
+ "evidence": [
+  {
+   "claim": "Star Walk: Nov 24 2026 full moon is a supermoon, 14:53 GMT (accessed 2026-10-24)",
+   "url": "https://starwalk.space/en/news/full-moon-november-2022"
+  },
+  {
+   "claim": "Samsung explains how its 'Space Zoom' moon shots use AI detail enhancement (accessed 2026-10-24)",
+   "url": "https://www.samsungmobilepress.com/feature-stories/how-samsung-galaxy-cameras-combine-super-resolution-technologies-with-ai-technology-to-produce-high-quality-images-of-the-moon"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Samsung is Lying to You",
+   "url": "https://youtube.com/shorts/lGIp8NmaOFY",
+   "views": "3.1M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "How To Take A Picture Of The Moon (iPhone)",
+   "url": "https://youtube.com/shorts/aROGmqVHBbo",
+   "views": "1.4M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Huge moon. Photo: tiny blob. Why?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: The moon is a sunlit rock in a black sky; auto-exposure brightens for the dark, so the moon blows out, and it's tiny without zoom. Loop ending: re-ask the hook.",
+ "hook": "Huge moon. Photo: tiny blob. Why?",
+ "twist": "The moon is a sunlit rock in a black sky; auto-exposure brightens for the dark, so the moon blows out, and it's tiny without zoom.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": {
+  "notBefore": "2026-11-23",
+  "deadline": "2026-11-25",
+  "event": "Beaver supermoon Nov 24 2026 (14:53 UTC)"
+ },
+ "newsPeg": "Beaver supermoon Nov 24 2026 (14:53 UTC)",
+ "suggestedSlot": "2026-11-24 12:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with night-mode stars (Nov 16). 8 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 30,
+ "score10": 8.2,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

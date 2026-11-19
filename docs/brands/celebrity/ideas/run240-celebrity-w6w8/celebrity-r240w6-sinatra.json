@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "1952: Sinatra Was Dropped by Everyone. One Role Saved Him",
+ "topic": "By 1952 Sinatra had lost his Columbia record deal, his agency and his TV show; he fought for the role of Maggio in From Here to Eternity, won the 1954 supporting-actor Oscar and signed with Capitol.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Frank Sinatra born 12 Dec 1915 (2026-12-12). Wikipedia Frank_Sinatra 209,798 views Sept 2026.",
+ "hook": "No label, no agent, no show. Then?",
+ "twist": "By 1952 Sinatra had lost his Columbia record deal, his agency and his TV show; he fought for the role of Maggio in From Here to Eternity, won the 1954 supporting-actor Oscar and signed with Capitol.",
+ "peg": {
+  "event": "Frank Sinatra born 12 Dec 1915",
+  "date": "2026-12-12",
+  "url": "https://en.wikipedia.org/wiki/Frank_Sinatra",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Frank Sinatra filmography (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Frank_Sinatra_filmography"
+  },
+  {
+   "claim": "Philadelphia Inquirer - When Sinatra rose, fell and rose again (accessed 2026-10-24)",
+   "url": "https://inquirer.com/philly/entertainment/20101114_When_Sinatra_rose__fell__and_rose_again.html"
+  },
+  {
+   "claim": "The Conversation - Sinatra's second act on the silver screen (accessed 2026-10-24)",
+   "url": "https://theconversation.com/how-frank-sinatra-staged-his-great-second-act-on-the-silver-screen-47240"
+  },
+  {
+   "claim": "Peg source: Frank Sinatra born 12 Dec 1915 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Frank_Sinatra"
+  },
+  {
+   "claim": "Wikimedia pageviews Frank_Sinatra: 209798 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Frank_Sinatra&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Frank Sinatra filmography",
+   "url": "https://en.wikipedia.org/wiki/Frank_Sinatra_filmography",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Philadelphia Inquirer - When Sinatra rose, fell and rose again",
+   "url": "https://inquirer.com/philly/entertainment/20101114_When_Sinatra_rose__fell__and_rose_again.html",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "The Conversation - Sinatra's second act on the silver screen",
+   "url": "https://theconversation.com/how-frank-sinatra-staged-his-great-second-act-on-the-silver-screen-47240",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "This week in 1953, ‘From Here to Eternity’ was released starring Frank Sinatra. 🎬📽",
+   "url": "https://youtube.com/shorts/wljlTvWa0vc",
+   "views": 24000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Sinatra comeback From Here to Eternity #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "In 1954, Sinatra won the Oscar for Best Supporting Actor for his role in ‘From Here To Eternity.’",
+   "url": "https://youtube.com/shorts/2IprLmzce_A",
+   "views": 37000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Sinatra comeback From Here to Eternity #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Sinatra’s Comeback That Shocked Hollywood #shorts #history",
+   "url": "https://youtube.com/shorts/-GZZ2273lbE",
+   "views": 585,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Sinatra comeback From Here to Eternity #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A fedora on an empty stool under a single spotlight + hook. Twist by 2.5 s. Loop: 'Dropped by everyone. Would you have bet on him?'",
+ "cta": "C2+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "The $8,000 fee is unverified: leave it out. Skip the Godfather horse-head myth and mob rumours. No audio, no likeness.",
+ "window": {
+  "notBefore": "2026-12-08T12:00:00Z",
+  "deadline": "2026-12-14T00:00:00Z",
+  "label": "Frank Sinatra born 12 Dec 1915",
+  "suggestedSlot": "2026-12-09T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Frank Sinatra"
+ ],
+ "spare": false,
+ "week": 8,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

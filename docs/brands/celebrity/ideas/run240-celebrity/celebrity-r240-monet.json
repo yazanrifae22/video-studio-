@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Impressionism Was Named After an Insult",
+ "topic": "In 1874 critic Louis Leroy sneered at Monet's 'Impression, Sunrise' (wallpaper 'more finished'); the painters adopted his insult as their name.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Claude Monet born 14 Nov 1840 (186th) (2026-11-14). Wikipedia Claude_Monet 61,361 views Sept 2026.",
+ "hook": "Which art style was named by mockery?",
+ "twist": "In 1874 critic Louis Leroy sneered at Monet's 'Impression, Sunrise' (wallpaper 'more finished'); the painters adopted his insult as their name.",
+ "peg": {
+  "event": "Claude Monet born 14 Nov 1840 (186th)",
+  "date": "2026-11-14",
+  "url": "https://en.wikipedia.org/wiki/Claude_Monet",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Fordham honors art history - The critique that named a movement (accessed 2026-10-24)",
+   "url": "https://honorsarthistory2019.ace.fordham.edu/exhibits/show/monet/the-beginnings-of-impressionis"
+  },
+  {
+   "claim": "TheCollector - How did Impressionism get its name? (accessed 2026-10-24)",
+   "url": "https://www.thecollector.com/how-did-impressionism-get-its-name"
+  },
+  {
+   "claim": "Art UK - Impressionism (accessed 2026-10-24)",
+   "url": "https://artuk.org/discover/art-terms/impressionism"
+  },
+  {
+   "claim": "Peg source: Claude Monet born 14 Nov 1840 (186th) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Claude_Monet"
+  },
+  {
+   "claim": "Wikimedia pageviews Claude_Monet: 61361 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Claude_Monet&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Fordham honors art history - The critique that named a movement",
+   "url": "https://honorsarthistory2019.ace.fordham.edu/exhibits/show/monet/the-beginnings-of-impressionis",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "TheCollector - How did Impressionism get its name?",
+   "url": "https://www.thecollector.com/how-did-impressionism-get-its-name",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Art UK - Impressionism",
+   "url": "https://artuk.org/discover/art-terms/impressionism",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "\\\"Less Finished Than Wallpaper\\\" — The Insult That Named Impressionism #Shorts",
+   "url": "https://youtube.com/shorts/9P_--437eG0",
+   "views": 660,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Insult That Gave Impressionism Its Name",
+   "url": "https://youtube.com/shorts/1973zr3bbiY",
+   "views": 1200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Insult That Named Impressionism",
+   "url": "https://youtube.com/shorts/nhXcEvS_QfE",
+   "views": 1400,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a hazy orange sun over water with a critic's red 'UNFINISHED' stamp + hook. Twist: the insult became the name. Loop: 'Unfinished... or Impressionism?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Painting dated 1872 or 1873: say 'a harbour at sunrise'. Use an original painterly sunrise, not a copy of the canvas. Several small Shorts (1-1.4K) exist on this; win on frame 0.",
+ "window": {
+  "notBefore": "2026-11-13T12:00:00Z",
+  "deadline": "2026-11-15T06:00:00Z",
+  "label": "Claude Monet born 14 Nov 1840 (186th)",
+  "suggestedSlot": "2026-11-14T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

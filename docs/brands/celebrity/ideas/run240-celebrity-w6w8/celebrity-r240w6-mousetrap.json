@@ -1,0 +1,109 @@
+{
+ "channel": "celebrity",
+ "title": "The Play Whose Audience Is Sworn to Secrecy",
+ "topic": "Agatha Christie's The Mousetrap opened in the West End on 25 Nov 1952 and is still running; audiences are traditionally asked not to reveal the twist.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: The Mousetrap opened in London, 25 Nov 1952 (74th anniversary) (2026-11-25). Wikipedia The_Mousetrap 32,634 views Sept 2026.",
+ "hook": "74 years. Nobody tells the ending?",
+ "twist": "Agatha Christie's The Mousetrap opened in the West End on 25 Nov 1952 and is still running; audiences are traditionally asked not to reveal the twist.",
+ "peg": {
+  "event": "The Mousetrap opened in London, 25 Nov 1952 (74th anniversary)",
+  "date": "2026-11-25",
+  "url": "https://en.wikipedia.org/wiki/The_Mousetrap",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - The Mousetrap (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/The_Mousetrap"
+  },
+  {
+   "claim": "WestEnd.com - The Mousetrap, St Martin's Theatre (accessed 2026-10-24)",
+   "url": "https://www.westend.com/shows/mousetrap/"
+  },
+  {
+   "claim": "Spokane Civic Theatre - Expect suspicion from Mousetrap (accessed 2026-10-24)",
+   "url": "https://spokanecivictheatre.com/expect-suspicion-from-mousetrap/"
+  },
+  {
+   "claim": "Peg source: The Mousetrap opened in London, 25 Nov 1952 (74th anniversary) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/The_Mousetrap"
+  },
+  {
+   "claim": "Wikimedia pageviews The_Mousetrap: 32634 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=The_Mousetrap&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - The Mousetrap",
+   "url": "https://en.wikipedia.org/wiki/The_Mousetrap",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "WestEnd.com - The Mousetrap, St Martin's Theatre",
+   "url": "https://www.westend.com/shows/mousetrap/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Spokane Civic Theatre - Expect suspicion from Mousetrap",
+   "url": "https://spokanecivictheatre.com/expect-suspicion-from-mousetrap/",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Ranking Funny Mouse Trap Moments🐭😂                      #shorts #viralshorts #mousetrap #mousetraps",
+   "url": "https://youtube.com/shorts/0Fe_c8fy930",
+   "views": 710,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"The Mousetrap secret ending #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "🪤I Found BIG MOUSETRAP?! 📍WATCH the till END!! #shorts #findmysterioussecrets",
+   "url": "https://youtube.com/shorts/vp_eJv40jp8",
+   "views": 8900,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"The Mousetrap secret ending #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "He Didn't Act. He Lived. | Ryu Jun-yeol in Mousetrap 🐀#Mousetrap  #myhallyuvibes",
+   "url": "https://youtube.com/shorts/oErtlLAzs24",
+   "views": 5000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"The Mousetrap secret ending #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A theatre curtain with a finger-on-lips sign + hook. Twist by 2.5 s. Loop: '74 years and still a secret. Could you keep it?'",
+ "cta": "C2+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Spare. Never reveal the ending. World premiere was Nottingham, 6 Oct 1952: say 'opened in London'.",
+ "window": {
+  "notBefore": "2026-11-24T12:00:00Z",
+  "deadline": "2026-11-27T00:00:00Z",
+  "label": "The Mousetrap opened in London, 25 Nov 1952 (74th anniversary)"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Agatha Christie"
+ ],
+ "spare": true,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "channel": "kids",
+ "title": "Bundle Up! Hat, Scarf, Mittens, Boots | Clothes for Kids with Tiko & Pip",
+ "topic": "Cold-weather clothes vocabulary + dressing order",
+ "audience": "Preschoolers 2-5 (co-viewing parents)",
+ "whyCare": "Clothing words are a core toddler vocabulary set and cold-weather season is starting; 'winter clothes' Shorts are among the most-viewed kids Shorts of the year.",
+ "evidence": [
+  {
+   "claim": "Kidshire 'Winter Clothes for Kids' 1,662,772,097 views (0:22, ~7 months)",
+   "url": "https://www.youtube.com/watch?v=OpapHLHAs_c"
+  },
+  {
+   "claim": "DarDar 'Winter Style Play!' 1,274,561,720 views (0:13); 'Learning Winter Clothes!' 524,524,440 views (both ~10 months)",
+   "url": "https://www.youtube.com/results?search_query=winter%20clothes%20for%20kids&sp=CAMSAggF"
+  },
+  {
+   "claim": "YouTube quality principles reward life skills and a complete narrative in made-for-kids content",
+   "url": "https://support.google.com/youtube/answer/10774223"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Winter Clothes for Kids (Kidshire)",
+   "url": "https://www.youtube.com/watch?v=OpapHLHAs_c",
+   "views": "1,662,772,097",
+   "verified": true
+  },
+  {
+   "title": "Winter Style Play! (DarDar - SuperHero)",
+   "url": "https://www.youtube.com/watch?v=MlK7UQhaIgo",
+   "views": "1,274,561,720",
+   "verified": true
+  }
+ ],
+ "angle": "Learning goal: name 4 warm clothes. Story: a chilly breeze, Tiko shivers ('brrr', brief); Pip flies in each item one at a time - hat, scarf, mittens, boots - and the child names it before the reveal (pause-and-guess). Tiko does a warm happy jump; Pip gets a tiny scarf too. Ends: 'Hat, scarf, mittens, boots - ready to play!'",
+ "durationSec": 30,
+ "format": "short",
+ "hook": "Whoosh! A chilly wind - 'Brrr! Tiko is cold!'",
+ "difficulty": 2,
+ "estCostUsd": 4,
+ "strengths": "Proven billion-view concept; seasonal from now through winter; fox-cub ears and tail make the hat moment cute",
+ "weaknesses": "Very saturated by huge channels; needs 4 new clothing props on the rig; must not copy Kidshire's layout",
+ "researchDate": "2026-10-20",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

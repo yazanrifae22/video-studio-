@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "Ask AI How to Kill a Python. Who Panics?",
+ "topic": "Some chatbots refused: they reacted to the word 'kill', not the meaning. Researchers built a whole test (XSTest) of safe questions that sound scary.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Funny double meaning, checkable; no competitor. Coders share it.",
+ "evidence": [
+  {
+   "claim": "Röttger et al., XSTest: exaggerated-safety test suite (safe prompts like killing a process) (accessed 2026-10-24)",
+   "url": "https://arxiv.org/abs/2308.01263"
+  },
+  {
+   "claim": "ACL Anthology, NAACL 2024 version of XSTest (accessed 2026-10-24)",
+   "url": "https://aclanthology.org/2024.naacl-long.301/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "(no on-topic Short found)",
+   "url": "https://youtube.com/shorts/P4DzY1dRrfs",
+   "views": "97K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('How do I kill a Python process?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Some chatbots refused: they reacted to the word 'kill', not the meaning. Researchers built a whole test (XSTest) of safe questions that sound scary. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "How do I kill a Python process?",
+ "twist": "Some chatbots refused: they reacted to the word 'kill', not the meaning. Researchers built a whole test (XSTest) of safe questions that sound scary.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-05 15:00 UTC",
+ "novelty": {
+  "overlap": "none. Confirm the exact 'Python process' example in XSTest Table 1 on script day; current models mostly answer it.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 48,
+ "score10": 8.1,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

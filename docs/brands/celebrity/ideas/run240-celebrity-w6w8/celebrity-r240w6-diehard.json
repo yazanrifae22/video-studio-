@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Is Die Hard a Christmas Movie? Even Its Makers Disagree",
+ "topic": "Die Hard is set on Christmas Eve but opened in July 1988; its screenwriter says it's a Christmas film, Bruce Willis joked in 2018 that it isn't, and a YouGov poll sided with him.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Evergreen debate: Evergreen: start of the Christmas-movie season (2026-12-01). Wikipedia Die_Hard 49,965 views Sept 2026.",
+ "hook": "Die Hard: Christmas movie or not?",
+ "twist": "Die Hard is set on Christmas Eve but opened in July 1988; its screenwriter says it's a Christmas film, Bruce Willis joked in 2018 that it isn't, and a YouGov poll sided with him.",
+ "peg": {
+  "event": "Evergreen: start of the Christmas-movie season",
+  "date": "2026-12-01",
+  "url": "https://www.mentalfloss.com/holidays/christmas/most-people-say-die-hard-is-not-a-christmas-movie",
+  "pegged": false
+ },
+ "evidence": [
+  {
+   "claim": "Mental Floss - Most people say Die Hard is not a Christmas movie (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/holidays/christmas/most-people-say-die-hard-is-not-a-christmas-movie"
+  },
+  {
+   "claim": "NME - Bruce Willis: Die Hard not a Christmas movie (accessed 2026-10-24)",
+   "url": "https://www.nme.com/news/film/bruce-willis-die-hard-not-christmas-movie-2354767"
+  },
+  {
+   "claim": "Looper - What the Die Hard cast and crew think (accessed 2026-10-24)",
+   "url": "https://www.looper.com/2041266/die-hard-christmas-movie-cast-crew-comments"
+  },
+  {
+   "claim": "Peg source: Evergreen: start of the Christmas-movie season (accessed 2026-10-24)",
+   "url": "https://www.mentalfloss.com/holidays/christmas/most-people-say-die-hard-is-not-a-christmas-movie"
+  },
+  {
+   "claim": "Wikimedia pageviews Die_Hard: 49965 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Die_Hard&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Mental Floss - Most people say Die Hard is not a Christmas movie",
+   "url": "https://www.mentalfloss.com/holidays/christmas/most-people-say-die-hard-is-not-a-christmas-movie",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "NME - Bruce Willis: Die Hard not a Christmas movie",
+   "url": "https://www.nme.com/news/film/bruce-willis-die-hard-not-christmas-movie-2354767",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Looper - What the Die Hard cast and crew think",
+   "url": "https://www.looper.com/2041266/die-hard-christmas-movie-cast-crew-comments",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Is DIE HARD a Christmas movie? 🎄🎥🤔",
+   "url": "https://www.youtube.com/watch?v=BfwCP2Elrn4",
+   "views": 569005,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"is Die Hard a Christmas movie #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Is Die Hard a Christmas movie?",
+   "url": "https://www.youtube.com/watch?v=Zht2FcZjWzk",
+   "views": 24504,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"is Die Hard a Christmas movie #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why Die Hard Is A Christmas Movie",
+   "url": "https://www.youtube.com/watch?v=PxQp2My1F0c",
+   "views": 1036976,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"is Die Hard a Christmas movie #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A Christmas bauble dangling in an air vent of a glass tower + hook. Twist by 2.5 s. Loop: 'So: is Die Hard a Christmas movie?'",
+ "cta": "C9+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Willis's roast line was a joke: say 'joked'. Do not mention his health. No film frames, no likeness: a Christmas bauble hanging from a skyscraper vent.",
+ "window": {
+  "notBefore": "2026-11-30T12:00:00Z",
+  "deadline": "2026-12-03T00:00:00Z",
+  "label": "Evergreen: start of the Christmas-movie season",
+  "suggestedSlot": "2026-12-01T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Bruce Willis",
+  "Steven E. de Souza"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

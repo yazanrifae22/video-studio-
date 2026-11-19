@@ -1,0 +1,97 @@
+{
+ "channel": "celebrity",
+ "title": "The Astronaut Who Smuggled a Golf Club to the Moon",
+ "topic": "Alan Shepard fixed a 6-iron head to a sample tool and hit two balls on Apollo 14; enhanced footage says 24 and 40 yards, not 'miles'.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Alan Shepard born 18 Nov 1923 (2026-11-18). Wikipedia Alan_Shepard 21,321 views Sept 2026.",
+ "hook": "Golf on the Moon. Who swung?",
+ "twist": "Alan Shepard fixed a 6-iron head to a sample tool and hit two balls on Apollo 14; enhanced footage says 24 and 40 yards, not 'miles'.",
+ "peg": {
+  "event": "Alan Shepard born 18 Nov 1923",
+  "date": "2026-11-18",
+  "url": "https://en.wikipedia.org/wiki/Alan_Shepard",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "AP via ClickOnDetroit - Shepard put golf on the Moon 50 years ago (accessed 2026-10-24)",
+   "url": "https://www.clickondetroit.com/sports/2021/02/05/out-of-this-world-shepard-puts-golf-on-moon-50-years-ago/"
+  },
+  {
+   "claim": "Off The Ball - 46 years since golf was played on the Moon (accessed 2026-10-24)",
+   "url": "https://www.offtheball.com/golf/its-46-years-since-golf-was-played-on-the-moon-254138"
+  },
+  {
+   "claim": "Peg source: Alan Shepard born 18 Nov 1923 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Alan_Shepard"
+  },
+  {
+   "claim": "Wikimedia pageviews Alan_Shepard: 21321 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Alan_Shepard&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "AP via ClickOnDetroit - Shepard put golf on the Moon 50 years ago",
+   "url": "https://www.clickondetroit.com/sports/2021/02/05/out-of-this-world-shepard-puts-golf-on-moon-50-years-ago/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Off The Ball - 46 years since golf was played on the Moon",
+   "url": "https://www.offtheball.com/golf/its-46-years-since-golf-was-played-on-the-moon-254138",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Golf on the Moon Alan Shepard's Historic Swing #shorts  #facts  #sports",
+   "url": "https://youtube.com/shorts/IPkcCK4kZHo",
+   "views": 24,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "He Played GOLF on the Moon?! #Shorts",
+   "url": "https://youtube.com/shorts/traRBAWzCZc",
+   "views": 649,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Golf on the Moon  Shepard's Historic Swing #shorts #golf #moon",
+   "url": "https://youtube.com/shorts/I8mysahbzeU",
+   "views": 428,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a golf ball on grey lunar dust with Earth above + hook. Twist: a 6-iron on a moon tool. Loop: 'Fore... 240,000 miles away.'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Space cluster: Conrad (Nov 19) and Hubble (Nov 20) follow - keep visuals distinct. 'In his socks' is one source: say 'tucked in his suit'. No NASA meatball logo.",
+ "window": {
+  "notBefore": "2026-11-17T12:00:00Z",
+  "deadline": "2026-11-19T06:00:00Z",
+  "label": "Alan Shepard born 18 Nov 1923",
+  "suggestedSlot": "2026-11-18T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

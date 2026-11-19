@@ -1,0 +1,74 @@
+{
+ "channel": "tech",
+ "title": "65-Inch TV for $300? Here's the Catch",
+ "topic": "Many smart TVs recognise what's on screen (ACR) and earn money from ads and viewing data after the sale.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Strong proven demand (1.2M-5.7M) at peak TV-buying week; our edge is the frame-0 price puzzle.",
+ "evidence": [
+  {
+   "claim": "Engadget on FTC 2017: Vizio paid $2.2M for tracking and selling viewing data from 11M TVs (accessed 2026-10-24)",
+   "url": "https://www.engadget.com/2017-02-06-vizio-smart-tv-viewing-history-settlement-ftc.html"
+  },
+  {
+   "claim": "Automatic content recognition (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Automatic_content_recognition"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Smart TVs are DUMB.",
+   "url": "https://youtube.com/shorts/f_tjg8NoGCA",
+   "views": "5.7M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why Are TVs So CHEAP Now?",
+   "url": "https://youtube.com/shorts/aJvDmREu5Lw",
+   "views": "1.4M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "How TVs became so cheap",
+   "url": "https://youtube.com/shorts/qq6NmTFR7Dw",
+   "views": "1.2M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('65-inch TV. $300. The catch?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Many smart TVs recognise what's on screen (ACR) and earn money from ads and viewing data after the sale. Loop ending: re-ask the hook.",
+ "hook": "65-inch TV. $300. The catch?",
+ "twist": "Many smart TVs recognise what's on screen (ACR) and earn money from ads and viewing data after the sale.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Saturated topic: win on hook only",
+ "window": {
+  "notBefore": "2026-11-20",
+  "deadline": "2026-11-30",
+  "event": "Black Friday TV deals week (Nov 27)"
+ },
+ "newsPeg": "Black Friday TV deals week (Nov 27)",
+ "suggestedSlot": "2026-11-23 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW with motion smoothing (Nov 21) and HDMI (Nov 23) - don't put two TV ideas in adjacent slots.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 57,
+ "score10": 7.4,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 2,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

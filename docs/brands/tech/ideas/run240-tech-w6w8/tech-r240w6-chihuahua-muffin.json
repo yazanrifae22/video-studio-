@@ -1,0 +1,64 @@
+{
+ "channel": "tech",
+ "title": "Chihuahua or Muffin? Why AI Got Confused",
+ "topic": "Image AI judges by texture, colour and blobs: three dark dots on a tan round shape is 'muffin' and 'chihuahua face' at once; that's why the meme became an AI benchmark.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Play-along quiz frame (viewer guesses first), proven meme; no Short explains the AI angle.",
+ "evidence": [
+  {
+   "claim": "freeCodeCamp (Mariya Yao): six computer-vision APIs tested on the chihuahua-or-muffin grid (accessed 2026-10-24)",
+   "url": "https://www.freecodecamp.org/news/chihuahua-or-muffin-my-search-for-the-best-computer-vision-api-cbda4d6b425d/"
+  },
+  {
+   "claim": "NPR The Salt (2016): 'Canine or cuisine?' meme by Karen Zack (@teenybiscuit) (accessed 2026-10-24)",
+   "url": "https://www.npr.org/sections/thesalt/2016/03/11/470084215/canine-or-cuisine-this-photo-meme-is-fetching"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Chihuahua Or Muffin #shorts #mindgame #eyetest",
+   "url": "https://youtube.com/shorts/P7W9XKs5Yq0",
+   "views": "15K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Chihuahuas are Angry muffins. (long)",
+   "url": "https://www.youtube.com/watch?v=X4kVXDJRN9M",
+   "views": "1.8M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Chihuahua or muffin? Pick fast.') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Image AI judges by texture, colour and blobs: three dark dots on a tan round shape is 'muffin' and 'chihuahua face' at once; that's why the meme became an AI benchmark. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Chihuahua or muffin? Pick fast.",
+ "twist": "Image AI judges by texture, colour and blobs: three dark dots on a tan round shape is 'muffin' and 'chihuahua face' at once; that's why the meme became an AI benchmark.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-11-25 22:00 UTC",
+ "novelty": {
+  "overlap": "none. Draw our own muffins/dogs (no copies of the meme photos).",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 5,
+ "score10": 9.0,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

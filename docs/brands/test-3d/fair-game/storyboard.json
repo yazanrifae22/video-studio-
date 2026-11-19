@@ -1,0 +1,938 @@
+{
+ "title": "A Fair Coin Game Ends With One Winner. Every Time.",
+ "note": "MASTER script + picture contract for the three long-form productions (Salt/Macro expl-261115-c2fy, Copper/Host expl-261115-u1h6, Brass/Neon expl-261115-1yab). Same words in all three. `picture` = what MUST be on screen while the line is spoken, `motion` = the animation that must be seen happening. QA checks every line against this. Numbers on screen come from packages/test3d/web/parable/game.js (never typed by hand). Owner rule 2026-11-15: whatever the voice names is on screen, with the right animation; several characters. Round 2 (2026-11-15): fact-check r1 + script-doctor r1 applied. `pause_after` = extra seconds of silence after the line, for the picture (time-lapses, drops, tallies).",
+ "hook_text": "HE OWNS 90%. NOBODY CHEATED.",
+ "end_text": "WHICH ONE ARE YOU?",
+ "cast": {
+  "scholar": "blue pawn, flat square scholar cap, square d5",
+  "worker": "orange pawn, round hard hat, square e5",
+  "heir": "gold-tinted pawn, small crown, square d4",
+  "fool": "green pawn, cone hat, square e4",
+  "skeptic": "black pawn, no hat, stands off the board at the near edge; steps forward when an objection is voiced (Host version: a second seated puppet who raises a finger)",
+  "players": "the other 60: plain wooden pawns",
+  "king": "the gold king piece: appears only when the board 'makes a king'"
+ },
+ "grammar": {
+  "wealth": "every player stands ON a tower of gold coin discs (1 disc = 10 coins; game.js tower()). Taller tower = richer. 100 coins = 10 discs.",
+  "broke": "a player under 1 coin has no tower: the pawn tips over and stays lying on its square, dimmed",
+  "flip": "one large coin (crown side = heads, plain side = tails) spins up over the two players and lands; the stake discs leave both towers and all of them go to the winner",
+  "timelapse": "a counter tag 'FLIPS EACH' runs while every tower moves exactly as in the game world",
+  "tags": "numbers and names are camera-facing tags; a tag shows the same number the voice says, at the moment it is said"
+ },
+ "chapters": [
+  {
+   "id": "c01",
+   "title": "One player owns 90%",
+   "mood": "tension",
+   "lines": [
+    {
+     "id": "l01",
+     "text": "This player owns ninety percent of the money in this game. He is not smarter than the others. He did not work harder. And nobody cheated.",
+     "picture": "FIRST FRAME = the thumbnail: the END of the fair world (6,000 flips each): the one great coin tower on e4 with the gold king in the green cone hat on top, 61 pawns lying down around it, bare squares. No fade from black, no empty board.",
+     "motion": "Starts close on the king on top of the tower, pulls back fast to show the fallen pawns (by 'game'); tag '90%' on the tower from the first second. On 'smarter' / 'harder': low angle among the fallen pawns looking up at the tower. On 'nobody cheated': the fair coin spins up beside the tower and lands flat.",
+     "tags": [
+      "90%"
+     ]
+    },
+    {
+     "id": "l02",
+     "pause_after": 0.6,
+     "text": "Sixty-four players started equal. One hundred gold coins each. One fair coin. Run it long enough, and it ends like this every time.",
+     "picture": "The fair world running BACKWARDS, fast, from the end to the start: the great tower drains, fallen pawns stand back up, all 64 towers equal again (done by 'equal'); tags '64 players' and '100'; the coin flips on 'fair coin'. Then three other finished worlds (WORLDS.again 0, 1, 2): the single tall tower stands on a different square each time.",
+     "motion": "Fast rewind of the real game (about 2 s), counter runs down to 0; '100' pops over a few towers; coin spins up and lands. On 'ends like this': three hard cuts, one per world, same camera.",
+     "tags": [
+      "64 players",
+      "100",
+      "FLIPS EACH"
+     ]
+    },
+    {
+     "id": "l03",
+     "pause_after": 0.6,
+     "text": "In America, the richest one percent hold a third of all wealth. Does that prove they were better? This game says no.",
+     "picture": "The real board (same staging as l44 / l45): one very tall stack on less than one square, tag '1%', against thirty-two squares of low stacks, tag 'bottom 50%'; tag 'a third of all wealth'. Then back to the king on the great tower with a fallen pawn at its foot.",
+     "motion": "Cut to the real board, the tall stack rises on 'one percent'. On 'Does that prove': cut back to the king on the tower, slow push in; tag 'BETTER?' pops on 'better' and holds to the end of the line.",
+     "tags": [
+      "bottom 50%",
+      "1%",
+      "a third of all wealth",
+      "BETTER?"
+     ]
+    },
+    {
+     "id": "l04",
+     "text": "So we test it. Four players get real advantages. The Scholar wins more flips. The Worker plays twice as often. The Heir starts with ten times the money. The Fool gets nothing.",
+     "picture": "The four hat pawns in a line on a cleared board, large: blue Scholar (flat cap), orange Worker (hard hat), gold Heir (crown), green Fool (cone hat). Each one is lit and named as it is spoken, with its advantage: '55 in 100', '2x', '1,000 coins' (the Heir's tower grows tall), 'nothing'.",
+     "motion": "On 'Four players' the four drop into the line. Each name: that pawn lights up and hops, name tag + advantage tag pop; on 'ten times' the Heir's tower rises to ten times the others.",
+     "tags": [
+      "THE SCHOLAR",
+      "THE WORKER",
+      "THE HEIR",
+      "THE FOOL",
+      "55 in 100",
+      "2x",
+      "1,000 coins",
+      "nothing"
+     ]
+    },
+    {
+     "id": "l05",
+     "pause_after": 1.0,
+     "text": "We run it ten thousand times. Then I'll show you the one rule that stops the king. Before we play, pick your winner. Then watch what the coin does to your pick.",
+     "picture": "The four in their line with a worlds counter racing to 10,000 and four empty bars behind them (the tally still hidden). On 'one rule': the king on the great tower, the tower starting to sink. On 'pick your winner': back to the four in the line, name tags up, tag 'PICK ONE'; on 'the coin': the fair coin spins up over the four.",
+     "motion": "Counter 'WORLDS' races to 10,000. Cut to the king, the tower sinks a little, tag '?'. Cut back to the four, each hops once in turn; 'PICK ONE' pops on 'pick' and holds through the silence; the coin spins up on 'coin' and lands.",
+     "tags": [
+      "WORLDS 10,000",
+      "?",
+      "PICK ONE",
+      "THE SCHOLAR",
+      "THE WORKER",
+      "THE HEIR",
+      "THE FOOL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c02",
+   "title": "The whole game",
+   "mood": "curious",
+   "lines": [
+    {
+     "id": "l06",
+     "text": "Here is the whole game. It is short.",
+     "picture": "The equal board from a lower angle; a title tag.",
+     "motion": "Tag 'THE GAME' pops in; camera settles.",
+     "tags": [
+      "THE GAME"
+     ]
+    },
+    {
+     "id": "l07",
+     "text": "Two players are picked at random. Each one puts the same stake on the table: one fifth of the poorer player's stack.",
+     "picture": "The two players of flip 1 (c8 and g3) singled out, the rest dimmed. Two discs (20 coins) leave each tower and sit between them.",
+     "motion": "The two pawns light up one after the other on 'two players'; on 'stake' the discs slide out of both towers; tag '20' over each stake.",
+     "tags": [
+      "20",
+      "20"
+     ]
+    },
+    {
+     "id": "l08",
+     "text": "Why the poorer one? Because nobody can bet what they don't have. A player with a hundred coins meets a player with four hundred: both put in twenty. Both risk the same amount. That is as fair as a bet gets.",
+     "picture": "Two demo players side by side: one on a 100-coin tower, one on a 400-coin tower, each with the same 20-coin stake in front of it; then close on the two stakes, exactly the same height.",
+     "motion": "The two demo towers appear with tags '100' and '400'; a 20-coin stake leaves each (tags '20', '20'); slow push in on the two equal stakes; tag '1/5 of the smaller stack'.",
+     "tags": [
+      "100",
+      "400",
+      "20",
+      "20",
+      "1/5 of the smaller stack"
+     ]
+    },
+    {
+     "id": "l09",
+     "text": "Then the coin. Heads, the first player takes both stakes. Tails, the second one does.",
+     "picture": "The coin over the two players; it lands heads (crown side up); both stakes go to c8.",
+     "motion": "Coin spins up and lands on 'Heads'; all four discs slide onto the winner's tower, which rises with its pawn; tags '120' and '80'.",
+     "tags": [
+      "120",
+      "80"
+     ],
+     "pause_after": 1.5
+    },
+    {
+     "id": "l10",
+     "text": "Then two more players. And two more. That's the whole game. No skill. No strategy. Just the coin.",
+     "picture": "Flips 2 to 6 of the fair world played for real across the board (pairs f5-h8, b4-a1, e5-g6, d1-h2, e3-a2).",
+     "motion": "Each pair lights up, coin flips, discs move; each flip faster than the one before.",
+     "tags": []
+    },
+    {
+     "id": "l11",
+     "text": "Now put the hats on our four.",
+     "picture": "The centre block d4, e4, d5, e5 in close-up: four plain pawns on equal towers.",
+     "motion": "Move in on the centre block.",
+     "tags": []
+    },
+    {
+     "id": "l11a",
+     "text": "The Scholar.",
+     "picture": "The pawn on d5 turns blue and gets the flat scholar cap; name tag.",
+     "motion": "Colour sweeps over the pawn, the cap drops onto it and settles; tag pops.",
+     "tags": [
+      "THE SCHOLAR"
+     ],
+     "pause_after": 0.5
+    },
+    {
+     "id": "l11b",
+     "text": "The Worker.",
+     "picture": "The pawn on e5 turns orange and gets the hard hat; name tag.",
+     "motion": "Colour sweeps, the hard hat drops on; tag pops.",
+     "tags": [
+      "THE WORKER"
+     ],
+     "pause_after": 0.5
+    },
+    {
+     "id": "l11c",
+     "text": "The Heir.",
+     "picture": "The pawn on d4 turns gold and gets the small crown; name tag.",
+     "motion": "Colour sweeps, the crown drops on; tag pops.",
+     "tags": [
+      "THE HEIR"
+     ],
+     "pause_after": 0.5
+    },
+    {
+     "id": "l11d",
+     "text": "And the Fool.",
+     "picture": "The pawn on e4 turns green and gets the cone hat; name tag. All four hats now in frame.",
+     "motion": "Colour sweeps, the cone hat drops on and wobbles; tag pops.",
+     "tags": [
+      "THE FOOL"
+     ],
+     "pause_after": 0.6
+    },
+    {
+     "id": "l12",
+     "text": "For now, the hats mean nothing. All four play by the same rules as everyone else.",
+     "picture": "Pull back from the four to the whole board: four small coloured pawns among sixty plain ones, all towers equal.",
+     "motion": "Camera pulls back and up; name tags fade.",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "c03",
+   "title": "Twenty flips each",
+   "mood": "curious",
+   "lines": [
+    {
+     "id": "l13a",
+     "text": "Twenty flips each.",
+     "picture": "The whole board playing: towers start to differ.",
+     "motion": "Time-lapse of the fair world from flip 6 to 640, the counter running up to 20; the coin keeps flipping over changing pairs.",
+     "tags": [
+      "FLIPS EACH 20"
+     ],
+     "pause_after": 2.5
+    },
+    {
+     "id": "l13",
+     "text": "Twenty-two players are ahead. Twenty have already lost more than half their coins.",
+     "picture": "The board at 20 flips each. First the 22 players above 100 coins are lit, then the 20 players under 50 coins.",
+     "motion": "Two highlight passes: tag '22 ahead', then tag '20 lost half'.",
+     "tags": [
+      "22 ahead",
+      "20 lost half"
+     ]
+    },
+    {
+     "id": "l14",
+     "text": "And our four? The Scholar is having a great day. Three hundred and forty-four coins. The richest player on the whole board.",
+     "picture": "The blue Scholar on the tallest tower on the board.",
+     "motion": "Move in on the Scholar; tags '344' and '#1'.",
+     "tags": [
+      "344",
+      "#1"
+     ]
+    },
+    {
+     "id": "l15",
+     "text": "The Fool is down to twenty-seven coins. Fifty-sixth out of sixty-four.",
+     "picture": "The green Fool on a stub of under three discs, next to the Scholar's tower.",
+     "motion": "Rack or pan from the Scholar's tower down to the Fool; tags '27' and '#56'.",
+     "tags": [
+      "27",
+      "#56"
+     ]
+    },
+    {
+     "id": "l16",
+     "text": "Nobody did anything right. Nobody did anything wrong. Keep flipping.",
+     "picture": "Scholar and Fool in one frame, tall tower and stub; the coin above them.",
+     "motion": "The coin spins up again on 'Keep flipping'.",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "c04",
+   "title": "The board makes a king",
+   "mood": "rise",
+   "lines": [
+    {
+     "id": "l17a",
+     "text": "Two hundred flips each.",
+     "picture": "The whole board playing; pawns begin to tip over as they go broke.",
+     "motion": "Time-lapse 640 to 6,400 with the counter running up to 200.",
+     "tags": [
+      "FLIPS EACH 200"
+     ],
+     "pause_after": 3
+    },
+    {
+     "id": "l17",
+     "text": "Six players, the top tenth of the board, now hold more than half of all the coins. Twenty players are down to less than one coin.",
+     "picture": "The board at 200 flips each: six tall towers lit, twenty pawns lying down.",
+     "motion": "The six tallest towers light up with tag '56%'; then the fallen pawns with tag '20 out'.",
+     "tags": [
+      "56%",
+      "20 out"
+     ]
+    },
+    {
+     "id": "l18",
+     "text": "And look who is gone. The Scholar. Richest player on the board, then a bad run, then nothing. The Worker went even earlier.",
+     "picture": "The blue Scholar lying on d5 with no coins; then the orange Worker lying on e5.",
+     "motion": "Close on the fallen Scholar (cap still on), move to the fallen Worker.",
+     "tags": []
+    },
+    {
+     "id": "l19",
+     "text": "And look who is on top. The Fool. From fifty-sixth place to first. Nothing about the Fool changed. The coin did.",
+     "picture": "The green Fool on the tallest tower on the board (782 coins).",
+     "motion": "Tilt up the Fool's tower to the pawn; tags '782' and '#1'; the coin turns beside it.",
+     "tags": [
+      "782",
+      "#1"
+     ],
+     "pause_after": 1
+    },
+    {
+     "id": "l20",
+     "text": "Six hundred flips each. Thirty-seven players are out.",
+     "picture": "The board at 600 flips each, wide.",
+     "motion": "Time-lapse 6,400 to 19,200 with the counter, running on through the pause; tag '37 out'.",
+     "tags": [
+      "FLIPS EACH 600",
+      "37 out"
+     ],
+     "pause_after": 2.5
+    },
+    {
+     "id": "l21",
+     "text": "Two thousand flips each. One player holds more than half of everything.",
+     "picture": "The board at 2,000 flips each: the Fool's tower far above the rest.",
+     "motion": "Time-lapse 19,200 to 64,000; tag '55%' on the Fool's tower.",
+     "tags": [
+      "FLIPS EACH 2,000",
+      "55%"
+     ],
+     "pause_after": 2.5
+    },
+    {
+     "id": "l22a",
+     "text": "Six thousand flips each.",
+     "picture": "The whole board: the Fool's tower climbing while the last small towers drain.",
+     "motion": "Time-lapse 64,000 to 192,000 with the counter running up to 6,000.",
+     "tags": [
+      "FLIPS EACH 6,000"
+     ],
+     "pause_after": 3
+    },
+    {
+     "id": "l22",
+     "text": "The Fool holds ninety percent of every coin in the game. Sixty-four players started. Three are still standing. One of them is the Heir, on a small stack.",
+     "picture": "The end state: the Fool's huge tower, 61 pawns down, three standing; then the gold Heir on a small tower (282 coins) beside it.",
+     "motion": "Tag '90%' on the tower, then '3 standing'; move to the Heir on 'the Heir'.",
+     "tags": [
+      "90%",
+      "3 standing"
+     ],
+     "pause_after": 1
+    },
+    {
+     "id": "l23",
+     "text": "The board has made a king.",
+     "picture": "The gold king piece arrives on top of the great tower in place of the Fool pawn, and the Fool's cone hat sits on the king's head.",
+     "motion": "The king drops in and lands (thud), the cone hat pops onto it; a beat of stillness.",
+     "tags": [],
+     "pause_after": 2.5
+    },
+    {
+     "id": "l24",
+     "text": "Shuffle the players and run it again, and a different square wins. We ran three hundred worlds. Every one of the sixty-four squares won at least once. But every world heads the same way. One stack pulls away, and keeps going.",
+     "picture": "The board resets and other worlds finish with the tall tower on other squares; then, from above, a marker chip lands on every one of the 64 squares.",
+     "motion": "Fast reset and three more endings (WORLDS.again); then chips rain onto the squares until all 64 carry one; tag '300 worlds'.",
+     "tags": [
+      "300 worlds"
+     ],
+     "pause_after": 2
+    }
+   ]
+  },
+  {
+   "id": "c05",
+   "title": "Where the trick is",
+   "mood": "calm",
+   "lines": [
+    {
+     "id": "l25",
+     "text": "So where is the trick? The coin is fair. I promise.",
+     "picture": "The large coin alone in close-up, turning slowly: crown side, plain side.",
+     "motion": "The coin turns over once; tags '50%' on each side.",
+     "tags": [
+      "50%",
+      "50%"
+     ]
+    },
+    {
+     "id": "l26",
+     "text": "The trick is in the stake. Take a player with a hundred coins, playing someone richer. Lose one flip: eighty. Win the next one: ninety-six.",
+     "picture": "One plain pawn on a 10-disc tower, isolated. The tower drops to 8 discs, then rises to 9.6.",
+     "motion": "Two discs leave on 'Lose' (tag '80'), then 1.6 discs come back on 'Win' (tag '96').",
+     "tags": [
+      "100",
+      "80",
+      "96"
+     ]
+    },
+    {
+     "id": "l27",
+     "text": "One loss, one win, and four coins are gone. A fifth down and a fifth up do not cancel out.",
+     "picture": "The same tower with the missing top shown as a faint outline of where it used to reach.",
+     "motion": "The gap between the tower and its old height is marked; tag '-4'.",
+     "tags": [
+      "-4"
+     ],
+     "pause_after": 1
+    },
+    {
+     "id": "l28",
+     "text": "For the poorer player, every bet is a fifth of everything they own. For the richer player, the very same bet is pocket change.",
+     "picture": "Two towers side by side: a short one (80 coins) and a tall one (800 coins). The same stake of 16 coins is lifted off each.",
+     "motion": "The same small slice comes off both; tag '20%' on the short tower, '2%' on the tall one.",
+     "tags": [
+      "20%",
+      "2%"
+     ]
+    },
+    {
+     "id": "l29",
+     "text": "So the rich player can lose again and again and still be at the table. The poor player gets a short bad run, and almost never comes back.",
+     "picture": "The tall tower loses slice after slice and barely changes; the short one loses slices and is gone; its pawn tips over.",
+     "motion": "Repeated losses on both; the short tower runs out and the pawn falls on 'never comes back'.",
+     "tags": [],
+     "pause_after": 1.5
+    },
+    {
+     "id": "l30",
+     "text": "Same coin. Same rules. But the moment somebody gets ahead, by pure chance, they are playing a safer game than everyone else. Luck comes first. Then luck protects itself.",
+     "picture": "Back on the fair world at 200 flips each: the leaders' towers standing over the fallen, the coin turning above.",
+     "motion": "Slow orbit around the leaders; the coin keeps turning.",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "c06",
+   "title": "Give them real advantages",
+   "mood": "tension",
+   "lines": [
+    {
+     "id": "l31",
+     "text": "I know. You are already typing. That is the Skeptic, and the Skeptic has a point. Real life is not a coin flip. Some people are smarter. Some work harder. Some start with more. Fine. Let's put all of that in.",
+     "picture": "The black Skeptic pawn steps forward at the near edge of the board; behind it the board resets to equal towers and the four hats light up.",
+     "motion": "The Skeptic slides forward on 'already typing' and its name tag appears on 'the Skeptic'; fast reset; on smarter / harder / start with more the Scholar, Worker and Heir pulse in turn.",
+     "tags": [
+      "THE SKEPTIC"
+     ]
+    },
+    {
+     "id": "l32",
+     "text": "The Scholar now wins fifty-five flips out of every hundred. In a coin game, that is a huge edge.",
+     "picture": "The Scholar in close-up with the coin beside it.",
+     "motion": "The coin lands crown side up for the Scholar; tag '55 / 45'.",
+     "tags": [
+      "55 / 45"
+     ]
+    },
+    {
+     "id": "l33",
+     "text": "The Worker plays twice as often as anyone else.",
+     "picture": "The Worker in close-up with TWO coins flipping over it.",
+     "motion": "Two coins spin up where one did; tag 'x2 flips'.",
+     "tags": [
+      "x2 flips"
+     ]
+    },
+    {
+     "id": "l34",
+     "text": "The Heir starts with a thousand coins instead of a hundred.",
+     "picture": "The Heir's tower growing from 10 discs to the 1,000-coin tower, lifting the pawn.",
+     "motion": "The tower rises fast under the Heir; tag '1,000'.",
+     "tags": [
+      "1,000"
+     ],
+     "pause_after": 1
+    },
+    {
+     "id": "l35",
+     "text": "The Fool gets nothing extra. And this time we play ten thousand worlds, two hundred flips each.",
+     "picture": "The Fool on its plain 10-disc tower; then the whole board playing the hats world (WORLDS.hats) in time-lapse.",
+     "motion": "A small hop from the Fool; then the time-lapse with a counter tag 'WORLDS' racing up to 10,000.",
+     "tags": [
+      "WORLDS 10,000"
+     ],
+     "pause_after": 2
+    },
+    {
+     "id": "l36",
+     "text": "Who ends up the richest player on the board? The Heir. In forty-seven worlds out of a hundred.",
+     "picture": "A tally: a column of 47 red chips grows in front of the Heir (one chip = one world in a hundred). Staged as a clean bar chart: only the four hats and one plain pawn stand in a row on an otherwise empty board, each with its chip column in front.",
+     "motion": "Chips drop one after another into the Heir's column; tag '47'.",
+     "tags": [
+      "47"
+     ],
+     "pause_after": 2
+    },
+    {
+     "id": "l37",
+     "text": "The Scholar, with a real edge on every single flip? Six. Far better than any single nobody gets. Still only six.",
+     "picture": "A column of 6 chips in front of the Scholar, tiny next to the Heir's 47. Staged as a clean bar chart: only the four hats and one plain pawn stand in a row on an otherwise empty board, each with its chip column in front.",
+     "motion": "Six chips drop; tag '6'.",
+     "tags": [
+      "6"
+     ],
+     "pause_after": 0.8
+    },
+    {
+     "id": "l38",
+     "text": "The Worker? Two. The Fool? Less than one. Here is the ugly part. In seventy worlds out of a hundred, the Worker ends with less than ten coins. That is more often than the Fool. Working harder at a coin flip is just more coin flips.",
+     "picture": "Two chips for the Worker, one for the Fool; then the Worker's pawn falls over; tags compare 'under 10 coins: 70 in 100' (Worker) with 'under 10 coins: 46 in 100' (Fool). Staged as a clean bar chart: only the four hats and one plain pawn stand in a row on an otherwise empty board, each with its chip column in front.",
+     "motion": "Chips drop (tags '2', '<1'); the Worker tips over on 'ugly part'; the two coins flip over it again on 'more coin flips'.",
+     "tags": [
+      "2",
+      "<1",
+      "under 10 coins: 70 in 100",
+      "under 10 coins: 46 in 100"
+     ]
+    },
+    {
+     "id": "l39",
+     "text": "And in forty-five worlds out of a hundred, the richest player is none of our four. It is one of the sixty nobodies, who got lucky early.",
+     "picture": "A fifth column of 45 chips in front of a plain wooden pawn, nearly as tall as the Heir's. Staged as a clean bar chart: only the four hats and one plain pawn stand in a row on an otherwise empty board, each with its chip column in front.",
+     "motion": "Camera widens to take in a plain pawn; 45 chips drop; tag '45'.",
+     "tags": [
+      "45"
+     ],
+     "pause_after": 2
+    },
+    {
+     "id": "l40",
+     "text": "Talent is not useless. Let the game run ten times longer and the Scholar becomes the most likely winner. But nobody gets ten lifetimes. And yes, I picked these numbers. Change them and the order changes. Tell me yours.",
+     "picture": "The tally again: the Scholar's column grows from 6 to 28 chips while the Heir's shrinks from 47 to 11. Staged as a clean bar chart: only the four hats and one plain pawn stand in a row on an otherwise empty board, each with its chip column in front.",
+     "motion": "Counter 'FLIPS EACH' runs from 200 to 2,000; chips move from the Heir's column to the Scholar's; tags '28' and '11'.",
+     "tags": [
+      "FLIPS EACH 2,000",
+      "28",
+      "11"
+     ],
+     "pause_after": 1.5
+    }
+   ]
+  },
+  {
+   "id": "c07",
+   "title": "Off the board",
+   "mood": "curious",
+   "lines": [
+    {
+     "id": "l41",
+     "text": "Is this only a toy? In twenty eighteen, three Italian researchers built a bigger one. A thousand people. Forty years of working life. Talent on a bell curve: most people in the middle, a few brilliant.",
+     "picture": "The 64 pawns shown in different sizes: most medium, a few clearly taller (talent = size), all on equal small towers.",
+     "motion": "The pawns grow or shrink to their talent size in a wave; tags 'Pluchino, Biondo, Rapisarda 2018' and '1,000 people, 40 years'.",
+     "tags": [
+      "Pluchino, Biondo, Rapisarda 2018",
+      "1,000 people, 40 years"
+     ]
+    },
+    {
+     "id": "l42",
+     "text": "Lucky breaks and bad breaks hit them at random. The talented were better at using the lucky ones.",
+     "picture": "Gold coins (lucky) and red chips (unlucky) falling at random onto the sized pawns; towers double on a gold hit and halve on a red hit.",
+     "motion": "Random rain of gold coins and red chips; towers jump up or drop as they are hit.",
+     "tags": []
+    },
+    {
+     "id": "l43",
+     "text": "After forty years, the richest person in the model was almost never the most talented one. It was somebody close to average, who kept getting lucky.",
+     "picture": "The tallest pawn (most talented) on a small tower; a medium-sized pawn on the biggest tower.",
+     "motion": "Move from the tallest pawn (tag 'most talented') to the medium pawn on the big tower (tag 'richest').",
+     "tags": [
+      "most talented",
+      "richest"
+     ]
+    },
+    {
+     "id": "l44",
+     "text": "Now the real board. In the United States, the richest one percent hold about a third of all household wealth. The bottom half hold just over two percent.",
+     "picture": "The board cleared of pawns. All of the wealth as 100 discs: one tower of 32 and a half discs on part of ONE square; a thin layer worth 2.3 discs spread over the 32 squares of the near half.",
+     "motion": "The single tower rises (tag 'top 1%: 32.5%'); then the near half of the board lights up with its thin layer (tag 'bottom half: 2.3%').",
+     "tags": [
+      "top 1%: 32.5%",
+      "bottom half: 2.3%"
+     ]
+    },
+    {
+     "id": "l45",
+     "text": "One stack. Less than one square. More than ten times taller than all the coins on thirty-two squares.",
+     "picture": "The 32-disc tower next to all the bottom-half coins gathered into one small stack of just over two discs.",
+     "motion": "The thin layer slides together into one small stack beside the tower for a direct comparison.",
+     "tags": []
+    },
+    {
+     "id": "l45a",
+     "text": "And notice: our board ends far worse than the real one. Real countries have taxes, inheritance rules, death, and second chances. The board has none of that. It shows a direction, not a size.",
+     "picture": "Side by side: the fair world's end tower (90 % of the coins) and the real 32.5-disc tower, each with its tag.",
+     "motion": "The 90 % tower rises next to the real one for comparison; tags 'the board: 90%' and 'the real top 1%: 32.5%'.",
+     "tags": [
+      "the board: 90%",
+      "the real top 1%: 32.5%"
+     ]
+    },
+    {
+     "id": "l46",
+     "text": "The Heir is real too. In one recent year, ninety-one heirs inherited two hundred and ninety-eight billion dollars between them. A record.",
+     "picture": "The gold Heir pawn; a finished tower slides across the table to it from off screen.",
+     "motion": "A tower is pushed in and the Heir is lifted onto it; tag '91 heirs, $298 billion'.",
+     "tags": [
+      "91 heirs, $298 billion",
+      "UBS, year to April 2025"
+     ]
+    },
+    {
+     "id": "l47",
+     "text": "And to be fair, in the same year a hundred and ninety-six self-made billionaires added even more than that. Skill is real. But nobody counts the equally good builders who never got lucky.",
+     "picture": "The blue Scholar on a tower built disc by disc, a little taller than the Heir's, side by side; behind them a row of fallen plain pawns with no coins (the builders nobody counts).",
+     "motion": "Discs stack up one by one under the Scholar until its tower passes the Heir's; tag '196 self-made, $387 billion'; on 'nobody counts' the focus moves to the fallen pawns behind.",
+     "tags": [
+      "196 self-made, $387 billion"
+     ],
+     "pause_after": 1.5
+    }
+   ]
+  },
+  {
+   "id": "c08",
+   "title": "Two fair objections",
+   "mood": "curious",
+   "lines": [
+    {
+     "id": "l48",
+     "text": "First objection, and it is a good one. This game only moves coins around. A real economy grows. People build things. The pile gets bigger.",
+     "picture": "The Skeptic pawn steps forward again; behind it the equal board with a total counter tag.",
+     "motion": "The Skeptic slides forward; tag 'TOTAL 6,400' sits unchanged while two towers trade discs.",
+     "tags": [
+      "TOTAL 6,400"
+     ]
+    },
+    {
+     "id": "l49",
+     "text": "True. So change the coin. Heads, your stack grows by half. Tails, it shrinks by forty percent. Nobody takes anything from anybody. And on average, this coin makes money.",
+     "picture": "The coin in close-up with its two sides labelled; one demo tower grows by half, then shrinks by forty percent.",
+     "motion": "Coin shows crown side with tag '+50%', plain side with tag '-40%'; the demo tower goes 100 to 150, then to 90.",
+     "tags": [
+      "+50%",
+      "-40%",
+      "100",
+      "150",
+      "90"
+     ]
+    },
+    {
+     "id": "l50a",
+     "text": "A hundred flips each.",
+     "picture": "The growth world (WORLDS.growth) played over the whole board: a few towers shooting up, most sinking.",
+     "motion": "Time-lapse of 100 rounds with the counter; the total counter climbs from 6,400.",
+     "tags": [
+      "FLIPS EACH 100"
+     ],
+     "pause_after": 3
+    },
+    {
+     "id": "l50",
+     "text": "The board as a whole is almost seven times richer.",
+     "picture": "The end of the growth world, wide, with the total counter.",
+     "motion": "The total counter lands on 43,097; tag 'x 6.7'.",
+     "tags": [
+      "TOTAL 43,097",
+      "x 6.7"
+     ]
+    },
+    {
+     "id": "l51",
+     "text": "Now count the players. Nine are above where they started. Fifty-five are below. Thirty-six have less than a single coin. And one stack holds seventy-one percent of everything.",
+     "picture": "The end of the growth world: 9 players lit, 36 pawns lying down, one enormous tower on a7 that leaves the top of the frame.",
+     "motion": "Highlight pass with tags '9 above', '55 below', '36 under one coin'; then tilt up the giant tower with tag '71%'.",
+     "tags": [
+      "9 above",
+      "55 below",
+      "36 under one coin",
+      "71%"
+     ],
+     "pause_after": 1.2
+    },
+    {
+     "id": "l52",
+     "text": "The average got richer. The people did not. When wins and losses multiply, the average is a story about one lucky stack.",
+     "picture": "A thin glowing level across the whole board at the height of the AVERAGE tower (673 coins): almost every tower is far below it, one is far above.",
+     "motion": "The level plane sweeps in at average height; tag 'average 673'.",
+     "tags": [
+      "average 673"
+     ]
+    },
+    {
+     "id": "l53",
+     "text": "Second objection. So nothing I do matters? No. Skill is the ticket. Without it you are not even at the table. But among the people at the table, luck decides far more than anyone likes to admit. And the coin does not check who deserved it. So can anything stop the king?",
+     "picture": "The Skeptic forward once more; then the four hats on equal towers around the coin; last, the king on the great tower.",
+     "motion": "The Skeptic slides forward on 'Second objection'; cut to the four hats; the coin spins up over them and lands on 'luck decides'; on 'stop the king' cut to the king in the cone hat on the great tower.",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "c09",
+   "title": "One new rule",
+   "mood": "warm",
+   "lines": [
+    {
+     "id": "l54",
+     "text": "One last game. Same fair coin. Same sixty-four equal players. One new rule.",
+     "picture": "The equal board again, calm light; a title tag.",
+     "motion": "Reset to equal towers; tag 'ONE NEW RULE'.",
+     "tags": [
+      "ONE NEW RULE"
+     ]
+    },
+    {
+     "id": "l55",
+     "text": "After every round, each player slides one percent of their stack into the middle of the board. Then the middle is shared out equally.",
+     "picture": "A thin slice leaving every tower toward the centre of the board, forming a pile there; then one equal share going back to every square.",
+     "motion": "Slices slide inward from all 64 towers (tag '1%'), then equal shares fly back out to all 64.",
+     "tags": [
+      "1%"
+     ],
+     "pause_after": 1.5
+    },
+    {
+     "id": "l56",
+     "text": "The rich put in more, because they have more. Everybody gets the same back.",
+     "picture": "Close on a tall tower and a short one: a thick slice leaves the tall one, a sliver leaves the short one; the same share lands on both.",
+     "motion": "Thick slice and thin sliver go out; identical shares come back.",
+     "tags": []
+    },
+    {
+     "id": "l57",
+     "text": "Play as long as you like. Twelve and a half thousand flips each. No king. The richest player holds about eight percent. Nobody is out.",
+     "picture": "The leak world (WORLDS.leak) over the whole board: towers of many heights, every pawn standing.",
+     "motion": "Time-lapse to 400,000 flips with the counter; tags 'richest: 8%' and '0 out'.",
+     "tags": [
+      "FLIPS EACH 12,500",
+      "richest: 8%",
+      "0 out"
+     ],
+     "pause_after": 1.5
+    },
+    {
+     "id": "l58",
+     "text": "Still winners. Still losers. Still unequal. But the game never ends. This is not a real tax. It only shows that a steady flow back stops the king.",
+     "picture": "The same living board: towers still rising and falling, slices flowing to the middle and back.",
+     "motion": "Slow orbit while the game keeps running.",
+     "tags": []
+    },
+    {
+     "id": "l59",
+     "text": "A mathematician named Bruce Boghosian added a rule like this to the model, plus a small edge for the rich, and fitted it to twenty-seven years of American wealth data. The fit was within a fraction of a percent. That does not prove the cause. It does mean this board is not nonsense.",
+     "picture": "All 64 towers lined up from shortest to tallest in one row (the model's curve), with a row of red chips marking the real-data heights on the same line.",
+     "motion": "The towers sort into a rising row; the chips land on the tower tops one by one; tag 'Boghosian, Tufts'.",
+     "tags": [
+      "Boghosian, Tufts",
+      "US wealth data 1989-2016"
+     ]
+    },
+    {
+     "id": "l60",
+     "text": "That argument sits under every fight about taxing the very rich. In November twenty twenty-six, California voted on a one-time five percent tax on billionaires. It lost, about fifty-three to forty-seven.",
+     "picture": "Two chip columns side by side: 53 chips and 47 chips.",
+     "motion": "Both columns build at the same time; tags '53 no' and '47 yes', small tag 'California, November 2026'.",
+     "tags": [
+      "53 no",
+      "47 yes",
+      "California, November 2026"
+     ],
+     "pause_after": 1.5
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "title": "Which one are you?",
+   "mood": "warm",
+   "lines": [
+    {
+     "id": "l61",
+     "text": "So here is the sentence half of you will fight in the comments.",
+     "picture": "The end of the fair world again: the great tower with the king in the cone hat.",
+     "motion": "Slow push toward the king on the tower.",
+     "tags": []
+    },
+    {
+     "id": "l62",
+     "text": "Being rich does not prove you were better. It proves you were at the table, you were good enough to play, and the coin liked you early.",
+     "picture": "The king in the cone hat on the tower, the coin turning slowly beside it.",
+     "motion": "Slow orbit; the coin turns and catches the light on 'the coin liked you early'.",
+     "tags": []
+    },
+    {
+     "id": "l63",
+     "text": "And being broke does not prove you played badly.",
+     "picture": "The fallen Scholar and the fallen Worker on their bare squares at the foot of the tower.",
+     "motion": "Camera drops from the tower top to the two fallen pawns.",
+     "tags": []
+    },
+    {
+     "id": "l64",
+     "text": "The Fool did nothing right. The Worker did nothing wrong. The board did what a fair board does.",
+     "picture": "The cone hat on the king; then the fallen Worker; then the whole finished board.",
+     "motion": "Three held shots, cut on each sentence.",
+     "tags": []
+    },
+    {
+     "id": "l64a",
+     "text": "And the Skeptic, still standing off the board? There is a stack of a hundred coins waiting. Everybody plays.",
+     "picture": "The black Skeptic pawn at the near edge; a tower of 10 gold discs beside the board; the Skeptic on it.",
+     "motion": "A 10-disc tower rises at the board's near edge and the Skeptic hops onto it on 'Everybody plays'.",
+     "tags": []
+    },
+    {
+     "id": "l65",
+     "text": "Sixty-four players. Same coins. Same rules. So which one are you? The Scholar, the Worker, the Heir, or the Fool?",
+     "picture": "The board reset to equal; the four hats on equal towers in a row facing the lens, each with its name tag; the Skeptic on its tower at the edge.",
+     "motion": "Reset; on each name the pawn hops and its tag lights; end text holds.",
+     "tags": [
+      "THE SCHOLAR",
+      "THE WORKER",
+      "THE HEIR",
+      "THE FOOL"
+     ],
+     "pause_after": 4
+    }
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "lines": [
+    "l01",
+    "l02",
+    "l24"
+   ],
+   "claim": "Yard-sale model: fair coin, stake = fraction of the poorer player's wealth; without redistribution wealth concentrates in one agent (Boghosian et al.; Boergers and Greengard proof). Shown world: game.js WORLDS.fair, Fool 90.4 % at 6,000 flips each. 300 further worlds: every one of 64 squares won at least once; the leader's share at 6,000 each ranged 33.5-99 %, median 85 %. Wording 'run it long enough, and it happens every time' = the almost-sure limit result; 'every world heads the same way' for the 300 finite runs.",
+   "evidence": "own simulation (game.js) + sources in research/radar/2026-11-15-parable-long/topic-research.md; fact-check r1 (fact-check.json)"
+  },
+  {
+   "lines": [
+    "l13",
+    "l14",
+    "l15",
+    "l17",
+    "l18",
+    "l19",
+    "l20",
+    "l21",
+    "l22"
+   ],
+   "claim": "Numbers of the shown fair world (seed 329).",
+   "evidence": "docs/brands/test-3d/fair-game/facts.json"
+  },
+  {
+   "lines": [
+    "l26",
+    "l27",
+    "l28"
+   ],
+   "claim": "0.8 x 1.2 = 0.96; a 16-coin stake is 20 % of 80 and 2 % of 800.",
+   "evidence": "arithmetic"
+  },
+  {
+   "lines": [
+    "l04",
+    "l05",
+    "l32",
+    "l33",
+    "l34",
+    "l35",
+    "l36",
+    "l37",
+    "l38",
+    "l39",
+    "l40"
+   ],
+   "claim": "Own toy model, 10,000 worlds x 200 flips each: richest = Heir 47.0 %, Scholar 5.6 %, Worker 1.9 %, Fool 0.8 %, one of the other 60 44.7 %; under 10 coins: Worker 69.6 %, Fool 46.4 %. 3,000 worlds x 2,000 flips each: Scholar 28.3 %, Heir 11.2 %.",
+   "evidence": "game.js TALLY; scan scripts in docs/brands/test-3d/fair-game/sim/"
+  },
+  {
+   "lines": [
+    "l41",
+    "l42",
+    "l43"
+   ],
+   "claim": "Pluchino, Biondo, Rapisarda, 'Talent vs Luck', Advances in Complex Systems 21 (2018): 1,000 agents, 40 years, normally distributed talent; the most successful agents had near-average talent.",
+   "evidence": "https://arxiv.org/abs/1802.07068 ; fact-check r1 (fact-check.json)"
+  },
+  {
+   "lines": [
+    "l03",
+    "l44",
+    "l45"
+   ],
+   "claim": "US Fed Distributional Financial Accounts, Q2 2026: top 1 % 32.5 % of household net worth, bottom 50 % 2.3 % (about 14 to 1).",
+   "evidence": "https://fred.stlouisfed.org/series/WFRBST01134 ; fact-check r1 (fact-check.json)"
+  },
+  {
+   "lines": [
+    "l46",
+    "l47"
+   ],
+   "claim": "UBS Billionaire Ambitions Report 2025 (year to April 2025): 91 heirs inherited a record $297.8bn; 196 self-made new billionaires added $386.5bn.",
+   "evidence": "https://www.ubs.com/global/en/media/display-page-ndp/en-20251204-billionaire-ambitions-report-2025.html ; fact-check r1 (fact-check.json)"
+  },
+  {
+   "lines": [
+    "l49",
+    "l50",
+    "l51",
+    "l52"
+   ],
+   "claim": "Multiplicative coin x1.5 / x0.6 (Peters 2019): expected value +5 % a flip, typical growth factor sqrt(0.9) < 1. Shown world: game.js WORLDS.growth.",
+   "evidence": "arithmetic + docs/brands/test-3d/fair-game/facts.json"
+  },
+  {
+   "lines": [
+    "l55",
+    "l57"
+   ],
+   "claim": "Shown world: game.js WORLDS.leak (1 % of every stack shared equally each round): richest 7.9 %, poorest 7.1 coins after 12,500 flips each.",
+   "evidence": "docs/brands/test-3d/fair-game/facts.json"
+  },
+  {
+   "lines": [
+    "l59"
+   ],
+   "claim": "Boghosian (Tufts): extended yard-sale model with a redistribution term and a wealth-attained advantage fitted the US wealth distribution 1989-2016 to within a sixth of a percent (Europe 2010: a third to a half of a percent). Scientific American, Nov 2019.",
+   "evidence": "fact-check r1 (fact-check.json)"
+  },
+  {
+   "lines": [
+    "l60"
+   ],
+   "claim": "California Proposition 40 (one-time 5 % tax on net worth over $1bn), 3 Nov 2026: rejected about 52.8 % to 47.2 % (AP count via CalMatters, 9 Nov; not yet certified, so the script says 'about').",
+   "evidence": "fact-check r1 (fact-check.json)"
+  }
+ ],
+ "round": 4
+}

@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<link rel="icon" href="data:,">
+<title>quiz-long stub frame</title>
+<!--
+  Pipeline STUB for packages/quizlong (NOT the show design). Implements the show-contract API only:
+    await window.__load(show)  |  window.__seek(t)  |  window.__ready
+  Plain boxes + text, a pure function of t (no wall clock, no random). The designer's page replaces it at
+  packages/quizlong/template/frame.html; quizlong:build picks that one automatically when it exists.
+-->
+<style>
+  @font-face { font-family: 'Cairo'; font-weight: 900; src: url('../../../data/brand/quiz-ar/fonts/Cairo-Black.ttf'); }
+  @font-face { font-family: 'Cairo'; font-weight: 700; src: url('../../../data/brand/quiz-ar/fonts/Cairo-Bold.ttf'); }
+  html, body { margin: 0; width: 1920px; height: 1080px; overflow: hidden; background: #101826; font-family: 'Cairo', 'Segoe UI', sans-serif; color: #fff; }
+  #root { position: absolute; inset: 0; }
+  .l1 { background: #12355b; } .l2 { background: #1f4d2e; } .l3 { background: #5b3a12; } .l4 { background: #5b1230; } .l0 { background: #1b1b2b; }
+  .chip { position: absolute; top: 40px; right: 60px; font-size: 44px; font-weight: 900; background: #0008; padding: 6px 28px; border-radius: 18px; }
+  .lvl { position: absolute; top: 40px; left: 60px; font-size: 40px; font-weight: 700; background: #0006; padding: 6px 28px; border-radius: 18px; }
+  .ask { position: absolute; top: 130px; left: 0; right: 0; text-align: center; font-size: 70px; font-weight: 900; }
+  .clue { position: absolute; top: 250px; left: 560px; width: 800px; height: 360px; border-radius: 24px; background: #fff; color: #111; display: flex; align-items: center; justify-content: center; font-size: 120px; font-weight: 900; box-shadow: 0 16px 0 #0005; }
+  .clue small { font-size: 54px; color: #555; }
+  .opts { position: absolute; top: 660px; left: 160px; right: 160px; display: grid; grid-template-columns: 1fr 1fr; gap: 26px 40px; }
+  .opt { height: 120px; border-radius: 22px; background: #f4f4f8; color: #111; font-size: 56px; font-weight: 900; display: flex; align-items: center; justify-content: center; box-shadow: 0 10px 0 #0006; }
+  .opt.right { background: #22c55e; color: #fff; transform: translateY(-10px); }
+  .opt.wrong { opacity: .45; }
+  .timer { position: absolute; top: 625px; left: 560px; width: 800px; height: 18px; background: #0006; border-radius: 9px; overflow: hidden; }
+  .timer i { display: block; height: 100%; background: #facc15; }
+  .timer.last i { background: #ef4444; }
+  .hints { position: absolute; top: 260px; right: 60px; width: 420px; display: flex; flex-direction: column; gap: 18px; }
+  .hint { background: #facc15; color: #111; font-size: 40px; font-weight: 900; padding: 10px 20px; border-radius: 16px; }
+  .answers { position: absolute; top: 660px; left: 160px; right: 160px; display: flex; gap: 40px; justify-content: center; }
+  .ans { min-width: 420px; height: 120px; border-radius: 22px; background: #22c55e; font-size: 56px; font-weight: 900; display: flex; align-items: center; justify-content: center; }
+  .learn { position: absolute; bottom: 120px; left: 120px; right: 120px; text-align: center; font-size: 50px; font-weight: 700; background: #000c; padding: 18px 30px; border-radius: 20px; }
+  .also { position: absolute; bottom: 230px; left: 0; right: 0; text-align: center; font-size: 38px; color: #fde68a; }
+  .card { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 30px; }
+  .card h1 { margin: 0; font-size: 130px; font-weight: 900; }
+  .card p { margin: 0; font-size: 56px; font-weight: 700; color: #fde68a; }
+  .rows { display: flex; flex-direction: column; gap: 14px; font-size: 48px; }
+  .host { position: absolute; bottom: 30px; left: 60px; max-width: 900px; font-size: 30px; background: #fff2; padding: 8px 18px; border-radius: 14px; }
+  .tcode { position: absolute; bottom: 30px; right: 60px; font: 700 26px monospace; color: #fff8; direction: ltr; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+(() => {
+  const AR = '٠١٢٣٤٥٦٧٨٩';
+  const ar = n => String(n).replace(/[0-9]/g, d => AR[+d]);
+  const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+  const root = document.getElementById('root');
+  let show = null;
+  const clueHtml = c => {
+    if (!c) return '';
+    if (c.type === 'flag') return `<small>علم</small>&nbsp;${esc(String(c.iso || '').toUpperCase())}`;
+    if (c.type === 'emoji') return esc((c.items || []).join(' '));
+    if (c.type === 'letter') return esc(c.letter);
+    return `<span style="font-size:72px">${esc(c.text ?? c.type)}</span>`;
+  };
+  function drawQuestion(s, t) {
+    const T = s.t, revealed = t >= T.reveal;
+    const left = Math.max(0, Math.min(1, (T.timer_end - t) / Math.max(0.01, T.timer_end - T.timer_start)));
+    const timing = t >= T.timer_start && t < T.timer_end;
+    let h = `<div class="chip">${ar(s.index)}/${ar(show.total_questions)}</div><div class="lvl">${esc(s.level_name)}</div>`;
+    h += `<div class="ask">${esc(s.ask_text)}</div><div class="clue">${clueHtml(s.clue)}</div>`;
+    if (timing || (t >= T.timer_start && !revealed)) h += `<div class="timer${T.timer_end - t <= 1 ? ' last' : ''}"><i style="width:${(left * 100).toFixed(2)}%"></i></div>`;
+    if (s.options && t >= T.options_in) h += `<div class="opts">${s.options.map((o, k) => `<div class="opt${revealed ? (k === s.answer_index ? ' right' : ' wrong') : ''}">${esc(o.text)}${o.iso ? ` <small>[${esc(o.iso)}]</small>` : ''}</div>`).join('')}</div>`;
+    if (s.answers) h += `<div class="answers">${s.answers.filter(a => t >= a.t).map(a => `<div class="ans">${esc(a.text)}</div>`).join('')}</div>`;
+    const hs = (s.hints || []).filter(x => t >= x.t && !revealed);
+    if (hs.length) h += `<div class="hints">${hs.map(x => `<div class="hint">${esc(x.text)}</div>`).join('')}</div>`;
+    if (t >= T.learn_in) { h += `<div class="learn">${esc(s.learn_text)}</div>`; if (s.also_text) h += `<div class="also">${esc(s.also_text)}</div>`; }
+    return h;
+  }
+  function drawSeg(s, t) {
+    if (s.type === 'question') return drawQuestion(s, t);
+    if (s.type === 'card') return `<div class="card"><h1>${esc(s.title || '')}</h1>${s.sub ? `<p>${esc(s.sub)}</p>` : ''}${s.tally_text ? `<p>${esc(s.tally_text)}</p>` : ''}</div>`;
+    if (s.type === 'ladder') return `<div class="card"><h1>${esc(s.title || '')}</h1><div class="rows">${(s.rows || []).map(r => `<div>${ar(r.min ?? '')}–${ar(r.max ?? '')}: ${esc(r.title ?? '')}</div>`).join('')}</div></div>`;
+    if (s.type === 'end') return `<div class="card"><h1>${esc(s.text || '')}</h1>${s.sub ? `<p>${esc(s.sub)}</p>` : ''}</div>`;
+    return '';
+  }
+  window.__seek = t => {
+    if (!show) throw new Error('__seek before __load');
+    const segs = show.segments;
+    let s = segs[segs.length - 1];
+    for (const x of segs) if (t >= x.start && t < x.end) { s = x; break; }
+    const host = (s.host || []).find(h => t >= h.t && t < h.end);
+    root.className = (s.level ? (show.theme?.level_themes?.[s.level] || 'l0') : 'l0');
+    root.innerHTML = drawSeg(s, t) + (host ? `<div class="host">${esc(host.text)}</div>` : '') + `<div class="tcode">STUB ${t.toFixed(2)}s ${esc(s.id || s.type)}</div>`;
+  };
+  window.__load = async data => {
+    show = data;
+    window.__ready = false;
+    await document.fonts.load('900 40px Cairo'); await document.fonts.load('700 40px Cairo');
+    await document.fonts.ready;
+    window.__seek(0);
+    window.__ready = true;
+    return { duration: show.duration, segments: show.segments.length };
+  };
+  const q = new URLSearchParams(location.search).get('show');
+  if (q) fetch(q).then(r => r.json()).then(window.__load);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "AI Swore This Turtle Was a Rifle",
+ "topic": "MIT researchers painted a 3D-printed turtle with a pattern tuned to fool Google's image AI; from almost every angle it saw a rifle.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Absurd, striking frame-0 image; zero Shorts competition.",
+ "evidence": [
+  {
+   "claim": "Athalye et al. 2017, 'Synthesizing Robust Adversarial Examples' (3D-printed turtle classified as rifle) (accessed 2026-10-24)",
+   "url": "https://arxiv.org/abs/1707.07397"
+  },
+  {
+   "claim": "The Verge (Nov 2017): Google's AI thinks this turtle looks like a gun (accessed 2026-10-24)",
+   "url": "https://www.theverge.com/2017/11/2/16597276/google-ai-image-attacks-adversarial-turtle-rifle-3d-printed"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Visual trick fools ai into thinking a turtle is really a rifle (long, 8y)",
+   "url": "https://www.youtube.com/watch?v=ZFMsjFZqHCs",
+   "views": "168",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Turtle or rifle? AI said rifle.') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: MIT researchers painted a 3D-printed turtle with a pattern tuned to fool Google's image AI; from almost every angle it saw a rifle. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Turtle or rifle? AI said rifle.",
+ "twist": "MIT researchers painted a 3D-printed turtle with a pattern tuned to fool Google's image AI; from almost every angle it saw a rifle.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": "2026-12-04 22:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with stop-sign (Dec 8): same 'adversarial' family, 4 days apart. No gun imagery: show a toy-like rifle silhouette label, not a realistic weapon.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 31,
+ "score10": 8.5,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

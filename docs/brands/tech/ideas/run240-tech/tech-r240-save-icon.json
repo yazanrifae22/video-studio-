@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why Is the Save Icon a Floppy Disk?",
+ "topic": "It's a 1980s floppy disk, which once held your saved work; the icon outlived the object.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Familiar to everyone, competitors ~1-2K; good gen-Z 'what is this' hook.",
+ "evidence": [
+  {
+   "claim": "Floppy disk history and the save icon (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Floppy_disk"
+  },
+  {
+   "claim": "Skeuomorph: designs that keep cues of obsolete objects (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Skeuomorph"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why is the save icon a floppy disk?",
+   "url": "https://youtube.com/shorts/8YdKPYCTiEg",
+   "views": "2.2K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why Did Early 90s Computers Use Floppy Disks With Metal Sliders?",
+   "url": "https://youtube.com/shorts/g_MlDQvhAb4",
+   "views": "36K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Save icon. What is this thing?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: It's a 1980s floppy disk, which once held your saved work; the icon outlived the object. Loop ending: re-ask the hook.",
+ "hook": "Save icon. What is this thing?",
+ "twist": "It's a 1980s floppy disk, which once held your saved work; the icon outlived the object.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-24 22:00 UTC",
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 41,
+ "score10": 8.0,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

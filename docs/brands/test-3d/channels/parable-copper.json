@@ -1,0 +1,22 @@
+{
+ "id": "parable-copper",
+ "name": "Copper Parable",
+ "format": "explainer",
+ "positioning": "One arm of the test-3d visual test (owner 2026-11-14/15): same parable Short, Host picture style, one voice per channel. Test channel, created 2026-11-15.",
+ "audience": "General 18-45, English",
+ "language": "en",
+ "status": "test",
+ "data": {
+  "voice": {
+   "name": "Achird"
+  },
+  "visual": "Host",
+  "test": "test-3d",
+  "docs": "docs/brands/test-3d/",
+  "youtube": {
+   "handle": "@CopperParable",
+   "channel_id": "UCwBRx8KM-9TxJscnSx0z2-Q",
+   "token": "data/tokens/parable-copper.json"
+  }
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "'Only 2 Left!' Refresh the Page. Still 2?",
+ "topic": "Some shops show fake low-stock counters and countdown timers that reset; regulators call these dark patterns.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Black Friday week, play-along hook (refresh the page). Competitors at ~1K = wide gap.",
+ "evidence": [
+  {
+   "claim": "FTC staff report 'Bringing Dark Patterns to Light' (Sep 15 2022) lists fake countdown timers and false scarcity (Hunton summary) (accessed 2026-10-24)",
+   "url": "https://www.huntonprivacyblog.com/2022/09/27/ftc-releases-report-on-dark-patterns/"
+  },
+  {
+   "claim": "Princeton 'Dark Patterns at Scale' (11K shopping sites; fake countdowns and low-stock messages) (accessed 2026-10-24)",
+   "url": "https://webtransparency.cs.princeton.edu/dark-patterns/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The Fake Scarcity Trick ('Only 2 Left') Explained",
+   "url": "https://youtube.com/shorts/0NpoUIpRNeI",
+   "views": "1.2K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why 'Only 2 Left' Makes You Buy Instantly",
+   "url": "https://youtube.com/shorts/yqz9JNt3H7M",
+   "views": "943",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Only 2 left! Refresh. Still 2?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Some shops show fake low-stock counters and countdown timers that reset; regulators call these dark patterns. Loop ending: re-ask the hook.",
+ "hook": "Only 2 left! Refresh. Still 2?",
+ "twist": "Some shops show fake low-stock counters and countdown timers that reset; regulators call these dark patterns.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-16",
+  "deadline": "2026-11-30",
+  "event": "Black Friday (Nov 27) sales week"
+ },
+ "newsPeg": "Black Friday (Nov 27) sales week",
+ "suggestedSlot": "2026-11-22 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW with dynamic pricing (Nov 11) - 11 days apart. Don't name a specific retailer.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 40,
+ "score10": 8.0,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

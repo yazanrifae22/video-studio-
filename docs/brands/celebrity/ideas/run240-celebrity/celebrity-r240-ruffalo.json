@@ -1,0 +1,84 @@
+{
+ "channel": "celebrity",
+ "title": "800 Auditions, No Roles: Mark Ruffalo's Bartending Years",
+ "topic": "Ruffalo bartended for nearly a decade in LA and says he went to about 800 auditions without a part, until a Kenneth Lonergan play led to his breakout.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Mark Ruffalo turns 59 (2026-11-22). Wikipedia Mark_Ruffalo 210,241 views Sept 2026.",
+ "hook": "800 auditions. How many roles?",
+ "twist": "Ruffalo bartended for nearly a decade in LA and says he went to about 800 auditions without a part, until a Kenneth Lonergan play led to his breakout.",
+ "peg": {
+  "event": "Mark Ruffalo turns 59",
+  "date": "2026-11-22",
+  "url": "https://en.wikipedia.org/wiki/Mark_Ruffalo",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Interview Magazine - Mark Ruffalo (accessed 2026-10-24)",
+   "url": "https://interviewmagazine.com/film/mark-ruffalo"
+  },
+  {
+   "claim": "IMDb bio - Mark Ruffalo (citing MovieMaker) (accessed 2026-10-24)",
+   "url": "https://imdb.de/name/nm0749263/bio/"
+  },
+  {
+   "claim": "Wikipedia - Mark Ruffalo (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Mark_Ruffalo"
+  },
+  {
+   "claim": "Peg source: Mark Ruffalo turns 59 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Mark_Ruffalo"
+  },
+  {
+   "claim": "Wikimedia pageviews Mark_Ruffalo: 210241 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Mark_Ruffalo&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Interview Magazine - Mark Ruffalo",
+   "url": "https://interviewmagazine.com/film/mark-ruffalo",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "IMDb bio - Mark Ruffalo (citing MovieMaker)",
+   "url": "https://imdb.de/name/nm0749263/bio/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Mark Ruffalo",
+   "url": "https://en.wikipedia.org/wiki/Mark_Ruffalo",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [],
+ "angle": "Frame 0: a bar tally of 800 marks on a bar napkin + hook. Twist: zero roles - then one. Loop: 'Audition 801?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Audition count 600-800 (cite 'about 800, by his account'). Do NOT mention his health history. No Hulk/Marvel imagery.",
+ "window": {
+  "notBefore": "2026-11-21T12:00:00Z",
+  "deadline": "2026-11-23T06:00:00Z",
+  "label": "Mark Ruffalo turns 59",
+  "suggestedSlot": "2026-11-22T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

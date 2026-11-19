@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "Why Netflix Asks 'Are You Still Watching?'",
+ "topic": "If you fell asleep, it stops streaming to save your data and its bandwidth, and so you don't lose your place in the series.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Meme demand (561K) but no explainer.",
+ "evidence": [
+  {
+   "claim": "How-To Geek: Netflix asks so you don't waste data when not watching (accessed 2026-10-24)",
+   "url": "https://www.howtogeek.com/685919/why-netflix-asks-are-you-still-watching-and-how-to-stop-it/"
+  },
+  {
+   "claim": "Trusted Reviews: Netflix tested letting users disable the prompt (accessed 2026-10-24)",
+   "url": "https://www.trustedreviews.com/news/netflix-could-let-you-disable-its-most-judgemental-feature-4102258"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "When Netflix asks if you're still Watching",
+   "url": "https://youtube.com/shorts/jGeeT4DNjCY",
+   "views": "561K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why Are You Still Watching? (meme)",
+   "url": "https://youtube.com/shorts/Ok_Wbt7nVZ0",
+   "views": "121K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Netflix: still watching? Why ask?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: If you fell asleep, it stops streaming to save your data and its bandwidth, and so you don't lose your place in the series. Loop ending: re-ask the hook.",
+ "hook": "Netflix: still watching? Why ask?",
+ "twist": "If you fell asleep, it stops streaming to save your data and its bandwidth, and so you don't lose your place in the series.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-18 18:00 UTC",
+ "novelty": {
+  "overlap": "LOW with 'Why Your Netflix Screenshot Comes Out Black' - >= 5 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 27,
+ "score10": 8.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

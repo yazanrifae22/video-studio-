@@ -1,0 +1,111 @@
+{
+ "channel": "celebrity",
+ "title": "Magic vs Bird: Rivals Until One Lunch. Who Was Better?",
+ "topic": "Magic Johnson and Larry Bird barely spoke until a 1985 Converse ad shoot in Bird's hometown, French Lick; Bird invited Magic to lunch at his mother's house and the rivals became friends.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Larry Bird turns 70 (2026-12-07). Wikipedia Larry_Bird 76,312 views Sept 2026.",
+ "hook": "Fiercest rivals… shared a lunch?",
+ "twist": "Magic Johnson and Larry Bird barely spoke until a 1985 Converse ad shoot in Bird's hometown, French Lick; Bird invited Magic to lunch at his mother's house and the rivals became friends.",
+ "peg": {
+  "event": "Larry Bird turns 70",
+  "date": "2026-12-07",
+  "url": "https://en.wikipedia.org/wiki/Larry_Bird",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "NPR - Magic and Bird: a rivalry gives way to friendship (accessed 2026-10-24)",
+   "url": "https://www.npr.org/2009/11/03/120053152/magic-and-bird-a-rivalry-gives-way-to-friendship"
+  },
+  {
+   "claim": "CBS News - Shooting stars (accessed 2026-10-24)",
+   "url": "https://www.cbsnews.com/news/shooting-stars"
+  },
+  {
+   "claim": "ESPN TrueHoop - Magic and Larry Legend on the big stage (accessed 2026-10-24)",
+   "url": "https://www.espn.com/blog/truehoop/post/_/id/40167/magic-and-larry-legend-on-the-big-stage"
+  },
+  {
+   "claim": "Peg source: Larry Bird turns 70 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Larry_Bird"
+  },
+  {
+   "claim": "Wikimedia pageviews Larry_Bird: 76312 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Larry_Bird&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "NPR - Magic and Bird: a rivalry gives way to friendship",
+   "url": "https://www.npr.org/2009/11/03/120053152/magic-and-bird-a-rivalry-gives-way-to-friendship",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "CBS News - Shooting stars",
+   "url": "https://www.cbsnews.com/news/shooting-stars",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "ESPN TrueHoop - Magic and Larry Legend on the big stage",
+   "url": "https://www.espn.com/blog/truehoop/post/_/id/40167/magic-and-larry-legend-on-the-big-stage",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Converse Commercial (1986) with Larry Bird and Magic Johnson",
+   "url": "https://www.youtube.com/watch?v=GmkwzqG4How",
+   "views": 499051,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Magic Bird Converse commercial lunch #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Story of Magic Johnson, Larry Bird, and Converse's Commercial Collaboration\" #shorts #shortvideo",
+   "url": "https://youtube.com/shorts/37WS1-0-j7w",
+   "views": 15000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Magic Bird Converse commercial lunch #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "1986 CONVERSE COMMERCIAL LARRY BIRD MAGIC JOHNSON LAKERS CELTICS CLASSICS CAR CADILLAC TIME TRAVEL",
+   "url": "https://youtube.com/shorts/m9jI1_Hbse4",
+   "views": 3200,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Magic Bird Converse commercial lunch #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: Two sneakers, green and purple-gold, under a farmhouse lunch table + hook. Twist by 2.5 s. Loop: 'So who was better: Magic or Bird?'",
+ "cta": "C9+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Shoot year 1985 (NPR book excerpt) vs 1984 (CBS): say 'in the mid-80s'. No Converse/team logos, no likeness: two sneakers, one green, one gold, at a farmhouse table.",
+ "window": {
+  "notBefore": "2026-12-05T12:00:00Z",
+  "deadline": "2026-12-09T00:00:00Z",
+  "label": "Larry Bird turns 70",
+  "suggestedSlot": "2026-12-06T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Larry Bird",
+  "Magic Johnson"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

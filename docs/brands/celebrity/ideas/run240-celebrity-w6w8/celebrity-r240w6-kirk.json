@@ -1,0 +1,112 @@
+{
+ "channel": "celebrity",
+ "title": "I Am Spartacus: How Kirk Douglas Defied a Blacklist",
+ "topic": "Dalton Trumbo was blacklisted as one of the Hollywood Ten; in 1960 Kirk Douglas put his real name on Spartacus, one of two films (with Preminger's Exodus) that broke the blacklist open.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Kirk Douglas born 9 Dec 1916 (110th) (2026-12-09). Wikipedia Kirk_Douglas 145,350 views Sept 2026.",
+ "hook": "A banned writer's name on screen?",
+ "twist": "Dalton Trumbo was blacklisted as one of the Hollywood Ten; in 1960 Kirk Douglas put his real name on Spartacus, one of two films (with Preminger's Exodus) that broke the blacklist open.",
+ "peg": {
+  "event": "Kirk Douglas born 9 Dec 1916 (110th)",
+  "date": "2026-12-09",
+  "url": "https://en.wikipedia.org/wiki/Kirk_Douglas",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Jewish Journal - Kirk Douglas wins tribute for breaking the blacklist (accessed 2026-10-24)",
+   "url": "https://jewishjournal.com/culture/arts/94383/fifty-years-later-kirk-douglas-wins-tribute-for-breaking-hollywood-blacklist/"
+  },
+  {
+   "claim": "NBC News - Kirk Douglas helped end the blacklist; he wasn't alone (accessed 2026-10-24)",
+   "url": "https://www.nbcnews.com/news/us-news/kirk-douglas-helped-end-hollywood-blacklist-he-wasn-t-alone-n1131256"
+  },
+  {
+   "claim": "LA Review of Books - I Am Spartacus! (review) (accessed 2026-10-24)",
+   "url": "https://lareviewofbooks.org/article/i-am-spartacus-making-a-film-breaking-the-blacklist"
+  },
+  {
+   "claim": "Peg source: Kirk Douglas born 9 Dec 1916 (110th) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Kirk_Douglas"
+  },
+  {
+   "claim": "Wikimedia pageviews Kirk_Douglas: 145350 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Kirk_Douglas&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Jewish Journal - Kirk Douglas wins tribute for breaking the blacklist",
+   "url": "https://jewishjournal.com/culture/arts/94383/fifty-years-later-kirk-douglas-wins-tribute-for-breaking-hollywood-blacklist/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "NBC News - Kirk Douglas helped end the blacklist; he wasn't alone",
+   "url": "https://www.nbcnews.com/news/us-news/kirk-douglas-helped-end-hollywood-blacklist-he-wasn-t-alone-n1131256",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "LA Review of Books - I Am Spartacus! (review)",
+   "url": "https://lareviewofbooks.org/article/i-am-spartacus-making-a-film-breaking-the-blacklist",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Kirk Douglas — The Man Behind Spartacus in Spartacus.",
+   "url": "https://youtube.com/shorts/vXndvGCV7ew",
+   "views": 20000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Kirk Douglas Spartacus Trumbo blacklist #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Kirk Douglas Insisted on Crediting Blacklisted Writer Dalton Trumbo on Spartacus",
+   "url": "https://youtube.com/shorts/EnIhG7rdAB0",
+   "views": 995,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Kirk Douglas Spartacus Trumbo blacklist #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Kirk Douglas put a blacklisted writer on the poster #Spartacus #DaltonTrumbo",
+   "url": "https://youtube.com/shorts/pWQd8dXzyBQ",
+   "views": 17000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Kirk Douglas Spartacus Trumbo blacklist #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A film credit card with a name being un-crossed-out + hook. Twist by 2.5 s. Loop: 'Would you have risked your career for a name?'",
+ "cta": "C2+C6 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Credit is shared with Preminger (Exodus announced first): say 'helped break'. LARB notes Douglas's memoir may overstate his role. Politics (HUAC): stick to facts, no party framing. No stills.",
+ "window": {
+  "notBefore": "2026-12-05T12:00:00Z",
+  "deadline": "2026-12-11T00:00:00Z",
+  "label": "Kirk Douglas born 9 Dec 1916 (110th)",
+  "suggestedSlot": "2026-12-06T23:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Kirk Douglas",
+  "Dalton Trumbo",
+  "Otto Preminger"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

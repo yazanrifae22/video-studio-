@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ar" dir="rtl"><head><meta charset="utf-8"><title>quizlab test page</title>
+<style>
+html,body{margin:0;overflow:hidden;background:#E4D7BF}
+#stage{position:relative;width:1080px;height:1920px;background:#B98F5F;overflow:hidden;font-family:Arial,sans-serif}
+#box{position:absolute;width:300px;height:300px;background:#F3EADA;border:4px solid #16130E;top:700px}
+#line{position:absolute;left:70px;right:130px;top:1200px;font-size:72px;line-height:1.3;color:#16130E;background:#FFFDF7;padding:24px;text-align:center;font-weight:700}
+#tc{position:absolute;left:70px;top:236px;font-size:64px;color:#16130E;font-family:monospace}
+</style></head><body>
+<div id="stage"><div id="tc"></div><div id="box"></div><div id="line"></div></div>
+<script>
+let S = null;
+window.__ready = false;
+window.__plan = function (durs) {
+  const g = 1.2, a = 0.5, b = a + durs.a + g, c = b + durs.b + g, end = c + durs.c + 1.0;
+  const duration = Math.max(14, Math.ceil(end * 30) / 30);
+  return { duration: Math.round(duration * 30) / 30,
+    cues: [{ id: 'a', at: a }, { id: 'b', at: +b.toFixed(3) }, { id: 'c', at: +c.toFixed(3) }],
+    sfx: [{ name: 'slide', at: 0.1 }, { name: 'thud', at: 2.0, gain: -3 }, { name: 'stamp', at: +(c - 0.4).toFixed(3), gain: -2 }, { name: 'sting', at: +(c + durs.c + 0.2).toFixed(3), gain: -4 }],
+    bed: { name: 'bed-desk-96', from: 0, to: duration, gain: 0 } };
+};
+window.__load = async function (show) {
+  S = show; await document.fonts.ready; window.__ready = true; window.__seek(0);
+};
+window.__seek = function (t) {
+  const f = Math.round(t * 30);
+  document.getElementById('tc').textContent = 'f' + f + '  ' + t.toFixed(2) + 's';
+  document.getElementById('box').style.left = (70 + 600 * (0.5 + 0.5 * Math.sin(t * 1.3))) + 'px';
+  let txt = '';
+  if (S) for (const c of S.plan.cues) { if (t >= c.at && t < c.at + S.durs[c.id] + 0.3) txt = S.lines.find(l => l.id === c.id).text; }
+  document.getElementById('line').textContent = txt || ' ';
+};
+(function(){ const e = new URLSearchParams(location.search); if (e.get('dev')) { const d = { a: 2, b: 2, c: 2 }; const p = window.__plan(d); window.__load({ lines: [], durs: d, plan: p }); } })();
+</script></body></html>

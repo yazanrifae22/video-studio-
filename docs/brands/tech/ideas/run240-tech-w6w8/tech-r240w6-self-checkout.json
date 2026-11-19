@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "'Unexpected Item in Bagging Area.' What Did It See?",
+ "topic": "The bagging area is a scale: each scan tells it how much weight should appear; a bag, a lean or a light item breaks the maths, so it calls for help.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Catchphrase with 54M-view comedy Shorts; the 'it's a scale' answer is missing.",
+ "evidence": [
+  {
+   "claim": "Supermarket News: self-checkout shrink (security scales, weight tolerances) (accessed 2026-10-24)",
+   "url": "https://www.supermarketnews.com/archive/self-checkout-shrink"
+  },
+  {
+   "claim": "US patent 6,794,586: self-checkout security scale compares measured vs expected weight (accessed 2026-10-24)",
+   "url": "https://patents.google.com/patent/US6794586"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Unexpected Item in Bagging Area... (comedy)",
+   "url": "https://youtube.com/shorts/xTNSdk2zlnc",
+   "views": "54M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "UNEXPECTED [[ ITEM ]] IN BAGGING AREA",
+   "url": "https://youtube.com/shorts/LIO50ONIQAk",
+   "views": "955K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Unexpected item? You didn't add one.') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: The bagging area is a scale: each scan tells it how much weight should appear; a bag, a lean or a light item breaks the maths, so it calls for help. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Unexpected item? You didn't add one.",
+ "twist": "The bagging area is a scale: each scan tells it how much weight should appear; a bag, a lean or a light item breaks the maths, so it calls for help.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-27",
+  "deadline": "2026-11-30",
+  "event": "Black Friday weekend shopping (Nov 28)"
+ },
+ "newsPeg": "Black Friday weekend shopping (Nov 28)",
+ "category": "news peg",
+ "suggestedSlot": "2026-11-28 12:00 UTC",
+ "novelty": {
+  "overlap": "none. Some stores have switched scales off: say 'many machines'.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 30,
+ "score10": 8.5,
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

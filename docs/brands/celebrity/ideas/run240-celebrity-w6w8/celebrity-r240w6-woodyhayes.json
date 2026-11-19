@@ -1,0 +1,96 @@
+{
+ "channel": "celebrity",
+ "title": "Did Woody Hayes Really Say 'I Couldn't Go for Three'?",
+ "topic": "Ohio State led Michigan 50-14 in 1968 and went for two; the famous 'because I couldn't go for three' line has no record in print. Hayes's reported reason was an injured center.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Michigan at Ohio State, \"The Game\", noon ET FOX (2026-11-28). Wikipedia Michigan–Ohio_State_football_rivalry 29,667 views Sept 2026.",
+ "hook": "Up 50-14. Why go for two?",
+ "twist": "Ohio State led Michigan 50-14 in 1968 and went for two; the famous 'because I couldn't go for three' line has no record in print. Hayes's reported reason was an injured center.",
+ "peg": {
+  "event": "Michigan at Ohio State, \"The Game\", noon ET FOX",
+  "date": "2026-11-28",
+  "url": "https://www.elevenwarriors.com/ohio-state-football/2026/05/162511/ohio-state-s-rivalry-game-vs-michigan-officially-set-for-noon-kickoff-on-fox-once-again",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Eleven Warriors - Hayes called a two-point conversion up 50-14 (accessed 2026-10-24)",
+   "url": "https://elevenwarriors.com/ohio-state-football/2021/11/127270/great-moments-in-hate-woody-hayes-called-two-point-conversion-up-50-14-against-michigan-in-1968-because-he-couldnt"
+  },
+  {
+   "claim": "MVictors - The 'couldn't go for three' myth (accessed 2026-10-24)",
+   "url": "https://mvictors.com/because-i-couldnt-go-for-three/"
+  },
+  {
+   "claim": "Wikipedia - The Ten Year War (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/The_Ten_Year_War"
+  },
+  {
+   "claim": "Peg source: Michigan at Ohio State, \"The Game\", noon ET FOX (accessed 2026-10-24)",
+   "url": "https://www.elevenwarriors.com/ohio-state-football/2026/05/162511/ohio-state-s-rivalry-game-vs-michigan-officially-set-for-noon-kickoff-on-fox-once-again"
+  },
+  {
+   "claim": "Wikimedia pageviews Michigan–Ohio_State_football_rivalry: 29667 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Michigan%E2%80%93Ohio_State_football_rivalry&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Eleven Warriors - Hayes called a two-point conversion up 50-14",
+   "url": "https://elevenwarriors.com/ohio-state-football/2021/11/127270/great-moments-in-hate-woody-hayes-called-two-point-conversion-up-50-14-against-michigan-in-1968-because-he-couldnt",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "MVictors - The 'couldn't go for three' myth",
+   "url": "https://mvictors.com/because-i-couldnt-go-for-three/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - The Ten Year War",
+   "url": "https://en.wikipedia.org/wiki/The_Ten_Year_War",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "MailboxBaseball - Go For Three Woody Hayes",
+   "url": "https://www.youtube.com/watch?v=etm7aNzQVd4",
+   "views": 465,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Woody Hayes couldnt go for three #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A scoreboard frozen at 50-14 with a '2?' scrawled on it + hook. Twist by 2.5 s. Loop: 'Real quote, or great myth? You decide.'",
+ "cta": "C9+C1 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "The point is myth vs fact: say 'no evidence he said it to reporters'. Skip Hayes's 1978 punch. No university logos.",
+ "window": {
+  "notBefore": "2026-11-27T12:00:00Z",
+  "deadline": "2026-11-28T17:00:00Z",
+  "label": "Michigan at Ohio State, \"The Game\", noon ET FOX",
+  "suggestedSlot": "2026-11-28T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Woody Hayes"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 2,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

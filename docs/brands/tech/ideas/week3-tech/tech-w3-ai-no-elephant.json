@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Ask AI for No Elephants. You Get an Elephant.",
+ "topic": "Negation in image prompts",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Playful, checkable, useful tip; competitor gap (<1.5K).",
+ "evidence": [
+  {
+   "claim": "Ideogram docs: model associates words with visuals and does not grasp absence (accessed 2026-10-23)",
+   "url": "https://docs.ideogram.ai/using-ideogram/prompting-guide/4-handling-negatives"
+  },
+  {
+   "claim": "OpenAI community: Why can't ChatGPT draw a room without an elephant? (accessed 2026-10-23)",
+   "url": "https://community.openai.com/t/why-cant-chatgpt-draw-a-room-without-an-elephant/1138265"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Old AI image tools added elephants to a room with no elephants",
+   "url": "https://youtube.com/shorts/fNsmCkyMSww",
+   "views": "1.5K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "#AI Fails! Why Copilot Can't Understand 'No Elephants'?",
+   "url": "https://youtube.com/shorts/BBTSieit9Ck",
+   "views": "592",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: an empty room with a big trunk peeking in + hook. Why: image models link words to things; 'no elephant' still contains 'elephant', so the word pulls one in. Fix: describe what you want ('an empty room'). Loop: 'Now: draw a room with no elephant.'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Draw a room with no elephant.",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Newer models often pass; run our own test and say what happened.",
+ "window": null,
+ "novelty": {
+  "overlap": "low; image-AI family (clocks, wine) - spread across days",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

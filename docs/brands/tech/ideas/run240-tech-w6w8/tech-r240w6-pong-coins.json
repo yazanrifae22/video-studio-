@@ -1,0 +1,68 @@
+{
+ "channel": "tech",
+ "title": "The First Pong Machine 'Broke.' It Was Full of Coins",
+ "topic": "Nothing: the coin box overflowed with quarters and jammed. That's how Atari knew it had a hit.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Exact-date anniversary on a Sunday; guess-the-fault hook (T2).",
+ "evidence": [
+  {
+   "claim": "Wikipedia: Pong (prototype at Andy Capp's Tavern; released Nov 29 1972) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Pong"
+  },
+  {
+   "claim": "The Register (2012): Pong anniversary, Al Alcorn on the overflowing coin box (accessed 2026-10-24)",
+   "url": "https://www.theregister.com/2012/03/05/pong_anniversary_al_alcorn/?page=2"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The 1972 Pong Machine That Got Too Full",
+   "url": "https://youtube.com/shorts/gmMyYQc4utU",
+   "views": "2.7K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Pong - Arcade (1972)",
+   "url": "https://youtube.com/shorts/X0HQ2oLG_sY",
+   "views": "49K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Pong stopped working. What broke?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Nothing: the coin box overflowed with quarters and jammed. That's how Atari knew it had a hit. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Pong stopped working. What broke?",
+ "twist": "Nothing: the coin box overflowed with quarters and jammed. That's how Atari knew it had a hit.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-29",
+  "deadline": "2026-11-30",
+  "event": "Pong released Nov 29 1972 (54th anniversary)"
+ },
+ "newsPeg": "Pong released Nov 29 1972 (54th anniversary)",
+ "category": "news peg",
+ "suggestedSlot": "2026-11-29 12:00 UTC",
+ "novelty": {
+  "overlap": "none. Timing of the call-out varies (days vs two weeks): say 'soon after'.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 52,
+ "score10": 8.0,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

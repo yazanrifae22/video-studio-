@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Why Propellers Look Bent in Phone Videos",
+ "topic": "Rolling-shutter distortion",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Viral visual; rolling-shutter clips get 0.5-7.5K on Shorts with almost no explanation (gap).",
+ "evidence": [
+  {
+   "claim": "Wikipedia Rolling shutter (accessed 2026-10-23)",
+   "url": "https://en.wikipedia.org/wiki/Rolling_shutter"
+  },
+  {
+   "claim": "Pageviews Rolling_shutter 2,334 in 30 days (accessed 2026-10-23)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Rolling_shutter&range=latest-30"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Rolling shutter effect on plane propeller",
+   "url": "https://youtube.com/shorts/1h3gcx_fUAQ",
+   "views": "7.5K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why Your Camera Bends a Straight Propeller",
+   "url": "https://youtube.com/shorts/9YX-7kZssAA",
+   "views": "155",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a propeller drawn as curved banana blades + hook. Answer: no - the phone reads the picture row by row, top to bottom, and the blade moves between rows. Animate a scan line building the bent image. Loop: 'So, is it really bent?'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Is this propeller really bent?",
+ "difficulty": 3,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Scan-line simulation is harder to build in HyperFrames; no strobing.",
+ "window": null,
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 3,
+  "visualPotential": 5,
+  "productionEase": 3,
+  "policyRisk": 1
+ }
+}

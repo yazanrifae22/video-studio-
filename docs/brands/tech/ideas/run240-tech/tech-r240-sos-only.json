@@ -1,0 +1,63 @@
+{
+ "channel": "tech",
+ "title": "No Signal, but 'SOS' Still Works. How?",
+ "topic": "Emergency calls can use any carrier's tower, not just yours; 'SOS only' means another network can hear you.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Strong demand (916K-2M) mostly fix videos; the why is untold.",
+ "evidence": [
+  {
+   "claim": "FCC: wireless 911 calls are carried by any available carrier (accessed 2026-10-24)",
+   "url": "https://www.fcc.gov/consumers/guides/911-wireless-services"
+  },
+  {
+   "claim": "Apple support: SOS in status bar (accessed 2026-10-24)",
+   "url": "https://support.apple.com/en-us/105098"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Does iPhone Emergancy SOS Actually Work!",
+   "url": "https://youtube.com/shorts/f7kaHly5rC0",
+   "views": "2M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "iPhone Stuck in SOS Mode? Here's the REAL FIX!",
+   "url": "https://youtube.com/shorts/s81bRL6l9Lg",
+   "views": "916K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('No signal. But SOS works?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Emergency calls can use any carrier's tower, not just yours; 'SOS only' means another network can hear you. Loop ending: re-ask the hook.",
+ "hook": "No signal. But SOS works?",
+ "twist": "Emergency calls can use any carrier's tower, not just yours; 'SOS only' means another network can hear you.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-18 12:00 UTC",
+ "novelty": {
+  "overlap": "LOW with GPS-no-bars Short (keep >= 3 days apart).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 5,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 29,
+ "score10": 8.2,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

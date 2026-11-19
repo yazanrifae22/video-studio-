@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "Mark Twain Predicted His Own Death. With a Comet",
+ "topic": "Twain was born on 30 Nov 1835 weeks after Halley's Comet passed the Sun; in 1909 he said he expected to 'go out with it', and died on 21 Apr 1910, the day after its next perihelion.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Mark Twain born 30 Nov 1835 (2026-11-30). Wikipedia Mark_Twain 113,524 views Sept 2026.",
+ "hook": "Born with a comet. Died with it?",
+ "twist": "Twain was born on 30 Nov 1835 weeks after Halley's Comet passed the Sun; in 1909 he said he expected to 'go out with it', and died on 21 Apr 1910, the day after its next perihelion.",
+ "peg": {
+  "event": "Mark Twain born 30 Nov 1835",
+  "date": "2026-11-30",
+  "url": "https://en.wikipedia.org/wiki/Mark_Twain",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Snopes - Mark Twain and Halley's Comet (accessed 2026-10-24)",
+   "url": "https://www.snopes.com/fact-check/mark-twain-halleys-comet/"
+  },
+  {
+   "claim": "Today I Found Out - Twain born and died with Halley's Comet (accessed 2026-10-24)",
+   "url": "https://www.todayifoundout.com/?p=26926"
+  },
+  {
+   "claim": "University of Houston, Engines of Our Ingenuity - episode 1642 (accessed 2026-10-24)",
+   "url": "https://engines.egr.uh.edu/episode/1642"
+  },
+  {
+   "claim": "Peg source: Mark Twain born 30 Nov 1835 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Mark_Twain"
+  },
+  {
+   "claim": "Wikimedia pageviews Mark_Twain: 113524 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Mark_Twain&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Snopes - Mark Twain and Halley's Comet",
+   "url": "https://www.snopes.com/fact-check/mark-twain-halleys-comet/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Today I Found Out - Twain born and died with Halley's Comet",
+   "url": "https://www.todayifoundout.com/?p=26926",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "University of Houston, Engines of Our Ingenuity - episode 1642",
+   "url": "https://engines.egr.uh.edu/episode/1642",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "\"I came in with Halley's Comet and I expect to go out with it\" - Mark Twain",
+   "url": "https://youtube.com/shorts/v2SY7ohFxH0",
+   "views": 2000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Mark Twain Halley comet #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "I'm Mark Twain. I arrived with Halley's Comet... | #trending #history #shorts",
+   "url": "https://youtube.com/shorts/lf7va4mlLrM",
+   "views": 41,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Mark Twain Halley comet #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Mark Twain Predicted His Death... and the Comet Came #shorts",
+   "url": "https://youtube.com/shorts/ntO53CA0nYY",
+   "views": 273,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Mark Twain Halley comet #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A comet streaking over a Mississippi riverboat + hook. Twist by 2.5 s. Loop: 'Coincidence, or did he call it?'",
+ "cta": "C2+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Perihelion (closest to the Sun), not closest to Earth (Snopes 'Mixture'): say 'the comet came back'. Quote wording varies: paraphrase.",
+ "window": {
+  "notBefore": "2026-11-29T12:00:00Z",
+  "deadline": "2026-12-02T00:00:00Z",
+  "label": "Mark Twain born 30 Nov 1835",
+  "suggestedSlot": "2026-11-30T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Mark Twain"
+ ],
+ "spare": false,
+ "week": 6,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 5,
+  "visualPotential": 5,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

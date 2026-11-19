@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Before Movies, Scorsese Studied to Become a Priest",
+ "topic": "At about 14 Scorsese entered a junior seminary and was asked to leave after a year; faith and guilt run through his films.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Martin Scorsese turns 84 (2026-11-17). Wikipedia Martin_Scorsese 227,693 views Sept 2026.",
+ "hook": "Mob-movie master, almost a priest?",
+ "twist": "At about 14 Scorsese entered a junior seminary and was asked to leave after a year; faith and guilt run through his films.",
+ "peg": {
+  "event": "Martin Scorsese turns 84",
+  "date": "2026-11-17",
+  "url": "https://en.wikipedia.org/wiki/Martin_Scorsese",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Khaleej Times - Scorsese wanted to be a priest, rejected for bad behaviour (accessed 2026-10-24)",
+   "url": "https://www.khaleejtimes.com/entertainment/martin-scorsese-wanted-to-be-a-priest-but-was-rejected-for-bad-behaviour"
+  },
+  {
+   "claim": "CNN (via ABC17) - Martin Scorsese fast facts (accessed 2026-10-24)",
+   "url": "https://abc17news.com/news/national-world/cnn-national/2021/11/01/martin-scorsese-fast-facts/"
+  },
+  {
+   "claim": "Catholic Herald - Scorsese and the priesthood (accessed 2026-10-24)",
+   "url": "https://catholicherald.co.uk/?p=120878"
+  },
+  {
+   "claim": "Peg source: Martin Scorsese turns 84 (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Martin_Scorsese"
+  },
+  {
+   "claim": "Wikimedia pageviews Martin_Scorsese: 227693 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Martin_Scorsese&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Khaleej Times - Scorsese wanted to be a priest, rejected for bad behaviour",
+   "url": "https://www.khaleejtimes.com/entertainment/martin-scorsese-wanted-to-be-a-priest-but-was-rejected-for-bad-behaviour",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "CNN (via ABC17) - Martin Scorsese fast facts",
+   "url": "https://abc17news.com/news/national-world/cnn-national/2021/11/01/martin-scorsese-fast-facts/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Catholic Herald - Scorsese and the priesthood",
+   "url": "https://catholicherald.co.uk/?p=120878",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Did Scorsese Need The Approval of Priests?",
+   "url": "https://youtube.com/shorts/l1etGpNlL3I",
+   "views": 9700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "The Catholic Journey of Martin Scorsese",
+   "url": "https://youtube.com/shorts/CwenGE0N5hk",
+   "views": 9800,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Martin Scorsese's 30-Year Battle for Silence: Terrence Malick's SHOCKING Question",
+   "url": "https://youtube.com/shorts/DEM7xA6srKk",
+   "views": 4100,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a clapperboard next to a rosary + hook. Twist: the seminary sent him home. Loop: 'Priest or director?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Age 14 vs 15 differs: say 'as a teenager'. Use his own docuseries explanation ('behaved badly'), nothing more. Religious imagery respectful.",
+ "window": {
+  "notBefore": "2026-11-16T12:00:00Z",
+  "deadline": "2026-11-18T06:00:00Z",
+  "label": "Martin Scorsese turns 84",
+  "suggestedSlot": "2026-11-17T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

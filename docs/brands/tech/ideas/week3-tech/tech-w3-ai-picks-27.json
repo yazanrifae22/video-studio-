@@ -1,0 +1,52 @@
+{
+ "channel": "tech",
+ "title": "Pick 1 to 50: Why Every AI Says 27",
+ "topic": "LLMs are not random number generators",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Participatory; small competitor numbers (12-1.9K) so a clean execution has room.",
+ "evidence": [
+  {
+   "claim": "The Register (2025-06-30): ChatGPT, Claude Sonnet 4, Gemini 2.5 Flash and Llama 4 all answered 27 to \"guess a number between 1 and 50\"; Grok said 42 (accessed 2026-10-23)",
+   "url": "https://www.theregister.com/2025/06/30/ai_models_favorite_number_27"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why AI keeps picking 27",
+   "url": "https://youtube.com/shorts/U2TuSYpvNqE",
+   "views": "957",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "ask chat gpt choose a number between 1 and 50 he will choose 27",
+   "url": "https://youtube.com/shorts/b2cyi88CRIM",
+   "views": "1.9K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: '1-50' number grid + hook; viewer picks. Twist: ChatGPT, Claude, Gemini and Llama all said 27. Why: they predict the most likely answer, and humans' 'random' picks (odd, not too round, contains 7) dominate the text they learned from. Loop: 'Your turn: pick a number from 1 to 50.'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Pick a number from 1 to 50.",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Results vary run to run; say \"in The Register's test\".",
+ "window": null,
+ "novelty": {
+  "overlap": "low-medium with 'I Predicted Python's Next 1,000 Random Numbers' (PRNG vs LLM bias); keep 3+ days apart",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

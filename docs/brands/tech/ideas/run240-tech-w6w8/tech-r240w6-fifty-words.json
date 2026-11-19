@@ -1,0 +1,57 @@
+{
+ "channel": "tech",
+ "title": "Ask AI for Exactly 50 Words. Count Them",
+ "topic": "Models write in tokens, not words, and can't look back to count while writing, so length requests land near, not on, the target.",
+ "audience": "Everyday phone/PC/internet/game/AI-chat users who have seen this themselves",
+ "whyCare": "Checkable, but close to the strawberry/tokens Short; spare.",
+ "evidence": [
+  {
+   "claim": "Yuan et al. 2024, 'Following Length Constraints in Instructions' (LLMs miss word limits) (accessed 2026-10-24)",
+   "url": "https://arxiv.org/abs/2406.17744"
+  },
+  {
+   "claim": "Wikipedia: Large language model (tokens, not words) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Large_language_model"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "How to Hit Exact Word Count in ChatGPT (long)",
+   "url": "https://www.youtube.com/watch?v=EPdHbG0e4oI",
+   "views": "1.7K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Exactly 50 words, AI. Really?') + one striking subject image; viewer answers in their head. Twist by ~2.5 s: Models write in tokens, not words, and can't look back to count while writing, so length requests land near, not on, the target. CTA-A (comment) at 35-55%, CTA-B after the payoff, loop line re-asks the hook (run240 brief).",
+ "hook": "Exactly 50 words, AI. Really?",
+ "twist": "Models write in tokens, not words, and can't look back to count while writing, so length requests land near, not on, the target.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Visible, checkable everyday-tech quirk; frame-0 question the viewer can answer (run240 brief 2026-10-24)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "category": "AI quirk",
+ "suggestedSlot": null,
+ "novelty": {
+  "overlap": "MEDIUM with 'Why AI Can't Count the R's in Strawberry' (tokens). Spare only.",
+  "checkedAgainst": "56 tech videos + 120 tech ideas (incl. run240 w4-w5) in data/studio.db on 2026-10-24"
+ },
+ "spare": true,
+ "week": null,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (Shorts 30-40 s, frame-0 hook, 2 spoken CTAs, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 62,
+ "score10": 7.6,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

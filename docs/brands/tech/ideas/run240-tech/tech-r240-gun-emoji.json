@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Why the Gun Emoji Became a Water Pistol",
+ "topic": "Apple swapped it in 2016 and Google, Microsoft and Samsung followed by 2018, so the same code now shows a water pistol almost everywhere.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Proven demand (21M). Keep it about design and codes; R=2 because of the weapon subject.",
+ "evidence": [
+  {
+   "claim": "Emojipedia: pistol emoji changes 2016-2018 (accessed 2026-10-24)",
+   "url": "https://emojipedia.org/pistol"
+  },
+  {
+   "claim": "Emoji: vendor designs vary for the same code point (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Emoji"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Gun Emoji evolution",
+   "url": "https://youtube.com/shorts/8ApNJ9izz34",
+   "views": "21M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Why is this emoji a toy now?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Apple swapped it in 2016 and Google, Microsoft and Samsung followed by 2018, so the same code now shows a water pistol almost everywhere. Loop ending: re-ask the hook.",
+ "hook": "Why is this emoji a toy now?",
+ "twist": "Apple swapped it in 2016 and Google, Microsoft and Samsung followed by 2018, so the same code now shows a water pistol almost everywhere.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": null,
+ "newsPeg": null,
+ "suggestedSlot": "2026-11-15 22:00 UTC",
+ "novelty": {
+  "overlap": "MEDIUM with seahorse emoji and 11-character emoji. >= 5 days apart.",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 43,
+ "score10": 7.9,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

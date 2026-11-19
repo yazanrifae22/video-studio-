@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Grey Cup: Canada's Big Trophy Cost $48 and Came Late",
+ "topic": "Lord Grey's 1909 cup reportedly cost $48 - first meant for hockey - and the first champions didn't get it until months later.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: 113th Grey Cup, McMahon Stadium, Calgary (2026-11-15). Wikipedia Grey_Cup 10,427 views Sept 2026.",
+ "hook": "Canada's biggest trophy cost how much?",
+ "twist": "Lord Grey's 1909 cup reportedly cost $48 - first meant for hockey - and the first champions didn't get it until months later.",
+ "peg": {
+  "event": "113th Grey Cup, McMahon Stadium, Calgary",
+  "date": "2026-11-15",
+  "url": "https://tsn.ca/calgary-to-host-cfl-s-113th-grey-cup-in-2026-1.2201947",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "The Varsity - The history of the first Grey Cup (accessed 2026-10-24)",
+   "url": "https://thevarsity.ca/2018/06/29/the-history-of-the-first-grey-cup/"
+  },
+  {
+   "claim": "Wikipedia - Grey Cup (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Grey_Cup"
+  },
+  {
+   "claim": "CFL.ca - Iconic Grey Cup trophy gets new base (accessed 2026-10-24)",
+   "url": "https://www.cfl.ca/?p=877962"
+  },
+  {
+   "claim": "Peg source: 113th Grey Cup, McMahon Stadium, Calgary (accessed 2026-10-24)",
+   "url": "https://tsn.ca/calgary-to-host-cfl-s-113th-grey-cup-in-2026-1.2201947"
+  },
+  {
+   "claim": "Wikimedia pageviews Grey_Cup: 10427 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Grey_Cup&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "The Varsity - The history of the first Grey Cup",
+   "url": "https://thevarsity.ca/2018/06/29/the-history-of-the-first-grey-cup/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Wikipedia - Grey Cup",
+   "url": "https://en.wikipedia.org/wiki/Grey_Cup",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "CFL.ca - Iconic Grey Cup trophy gets new base",
+   "url": "https://www.cfl.ca/?p=877962",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Cricket World Cup Winners! 🤯🏏🌍 Every Champion Country! #shorts #geography #countries",
+   "url": "https://youtube.com/shorts/VHaPh0nhwvE",
+   "views": 66000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Got to see this beauty again!! The Grey Cup is one of the coolest trophies in all of sports. #cfl",
+   "url": "https://youtube.com/shorts/PBhI90wjJto",
+   "views": 1700,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "FIFA World Cup Winners (1930–1978) 🏆🌍",
+   "url": "https://youtube.com/shorts/RYWa515yJEM",
+   "views": 29000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a silver cup with a '$48' price tag + hook. Twist: and it arrived late. Loop: 'Worth $48?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "$48 is 'reported' ($40 in one book review). Date sourced from the 2024 hosting announcement - re-check CFL schedule Nov 9. No CFL/team logos.",
+ "window": {
+  "notBefore": "2026-11-14T12:00:00Z",
+  "deadline": "2026-11-16T06:00:00Z",
+  "label": "113th Grey Cup, McMahon Stadium, Calgary",
+  "suggestedSlot": "2026-11-15T16:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

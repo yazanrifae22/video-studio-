@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "The Biggest Hot 100 Hit Ever Isn't by The Beatles",
+ "topic": "Billboard's all-time Hot 100 (Nov 2021) put The Weeknd's 'Blinding Lights' at No. 1, ahead of 'The Twist': 90 weeks on the chart, 57 in the top 10. It is also Spotify's first song past 5 billion streams.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Spotify Wrapped / year-end chart week (dates TBC; Billboard year-end 2025 was 9 Dec) (2026-12-04). Wikipedia Blinding_Lights 16,469 views Sept 2026.",
+ "hook": "Biggest Hot 100 song ever? Guess.",
+ "twist": "Billboard's all-time Hot 100 (Nov 2021) put The Weeknd's 'Blinding Lights' at No. 1, ahead of 'The Twist': 90 weeks on the chart, 57 in the top 10. It is also Spotify's first song past 5 billion streams.",
+ "peg": {
+  "event": "Spotify Wrapped / year-end chart week (dates TBC; Billboard year-end 2025 was 9 Dec)",
+  "date": "2026-12-04",
+  "url": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2025",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "The Fader - Blinding Lights is Billboard's No. 1 song of all time (accessed 2026-10-24)",
+   "url": "https://www.thefader.com/2021/11/24/the-weeknd-blinding-lights-billboard-hot-100-no-1-all-time-song"
+  },
+  {
+   "claim": "Stereogum - The Number Ones: Blinding Lights (accessed 2026-10-24)",
+   "url": "https://stereogum.com/2315874/the-number-ones-the-weeknds-blinding-lights/columns/the-number-ones"
+  },
+  {
+   "claim": "Guinness World Records - Most streamed track on Spotify (accessed 2026-10-24)",
+   "url": "https://guinnessworldrecords.com/world-records/400103-most-streamed-track-on-spotify"
+  },
+  {
+   "claim": "Peg source: Spotify Wrapped / year-end chart week (dates TBC; Billboard year-end 2025 was 9 Dec) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2025"
+  },
+  {
+   "claim": "Wikimedia pageviews Blinding_Lights: 16469 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Blinding_Lights&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "The Fader - Blinding Lights is Billboard's No. 1 song of all time",
+   "url": "https://www.thefader.com/2021/11/24/the-weeknd-blinding-lights-billboard-hot-100-no-1-all-time-song",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Stereogum - The Number Ones: Blinding Lights",
+   "url": "https://stereogum.com/2315874/the-number-ones-the-weeknds-blinding-lights/columns/the-number-ones",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Guinness World Records - Most streamed track on Spotify",
+   "url": "https://guinnessworldrecords.com/world-records/400103-most-streamed-track-on-spotify",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "SHORTS | Billboard Hot 100: October 24, 2026 (Top 10) #billboard #top10",
+   "url": "https://youtube.com/shorts/HJE1SEhIjBw",
+   "views": 448,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"biggest Billboard Hot 100 song of all time #shorts\"; no on-angle result, top results shown; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Billboard HOT 100 Ranking Jul~Aug 2025 (Golden 1st place) #golden #ordinary",
+   "url": "https://youtube.com/shorts/EwpaPDfiBSI",
+   "views": 489000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"biggest Billboard Hot 100 song of all time #shorts\"; no on-angle result, top results shown; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Which Taylor Swift Song Is Her Biggest Hit Ever? Billboard Hot 100 Countdown 🔥 #shorts",
+   "url": "https://youtube.com/shorts/I1IewPhPptk",
+   "views": 1100,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"biggest Billboard Hot 100 song of all time #shorts\"; no on-angle result, top results shown; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A chart ladder with a glowing No. 1 rung and a blurred Beatles-era record below + hook. Twist by 2.5 s. Loop: 'So what's the biggest Hot 100 hit ever?'",
+ "cta": "C3+C8 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "Peg is soft (year-end chart season): the three other Dec 4 ideas carry the day's pegs. Billboard's ranking rewards longevity; Stereogum is sceptical: mention 'by Billboard's formula'. No audio.",
+ "window": {
+  "notBefore": "2026-12-03T12:00:00Z",
+  "deadline": "2026-12-06T00:00:00Z",
+  "label": "Spotify Wrapped / year-end chart week (dates TBC; Billboard year-end 2025 was 9 Dec)",
+  "suggestedSlot": "2026-12-04T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "The Weeknd"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 5,
+  "policyRisk": 1
+ }
+}

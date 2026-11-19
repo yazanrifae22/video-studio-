@@ -1,0 +1,106 @@
+{
+ "channel": "celebrity",
+ "title": "Oasis Weren't on the Bill. That Gig Got Them Signed",
+ "topic": "At King Tut's in Glasgow (May 31, 1993) Oasis talked their way onto the line-up; Alan McGee happened to be there and signed them.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Rock & Roll Hall of Fame induction of Oasis (Nov 14 LA = Nov 15 UTC) (2026-11-15). Wikipedia Oasis_(band) 258,322 views Sept 2026.",
+ "hook": "Not on the bill. Signed anyway?",
+ "twist": "At King Tut's in Glasgow (May 31, 1993) Oasis talked their way onto the line-up; Alan McGee happened to be there and signed them.",
+ "peg": {
+  "event": "Rock & Roll Hall of Fame induction of Oasis (Nov 14 LA = Nov 15 UTC)",
+  "date": "2026-11-15",
+  "url": "https://www.nme.com/news/music/rock-roll-hall-of-fame-2026-oasis-wu-tang-clan-new-order-joy-division-and-more-to-be-inducted-3940116",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Clash - Beyond Knebworth: five gigs that defined Oasis (accessed 2026-10-24)",
+   "url": "https://www.clashmusic.com/?p=367762"
+  },
+  {
+   "claim": "Far Out - How did Oasis get discovered? (accessed 2026-10-24)",
+   "url": "https://faroutmagazine.co.uk/how-did-oasis-get-discovered/"
+  },
+  {
+   "claim": "STV - King Tut's celebrates 30th anniversary (accessed 2026-10-24)",
+   "url": "https://news.stv.tv/feature/king-tuts-iconic-music-venue-celebrates-30th-anniversary"
+  },
+  {
+   "claim": "Peg source: Rock & Roll Hall of Fame induction of Oasis (Nov 14 LA = Nov 15 UTC) (accessed 2026-10-24)",
+   "url": "https://www.nme.com/news/music/rock-roll-hall-of-fame-2026-oasis-wu-tang-clan-new-order-joy-division-and-more-to-be-inducted-3940116"
+  },
+  {
+   "claim": "Wikimedia pageviews Oasis_(band): 258322 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Oasis_(band)&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Clash - Beyond Knebworth: five gigs that defined Oasis",
+   "url": "https://www.clashmusic.com/?p=367762",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Far Out - How did Oasis get discovered?",
+   "url": "https://faroutmagazine.co.uk/how-did-oasis-get-discovered/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "STV - King Tut's celebrates 30th anniversary",
+   "url": "https://news.stv.tv/feature/king-tuts-iconic-music-venue-celebrates-30th-anniversary",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "King Tut's Tomb Discovery: Saved by Being Forgotten",
+   "url": "https://youtube.com/shorts/D2aZgSdIycY",
+   "views": 1500,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "King Tut’s Tomb: The Terrifying Truth Behind the Curse! 😱🏺 #shorts  #echoesofhistory #bts #btsarmy",
+   "url": "https://youtube.com/shorts/795YZsCxioM",
+   "views": 12,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Ancient Egypt’s 110 KG Solid Gold Coffin of King Tutankhamun!",
+   "url": "https://youtube.com/shorts/keSD2kMwkKM",
+   "views": 1100,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search, \"#shorts\"; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a gig poster with 3 bands and a handwritten 4th name squeezed in + hook. Twist: the added band was Oasis. Loop: 'Ever turned up uninvited?'",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question the viewer thinks they can answer, twist by 2.5 s, loop ending (week-3 brief); news/anniversary peg in its window",
+ "weaknesses": "Accounts differ on how they got on (refused entry vs negotiated) and how fast the deal came: say 'within days'. No band likeness, no song audio, no Oasis logo.",
+ "window": {
+  "notBefore": "2026-11-14T12:00:00Z",
+  "deadline": "2026-11-17T00:00:00Z",
+  "label": "Rock & Roll Hall of Fame induction of Oasis (Nov 14 LA = Nov 15 UTC)",
+  "suggestedSlot": "2026-11-15T19:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "54 celebrity videos + 61 celebrity ideas in data/studio.db on 2026-10-24; same-person 7-day check within this run"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (news-pegged first, frame-0 hook, 30-40 s, loop ending); owner/orchestrator run-240 brief",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 4,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

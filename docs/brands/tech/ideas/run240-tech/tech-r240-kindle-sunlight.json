@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "Why a Kindle Is Easy to Read in Bright Sun",
+ "topic": "E-ink has no backlight: tiny black and white particles reflect room light like paper, and only use power to change the page.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Kindle Shorts reach 1M+ (buyer intent); the 'why it works in sun' angle is not covered by top results.",
+ "evidence": [
+  {
+   "claim": "Amazon Kindle (first device Nov 2007) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+  },
+  {
+   "claim": "E Ink / electrophoretic display: reflective, bistable (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/E_Ink"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "DON'T buy a Kindle before watching this",
+   "url": "https://youtube.com/shorts/oF6KppwwfkM",
+   "views": "1.7M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Everyone Should Own A Kindle",
+   "url": "https://youtube.com/shorts/X_B8rqMdZWA",
+   "views": "1M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Phone: washed out. Kindle: clear. Why?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: E-ink has no backlight: tiny black and white particles reflect room light like paper, and only use power to change the page. Loop ending: re-ask the hook.",
+ "hook": "Phone: washed out. Kindle: clear. Why?",
+ "twist": "E-ink has no backlight: tiny black and white particles reflect room light like paper, and only use power to change the page.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-19",
+  "deadline": "2026-11-30",
+  "event": "Kindle launch anniversary (Nov 19 2007) + Black Friday e-reader deals"
+ },
+ "newsPeg": "Kindle launch anniversary (Nov 19 2007) + Black Friday e-reader deals",
+ "suggestedSlot": null,
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": true,
+ "week": null,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 47,
+ "score10": 7.7,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

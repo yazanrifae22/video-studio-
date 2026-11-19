@@ -1,0 +1,60 @@
+{
+ "channel": "tech",
+ "title": "The Virus That Only Struck on Friday the 13th",
+ "topic": "The 1987 Jerusalem virus sat quietly and deleted any program you ran on a Friday the 13th.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Exact-date peg: Nov 13 2026 is a Friday. No tech Short on this virus found in Shorts search (2026-10-24) = clear gap.",
+ "evidence": [
+  {
+   "claim": "Jerusalem virus: DOS logic bomb found Oct 1987 at Hebrew University; deletes programs run on Friday the 13th (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Jerusalem_(computer_virus)"
+  },
+  {
+   "claim": "Securelist (Kaspersky) history: first major virus epidemic in 1988 (accessed 2026-10-24)",
+   "url": "https://securelist.com/once-upon-a-time/30090/"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Did you know this about Friday the 13th? (generic, not tech)",
+   "url": "https://www.youtube.com/watch?v=aonKgJJ5cko",
+   "views": "179K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; long-form)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('It's Friday the 13th. Run it?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: The 1987 Jerusalem virus sat quietly and deleted any program you ran on a Friday the 13th. Loop ending: re-ask the hook.",
+ "hook": "It's Friday the 13th. Run it?",
+ "twist": "The 1987 Jerusalem virus sat quietly and deleted any program you ran on a Friday the 13th.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-11-13",
+  "deadline": "2026-11-13",
+  "event": "Friday 13 November 2026"
+ },
+ "newsPeg": "Friday 13 November 2026",
+ "suggestedSlot": "2026-11-13 15:00 UTC",
+ "novelty": {
+  "overlap": "LOW with Morris worm spare (different era/story). Keep origin neutral (skip the disputed 'Israel anniversary' claim).",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": false,
+ "week": 4,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 46,
+ "score10": 7.8,
+ "scores": {
+  "demand": 3,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "channel": "tech",
+ "title": "Screenshot Netflix and You Get Black. Why?",
+ "topic": "DRM-protected video paths",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "Common annoyance; several 0.4-1K Shorts.",
+ "evidence": [
+  {
+   "claim": "Vivaldi forum: black screenshot of Widevine DRM-protected video (accessed 2026-10-23)",
+   "url": "https://forum.vivaldi.net/topic/85140/black-screenshot-of-widevine-drm-protected-video"
+  },
+  {
+   "claim": "Wikipedia Digital rights management (accessed 2026-10-23)",
+   "url": "https://en.wikipedia.org/wiki/Digital_rights_management"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Why Netflix Screenshots Come Out Black",
+   "url": "https://youtube.com/shorts/tse_ML3bhtA",
+   "views": "1K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Netflix Screenshots Are Black On Purpose",
+   "url": "https://youtube.com/shorts/641APKoBWbk",
+   "views": "1K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: a TV-style frame split: menu visible, video area pure black + hook. Answer: the video is encrypted and decoded on a protected path the screenshot tool isn't allowed to read, so it gets black; menus aren't protected. Loop: 'Screenshot it again... still black.'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "Screenshot this. Why is it black?",
+ "difficulty": 1,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "Never show or hint at bypass methods; no Netflix logo/UI. Need a primary (Microsoft PlayReady / Apple FairPlay doc) at script time.",
+ "window": null,
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 2,
+  "visualPotential": 3,
+  "productionEase": 5,
+  "policyRisk": 2
+ }
+}

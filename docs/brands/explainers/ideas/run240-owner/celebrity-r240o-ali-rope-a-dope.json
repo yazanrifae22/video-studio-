@@ -1,0 +1,57 @@
+{
+  "channel": "celebrity",
+  "audience": "General Shorts viewers",
+  "format": "short",
+  "durationSec": 35,
+  "estCostUsd": 0,
+  "spare": false,
+  "run": 240,
+  "researchDate": "2026-10-25",
+  "brief": "Owner ideas from YouTube Studio advice, 2026-10-25; docs/run240-protocol.md Engagement enhancements v2",
+  "enhancements": "v2",
+  "window": null,
+  "newsPeg": null,
+  "competitors": [],
+  "title": "How Ali's Rope-a-Dope Stunned Foreman",
+  "topic": "Rumble in the Jungle, Kinshasa, 30 Oct 1974: underdog Ali leaned on the ropes and let Foreman punch himself out, then won by KO in round eight and regained the title.",
+  "hook": "Ali let the favourite punch him. Then won in round eight.",
+  "twist": "The 'weak' ropes strategy drained Foreman; Ali's trainers called it rope-a-dope.",
+  "pinnedComment": "Genius plan or huge gamble: would you have trusted the ropes? 👇",
+  "commentPrompt": "Genius plan or insane gamble? Pick a side.",
+  "loop": "So... would you have taken that gamble?",
+  "difficulty": 2,
+  "category": "underdog",
+  "sources": [
+    {
+      "label": "Britannica - Rumble in the Jungle",
+      "url": "https://www.britannica.com/print/article/752484",
+      "accessed": "2026-10-25"
+    },
+    {
+      "label": "Fox News - On this day, Oct 30 1974",
+      "url": "https://www.foxnews.com/lifestyle/this-day-history-october-30-1974-muhammad-ali-wins-rumble-jungle.amp",
+      "accessed": "2026-10-25"
+    }
+  ],
+  "weaknesses": "Sources differ on whether it was a pre-planned trap or an improvised risk: say 'by most accounts'. Use only original art, no footage or likeness.",
+  "scores": {
+    "demand": 5,
+    "competitionGap": 3,
+    "visualPotential": 4,
+    "productionEase": 4,
+    "policyRisk": 1
+  },
+  "evidence": [
+    {
+      "claim": "Britannica - Rumble in the Jungle (accessed 2026-10-25)",
+      "url": "https://www.britannica.com/print/article/752484"
+    },
+    {
+      "claim": "Fox News - On this day, Oct 30 1974 (accessed 2026-10-25)",
+      "url": "https://www.foxnews.com/lifestyle/this-day-history-october-30-1974-muhammad-ali-wins-rumble-jungle.amp"
+    }
+  ],
+  "whyCare": "Owner idea from YouTube Studio advice",
+  "angle": "Ali let the favourite punch him. Then won in round eight.",
+  "strengths": "Contradiction hook, pick-a-side comment, debate loop (v2)"
+}

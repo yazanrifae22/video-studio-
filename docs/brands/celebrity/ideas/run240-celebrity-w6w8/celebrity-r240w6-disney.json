@@ -1,0 +1,110 @@
+{
+ "channel": "celebrity",
+ "title": "Before Mickey, Walt Disney's Studio Went Bankrupt",
+ "topic": "Walt's Kansas City studio, Laugh-O-Gram, went bankrupt in July 1923; he sold his camera and took a train to Los Angeles with about $40 and an unfinished cartoon reel.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: Walt Disney born 5 Dec 1901 (125th birthday) (2026-12-05). Wikipedia Walt_Disney 144,499 views Sept 2026.",
+ "hook": "Walt Disney… bankrupt at 21?",
+ "twist": "Walt's Kansas City studio, Laugh-O-Gram, went bankrupt in July 1923; he sold his camera and took a train to Los Angeles with about $40 and an unfinished cartoon reel.",
+ "peg": {
+  "event": "Walt Disney born 5 Dec 1901 (125th birthday)",
+  "date": "2026-12-05",
+  "url": "https://en.wikipedia.org/wiki/Walt_Disney",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "Wikipedia - Laugh-O-Gram Studio (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Laugh-O-Gram_Studio"
+  },
+  {
+   "claim": "The Clio - Laugh-O-gram Films Studio (accessed 2026-10-24)",
+   "url": "https://theclio.com/entry/147739"
+  },
+  {
+   "claim": "Slashfilm - The birth of Disney Brothers Studio (accessed 2026-10-24)",
+   "url": "https://slashfilm.com/1191166/the-dream-comes-true-the-birth-of-disney-brothers-studio"
+  },
+  {
+   "claim": "Peg source: Walt Disney born 5 Dec 1901 (125th birthday) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Walt_Disney"
+  },
+  {
+   "claim": "Wikimedia pageviews Walt_Disney: 144499 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Walt_Disney&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Wikipedia - Laugh-O-Gram Studio",
+   "url": "https://en.wikipedia.org/wiki/Laugh-O-Gram_Studio",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "The Clio - Laugh-O-gram Films Studio",
+   "url": "https://theclio.com/entry/147739",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Slashfilm - The birth of Disney Brothers Studio",
+   "url": "https://slashfilm.com/1191166/the-dream-comes-true-the-birth-of-disney-brothers-studio",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "Walt Disney's First Studio Went Bankrupt #shorts",
+   "url": "https://www.youtube.com/watch?v=ZS5SwOvU_O4",
+   "views": 1,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Walt Disney bankrupt Laugh-O-Gram #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Walt Disney's Laugh-O-Gram Failure Turned Success",
+   "url": "https://www.youtube.com/watch?v=Sku8Ukdnfn0",
+   "views": 324,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Walt Disney bankrupt Laugh-O-Gram #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Walt Disney's first studio went bankrupt in Kansas City #shorts",
+   "url": "https://www.youtube.com/watch?v=e7gfuk6VIlA",
+   "views": 199,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Walt Disney bankrupt Laugh-O-Gram #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: A cardboard suitcase and a film reel on a 1923 train platform + hook. Twist by 2.5 s. Loop: 'Bankrupt at 21. Would you have gone west?'",
+ "cta": "C2+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 question, twist by 2.5 s, loop ending; news/anniversary peg in its window",
+ "weaknesses": "$40 (Clio) vs $30 (Slashfilm): say 'about $40'. Mickey's first cartoon was a Nov 18 idea: don't retell it. No Disney characters or castle.",
+ "window": {
+  "notBefore": "2026-12-04T12:00:00Z",
+  "deadline": "2026-12-07T00:00:00Z",
+  "label": "Walt Disney born 5 Dec 1901 (125th birthday)",
+  "suggestedSlot": "2026-12-05T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [
+  "Walt Disney"
+ ],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 5,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

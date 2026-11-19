@@ -1,0 +1,206 @@
+{
+ "seats": {
+  "scholar": "d5",
+  "worker": "e5",
+  "heir": "d4",
+  "fool": "e4"
+ },
+ "fair": {
+  "first_flips": [
+   {
+    "flip": 1,
+    "a": "c8",
+    "b": "g3",
+    "winner": "a (heads)",
+    "stake": 20
+   },
+   {
+    "flip": 2,
+    "a": "f5",
+    "b": "h8",
+    "winner": "a (heads)",
+    "stake": 20
+   },
+   {
+    "flip": 3,
+    "a": "b4",
+    "b": "a1",
+    "winner": "a (heads)",
+    "stake": 20
+   },
+   {
+    "flip": 4,
+    "a": "e5",
+    "b": "g6",
+    "winner": "a (heads)",
+    "stake": 20
+   },
+   {
+    "flip": 5,
+    "a": "d1",
+    "b": "h2",
+    "winner": "a (heads)",
+    "stake": 20
+   },
+   {
+    "flip": 6,
+    "a": "e3",
+    "b": "a2",
+    "winner": "a (heads)",
+    "stake": 20
+   }
+  ],
+  "each_20": {
+   "top1": 5.4,
+   "top6": 27,
+   "ahead": 22,
+   "belowHalf": 20,
+   "under1": 0,
+   "standing": 64,
+   "richest": "d5",
+   "cast": {
+    "scholar": "343.7 coins, #1",
+    "worker": "7.7 coins, #63",
+    "heir": "93.7 coins, #25",
+    "fool": "27.5 coins, #56"
+   }
+  },
+  "each_200": {
+   "top1": 12.2,
+   "top6": 55.7,
+   "ahead": 16,
+   "belowHalf": 41,
+   "under1": 20,
+   "standing": 44,
+   "richest": "e4",
+   "cast": {
+    "scholar": "0.8 coins, #47",
+    "worker": "0.1 coins, #59",
+    "heir": "223.1 coins, #9",
+    "fool": "781.8 coins, #1"
+   }
+  },
+  "each_600": {
+   "top1": 22.5,
+   "top6": 82.4,
+   "ahead": 9,
+   "belowHalf": 53,
+   "under1": 37,
+   "standing": 27,
+   "richest": "e4",
+   "cast": {
+    "scholar": "0 coins, #53",
+    "worker": "0 coins, #59",
+    "heir": "61.3 coins, #11",
+    "fool": "1441.4 coins, #1"
+   }
+  },
+  "each_2000": {
+   "top1": 54.7,
+   "top6": 97.9,
+   "ahead": 5,
+   "belowHalf": 57,
+   "under1": 52,
+   "standing": 12,
+   "richest": "e4",
+   "cast": {
+    "scholar": "0 coins, #28",
+    "worker": "0 coins, #53",
+    "heir": "1156.8 coins, #2",
+    "fool": "3501.6 coins, #1"
+   }
+  },
+  "each_6000": {
+   "top1": 90.4,
+   "top6": 100,
+   "ahead": 3,
+   "belowHalf": 61,
+   "under1": 61,
+   "standing": 3,
+   "richest": "e4",
+   "cast": {
+    "scholar": "0 coins, #25",
+    "worker": "0 coins, #46",
+    "heir": "281.5 coins, #3",
+    "fool": "5788.2 coins, #1"
+   }
+  }
+ },
+ "hats_display": {
+  "cast": {
+   "scholar": "264.9 coins, #10",
+   "worker": "0.2 coins, #58",
+   "heir": "1679.2 coins, #1",
+   "fool": "33.3 coins, #27"
+  },
+  "top1": 23
+ },
+ "growth": {
+  "total": 43097,
+  "times": 6.73,
+  "ahead": 9,
+  "under1": 36,
+  "top1": 71.3,
+  "richest": "a7",
+  "richest_coins": 30719,
+  "average": 673
+ },
+ "leak": {
+  "top1": 7.9,
+  "top6": 33.4,
+  "bottom32": 18,
+  "poorest": 7.1,
+  "ahead": 22,
+  "total": 6400
+ },
+ "again": [
+  {
+   "k": 0,
+   "king": "b5",
+   "top1": 57.8
+  },
+  {
+   "k": 1,
+   "king": "b2",
+   "top1": 61.5
+  },
+  {
+   "k": 2,
+   "king": "g1",
+   "top1": 87.9
+  },
+  {
+   "k": 3,
+   "king": "a6",
+   "top1": 88.7
+  }
+ ],
+ "towers": [
+  "100 coins: 2 cm, 1 columns",
+  "344 coins: 6.1 cm, 7 columns",
+  "782 coins: 7.4 cm, 7 columns",
+  "1441 coins: 9.3 cm, 7 columns",
+  "3502 coins: 15.1 cm, 7 columns",
+  "5788 coins: 21.7 cm, 7 columns",
+  "30719 coins: 92.9 cm, 7 columns"
+ ],
+ "tally": {
+  "richest": {
+   "heir": 47,
+   "scholar": 6,
+   "worker": 2,
+   "fool": 1,
+   "nobody": 45
+  },
+  "broke": {
+   "worker": 70,
+   "fool": 46,
+   "scholar": 10,
+   "heir": 0
+  },
+  "tenTimesLonger": {
+   "scholar": 28,
+   "heir": 11
+  }
+ }
+}

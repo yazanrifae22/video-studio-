@@ -1,0 +1,75 @@
+{
+ "channel": "tech",
+ "title": "Why GTA 6's Box Has No Disc Inside",
+ "topic": "Code-in-a-box retail, game install sizes, why discs still need downloads",
+ "audience": "Everyday phone/PC/AI users who have seen this quirk themselves",
+ "whyCare": "GTA VI is the biggest launch of the year (Wikipedia article ~403k views in 30 days); the code-only box is a live consumer complaint people can check in stores on Nov 12.",
+ "evidence": [
+  {
+   "claim": "Wikipedia: GTA VI scheduled 19 Nov 2026; retail copies contain download codes, in stores 12 Nov; pre-loading opens a week before unlock (accessed 2026-10-23)",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+  },
+  {
+   "claim": "Rockstar confirms no disc version at launch (VGC) (accessed 2026-10-23)",
+   "url": "https://www.videogameschronicle.com/news/rockstar-confirms-there-will-be-no-disc-version-of-gta6-at-launch/"
+  },
+  {
+   "claim": "Guru3D: physical edition ships without disc, download code only (accessed 2026-10-23)",
+   "url": "https://www.guru3d.com/story/gta-6-physical-edition-ships-without-disc-includes-download-code-only/"
+  },
+  {
+   "claim": "Wikipedia pageviews Grand_Theft_Auto_VI: 403,148 in 30 days to 2026-10-21, 20.7k/day last week (accessed 2026-10-23)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=Grand_Theft_Auto_VI&range=latest-30"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "GTA 6 Physical Edition Has No Disc #Shorts",
+   "url": "https://youtube.com/shorts/EufL1XZ6-qw",
+   "views": "1.1K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "No disc inside the GTA 6 game case?",
+   "url": "https://youtube.com/shorts/hjnEMhg7rvk",
+   "views": "1K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "Why Do We Still Download Games After Buying The Disc? #shorts",
+   "url": "https://youtube.com/shorts/e98TV6oqxe0",
+   "views": "50K",
+   "verified": true,
+   "checked": "2026-10-23 (YouTube Shorts search; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: an empty game case (original art, no Rockstar logos/key art) + hook. Answer by 2.5 s: a download code card. Why: modern games install and patch from the internet anyway; a PS5 disc holds up to 100 GB (Sony spec); boxed code lets stores sell it on Nov 12, a week before launch, when pre-loading opens. Loop: 'So what's inside the box?'",
+ "durationSec": 35,
+ "format": "short",
+ "hook": "What's inside the GTA 6 box?",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Frame-0 puzzle the viewer can answer or check (week-3 brief rule); loopable ending",
+ "weaknesses": "No GTA logos/screens (rights). Rockstar has not said WHY; present reasons as industry context, not their motive. A later disc run is rumour only.",
+ "window": {
+  "notBefore": "2026-11-04T00:00:00Z",
+  "deadline": "2026-11-19T00:00:00Z",
+  "label": "GTA VI boxes hit stores Nov 12, launch Nov 19; best Nov 4-12"
+ },
+ "novelty": {
+  "overlap": "none (no gaming/console videos yet)",
+  "checkedAgainst": "28 existing tech videos (SELECT title FROM videos WHERE channel_id='tech') on 2026-10-23"
+ },
+ "spare": false,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (week 3: Shorts 30-40 s, frame-0 hook, loop ending)",
+ "researchDate": "2026-10-23",
+ "scores": {
+  "demand": 5,
+  "competitionGap": 3,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 2
+ }
+}

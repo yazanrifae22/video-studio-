@@ -1,0 +1,67 @@
+{
+ "channel": "tech",
+ "title": "Why Did Macs Never Have Touchscreens?",
+ "topic": "Apple long argued that reaching up to a vertical screen tires your arm ('gorilla arm'); a touch MacBook Pro would end that 40-year rule.",
+ "audience": "Everyday phone/PC/internet/game users who have seen this themselves",
+ "whyCare": "Only usable if Apple actually announces it Oct 27-28. If so, promote to the first free slot after the ship date.",
+ "evidence": [
+  {
+   "claim": "Macworld (updated 2026-10-23): Oct 28 event; touchscreen OLED MacBook Pro expected (accessed 2026-10-24)",
+   "url": "https://www.macworld.com/article/672537/when-is-apples-next-event.html"
+  },
+  {
+   "claim": "Steve Jobs 2010: touch surfaces don't want to be vertical (quoted in coverage) (accessed 2026-10-24)",
+   "url": "https://en.wikipedia.org/wiki/Gorilla_arm"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "World's First Touchscreen MacBook",
+   "url": "https://youtube.com/shorts/WmSqotqaqkA",
+   "views": "4.2M",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  },
+  {
+   "title": "Why MacBooks Still Don't Have Touchscreens",
+   "url": "https://youtube.com/shorts/qDMpWFx3ZGs",
+   "views": "29K",
+   "verified": true,
+   "checked": "2026-10-24 (YouTube search ytInitialData; Short: no upload date shown, views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: full hook on screen ('Touch your laptop screen. Nothing?') + one striking subject image, viewer answers in their head. Twist by ~2.5 s: Apple long argued that reaching up to a vertical screen tires your arm ('gorilla arm'); a touch MacBook Pro would end that 40-year rule. Loop ending: re-ask the hook.",
+ "hook": "Touch your laptop screen. Nothing?",
+ "twist": "Apple long argued that reaching up to a vertical screen tires your arm ('gorilla arm'); a touch MacBook Pro would end that 40-year rule.",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Familiar, checkable quirk; frame-0 question the viewer can answer (growth brief 2026-10-23)",
+ "weaknesses": "Re-check facts on script day",
+ "window": {
+  "notBefore": "2026-10-28",
+  "deadline": "2026-11-30",
+  "event": "CONDITIONAL: Apple 'Pro and Tell' event Oct 28 2026, touchscreen OLED MacBook Pro expected (Macworld, unconfirmed)"
+ },
+ "newsPeg": "CONDITIONAL: Apple 'Pro and Tell' event Oct 28 2026, touchscreen OLED MacBook Pro expected (Macworld, unconfirmed)",
+ "suggestedSlot": null,
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "56 existing tech videos + 60 tech ideas in data/studio.db on 2026-10-24"
+ },
+ "spare": true,
+ "week": null,
+ "run": 240,
+ "brief": "research/analytics/2026-10-23-growth-advice.md (Shorts 30-40 s, full hook on frame 0, loop ending)",
+ "researchDate": "2026-10-24",
+ "rank": 55,
+ "score10": 7.5,
+ "scores": {
+  "demand": 4,
+  "competitionGap": 3,
+  "visualPotential": 3,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}

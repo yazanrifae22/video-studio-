@@ -1,0 +1,108 @@
+{
+ "channel": "celebrity",
+ "title": "Euro 2028 Hosts Still Have to Qualify. Why?",
+ "topic": "Euro 2028 is shared by England, Scotland, Wales and Ireland, so UEFA makes the co-hosts play qualifying too, with two places held back for hosts that miss out. The draw is in Belfast today.",
+ "audience": "General Shorts viewers who follow pop culture, sport and history news",
+ "whyCare": "Pegged: UEFA Euro 2028 qualifying draw, ICC Belfast (2026-12-06). Wikipedia UEFA_Euro_2028 89,532 views Sept 2026.",
+ "hook": "Hosting the Euros… but not qualified?",
+ "twist": "Euro 2028 is shared by England, Scotland, Wales and Ireland, so UEFA makes the co-hosts play qualifying too, with two places held back for hosts that miss out. The draw is in Belfast today.",
+ "peg": {
+  "event": "UEFA Euro 2028 qualifying draw, ICC Belfast",
+  "date": "2026-12-06",
+  "url": "https://www.uefa.com/euro2028/news/029f-1f2ff991e87b-345fffcd69c3-1000--euro-2028-qualifying-draw-to-take-place-in-belfast/",
+  "pegged": true
+ },
+ "evidence": [
+  {
+   "claim": "UEFA - Euro 2028 qualifying draw to take place in Belfast (accessed 2026-10-24)",
+   "url": "https://www.uefa.com/euro2028/news/029f-1f2ff991e87b-345fffcd69c3-1000--euro-2028-qualifying-draw-to-take-place-in-belfast/"
+  },
+  {
+   "claim": "Sports Illustrated - Euro 2028 dates, venues, format (accessed 2026-10-24)",
+   "url": "https://www.si.com/soccer/uefa-euro-2028-dates-venues-host-cities-format-schedule"
+  },
+  {
+   "claim": "Ukrainian Association of Football - Euro 2028 qualifying format (accessed 2026-10-24)",
+   "url": "https://uaf.ua/en/news/54992"
+  },
+  {
+   "claim": "Peg source: UEFA Euro 2028 qualifying draw, ICC Belfast (accessed 2026-10-24)",
+   "url": "https://www.uefa.com/euro2028/news/029f-1f2ff991e87b-345fffcd69c3-1000--euro-2028-qualifying-draw-to-take-place-in-belfast/"
+  },
+  {
+   "claim": "Wikimedia pageviews UEFA_Euro_2028: 89532 (Sept 2026, user agents; accessed 2026-10-24)",
+   "url": "https://pageviews.wmcloud.org/?project=en.wikipedia.org&pages=UEFA_Euro_2028&range=last-month"
+  }
+ ],
+ "sources": [
+  {
+   "label": "UEFA - Euro 2028 qualifying draw to take place in Belfast",
+   "url": "https://www.uefa.com/euro2028/news/029f-1f2ff991e87b-345fffcd69c3-1000--euro-2028-qualifying-draw-to-take-place-in-belfast/",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Sports Illustrated - Euro 2028 dates, venues, format",
+   "url": "https://www.si.com/soccer/uefa-euro-2028-dates-venues-host-cities-format-schedule",
+   "accessed": "2026-10-24"
+  },
+  {
+   "label": "Ukrainian Association of Football - Euro 2028 qualifying format",
+   "url": "https://uaf.ua/en/news/54992",
+   "accessed": "2026-10-24"
+  }
+ ],
+ "competitors": [
+  {
+   "title": "The EURO 2028 Qualifiers are Over… #shorts",
+   "url": "https://youtube.com/shorts/FwKXHh1FWbI",
+   "views": 1600,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Euro 2028 hosts qualify #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "WHY ENGLAND REJECTED AUTO QUALIFICATION FOR EURO 2028!",
+   "url": "https://youtube.com/shorts/WpGm3vZxB2Q",
+   "views": 29000,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Euro 2028 hosts qualify #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  },
+  {
+   "title": "England Forced to Qualify for Euro 2028 While 2030 World Cup Hosts Get Automatic Spots! 🤯⚽",
+   "url": "https://youtube.com/shorts/0CKDWyeASAY",
+   "views": 1900,
+   "verified": true,
+   "checked": "2026-10-24 (YouTube public search \"Euro 2028 hosts qualify #shorts\"; on-angle; Shorts show no upload date, so views/day unknown)"
+  }
+ ],
+ "angle": "Frame 0: Five draw balls in a glass bowl, four wearing 'HOST' tags + hook. Twist by 2.5 s. Loop: 'Should hosts have to qualify? Yes or no.'",
+ "cta": "C9+C4 (brief section 5; CTA-A comment prompt at 35-55%, CTA-B at 75-88%, then loop line)",
+ "durationSec": 35,
+ "format": "short",
+ "difficulty": 2,
+ "estCostUsd": 0,
+ "strengths": "Question/debate frame (the only type that drew comments, brief 2026-10-24); peg in window; frame-0 hook; loop ending",
+ "weaknesses": "Host line-up changed during planning: name the co-hosts only after checking UEFA's current list. No UEFA/Euro logos or trophy.",
+ "window": {
+  "notBefore": "2026-12-05T12:00:00Z",
+  "deadline": "2026-12-08T00:00:00Z",
+  "label": "UEFA Euro 2028 qualifying draw, ICC Belfast",
+  "suggestedSlot": "2026-12-06T13:00:00Z"
+ },
+ "novelty": {
+  "overlap": "none",
+  "checkedAgainst": "55 celebrity videos + 120 celebrity ideas in data/studio.db on 2026-10-24 (incl. run240 weeks 4-5); same-person 7-day check within weeks 5-8"
+ },
+ "people": [],
+ "spare": false,
+ "week": 7,
+ "run": 240,
+ "brief": "research/analytics/2026-10-24-run240-brief.md (news-peg rule, question/debate frames for big names, CTA playbook, 30-40 s)",
+ "researchDate": "2026-10-24",
+ "scores": {
+  "demand": 4,
+  "competitionGap": 4,
+  "visualPotential": 4,
+  "productionEase": 4,
+  "policyRisk": 1
+ }
+}
