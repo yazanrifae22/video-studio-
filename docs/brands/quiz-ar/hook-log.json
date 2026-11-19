@@ -1,6 +1,6 @@
 {
  "brand": "quiz-ar",
- "generated": "2026-11-19T08:21:00",
+ "generated": "2026-11-19T14:20:58",
  "snapshot_date": "2026-11-07",
  "analytics_end": "2026-11-05",
  "method": "scripts/hook-log-build.py: studio.db publishing + latest API snapshot (perVideo90d, 90-day window) + production hook/story/script-doctor/viral json; null = unknown",
@@ -3241,9 +3241,9 @@
   {
    "video_id": "UoG-EIUkJUo",
    "production_id": "quiz-261117-9ydw",
-   "status": "scheduled",
+   "status": "published",
    "title": "أي طرف بالخط بين السهمين أعلى؟",
-   "published_at": "2026-11-19T12:00:00.000Z",
+   "published_at": "2026-11-19T12:00:31.000Z",
    "views": null,
    "engaged_views": null,
    "avg_view_pct": null,
@@ -3294,9 +3294,9 @@
   {
    "video_id": "Rf_FblpXQzU",
    "production_id": "quiz-261117-pfry",
-   "status": "scheduled",
+   "status": "published",
    "title": "خمس قطع.. وحدة منهن معكوسة متل المراية! مين؟",
-   "published_at": "2026-11-19T09:00:00.000Z",
+   "published_at": "2026-11-19T09:00:23.000Z",
    "views": null,
    "engaged_views": null,
    "avg_view_pct": null,
@@ -3358,7 +3358,7 @@
    "viewed_vs_swiped_pct": null,
    "retention_d3": null,
    "retention_d7": null,
-   "views_24h": null,
+   "views_24h": 3143,
    "views_72h": null,
    "views_7d": null,
    "drop_seconds": null,
@@ -3395,7 +3395,19 @@
    "qa_score": 85.0,
    "insights": 93,
    "viral_forecast_delta": null,
-   "radar_signal_id": null
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 3143,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 24,
+     "comments": 16,
+     "shares": null,
+     "hours_since_publish": 20.3,
+     "at": "2026-11-19T14:21:00+00:00"
+    }
+   }
   },
   {
    "video_id": "oUjd6Q1epmg",
@@ -3411,7 +3423,7 @@
    "viewed_vs_swiped_pct": null,
    "retention_d3": null,
    "retention_d7": null,
-   "views_24h": null,
+   "views_24h": 1508,
    "views_72h": null,
    "views_7d": null,
    "drop_seconds": null,
@@ -3448,7 +3460,19 @@
    "qa_score": 87.0,
    "insights": 89,
    "viral_forecast_delta": null,
-   "radar_signal_id": null
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 1508,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 4,
+     "comments": 3,
+     "shares": null,
+     "hours_since_publish": 23.3,
+     "at": "2026-11-19T14:21:00+00:00"
+    }
+   }
   },
   {
    "video_id": "yEMsHBuOFq8",
@@ -3920,7 +3944,7 @@
    "retention_d3": null,
    "retention_d7": null,
    "views_24h": 3559,
-   "views_72h": null,
+   "views_72h": 23079,
    "views_7d": null,
    "drop_seconds": null,
    "retention_status": null,
@@ -3967,6 +3991,16 @@
      "shares": null,
      "hours_since_publish": 20.4,
      "at": "2026-11-17T14:22:16+00:00"
+    },
+    "72h": {
+     "views": 23079,
+     "engaged_views": 1070,
+     "avg_view_pct": 96.42,
+     "likes": 43,
+     "comments": 5,
+     "shares": 1,
+     "hours_since_publish": 68.3,
+     "at": "2026-11-19T14:21:00+00:00"
     }
    }
   },
@@ -3985,7 +4019,7 @@
    "retention_d3": null,
    "retention_d7": null,
    "views_24h": 1289,
-   "views_72h": null,
+   "views_72h": 1472,
    "views_7d": null,
    "drop_seconds": null,
    "retention_status": null,
@@ -4032,6 +4066,16 @@
      "shares": null,
      "hours_since_publish": 23.4,
      "at": "2026-11-17T14:22:16+00:00"
+    },
+    "72h": {
+     "views": 1472,
+     "engaged_views": 393,
+     "avg_view_pct": 62.23,
+     "likes": 7,
+     "comments": 1,
+     "shares": 1,
+     "hours_since_publish": 71.3,
+     "at": "2026-11-19T14:21:00+00:00"
     }
    }
   },
@@ -4047,13 +4091,31 @@
    "comments": null,
    "shares": null,
    "viewed_vs_swiped_pct": null,
-   "retention_d3": null,
+   "retention_d3": "docs/brands/quiz-ar/retention/YmjKoGgcicA.json",
    "retention_d7": null,
    "views_24h": 1336,
    "views_72h": 1467,
    "views_7d": null,
-   "drop_seconds": null,
-   "retention_status": null,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.12,
+      "drop_pct_pts": 5.0
+     },
+     {
+      "at_s": 7.2,
+      "ratio_at": 0.2,
+      "drop_pct_pts": 4.2
+     },
+     {
+      "at_s": 34.9,
+      "ratio_at": 0.97,
+      "drop_pct_pts": 3.6
+     }
+    ]
+   },
+   "retention_status": "ok",
    "viewed_vs_swiped": null,
    "hook_mechanism": null,
    "hook_premise": null,
@@ -4122,13 +4184,31 @@
    "comments": null,
    "shares": null,
    "viewed_vs_swiped_pct": null,
-   "retention_d3": null,
+   "retention_d3": "docs/brands/quiz-ar/retention/4NFQqbfmlgM.json",
    "retention_d7": null,
    "views_24h": 1847,
    "views_72h": 1953,
    "views_7d": null,
-   "drop_seconds": null,
-   "retention_status": null,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.12,
+      "drop_pct_pts": 4.4
+     },
+     {
+      "at_s": 1.1,
+      "ratio_at": 0.03,
+      "drop_pct_pts": 3.8
+     },
+     {
+      "at_s": 0.7,
+      "ratio_at": 0.02,
+      "drop_pct_pts": 3.7
+     }
+    ]
+   },
+   "retention_status": "ok",
    "viewed_vs_swiped": null,
    "hook_mechanism": null,
    "hook_premise": null,
@@ -5613,7 +5693,7 @@
    "shares": null,
    "viewed_vs_swiped_pct": null,
    "retention_d3": "docs/brands/quiz-ar/retention/T-30HWgTpsQ.json",
-   "retention_d7": null,
+   "retention_d7": "docs/brands/quiz-ar/retention/T-30HWgTpsQ.json",
    "views_24h": 1586,
    "views_72h": 1835,
    "views_7d": 1858,
@@ -5633,6 +5713,23 @@
       "at_s": 4.7,
       "ratio_at": 0.13,
       "drop_pct_pts": 5.4
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 4.3,
+      "ratio_at": 0.12,
+      "drop_pct_pts": 7.8
+     },
+     {
+      "at_s": 5.0,
+      "ratio_at": 0.14,
+      "drop_pct_pts": 7.1
+     },
+     {
+      "at_s": 4.7,
+      "ratio_at": 0.13,
+      "drop_pct_pts": 5.0
      }
     ]
    },
@@ -5716,7 +5813,7 @@
    "shares": null,
    "viewed_vs_swiped_pct": null,
    "retention_d3": "docs/brands/quiz-ar/retention/nOpJwoXf-Bg.json",
-   "retention_d7": null,
+   "retention_d7": "docs/brands/quiz-ar/retention/nOpJwoXf-Bg.json",
    "views_24h": 1969,
    "views_72h": 2229,
    "views_7d": 2271,
@@ -5736,6 +5833,23 @@
       "at_s": 21.0,
       "ratio_at": 0.6,
       "drop_pct_pts": 4.7
+     }
+    ],
+    "d7": [
+     {
+      "at_s": 33.9,
+      "ratio_at": 0.97,
+      "drop_pct_pts": 8.6
+     },
+     {
+      "at_s": 1.1,
+      "ratio_at": 0.03,
+      "drop_pct_pts": 7.6
+     },
+     {
+      "at_s": 21.0,
+      "ratio_at": 0.6,
+      "drop_pct_pts": 4.8
      }
     ]
    },

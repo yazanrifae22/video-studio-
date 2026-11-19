@@ -1,6 +1,6 @@
 {
  "id": "karto-ar",
- "name": "كرتو",
+ "name": "كرتو وسكيب",
  "format": "explainer",
  "language": "ar",
  "status": "test",
@@ -12,6 +12,16 @@
   "cast": {
    "karto": "host",
    "skip": "viewer on screen"
+  },
+  "youtube": {
+   "handle": "@KartoAndSkipAR",
+   "channel_id": "UCkFkoox3brQuAof5n1QMUdw",
+   "url": "https://www.youtube.com/@KartoAndSkipAR",
+   "token": "data/tokens/karto-ar.json",
+   "created": "2026-11-19",
+   "uploader": "scripts/youtube-karto.ts (own path; the daily uploader never touches this channel)",
+   "art": "docs/brands/karto/channels/ (avatar.png, banner-ar.jpg, make-art.mjs)",
+   "custom_thumbnails": "need phone verification of the channel (Studio: Settings > Channel > Feature eligibility > Intermediate features)"
   }
  }
 }

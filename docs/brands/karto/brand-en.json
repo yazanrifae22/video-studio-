@@ -1,6 +1,6 @@
 {
  "id": "karto-en",
- "name": "Karto",
+ "name": "Karto & Skip",
  "format": "explainer",
  "language": "en",
  "status": "test",
@@ -12,6 +12,16 @@
   "cast": {
    "karto": "host",
    "skip": "viewer on screen"
+  },
+  "youtube": {
+   "handle": "@KartoAndSkip",
+   "channel_id": "UCITuHJhBjOK5Kf_LKuBAd8g",
+   "url": "https://www.youtube.com/@KartoAndSkip",
+   "token": "data/tokens/karto-en.json",
+   "created": "2026-11-19",
+   "uploader": "scripts/youtube-karto.ts (own path; the daily uploader never touches this channel)",
+   "art": "docs/brands/karto/channels/ (avatar.png, banner-en.jpg, make-art.mjs)",
+   "custom_thumbnails": "need phone verification of the channel (Studio: Settings > Channel > Feature eligibility > Intermediate features)"
   }
  }
 }

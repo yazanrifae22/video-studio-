@@ -1,6 +1,6 @@
 {
  "brand": "clipping",
- "generated": "2026-11-19T08:21:00",
+ "generated": "2026-11-19T14:20:58",
  "snapshot_date": "2026-11-07",
  "analytics_end": "2026-11-05",
  "method": "scripts/hook-log-build.py: studio.db publishing + latest API snapshot (perVideo90d, 90-day window) + production hook/story/script-doctor/viral json; null = unknown",
@@ -403,7 +403,7 @@
    "retention_d3": null,
    "retention_d7": null,
    "views_24h": 84,
-   "views_72h": null,
+   "views_72h": 93,
    "views_7d": null,
    "drop_seconds": null,
    "retention_status": null,
@@ -450,6 +450,16 @@
      "shares": null,
      "hours_since_publish": 36.4,
      "at": "2026-11-18T08:23:39+00:00"
+    },
+    "72h": {
+     "views": 93,
+     "engaged_views": 30,
+     "avg_view_pct": 49.84,
+     "likes": 1,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 66.3,
+     "at": "2026-11-19T14:21:00+00:00"
     }
    }
   },

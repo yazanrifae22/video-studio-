@@ -1,0 +1,58 @@
+{
+ "cap_souk_windows": {
+  "en": "SHOP WINDOWS, DUBAI GOLD SOUK",
+  "ar": "واجهات محلات بسوق الذهب بدبي"
+ },
+ "cap_fed_board": {
+  "en": "THE FED BOARD BUILDING, WASHINGTON",
+  "ar": "مبنى مجلس الفيدرالي بواشنطن"
+ },
+ "cap_trading_floor": {
+  "en": "A STOCK TRADING FLOOR",
+  "ar": "قاعة تداول أسهم"
+ },
+ "cap_dubai_sky": {
+  "en": "DUBAI SKYLINE",
+  "ar": "أفق دبي"
+ },
+ "cap_souk_gate": {
+  "en": "THE GOLD SOUK GATE, DUBAI",
+  "ar": "بوابة سوق الذهب بدبي"
+ },
+ "cap_gold_scale": {
+  "en": "AN OLD GOLD SCALE (MUSEUM)",
+  "ar": "ميزان ذهب قديم (متحف)"
+ },
+ "sell": {
+  "en": "SELL",
+  "ar": "بيع"
+ },
+ "m_jan": {
+  "en": "JANUARY",
+  "ar": "يناير"
+ },
+ "m_nov": {
+  "en": "NOVEMBER",
+  "ar": "نوفمبر"
+ },
+ "cap_shelf": {
+  "en": "PRICE TAGS ON A SHOP SHELF",
+  "ar": "بطاقات أسعار على رف محل"
+ },
+ "cap_oil": {
+  "en": "AN OIL PUMP",
+  "ar": "مضخة نفط"
+ },
+ "cap_dollar": {
+  "en": "A US DOLLAR BILL",
+  "ar": "ورقة دولار أمريكي"
+ },
+ "nov10": {
+  "en": "10 NOV",
+  "ar": "١٠ نوفمبر"
+ },
+ "tape_wait": {
+  "en": "WAIT FOR PIECE FOUR",
+  "ar": "استنّوا القطعة الرابعة"
+ }
+}

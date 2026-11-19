@@ -1,0 +1,66 @@
+{
+ "cap_nugget": {
+  "en": "A GOLD NUGGET",
+  "ar": "قطعة ذهب خام"
+ },
+ "cap_bond": {
+  "en": "A US SAVINGS BOND",
+  "ar": "سند ادخار أمريكي"
+ },
+ "cap_bar_hand": {
+  "en": "A REAL GOLD BAR, BANK OF ENGLAND MUSEUM",
+  "ar": "سبيكة ذهب حقيقية، متحف بنك إنكلترا"
+ },
+ "cap_dollar": {
+  "en": "A US DOLLAR BILL",
+  "ar": "ورقة دولار أمريكي"
+ },
+ "cap_treasury": {
+  "en": "THE US TREASURY BUILDING",
+  "ar": "مبنى الخزانة الأمريكية"
+ },
+ "rates_up": {
+  "en": "RATES UP",
+  "ar": "الفايدة عم تطلع"
+ },
+ "cap_india_loan": {
+  "en": "A GOLD-LOAN BRANCH, INDIA",
+  "ar": "فرع قروض ذهب بالهند"
+ },
+ "cap_bracelets": {
+  "en": "GOLD BANGLES",
+  "ar": "أساور ذهب"
+ },
+ "cap_wedding": {
+  "en": "BRIDAL GOLD",
+  "ar": "ذهب العروس"
+ },
+ "cap_wedding_box": {
+  "en": "A BRIDE'S GOLD SET",
+  "ar": "طقم ذهب عروس"
+ },
+ "cap_jeweller": {
+  "en": "A GOLD SHOP, AL-HAMIDIYAH SOUQ, DAMASCUS",
+  "ar": "محل ذهب بسوق الحميدية، دمشق"
+ },
+ "gold_80": {
+  "en": "GOLD: 80",
+  "ar": "ذهب: ٨٠"
+ },
+ "over_rule": {
+  "en": "OVER THE RULE",
+  "ar": "فوق الحدّ"
+ },
+ "grace_lbl": {
+  "en": "GRACE PERIODS FIRST",
+  "ar": "فترات سماح أول"
+ },
+ "hug_drawer": {
+  "en": "SAVINGS, NOT A BET",
+  "ar": "ادّخار، مو مراهنة"
+ },
+ "fitch_cover": {
+  "en": "STRESS TEST",
+  "ar": "اختبار ضغط"
+ }
+}

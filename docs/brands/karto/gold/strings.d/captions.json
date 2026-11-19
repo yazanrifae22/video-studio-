@@ -1,0 +1,46 @@
+{
+ "cap_ny_fed": {
+  "en": "NEW YORK FED: THE BUILDING",
+  "ar": "الاحتياطي الفيدرالي بنيويورك: المبنى"
+ },
+ "cap_vault_old": {
+  "en": "OLD PHOTO: A VAULT OF GOLD BARS",
+  "ar": "صورة قديمة: خزنة سبائك ذهب"
+ },
+ "cap_bars_vault": {
+  "en": "REAL GOLD BARS IN A VAULT",
+  "ar": "سبائك ذهب حقيقية بالخزنة"
+ },
+ "cap_bars_stack": {
+  "en": "A PILE OF GOLD BARS",
+  "ar": "كومة سبائك ذهب"
+ },
+ "board_title": {
+  "en": "GOLD PRICE",
+  "ar": "سعر الذهب"
+ },
+ "tick_ok": {
+  "en": "STILL BUYING",
+  "ar": "لسا عم يشتروا"
+ },
+ "cap_bar_vs": {
+  "en": "BAR vs BAR: SAME GOLD, SMALLER PRICE",
+  "ar": "سبيكة قدام سبيكة: نفس الذهب، سعر أقل"
+ },
+ "bar_big_lbl": {
+  "en": "RECORD",
+  "ar": "الرقم القياسي"
+ },
+ "bar_small_lbl": {
+  "en": "NOW",
+  "ar": "هلأ"
+ },
+ "other_years": {
+  "en": "OTHER YEARS",
+  "ar": "باقي السنين"
+ },
+ "gold_2025": {
+  "en": "GOLD 2025",
+  "ar": "ذهب 2025"
+ }
+}

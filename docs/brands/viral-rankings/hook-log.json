@@ -1,6 +1,6 @@
 {
  "brand": "viral-rankings",
- "generated": "2026-11-19T08:21:00",
+ "generated": "2026-11-19T14:20:58",
  "snapshot_date": "2026-11-07",
  "analytics_end": "2026-11-05",
  "method": "scripts/hook-log-build.py: studio.db publishing + latest API snapshot (perVideo90d, 90-day window) + production hook/story/script-doctor/viral json; null = unknown",
@@ -642,7 +642,7 @@
    "retention_d7": null,
    "views_24h": 929,
    "views_72h": 1334,
-   "views_7d": null,
+   "views_7d": 1371,
    "drop_seconds": {
     "d3": [
      {
@@ -716,6 +716,16 @@
      "shares": 0,
      "hours_since_publish": 81.4,
      "at": "2026-11-16T08:21:27+00:00"
+    },
+    "7d": {
+     "views": 1371,
+     "engaged_views": 605,
+     "avg_view_pct": 61.199999999999996,
+     "likes": 21,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 159.3,
+     "at": "2026-11-19T14:21:00+00:00"
     }
    }
   },

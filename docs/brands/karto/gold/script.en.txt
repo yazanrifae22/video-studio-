@@ -1,0 +1,137 @@
+Gold Is Down Thirty Percent. Here's What Actually Happened
+HOOK: THIRTY PERCENT DOWN. NOT IN ONE DAY.
+END: YOUR SCORE OUT OF SEVEN?
+
+== [c00] The result ==
+On-screen: minus30 = -30% | skip_btn = SKIP | cb_buying = CENTRAL BANKS: STILL BUYING | queue_sellers = QUEUES OF SELLERS | seven_pieces = 7 PIECES | scorecard = SCORE CARD
+[c00 l001] KARTO: Gold is down about thirty percent from its record. But gold did not fall thirty percent in one day.
+[c00 l002] SKIP: Gold. Boring. Skipping.
+[c00 l003] KARTO: Wait. If your family keeps savings in gold, this is your story. And the central banks? As a group, they kept buying.
+[c00 l004] SKIP: Then who sold?
+[c00 l005] KARTO: Many others. In one January day gold fell almost a tenth of its price. And at the Dubai Gold Souk, sellers lined up in queues. Seven pieces. You will see every one.
+[c00 l006] SKIP: A queue to SELL gold? I thought gold was the safe one.
+[c00 l007] KARTO: That is piece two. Piece one first. Score card: every piece Skip sits through without skipping earns a stamp.
+[c00 l008] SKIP: Easy. Stamp me.
+[c00 l009] KARTO: The record.
+
+== [c01] Piece one: The record ==
+On-screen: p1 = PIECE 1: THE RECORD | best_year = BEST YEAR SINCE 1979 | five_k = $5,000 / oz | r_safe = SAFE HAVEN | r_rates = RATE-CUT BETS | r_dollar = WEAKER DOLLAR | fomo = FOMO | peak_price = $5,500+ | peak_lbl = RECORD, LATE JAN 2026 | stamp_piece = PIECE SURVIVED
+[c01 l010] KARTO: Piece one. The record. Twenty twenty-five was gold's best year since nineteen seventy-nine. Up about two thirds.
+[c01 l011] SKIP: Up two thirds? Of what, pebbles?
+[c01 l012] KARTO: Of a shiny metal. Then January: gold crossed five thousand dollars an ounce for the first time.
+[c01 l013] SKIP: Who was buying all that?
+[c01 l014] KARTO: Everybody: people hiding from a nervous world, and, reports said, people betting on lower rates and a weaker dollar.
+[c01 l015] KARTO: And last, the scared ones who do not want to miss out. One research firm, Capital Economics, called the rally FOMO-driven.
+[c01 l016] SKIP: So I buy a bar and I am rich?
+[c01 l017] KARTO: Plenty of people felt rich. By the end of January the record was in: above fifty-five hundred dollars an ounce.
+[c01 l018] SKIP: That sounds like a happy story.
+[c01 l019] KARTO: It was. For a few days. But what happens when a crowd all buys at once, and one bad piece of news arrives?
+
+== [c02] Piece two: The day it broke ==
+On-screen: p2 = PIECE 2: THE DAY IT BROKE | jan30 = 30 JAN 2026 (FRIDAY) | nomination = FED CHAIR PICK: KEVIN WARSH | one_day_nine = ABOUT -9% IN ONE DAY | dubai = DUBAI GOLD SOUK | queue_sellers = QUEUES OF SELLERS | souk_quote = PANIC SELLING, NOT DISTRESS SELLING (A DUBAI JEWELLER) | souk_credit = Anil Dhanak, Kanz Jewels, Khaleej Times, 1 Feb 2026 | distress = DISTRESS: I MUST SELL | panic = PANIC: EVERYONE RUNS | mood = MARKET MOOD (TITAN EXECUTIVE)
+[c02 l020] KARTO: Piece two. The day it broke. Friday, the thirtieth of January. Right after the record.
+[c02 l021] KARTO: Then the news. The American president names his pick to run the Federal Reserve, the Fed: Kevin Warsh.
+[c02 l022] SKIP: Who? And why does gold care?
+[c02 l023] KARTO: Because the Fed sets interest rates, and one report says nobody knew what the new chair would do. Unsure traders often sell.
+[c02 l024] KARTO: Gold fell about nine percent in a single day. Some reports said more.
+[c02 l025] SKIP: Nine percent. That is not thirty.
+[c02 l026] KARTO: Right. That is the honest part: nine percent in a day, one of gold's worst days in years. Now, Dubai.
+[c02 l027] KARTO: The Gold Souk. That same week, sellers formed long queues.
+[c02 l028] SKIP: Wait. Are those not the shops where people buy gold?
+[c02 l029] KARTO: That is what made it news. A jeweller there, Anil Dhanak, told the Khaleej Times this was panic selling, not distress selling.
+[c02 l030] SKIP: What is the difference?
+[c02 l031] KARTO: Distress is: I must sell, I have no choice. Panic is: I could wait, but everyone is running, so I am running too.
+[c02 l032] KARTO: A Titan executive said Dubai gold trades so easily that mood moves the price fast. Small answer: a mood broke in one day. Bigger question: why was gold still falling in November?
+
+== [c03] Piece three: The slow leak ==
+On-screen: p3 = PIECE 3: THE SLOW LEAK | st_jan = JAN: ABOVE $5,500 | st_nov = MID-NOV: ABOUT $3,800 | cpi = US INFLATION: HOTTER THAN EXPECTED | infl_gold = INFLATION = GOLD? | cuts = RATE CUTS | hike_bets = RATE-HIKE BETS | b_dollar = DOLLAR | b_gold = GOLD | minus27 = -2.7% (12 NOV) | now_price = ABOUT $3,800 / oz | low_lbl = LOWEST IN OVER A YEAR | minus30 = -30% | strong_dollar = STRONG DOLLAR
+[c03 l033] KARTO: Piece three. The slow leak. After the big day, gold did not crash again. It slid, a little at a time.
+[c03 l034] SKIP: So a slow, boring slide. Great.
+[c03 l035] KARTO: Slow, never boring. On the tenth of November, American inflation, meaning rising prices, came in hotter than expected, and oil was rising.
+[c03 l036] SKIP: Wait. Gold is supposed to like inflation. It is the inflation thing.
+[c03 l037] KARTO: It is supposed to. But hot inflation makes the Fed want higher rates, not lower. So traders bet on a December hike.
+[c03 l038] KARTO: And the dollar was strong, near its highest in nineteen months. On the twelfth, gold fell almost three percent in one day.
+[c03 l039] SKIP: So where is gold now?
+[c03 l040] KARTO: By mid-November, about thirty-eight hundred dollars an ounce, the lowest in over a year.
+[c03 l041] KARTO: Add it up. About thirty percent from the record, a little more at the low. Not in a day. In under ten months.
+[c03 l042] SKIP: Fine. Thirty. Still big.
+[c03 l043] KARTO: A hot number, rate-hike bets and a strong dollar. But why do those three push money out of a metal?
+
+== [c04] Piece four: The cardboard machine ==
+On-screen: p4 = PIECE 4: THE MACHINE | pays_nothing = PAYS NO INTEREST | interest = INTEREST | skip_btn = SKIP | bar_price = ONE BAR: ABOUT $1.5 MILLION | gold_in_dollars = PRICED IN DOLLARS | yield5 = ONE REPORT: YIELDS NEAR 5% | one_report = ONE REPORT
+[c04 l044] KARTO: Piece four. The machine. I built this last night.
+[c04 l045] SKIP: Of course you did.
+[c04 l046] KARTO: Here is a lump of gold. Beautiful. It pays no rent, no interest.
+[c04 l047] KARTO: Here is a bond. It pays interest; when rates rise, new bonds pay more.
+[c04 l048] SKIP: So? I like shiny.
+[c04 l050] SKIP: This is slow. I am skipping.
+[c04 l051] KARTO: Hold on. One standard gold bar is worth about one and a half million dollars and pays nothing. Piece seven shows how small all the world's gold is.
+[c04 l049] KARTO: Watch the seesaw. When rates rise, holding that bar costs you the interest you gave up. Money slides off the gold end.
+[c04 l052] SKIP: Fine. And the dollar?
+[c04 l053] KARTO: Gold is priced in dollars. A stronger dollar makes it dearer abroad: fewer buyers, lower price.
+[c04 l054] KARTO: One report: American government bonds were paying near five percent.
+[c04 l055] SKIP: So it is a seesaw with a panic button.
+[c04 l056] SKIP: So who gets hurt when it tips?
+
+== [c05] Piece five: Who gets hurt ==
+On-screen: p5 = PIECE 5: WHO GETS HURT | gold_100 = GOLD: 100 | loan_75 = LOAN: 75 | ltv = LOAN-TO-VALUE: 75% MAX | topup = TOP-UP OR REPAY | fitch = FITCH: INDIA GOLD LOANS | fitch_a = FITCH: CAN ABSORB ~15% | fitch_b = NEXT 15-20% = COULD TEST THEM | guess_tape = STRESS TEST, NOT FORECAST | panic_hl = HEADLINE: "15% FALL = PANIC" | on_paper = ON PAPER ONLY | door_past = THE PAST
+[c05 l057] KARTO: Piece five. Who gets hurt. First, India, where you can borrow against your gold. A gold loan.
+[c05 l058] SKIP: So the gold is the deposit.
+[c05 l059] KARTO: Right. The rule: a lender may lend at most seventy-five percent of the gold's value. Gold worth one hundred, borrow up to seventy-five.
+[c05 l060] KARTO: Now gold falls. Your gold is worth eighty, your loan is still seventy-five: far over the rule. The lender says: add gold, or pay some back.
+[c05 l061] SKIP: And if I cannot?
+[c05 l062] KARTO: Lenders can auction the gold, but only after missed grace periods. Not instantly.
+[c05 l063] KARTO: Fitch, a rating firm, said lenders could absorb a first fall of about fifteen percent; a further fifteen to twenty percent could test them.
+[c05 l064] SKIP: So fifteen percent means panic.
+[c05 l065] KARTO: No. That is headline talk. Fitch's number is a stress test, not a forecast, and I have no lender's numbers today.
+[c05 l066] KARTO: Then there are families whose savings are a bracelet and a few coins. The wedding gold. The gold you keep for a bad year.
+[c05 l067] SKIP: That is not an investment. That is a hug in a drawer.
+[c05 l068] KARTO: For them the screen price changes nothing, until the day they must sell. People who bought near the top? About thirty percent down, on paper only. Nobody knows the top until it has passed.
+[c05 l069] KARTO: Three kinds of people feel it. History is next.
+
+== [c06] Piece six: It happened before ==
+On-screen: p6 = PIECE 6: IT HAPPENED BEFORE | y1980 = 21 JAN 1980 | p850 = $850 | b850 = $850 | b_days = WITHIN DAYS: SHARP FALL | b_spring = MARCH 1980 | minus40plus = MORE THAN 40% BELOW THE PEAK (ONE SOURCE) | apr2013 = 15 APRIL 2013 | minus9 = -9% IN ONE DAY | t2011 = 2011: PEAK ABOUT $1,900 | t2015 = DEC 2015: ABOUT $1,050 | t2020 = AUG 2020: BACK ABOVE $2,000 | nine_years = ABOUT 9 YEARS | path_up = UP? | path_down = DOWN?
+[c06 l070] KARTO: Piece six. It happened before. Nineteen eighty. On the twenty-first of January, gold hits eight hundred and fifty dollars. A record.
+[c06 l071] SKIP: Let me guess. It dropped.
+[c06 l072] KARTO: Within days it fell sharply. By March nineteen eighty, one source puts it more than forty percent below the peak.
+[c06 l073] KARTO: April twenty thirteen. In a single day gold fell nine percent. One hundred and forty dollars an ounce, gone.
+[c06 l074] SKIP: Okay. But it came back, right?
+[c06 l075] KARTO: Eventually. Twenty eleven: gold peaks around nineteen hundred dollars. By December twenty fifteen it is just over a thousand.
+[c06 l076] KARTO: It did not get back above its twenty eleven peak until twenty twenty. About nine years.
+[c06 l077] SKIP: Nine years? For GOLD?
+[c06 l078] KARTO: Careful. That does not mean nine years this time. It means a peak once turned into a very long wait.
+[c06 l079] SKIP: So history tells me nothing about next week.
+[c06 l080] KARTO: Right. It says one thing: a fast fall and a long wait can both happen. Small answer: yes, it happened before. Bigger question: so what happens now?
+
+== [c07] Piece seven: What now ==
+On-screen: p7 = PIECE 7: WHAT NOW | cb_tonnes = ~289 t IN Q2 | reported = REPORTED | forecast_tape = FORECAST, NOT FACT | gs_card = GOLDMAN SACHS (17 NOV, VIA KITCO) | gs_2027 = END-2027: $4,650 | bear_a = BEAR: $3,500 IF A KEY LEVEL BREAKS | kitco_poll = KITCO SURVEY: MOST BEARISH | bull_a = BULL (SHORT-TERM): BACK ABOVE $4,000 | not_advice = NOT ADVICE | nobody_knows = NOBODY KNOWS | cube_22m = ALL GOLD EVER MINED: ~22.6 m CUBE | bar_kg = ONE BAR: ABOUT 12.4 kg
+[c07 l081] KARTO: Piece seven. What now. Who is still buying? Central banks. Reports say about two hundred eighty-nine tonnes in the second quarter.
+[c07 l082] SKIP: Which central banks?
+[c07 l083] KARTO: China, Poland and Uzbekistan were named.
+[c07 l084] KARTO: Forecasts now. I tape every one.
+[c07 l085] KARTO: Goldman Sachs, on the seventeenth: about forty-six hundred fifty dollars by the end of next year.
+[c07 l085b] SKIP: So, up?
+[c07 l087] KARTO: Not everyone agrees. Bulls expect gold to rise, bears expect it to fall. The bear first: one analyst says thirty-five hundred if a key level breaks. In Kitco's weekly survey, most expected lower.
+[c07 l088] KARTO: The bull: James Stanley expects a short-term move back above four thousand.
+[c07 l089] SKIP: So who is right?
+[c07 l090] KARTO: Nobody knows. I am a cardboard box. I do not give buy or sell advice, and you should not take it from a cardboard box.
+[c07 l091] KARTO: Wow fact. All the gold ever mined fits in a cube under twenty-three metres on each side.
+[c07 l092] SKIP: That is smaller than I thought.
+[c07 l093] KARTO: Central banks still buy, and forecasts disagree. Skip has the big question, after the score card.
+
+== [c08] Full card ==
+On-screen: scorecard = SCORE CARD | minus30 = -30% | cb_buying = CENTRAL BANKS: STILL BUYING | not_advice = NOT ADVICE | panic_or_smart = PANIC OR SMART EXIT? | your_score = YOUR SCORE OUT OF 7?
+[c08 l094] KARTO: That is all seven pieces. The score card is full. Skip, did you survive?
+[c08 l095] SKIP: Seven stamps. One almost-skip. You were not boring, Karto. Annoying, but not boring.
+[c08 l096] KARTO: I will take it. Gold is about thirty percent below its record. Not in a day. Central banks, as a group, kept buying. A crowd bought near the top, and analysts point to rates and the dollar for the slide.
+[c08 l098] KARTO: And I will not tell you what to do with gold.
+[c08 l099] SKIP: So, my question. The people in that January queue: panic, or the smart ones? Would you have sold, or held?
+
+== SHORTS ==
+s1 (l013..l019): hook = GOLD PASSED FIVE THOUSAND DOLLARS. WHO WAS BUYING? | CTA = That was piece one of seven. All seven are in the full video.
+s2 (l027..l032): hook = QUEUES TO SELL GOLD IN DUBAI | CTA = That was piece two of seven. All seven are in the full video.
+s3 (l036..l043): hook = THREE THINGS PUSHED GOLD DOWN | CTA = That was piece three of seven. All seven are in the full video.
+s4 (l046..l055): hook = WHY GOLD HATES HIGH INTEREST RATES | CTA = That was piece four of seven. All seven are in the full video.
+s5 (l066..l069): hook = THE GOLD YOU KEEP FOR A BAD YEAR | CTA = That was piece five of seven. All seven are in the full video.
+s6 (l074..l080): hook = GOLD ONCE WAITED ABOUT NINE YEARS | CTA = That was piece six of seven. All seven are in the full video.
+s7 (l087..l093): hook = NOBODY KNOWS WHERE GOLD GOES NEXT | CTA = That was piece seven of seven. All seven are in the full video.

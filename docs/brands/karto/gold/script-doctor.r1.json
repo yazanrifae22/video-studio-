@@ -1,0 +1,101 @@
+{
+  "production_id": "karto-gold",
+  "round": 1,
+  "verdict": "revise",
+  "forecast": {
+    "score": 80,
+    "gate": 85,
+    "items": [
+      {"key": "stop", "got": 14, "max": 15, "note": "Result in l001 (-30%) plus 'not in one day' twist, family stake by l003 (~12 s), pieces count l005/l007 (~30-37 s). Good."},
+      {"key": "subject", "got": 9, "max": 10, "note": "Live news, big money worry, both a search and a comment-fight topic."},
+      {"key": "promise", "got": 10, "max": 12, "note": "Honest frame held (tenth in a day, ~30% by mid-Nov). l051 promises 'how many bars' in piece seven; piece seven pays a cube size, not a count."},
+      {"key": "drive", "got": 12, "max": 18, "note": "Handoffs hold. Dead middle: piece 4 is explanation with no reveal, piece 7 is a five-line list of forecasts with no Skip voice. Strongest piece (6, nine-year wait) is late. The 'Small answer / Bigger question' tag closes 6 of 7 pieces in the same shape."},
+      {"key": "ending", "got": 7, "max": 10, "note": "Reframe of the hook is there (l096), but l099 'Buy the dip or wait?' is the investment question and breaks the no-advice frame; l093 speaks stage text ('coming from Skip')."},
+      {"key": "talk", "got": 10, "max": 15, "note": "Two asks (l097 score, l099 buy/wait) split the comment. 'How many did you guess before Karto' has no guess moments in the script. Panic vs distress (piece 2) is the better fight."},
+      {"key": "retell", "got": 8, "max": 10, "note": "Retellable: queue to SELL gold, panic vs distress, nine-year wait, cube 22 m."}
+    ],
+    "points": "70 of 90 = 78, +2 for clean rights/advice handling = 80",
+    "caps": []
+  },
+  "spine_from_script": "Gold is down ~30% from its record, but not in a day: a crowd bought the top, one bad-news day broke the mood, then rates and a strong dollar leaked it out slowly; history says falls and long waits both happen; nobody knows what is next.",
+  "words": 1583,
+  "words_per_s_note": "1,583 words at 2.5 w/s is ~10.5 min before gaps; brief is 9-10 min. Trim about 80-100 words (fixes 3, 5, 6, 8 cut about 70).",
+  "longest_sentence_words": 23,
+  "gap_to_gate": [
+    {
+      "id": "G1",
+      "line_ids": ["l099", "l098", "l097", "storyboard strings dip_or_wait"],
+      "problem": "S9/ending and advice risk: 'Buy the dip, or wait?' asks viewers to make a trade decision; two asks compete (score vs buy/wait). Piece 2's panic-vs-distress is the natural fight and reframes the hook.",
+      "fix": "l097 (Skip): \"Comments: your score out of seven? How many did you see coming before Karto said it?\" l098 (Karto, replace): \"And I will not tell you what to do with gold. Nobody knows.\" l099 (Skip, replace): \"So the real question: was that Thursday panic, or people who saw it coming? Fight in the comments.\" Change on-screen dip_or_wait to \"PANIC OR SMART EXIT?\".",
+      "points": 2.5
+    },
+    {
+      "id": "G2",
+      "line_ids": ["l084", "l085", "l086", "l087", "l088", "l089"],
+      "problem": "S4 dead middle: five Karto lines in a row, four sources, six numbers, no Skip. Longest listy stretch; also the 'Kitco' and second bear are vague ('another says').",
+      "fix": "Cut the second bear and UBS. l085: \"Goldman Sachs, on the seventeenth: about forty-six hundred by the end of next year.\" (Skip) l085b: \"So up.\" (Karto) l085c: \"From where gold is now, yes. But UBS said in August that five thousand would be a challenge. And one analyst says thirty-five hundred if a key level breaks. In Kitco's weekly survey, most expected lower.\" l088 (Karto): \"The bulls? James Stanley expects another move above four thousand.\" Keep l089 'So who is right?'",
+      "points": 2.0
+    },
+    {
+      "id": "G3",
+      "line_ids": ["l028"],
+      "problem": "Orphan answer: 'Usually they are.' follows l027 (queues of sellers) with no question, so the referent is missing; TTS and listeners stumble.",
+      "fix": "l028: \"Normally these shops are the ones buying. A jeweller there, Anil Dhanak, told the Khaleej Times: this was panic selling, not distress selling.\"",
+      "points": 1.0
+    },
+    {
+      "id": "G4",
+      "line_ids": ["l093", "l092", "l051"],
+      "problem": "Promise fit and repetition: l051 promises piece seven shows 'how many there are' (bars), piece seven shows a cube size; the bar price is said at l051 and again twice at l092-l093. l093 ends with spoken stage text 'Bigger question: coming from Skip.'",
+      "fix": "l051: \"Wait. One standard gold bar is worth about one and a half million dollars. Piece seven shows how small all the gold in the world really is.\" l092 (Skip): \"That is smaller than I thought.\" l093 (Karto, replace): \"Every piece has a small answer. Central banks still buy, and forecasts disagree. Now the big question comes from Skip.\" Delete the second bar price.",
+      "points": 1.5
+    },
+    {
+      "id": "G5",
+      "line_ids": ["l032", "l043", "l056", "l069", "l080", "l019"],
+      "problem": "S7 repeated shape: 'Small answer: X. Bigger question: Y.' closes six pieces word for word; by piece 5 it is a tic, and l093 breaks it.",
+      "fix": "Keep the label only on l032 and l080, and make the rest plain handoffs. l043: \"A hot number, rate-hike bets and a strong dollar. But why do those three push money out of a metal?\" l056: \"Exactly. No interest, rising rates, strong dollar. So who gets hurt when the seesaw tips?\" l069: \"Borrowers, savers and top buyers. But has this ever happened before?\" l019: \"The record was real. But what happens when a crowd all buys at the same time, and one bad piece of news arrives?\"",
+      "points": 1.5
+    },
+    {
+      "id": "G6",
+      "line_ids": ["l046", "l047", "l049", "l050"],
+      "problem": "S4: piece 4 is the slowest 25 s (lump, bond, seesaw explained flat) and Skip's one skip lands after it, with the strongest fact being a number the viewer already heard. Karto's over-prepared flaw (the cardboard machine) is only one joke.",
+      "fix": "Tighten and give the machine a visible action. l046: \"Here is a lump of gold. Beautiful. It pays you nothing. No rent, no interest.\" l047: \"Here is a government bond. It pays interest every year. When rates go up, new bonds pay more.\" l049: \"Now watch the seesaw. When rates rise, holding the lump costs you the interest you gave up, and money slides off the gold end.\" Move Skip's l050 skip before l049 so the strongest fact (l051) pays off a real slow moment.",
+      "points": 1.0
+    },
+    {
+      "id": "G7",
+      "line_ids": ["l005"],
+      "problem": "S10: 23-word sentence (cap 12), and the Dubai queue is promised at ~25 s but only paid ~3 min later.",
+      "fix": "l005: \"Everyone else. In one January day gold fell about a tenth. And in Dubai, sellers lined up in queues. Seven pieces. You will see every one.\"",
+      "points": 0.5
+    },
+    {
+      "id": "G8",
+      "line_ids": ["l096", "l017", "l016"],
+      "problem": "Claim certainty and a non-answer: l096 states cause as fact ('a crowd bought the top, then rates and the dollar changed the mood'); l017 does not answer Skip's 'I am rich?' and reads as advice-adjacent.",
+      "fix": "l096: \"Gold is about thirty percent below its record. Not in a day. Not because central banks dumped it. Reports point to a crowd that bought the top, then rates and the dollar changed the mood.\" l017: \"Plenty of people felt rich. By the end of January the record was in: above fifty-five hundred dollars an ounce.\"",
+      "points": 1.0
+    },
+    {
+      "id": "G9",
+      "line_ids": ["l010", "l012", "l014", "l015", "l020", "l021"],
+      "problem": "Piece 1 is stat-led (two thirds, 5,000, 5,500, three buyer types, Capital Economics) before the 20 s mark of any tension; the 'FOMO' line l015 is the hook of the piece and is buried.",
+      "fix": "Merge l014/l015 and put the crowd first. l014: \"Everybody: people hiding from a nervous world, people betting on lower rates, people expecting a weaker dollar.\" l015: \"And last, the scared ones who do not want to miss out. Capital Economics called this rally driven by exactly that.\" Skip then l016 'So I buy a bar and I am rich?' stays. Cut 'Of a shiny metal that nobody can print more of' from l012 to \"Of a shiny metal. Then January: gold crossed five thousand dollars an ounce for the first time.\"",
+      "points": 0.5
+    }
+  ],
+  "notes": [
+    {"line_ids": ["l001", "l003"], "note": "Opening works: result + twist + family stake by ~12 s. No change. On-screen HOOK 'THIRTY PERCENT DOWN. NOT IN ONE DAY.' is honest and matches the frame."},
+    {"line_ids": ["l035", "l037", "l038", "l040", "l041"], "note": "Piece 3 is a clean cause chain (hot inflation, hike bets, strong dollar). Keep. The 'Add it up' arithmetic at l041 is the best payoff of the hook."},
+    {"line_ids": ["l057", "l060", "l065", "l066", "l067"], "note": "Piece 5 is good: Fitch stress test explicitly not a forecast, 'a hug in a drawer'. Keep."},
+    {"line_ids": ["l076", "l078"], "note": "Nine-year wait with the 'does not mean nine years this time' guard is the strongest honest beat. Consider a short Skip reaction before l078. Do not shorten."},
+    {"line_ids": ["l003", "l085", "l087", "l088", "l090"], "note": "Advice check: no line says buy/sell. Forecasts are tape-marked and attributed. l090 disclaimer is fine. Only l099 (G1) crossed the line. Nothing states a one-day 30% crash."},
+    {"line_ids": ["l094", "l095"], "note": "Skip arc (ready to skip, pulled in, asks the question) holds; l095 'Annoying, but not boring' is a good line."},
+    {"line_ids": ["shorts"], "note": "Short ranges in the SHORTS block are offset from the l-ids of the pieces (s1 l013..l019 starts mid-piece one, which starts at l010; s7 l088..l093 starts at 'And the bulls'). Check that each Short starts on its piece's 'Piece N' line and ends on the small answer; s7 hook ('ONE GOLD BAR. ABOUT A MILLION AND A HALF.') depends on the bar line surviving G4."},
+    {"line_ids": ["storyboard"], "note": "Weakest 20-second stretch: l084-l089 (Goldman, UBS, two bears, Kitco, bull in five unbroken Karto lines, no Skip). Runner-up: l046-l050 (lump, bond, seesaw)."}
+  ],
+  "escalate": false,
+  "projected_after_fixes": "80 + 10 = about 88 if G1-G9 land (estimates; a new score needs changed lines)"
+}

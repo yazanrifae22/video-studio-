@@ -1,0 +1,49 @@
+{
+  "production_id": "karto-gold",
+  "round": 2,
+  "verdict": "pass",
+  "forecast": {
+    "score": 86,
+    "gate": 85,
+    "items": [
+      {"key": "stop", "got": 14, "max": 15, "note": "Unchanged and strong: result + not-in-one-day twist l001, family stake l003, Dubai queue and 7 pieces by ~28 s, score card l007."},
+      {"key": "subject", "got": 9, "max": 10, "note": "Live money news, search and comment-fight topic."},
+      {"key": "promise", "got": 11, "max": 12, "note": "Frame honest (9% day, ~30% over under 10 months). l004-l005 'Everyone else' sold is stronger than the evidence (-1)."},
+      {"key": "drive", "got": 15, "max": 18, "note": "Piece 7 now has Skip voice and a bull/bear split; piece 4 has a real skip beat; cube wow fact lifts the end. Remaining: every piece still closes on a question teaser, and the piece-four rescue (bar price) does not connect to the seesaw."},
+      {"key": "ending", "got": 8, "max": 10, "note": "l096 reframes the hook, one Skip ask that fits the Dubai queue; score stays on-screen. 'Nobody knows' is said three times (l090, l098, plus l088 'Nobody agrees')."},
+      {"key": "talk", "got": 11, "max": 15, "note": "Single open ask, panic vs smart exit is a real fight; sold-or-held is retrospective, not advice. Ask lands after a long card beat."},
+      {"key": "retell", "got": 8, "max": 10, "note": "Queue to SELL gold, panic vs distress, nine-year wait, cube 22 m."}
+    ],
+    "points": "76 of 90 = 84.4, +2 for clean rights/advice handling = 86",
+    "caps": []
+  },
+  "r1_fixes": [
+    {"id": "G1", "status": "applied", "applied": true, "note": "Single Skip ask l099, l097 deleted, l098 no-advice line, string renamed. Wording per orchestrator override."},
+    {"id": "G2", "status": "applied", "applied": true, "note": "Goldman + one bear + one bull, Skip beat l085b. l085c merged into l087."},
+    {"id": "G3", "status": "applied", "applied": true, "note": "l028 now gives the referent."},
+    {"id": "G4", "status": "applied", "applied": true, "note": "l051 promise reworded, bar price once, l093 no stage text."},
+    {"id": "G5", "status": "applied", "applied": true, "note": "Tag now on l032, l080 and again on l093 (a third use; see N3)."},
+    {"id": "G6", "status": "applied", "applied": true, "note": "Reordered l048 l050 l051 l049 l052. The skip lands before the seesaw payoff; the bridge between l051 and l049 is weak (see P1)."},
+    {"id": "G7", "status": "applied", "applied": true, "note": "l005 split, Dubai queue promised short."},
+    {"id": "G8", "status": "applied", "applied": true, "note": "l017 answers Skip; l096 attributed ('some analysts say')."},
+    {"id": "G9", "status": "applied", "applied": true, "note": "Crowd first, FOMO beat is the hook of piece one."}
+  ],
+  "spine_from_script": "Gold is about 30% below its record, but not in a day: a crowd bought the top, a bad-news day broke the mood, then rates and a strong dollar leaked it out; history says fast falls and long waits both happen; nobody knows what is next.",
+  "words": 1481,
+  "words_per_s_note": "1,481 words is about 9.9 min at 2.5 w/s with no gaps; 9.1 min at 2.7 w/s. With stamps, on-screen beats and pauses it will run about 10.3-10.8 min: trim 60-90 words to keep it at 9-10.",
+  "longest_sentence_words": 20,
+  "gap_to_gate": [
+    {"id": "P1", "optional": true, "line_ids": ["l051", "l049"], "problem": "S3/S4 piece four: the skip beat is placed right, but l051's 'Wait. One bar is worth 1.5 million' is a loose fact, then the seesaw arrives with no link. Also 'Wait.' repeats l003.", "fix": "l051 (Karto): \"Hold on. One standard gold bar is worth about one and a half million dollars, and it pays you nothing, ever. Piece seven shows how small all the gold in the world really is.\" l049 (Karto): \"Watch the seesaw. When rates rise, holding that bar costs you the interest you gave up. The seesaw tips, and money slides off the gold end.\"", "points": 1.0},
+    {"id": "P2", "optional": true, "line_ids": ["l001", "l004", "l005"], "problem": "S7/claims: 'nobody lost thirty percent in one day' is absolute; 'Everyone else' sold overstates what the evidence says.", "fix": "l001: \"But gold did not fall thirty percent in one day.\" l005: \"Many others. In one January day gold fell almost a tenth of its price. And at the Dubai Gold Souk, sellers lined up in queues. Seven pieces. You will see every one.\"", "points": 0.5},
+    {"id": "P3", "optional": true, "line_ids": ["l088", "l090", "l093", "l098"], "problem": "Ending S8/S10 and piece-7 drag: 'Nobody knows/agrees' three times; l093 promises Skip's question, then the card interrupts for five lines; l093 reuses the 'Small answer' tag a third time.", "fix": "l088: \"The bull: James Stanley expects a short-term move back above four thousand.\" (drop 'Nobody agrees') l090 keep. l093: \"Central banks still buy, and forecasts disagree. Skip has the big question, after the score card.\" l098: \"And I will not tell you what to do with gold.\"", "points": 1.0},
+    {"id": "P4", "optional": true, "line_ids": ["l043", "l056", "l069", "l096", "l015", "l087"], "problem": "S7/S10: five of seven pieces still end on a 'But why/who/has...?' question teaser; l096 (17 words) and l023 (20 words) are too long to say aloud; script runs 60-90 words over for 9-10 min.", "fix": "Turn l056 into a Skip line: SKIP: \"So who gets hurt when it tips?\" and make l069 a statement: \"Three kinds of people feel it. History is next.\" Split l096: \"Gold is about thirty percent below its record. Not in a day. Central banks, as a group, kept buying. Some analysts say a crowd bought near the top, then rates and the dollar changed the mood.\" Cut l014 to \"Everybody: people hiding from a nervous world, and bets on lower rates and a weaker dollar.\" Cut the 'guess in a nice suit' half of l084.", "points": 1.0}
+  ],
+  "notes": [
+    {"line_ids": ["l001", "l003", "l007"], "note": "First 30 s work: result, twist, family stake, Dubai hook, seven-piece promise, score card with Skip arc (Skipping, I am skipping, almost-skip) paid at l095."},
+    {"line_ids": ["l019", "l032", "l043", "l056", "l069", "l080"], "note": "Handoffs no longer share one formula but five of six are still a question teaser; P4 varies two."},
+    {"line_ids": ["l048", "l050", "l051", "l049", "l052"], "note": "The skip lands before the payoff and Skip's 'so it is a seesaw with a panic button' (l055) pays it. Only the bridge is weak (P1)."},
+    {"line_ids": ["l081", "l093"], "note": "Piece 7 no longer drags: Skip speaks every 2-3 lines and the cube ends it. Advice check: no line says buy or sell; forecasts are attributed; l099 is retrospective."},
+    {"line_ids": ["shorts"], "note": "s4 starts at l049 ('Watch the seesaw') without lump and bond setup: start at l046. s7 starts at l087 mid-piece; start at l081 or accept the cold open."}
+  ],
+  "escalate": false
+}

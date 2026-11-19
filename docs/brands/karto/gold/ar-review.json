@@ -1,0 +1,315 @@
+{
+  "score_out_of_10": 7,
+  "would_click": true,
+  "summary": "Strong, warm, honest script with a real structure (seven pieces, stamp game) and a Skip who sounds like a real bored viewer. The Arabic is mostly natural Levantine, but it has 16 must-fix problems: price numbers said the English way ('خمسة وخمسين مية'), a dangling line in c02 ('غالباً'), 'distress selling' translated as 'ضيق' (reads as tightness), the idiom trap 'ما في فايدة' (= it is useless) in the key recap, a broken sentence in c07 ('وما لازم تعطي علبة كرتون'), 'لسكيب' ending with no meaning, bulls and bears never explained, and the dollar and loan explanations that a finance beginner cannot follow. Line id convention: chapter tag + line number in script.ar.txt (example c01:L26). Teen numbers (خمستاشر، تلاتاشر، تسعطعش) and many Levantine month names should be normalised for the TTS and for Gulf/Egypt viewers (see regional_notes). Tone toward family gold savings is respectful and warm; one extra warm sentence is proposed in c05.",
+  "fixes": [
+    {
+      "line": "c01:L26",
+      "problem": "Price said as 'fifty-five hundred' word-for-word ('خمسة وخمسين مية'): TTS/ASR and viewers read it as 55 x 100, nobody says it this way.",
+      "old": "بآخر كانون التاني، الرقم القياسي تسجّل: فوق خمسة وخمسين مية دولار للأونصة. قمة حقيقية.",
+      "new": "بآخر كانون التاني تسجّل الرقم القياسي: أكتر من خمسة آلاف وخمسمية دولار للأونصة. قمة حقيقية.",
+      "severity": "must"
+    },
+    {
+      "line": "c03:L55",
+      "problem": "'تمانية وتلاتين مية' is a calque of 'thirty-eight hundred'; also 'الأدنى من' is ambiguous (lowest since).",
+      "old": "بمنتصف تشرين التاني، حوالي تمانية وتلاتين مية دولار للأونصة: الأدنى من تشرين الأول السنة الماضية.",
+      "new": "بمنتصف تشرين التاني، حوالي ثلاثة آلاف وثمانمية دولار للأونصة. هاد أقل سعر من تشرين الأول السنة الماضية.",
+      "severity": "must"
+    },
+    {
+      "line": "c06:L99",
+      "problem": "'تسعطعش مية' is a broken number (nineteen hundred), and 'بيوصل' for a peak is vague. Teen numbers also risky for TTS.",
+      "old": "بالنهاية. ألفين وحداشر: الذهب بيوصل حوالي تسعطعش مية دولار. بكانون الأول ألفين وخمستاشر صار فوق الألف بشوي.",
+      "new": "بالنهاية. بألفين وأحد عشر وصل الذهب لقمة حوالي ألف وتسعمية دولار. وبكانون الأول ألفين وخمسة عشر صار فوق الألف دولار بشوي.",
+      "severity": "must"
+    },
+    {
+      "line": "c07:L112",
+      "problem": "Three price numbers said as 'ستة وأربعين مية وخمسين', 'ستة وخمسين مية'; 'رجوع فوق' says 'returning above' but the English means 'above'. Date uses a teen number.",
+      "old": "غولدمان ساكس قالت بسبعتاشر تشرين التاني: حوالي ستة وأربعين مية وخمسين دولار بنهاية السنة الجاية، ورجوع فوق ستة وخمسين مية بنهاية ألفين وتمانية وعشرين.",
+      "new": "غولدمان ساكس قالت بسبعة عشر تشرين التاني: حوالي أربعة آلاف وستمية وخمسين دولار بنهاية السنة الجاية، وأكتر من خمسة آلاف وستمية دولار بنهاية ألفين وتمانية وعشرين.",
+      "severity": "must"
+    },
+    {
+      "line": "c07:L114",
+      "problem": "Bears are never explained (a beginner hears 'bears' = animals); two prices in broken number form.",
+      "old": "ع الجهة التانية، الدببة. محلل بيقول خمسة وتلاتين مية إذا انكسر مستوى مهم، وتاني بيقول أربعة وتلاتين مية. وباستطلاع كيتكو الأسبوعي، أغلبهم توقّعوا نزول.",
+      "new": "ع الجهة التانية، الدببة، يعني اللي بيتوقعوا نزول. محلل بيقول تلات آلاف وخمسمية دولار إذا انكسر مستوى مهم، ومحلل تاني بيقول تلات آلاف وأربعمية. وباستطلاع كيتكو الأسبوعي، أغلب المشاركين توقّعوا نزول.",
+      "severity": "must"
+    },
+    {
+      "line": "c07:L115",
+      "problem": "Bulls not explained; 'أربع آلاف' wrong agreement; 'حركة تانية' vague; 'ما حدا متّفق' unfinished.",
+      "old": "وهلأ الثيران. جيمس ستانلي بيتوقع حركة تانية فوق أربع آلاف. وما حدا متّفق.",
+      "new": "وهلأ الثيران، يعني اللي بيتوقعوا طلوع. جيمس ستانلي بيتوقع طلعة تانية فوق أربعة آلاف دولار. وما حدا متّفق مع حدا.",
+      "severity": "must"
+    },
+    {
+      "line": "c02:L40",
+      "problem": "'غالباً.' answers a question nobody asked (same dangling line in the English master: 'Usually they are.'). Also 'بيع من الضيق' (distress) reads as 'selling out of tightness'; 'بيع اضطراري' is the clear phrase. NOTE: the English master line needs the same repair; the claim 'people usually go to the souk to buy' is a general statement, keep it soft.",
+      "old": "غالباً. صاحب محل مجوهرات هناك، أنيل دهانك، قال لخليج تايمز: هاد كان بيع بالهلع، مو بيع من الضيق.",
+      "new": "وهاد غريب، لأنو عادةً الناس بتروح عالسوق تشتري. صاحب محل مجوهرات هناك، أنيل دهانك، قال لخليج تايمز: هاد كان بيع هلع، مو بيع اضطراري.",
+      "severity": "must"
+    },
+    {
+      "line": "c02:L42",
+      "problem": "Core definition of the chapter uses 'الضيق' (reads as sadness/tightness) and Levantine 'فيني'. Egyptians and Gulf viewers will not parse 'فيني استنى'.",
+      "old": "الضيق هو: لازم بيع، ما إلي خيار. الهلع هو: فيني استنى، بس الكل عم يركض، فأنا كمان عم ركض.",
+      "new": "الاضطرار هو: لازم أبيع، ما إلي خيار. والهلع هو: ممكن أستنى، بس الكل عم يركض، فأنا كمان عم أركض.",
+      "severity": "must"
+    },
+    {
+      "line": "c04:L74",
+      "problem": "'ما في فايدة' is the idiom for 'it is useless' in the Levant (and 'مفيش فايدة' in Egypt): the recap sentence reads as 'there is no use'. Must say gold pays no interest.",
+      "old": "بالضبط. الجواب الصغير: ما في فايدة، وفايدة طالعة، ودولار قوي.",
+      "new": "بالضبط. الجواب الصغير: الذهب ما بيدفع فايدة، والفايدة عم تطلع، والدولار قوي.",
+      "severity": "must"
+    },
+    {
+      "line": "c07:L117",
+      "problem": "'وما لازم تعطي علبة كرتون' is wrong Arabic (give a cardboard box?). The English means: and you should not take advice from a cardboard box.",
+      "old": "ما حدا بيعرف. أنا علبة كرتون. ما بعطي نصيحة شراء ولا بيع، وما لازم تعطي علبة كرتون.",
+      "new": "ما حدا بيعرف. أنا علبة كرتون. ما بعطي نصيحة شراء ولا بيع، وإنت ما لازم تاخد نصيحة من علبة كرتون.",
+      "severity": "must"
+    },
+    {
+      "line": "c07:L120",
+      "problem": "'والسؤال الأكبر: لسكيب.' is meaningless in Arabic (English: bigger question is coming from Skip). Bar weight uses 'اتناشر' (TTS risk).",
+      "old": "سبيكة عادية، حوالي اتناشر كيلو ونص، حوالي مليون ونص دولار. الجواب الصغير: البنوك المركزية لسا عم تشتري، والتوقّعات مختلفة. والسؤال الأكبر: لسكيب.",
+      "new": "سبيكة عادية، حوالي اثني عشر كيلو ونص، بحوالي مليون ونص دولار. الجواب الصغير: البنوك المركزية لسا عم تشتري، والتوقّعات مختلفة. والسؤال الأكبر؟ خلّي سكيب يسأله.",
+      "severity": "must"
+    },
+    {
+      "line": "c01:L27",
+      "problem": "'هاد بيسمع قصة سعيدة' is not Arabic idiom (sounds like 'this hears a happy story').",
+      "old": "هاد بيسمع قصة سعيدة.",
+      "new": "هيك بتطلع قصة سعيدة.",
+      "severity": "must"
+    },
+    {
+      "line": "c00:L11",
+      "problem": "'صفّوا بايعين بطوابير' is garbled (صفّى = liquidate in finance language). Viewers in Egypt/Gulf will not get 'queues of sellers'.",
+      "old": "وصفّوا بايعين بطوابير بسوق الذهب بدبي.",
+      "new": "وناس كتير وقفت بطوابير تبيع بسوق الذهب بدبي.",
+      "severity": "must"
+    },
+    {
+      "line": "c04:L71",
+      "problem": "The dollar mechanism is the hardest idea in the video and is said in a way a beginner cannot follow: 'بعملة كل الباقي' and 'سعر أنعم' (calque of 'softer price').",
+      "old": "لما الدولار بيقوى، الأونصة بتصير أغلى بعملة كل الباقي. شارين أقل، وسعر أنعم.",
+      "new": "لما الدولار بيقوى، الأونصة بتصير أغلى بعملات باقي الدول. فبيشتري ناس أقل، والسعر بينزل.",
+      "severity": "must"
+    },
+    {
+      "line": "c05:L81",
+      "problem": "'صار بتمانين' is unclear spoken (with eighty?) and 'سدّد شي' is vague for a money-risk moment.",
+      "old": "هلأ الذهب نزل. ذهبك صار بتمانين، وقرضك لسا خمسة وسبعين. المقرض بيقلك: زيد ذهب، أو سدّد شي.",
+      "new": "هلأ الذهب نزل. صارت قيمة ذهبك تمانين، وقرضك لسا خمسة وسبعين. فالمقرض بيقلك: زيد ذهب، أو سدّد جزء من القرض.",
+      "severity": "must"
+    },
+    {
+      "line": "c01:L28",
+      "problem": "'لكم يوم' can be read by TTS as 'لَكُم' (to you); 'جمهور كامل' is stiff; 'جواب القطعة الأولى' breaks the 'الجواب الصغير' pattern used in every other chapter.",
+      "old": "كانت. لكم يوم. جواب القطعة الأولى: الرقم القياسي كان حقيقي. والسؤال الأكبر: شو بيصير لما جمهور كامل يشتري بنفس الوقت، وتوصل خبر واحد سيّئ؟",
+      "new": "كانت. لأيام قليلة. الجواب الصغير: الرقم القياسي كان حقيقي. والسؤال الأكبر: شو بيصير لما ناس كتير تشتري بنفس الوقت، وبيوصل خبر واحد سيّئ؟",
+      "severity": "must"
+    },
+    {
+      "line": "c00:L13",
+      "problem": "Skip is both a name and a verb in one sentence: 'كل قطعة سكيب بيصمد فيها بلا ما يعمل سكيب' confuses the ear and the TTS. 'منبلّش' is heavy Levantine.",
+      "old": "هاي القطعة التانية. منبلّش من القطعة الأولى. وفي ورقة نتيجة: كل قطعة سكيب بيصمد فيها بلا ما يعمل سكيب بياخد ختم.",
+      "new": "هاي القطعة التانية. خلّينا نبدأ من الأولى. وفي ورقة نتيجة: كل قطعة سكيب بيكمّلها للآخر بلا ما يتخطّاها بياخد ختم.",
+      "severity": "should"
+    },
+    {
+      "line": "c00:L9",
+      "problem": "'مصاري' and 'مخبّية' are Levantine-only; the whole video's emotional hook depends on this line landing in Cairo and Riyadh too. 'هي قصتك' should be 'هاي'.",
+      "old": "إذا عيلتك مخبّية مصاريها بالذهب، هي قصتك.",
+      "new": "إذا عيلتك مدّخرة فلوسها بالذهب، هاي قصتك.",
+      "severity": "should"
+    },
+    {
+      "line": "c02:L33",
+      "problem": "The Fed is named only later as 'الفيدرالي' without being introduced as the same body. A beginner loses it.",
+      "old": "الرئيس الأمريكي بيسمّي مرشّحه لرئاسة البنك المركزي الأمريكي: كيفن وورش.",
+      "new": "الرئيس الأمريكي بيسمّي مرشّحه لرئاسة البنك المركزي الأمريكي، يلي اسمه الفيدرالي: كيفن وورش.",
+      "severity": "should"
+    },
+    {
+      "line": "c02:L36",
+      "problem": "'عُشر' (with damma) is a rare word, TTS may misread it; 'لاتناشر' is a teen number slur. 'عشرة بالمية' is how people say it. Same fix for 'عُشر' in L37 and L38.",
+      "old": "الذهب نزل حوالي عُشر سعره بيوم واحد. المصادر بتقول من تمانية لاتناشر بالمية، حسب الساعة.",
+      "new": "الذهب نزل حوالي عشرة بالمية من سعره بيوم واحد. المصادر بتقول بين تمانية واثني عشر بالمية، حسب الساعة.",
+      "severity": "should"
+    },
+    {
+      "line": "c03:L50",
+      "problem": "Inflation is never defined for a beginner; the whole chapter depends on it.",
+      "old": "بعشرة تشرين التاني، التضخم الأمريكي طلع أعلى من المتوقع، والنفط كان طالع.",
+      "new": "بعشرة تشرين التاني، رقم التضخم الأمريكي، يعني غلاء الأسعار، طلع أعلى من المتوقع، والنفط كان عم يطلع.",
+      "severity": "should"
+    },
+    {
+      "line": "c03:L53",
+      "problem": "'تسعطعش' and 'بتناشر الشهر' are slurred forms; TTS and ASR will break on them and Egyptians/Gulf will hesitate.",
+      "old": "والدولار كان قوي، قريب من أعلى مستوى من تسعطعش شهر. وبتناشر الشهر، الذهب نزل تقريباً تلاتة بالمية بيوم.",
+      "new": "والدولار كان قوي، قريب من أعلى مستوى من تسعة عشر شهر. وبتاريخ اثني عشر تشرين التاني، الذهب نزل تقريباً تلاتة بالمية بيوم واحد.",
+      "severity": "should"
+    },
+    {
+      "line": "c03:L56",
+      "problem": "'اجمع.' (imperative, to whom?) is a literal translation of 'Add it up'.",
+      "old": "اجمع. من الرقم القياسي لهلأ: حوالي تلاتين بالمية. مو بيوم. بأقل من عشر شهور.",
+      "new": "خلّينا نجمع. من الرقم القياسي لهلأ: حوالي تلاتين بالمية. مو بيوم واحد. بأقل من عشرة شهور.",
+      "severity": "should"
+    },
+    {
+      "line": "c04:L67",
+      "problem": "The key idea (opportunity cost of holding gold) is said in stiff written language: 'الإمساك بالقطعة اللمّاعة بيكلّفك الفايدة يلي تركتها'.",
+      "old": "فلما الفايدة بتعلى، الإمساك بالقطعة اللمّاعة بيكلّفك الفايدة يلي تركتها. الأرجوحة بتميل، والفلوس بتنزلق عن طرف الذهب.",
+      "new": "فلما الفايدة بتعلى، بتخسر الفايدة يلي كنت رح تاخدها لو ما شريت الذهب. هيك الأرجوحة بتميل، والفلوس بتنزلق عن طرف الذهب.",
+      "severity": "should"
+    },
+    {
+      "line": "c04:L69",
+      "problem": "'بتورجيك' is heavy Syrian and 'كم سبيكة في' does not match piece seven (which shows how much gold exists in total).",
+      "old": "بإيد وحدة. والقطعة السابعة بتورجيك كم سبيكة في.",
+      "new": "بإيد وحدة. والقطعة السابعة رح تعرف فيها كم ذهب في بالعالم كله.",
+      "severity": "should"
+    },
+    {
+      "line": "c05:L84",
+      "problem": "Fitch is never introduced (a viewer may not know it is a rating firm); 'ضوابطهم تحت ضغط' is stiff; 'خمستاشر' teen number slur.",
+      "old": "شو قالت فيتش؟ إنو المقرضين بيتحمّلوا أول نزلة بحدود خمستاشر بالمية. ونزلة كمان من خمستاشر لعشرين بالمية رح تحط ضوابطهم تحت ضغط حقيقي.",
+      "new": "شو قالت فيتش، شركة التقييم المالي؟ إنو المقرضين بيتحمّلوا أول نزلة بحدود خمسة عشر بالمية. ونزلة كمان من خمسة عشر لعشرين بالمية رح تضغط عليهم فعلاً.",
+      "severity": "should"
+    },
+    {
+      "line": "c05:L86",
+      "problem": "'هاد عنوان عم يحكي' is unclear; English is 'that is a headline talking'. 'اختبار تحمّل' is not the normal Arabic finance term; 'اختبار ضغط' is.",
+      "old": "لا. هاد عنوان عم يحكي. رقم فيتش اختبار تحمّل، مو توقّع، وما معي أرقام أي مقرض اليوم.",
+      "new": "لا. هاد كلام عناوين. رقم فيتش اختبار ضغط، مو توقّع، وما معي أرقام أي مقرض اليوم.",
+      "severity": "should"
+    },
+    {
+      "line": "c05:L89",
+      "problem": "Respect and warmth: the line about people who bought near the top should not sound like 'they were fools'. One warm sentence fixes the tone for families. Also 'يلي' to 'اللي' (understood everywhere).",
+      "old": "بالنسبة إلهم سعر الشاشة ما بيغيّر شي، لحد اليوم يلي لازم يبيعوا فيه. ويلي اشتروا قريب من القمة؟ حوالي تلاتين بالمية تحت، عالورق بس.",
+      "new": "بالنسبة إلهم سعر الشاشة ما بيغيّر شي، لحد اليوم اللي لازم يبيعوا فيه. واللي اشتروا قريب من القمة؟ حوالي تلاتين بالمية تحت، بس عالورق. وما حدا بيعرف القمة إلا بعد ما تفوت.",
+      "severity": "should"
+    },
+    {
+      "line": "c06:L104",
+      "problem": "'الإتنين' sounds exactly like 'Monday' (الاثنين) to a listener and to ASR; 'إيه' means 'what' in Egyptian.",
+      "old": "نزلة سريعة وانتظار طويل ممكن يصيروا الإتنين. الجواب الصغير: إيه، صار من قبل.",
+      "new": "نزلة سريعة وانتظار طويل ممكن يصيروا سوا. الجواب الصغير: أيوه، صار من قبل.",
+      "severity": "should"
+    },
+    {
+      "line": "c07:L108",
+      "problem": "'اشترت رقم قياسي' is a calque; people say 'اشترت كمية قياسية'. 'الربع التاني' needs 'من السنة' for a beginner.",
+      "old": "التقارير بتقول إنو بالربع التاني اشترت رقم قياسي، حوالي مئتين وتسعين طن.",
+      "new": "التقارير بتقول إنو بالربع التاني من السنة اشترت كمية قياسية، حوالي مئتين وتسعين طن.",
+      "severity": "should"
+    },
+    {
+      "line": "c07:L113",
+      "problem": "'رح تكون تحدّي' is an English calque; 'خمس آلاف' wrong agreement for TTS; UBS should be named as a bank.",
+      "old": "يو بي إس قالت بآب إنو خمس آلاف دولار رح تكون تحدّي بالنص الأول من السنة الجاية.",
+      "new": "بنك يو بي إس قال بآب إنو الوصول لخمسة آلاف دولار رح يكون صعب بالنص الأول من السنة الجاية.",
+      "severity": "should"
+    },
+    {
+      "line": "c08:L126",
+      "problem": "'رمتو' (threw it) is wrong for 'dumped it'; 'جمهور اشترى من فوق' is stiff and can sound mocking.",
+      "old": "ومو لأنو البنوك المركزية رمتو. جمهور اشترى من فوق، وبعدين الفايدة والدولار غيّروا المزاج.",
+      "new": "ومو لأنو البنوك المركزية باعته. ناس كتير اشتروا وهو بأعلى سعر، وبعدين الفايدة والدولار غيّروا المزاج.",
+      "severity": "should"
+    },
+    {
+      "line": "c08:L128",
+      "problem": "'وهيك صار شجار' is unclear; English: 'that is why it is a fight' (the comment fight).",
+      "old": "ما حدا بيعرف. وهيك صار شجار.",
+      "new": "ما حدا بيعرف. ولهيك بتصير الخناقة.",
+      "severity": "should"
+    },
+    {
+      "line": "s2:hook",
+      "problem": "'عُشر الذهب راح' reads as 'a tenth of all the gold vanished' (the physical gold), not the price. Misleading and the damma is a TTS risk.",
+      "old": "عُشر الذهب راح بيوم واحد",
+      "new": "الذهب خسر عشرة بالمية بيوم واحد",
+      "severity": "should"
+    },
+    {
+      "line": "c00:L14",
+      "problem": "Skip says 'اختم' (stamp it) which sounds like an order to Karto to stamp something; the English is 'Stamp me.'",
+      "old": "سهلة. اختم.",
+      "new": "سهلة. ختمني.",
+      "severity": "nice"
+    }
+  ],
+  "strings_fixes": [
+    {"key_or_text": "title (line 1)", "old": "الذهب نزل تلاتين بالمية. شو صار فعلاً؟", "new": "الذهب نزل ٣٠٪.. شو صار فعلاً؟"},
+    {"key_or_text": "HOOK", "old": "نزل تلاتين بالمية. بس مو بيوم.", "new": "نزل ٣٠٪. بس مو بيوم واحد."},
+    {"key_or_text": "END", "old": "كم جبت من سبعة؟", "new": "كم جبت من ٧؟"},
+    {"key_or_text": "minus30", "old": "-٣٠٪", "new": "−٣٠٪ (use U+2212 minus and wrap the whole string with an LRM so the sign stays on the left in RTL; the ASCII hyphen flips to the right of the number)"},
+    {"key_or_text": "queue_sellers", "old": "طوابير بايعين", "new": "طوابير بيع"},
+    {"key_or_text": "r_rates", "old": "رهان على فايدة أقل", "new": "توقّع فايدة أقل"},
+    {"key_or_text": "fomo", "old": "الخوف من الفوات", "new": "الخوف من تفويت الفرصة"},
+    {"key_or_text": "peak_price", "old": "+٥٬٥٠٠ دولار", "new": "أكتر من ٥٬٥٠٠ دولار"},
+    {"key_or_text": "one_day_tenth", "old": "حوالي -١٠٪ بيوم واحد", "new": "نزل حوالي ١٠٪ بيوم واحد"},
+    {"key_or_text": "souk_quote", "old": "«بيع بالهلع، مو بيع من الضيق»", "new": "«بيع هلع، مو بيع اضطراري»"},
+    {"key_or_text": "distress", "old": "ضيق: لازم بيع", "new": "اضطرار: لازم أبيع"},
+    {"key_or_text": "panic", "old": "هلع: الكل بيركض", "new": "هلع: الكل عم يركض"},
+    {"key_or_text": "st_jan", "old": "كانون التاني: فوق ٥٬٥٠٠$", "new": "كانون التاني: فوق ٥٬٥٠٠ دولار"},
+    {"key_or_text": "st_jun", "old": "منتصف حزيران: حوالي ٤٬٢٠٠$", "new": "منتصف حزيران: حوالي ٤٬٢٠٠ دولار"},
+    {"key_or_text": "st_nov", "old": "منتصف تشرين التاني: حوالي ٣٬٨٠٠$", "new": "منتصف تشرين التاني: حوالي ٣٬٨٠٠ دولار"},
+    {"key_or_text": "hike_bets", "old": "رهان على رفع الفايدة", "new": "توقّع رفع الفايدة"},
+    {"key_or_text": "minus27", "old": "-٢٫٧٪ (١٢ تشرين التاني)", "new": "نزل ٢٫٧٪ (١٢ تشرين التاني)"},
+    {"key_or_text": "now_price", "old": "حوالي ٣٬٨٠٠$ للأونصة", "new": "حوالي ٣٬٨٠٠ دولار للأونصة"},
+    {"key_or_text": "low_lbl", "old": "الأدنى من تشرين الأول ٢٠٢٥", "new": "أقل سعر منذ تشرين الأول ٢٠٢٥"},
+    {"key_or_text": "gold_in_dollars", "old": "متسعّر بالدولار", "new": "بيتسعّر بالدولار"},
+    {"key_or_text": "yield5", "old": "عوائد الخزينة: قرابة ٥٪", "new": "فايدة سندات الخزينة: قرابة ٥٪"},
+    {"key_or_text": "gs_quote", "old": "غولدمان: الرفع بيضغط على طلب المستثمرين", "new": "غولدمان: رفع الفايدة بيضغط على طلب المستثمرين"},
+    {"key_or_text": "guess_tape (c05 and c06)", "old": "اختبار تحمّل، مو توقّع", "new": "اختبار ضغط، مو توقّع"},
+    {"key_or_text": "p850 / b850", "old": "٨٥٠$", "new": "٨٥٠ دولار"},
+    {"key_or_text": "b737", "old": "اليوم التاني: ٧٣٧٫٥٠$ (-١٣٪)", "new": "اليوم اللي بعده: ٧٣٧٫٥٠ دولار (نزل ١٣٪)"},
+    {"key_or_text": "minus40plus", "old": "أكتر من -٤٠٪ عن القمة", "new": "أكتر من ٤٠٪ تحت القمة"},
+    {"key_or_text": "minus9", "old": "-٩٪ بيوم واحد", "new": "نزل ٩٪ بيوم واحد"},
+    {"key_or_text": "t2011", "old": "٢٠١١: القمة حوالي ١٬٩٠٠$", "new": "٢٠١١: القمة حوالي ١٬٩٠٠ دولار"},
+    {"key_or_text": "t2015", "old": "كانون الأول ٢٠١٥: حوالي ١٬٠٥٠$", "new": "كانون الأول ٢٠١٥: حوالي ١٬٠٥٠ دولار"},
+    {"key_or_text": "t2020", "old": "آب ٢٠٢٠: رجع فوق ٢٬٠٠٠$", "new": "آب ٢٠٢٠: رجع فوق ٢٬٠٠٠ دولار"},
+    {"key_or_text": "cb_tonnes", "old": "~٢٨٩ طن بالربع التاني (رقم قياسي)", "new": "حوالي ٢٨٩ طن بالربع التاني (رقم قياسي)"},
+    {"key_or_text": "gs_2027", "old": "نهاية ٢٠٢٧: ٤٬٦٥٠$", "new": "نهاية ٢٠٢٧: ٤٬٦٥٠ دولار"},
+    {"key_or_text": "gs_2028", "old": "نهاية ٢٠٢٨: فوق ٥٬٦٠٠$", "new": "نهاية ٢٠٢٨: فوق ٥٬٦٠٠ دولار"},
+    {"key_or_text": "ubs_5k", "old": "٥٬٠٠٠$ بالنص الأول من ٢٠٢٧", "new": "٥٬٠٠٠ دولار بالنص الأول من ٢٠٢٧"},
+    {"key_or_text": "challenging", "old": "«تحدّي»", "new": "«صعب»"},
+    {"key_or_text": "bear_a", "old": "دب: ٣٬٥٠٠$ إذا انكسر مستوى مهم", "new": "دب (متوقّع نزول): ٣٬٥٠٠ دولار إذا انكسر مستوى مهم"},
+    {"key_or_text": "bear_b", "old": "دب: ٣٬٤٠٠$", "new": "دب (متوقّع نزول): ٣٬٤٠٠ دولار"},
+    {"key_or_text": "bull_a", "old": "ثور: رجوع فوق ٤٬٠٠٠$", "new": "ثور (متوقّع طلوع): فوق ٤٬٠٠٠ دولار"},
+    {"key_or_text": "cube_22m", "old": "كل الذهب يلي انحفر: مكعّب ~٢٢ م", "new": "كل الذهب اللي انستخرج بالتاريخ: مكعّب حوالي ٢٢ متر"},
+    {"key_or_text": "bar_kg", "old": "سبيكة وحدة: حوالي ١٢٫٤ كغ", "new": "سبيكة وحدة: حوالي ١٢٫٤ كيلو"},
+    {"key_or_text": "Shorts CTA (all s1-s7)", "old": "هي القطعة الأولى من سبعة. والسبعة كلهم بالفيديو الكامل.", "new": "هاي القطعة الأولى من سبعة. والسبعة كلهم بالفيديو الكامل. (use 'هاي', matches persona.md; same for s2..s7)"},
+    {"key_or_text": "s3 hook", "old": "تلات شغلات نزّلوا الذهب", "new": "تلات أشياء نزّلت الذهب"},
+    {"key_or_text": "s6 hook", "old": "الذهب انتظر مرة حوالي تسع سنين", "new": "مرة، الذهب انتظر حوالي تسع سنين ليرجع لقمته"},
+    {"key_or_text": "s7 hook", "old": "سبيكة ذهب. حوالي مليون ونص.", "new": "سبيكة ذهب وحدة بحوالي مليون ونص دولار"}
+  ],
+  "title_options": [
+    "الذهب نزل ٣٠٪.. بس مو بيوم واحد! شو صار فعلاً؟",
+    "ليش الذهب خسر ٣٠٪؟ القصة الحقيقية بسبع قطع كرتون",
+    "ذهب عيلتك نزل ٣٠٪؟ شو صار فعلاً (بلا هلع)"
+  ],
+  "regional_notes": [
+    "Teen numbers: replace the slurred forms everywhere in spoken lines (خمستاشر، تلاتاشر، سبعتاشر، تسعطعش، اتناشر، حداشر) with the full forms (خمسة عشر، ثلاثة عشر، سبعة عشر، تسعة عشر، اثني عشر، أحد عشر). Same lines: c06:L94 'تمنمية وخمسين' -> 'ثمانمية وخمسين', c06:L96 'تلاتاشر', 'سبعمية وسبعة وتلاتين' (add 'دولار ونص'), c06:L97 'تلاتاشر', c06:L100 'ألفين وحداشر', c03:L48. TTS and ASR check will match these far better and every dialect reads them.",
+    "Thousands: never say 'xx مية' for prices (thirty-eight hundred). Always 'ثلاثة آلاف وثمانمية'. Use 'ثلاثة/أربعة/خمسة آلاف' with the masculine form (not 'أربع آلاف', 'خمس آلاف') so the voice does not stumble.",
+    "Month names: the Levantine names (كانون التاني، تشرين التاني، نيسان، آب) are understood in Egypt and the Gulf, but 'يناير / نوفمبر / أبريل / أغسطس' are the names those viewers actually use. Suggest a global swap in the spoken lines and strings if the audience is pan-Arab; keep the Levantine names only if the channel wants a clear Syrian flavour. The persona says 'Syrian-leaning', so this is a channel decision, not a defect.",
+    "Idiom traps: 'ما في فايدة' = 'it is useless' (also 'مفيش فايدة' in Egypt) - avoid it near the word 'فايدة' meaning interest. 'الإتنين' = Monday. 'إيه' = 'what' in Egypt. 'مرة' alone can mean 'once' or 'a woman'. 'يلي' is fine, but 'اللي' is understood by everyone and is safer for the Gulf.",
+    "Seesaw: 'الأرجوحة' means a swing in most dialects. The image is a seesaw (أرجوحة التوازن / 'سيسو' in Egypt). Suggest the first mention in c04 says 'أرجوحة الميزان' once, after that 'الأرجوحة' is clear. The on-screen visual carries the rest.",
+    "Interest and betting vocabulary: many Gulf and conservative viewers avoid interest (فايدة) and 'رهان' (betting). The script describes interest factually (how gold, bonds and loans behave) and never recommends it: keep that neutral tone, do not add a lecture or a disclaimer about riba. The strings fixes replace 'رهان' with 'توقّع' to avoid the gambling flavour at no cost.",
+    "Gold as family savings: the tone in c00 (L9) and c05 (L87-89) is respectful, and the c05:L89 fix adds one warm sentence ('ما حدا بيعرف القمة...') so buyers near the top do not feel mocked. Skip's 'حضن بدرج' is affectionate and funny, keep it. Do not let Skip joke about family or wedding gold.",
+    "Politically touchy: none of note. The American president is not named, the central banks listed (China, Poland, Uzbekistan) are neutral, and the Dubai souk quote is attributed to a named shop owner, not to Dubai as a whole. The only line to watch is c02:L40 (Dubai sellers 'panicking'): keep the quote and the 'عادةً بتشتري' framing so it reads as a market event, not as a comment on the UAE.",
+    "Bidi: minus signs and dollar signs next to Arabic-Indic digits flip in RTL (-٣٠٪ shows as ٣٠٪- ; ٥٬٥٠٠$ shows as $٥٬٥٠٠). The strings fixes use words ('نزل ٣٠٪', '... دولار') instead of signs; where a sign is needed, use U+2212 and wrap the string in LRM.",
+    "Foreign names for the voice: كيفن وورش، أنيل دهانك، كانز جويلز، خليج تايمز، كابيتال إيكونوميكس، غولدمان ساكس، فيتش، يو بي إس، كيتكو، جيمس ستانلي, أوزبكستان. Do a first-take ASR check; consider writing 'كيتكو' as 'كيتكو' only once and 'ستانلي' alone after the first mention to shorten the list in c07."
+  ]
+}

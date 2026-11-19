@@ -1,0 +1,18 @@
+{
+  "cap_tf_bw": {"en": "AN OLDER NEW YORK STOCK EXCHANGE FLOOR", "ar": "صالة بورصة نيويورك القديمة"},
+  "cap_tf": {"en": "A TRADING FLOOR", "ar": "صالة تداول"},
+  "cap_krugerrand": {"en": "A KRUGERRAND GOLD COIN (MODERN STRIKE)", "ar": "عملة ذهب كروغراند (سك حديث)"},
+  "cap_gold_coins": {"en": "GOLD COINS", "ar": "عملات ذهب"},
+  "cap_miners_old": {"en": "OLD PHOTO: MINERS AT WORK", "ar": "صورة قديمة: عمّال مناجم"},
+  "cap_mine": {"en": "AN OPEN-PIT GOLD MINE", "ar": "منجم ذهب مفتوح"},
+  "cap_bars_worker": {"en": "OLD PHOTO: STAMPING GOLD BARS", "ar": "صورة قديمة: ختم سبائك الذهب"},
+  "cap_pboc": {"en": "CHINA'S CENTRAL BANK (PBOC), BEIJING", "ar": "البنك المركزي الصيني (PBOC)، بكين"},
+  "cap_nbp": {"en": "POLAND'S CENTRAL BANK, WARSAW", "ar": "البنك المركزي البولندي، وارسو"},
+  "cb_uz": {"en": "UZBEKISTAN", "ar": "أوزبكستان"},
+  "cap_goldman": {"en": "GOLDMAN SACHS, NEW YORK", "ar": "غولدمان ساكس، نيويورك"},
+  "cap_seven": {"en": "A SEVEN-STOREY BUILDING, FOR SCALE", "ar": "بناية من سبع طوابق، للمقارنة"},
+  "cap_nugget": {"en": "A GOLD NUGGET", "ar": "حبّة ذهب خام"},
+  "cap_bar_stamps": {"en": "STAMPS ON A GOLD BAR", "ar": "الأختام على سبيكة ذهب"},
+  "cap_boe_bars": {"en": "REAL GOLD BARS", "ar": "سبائك ذهب حقيقية"},
+  "not_prediction": {"en": "NOT A PREDICTION", "ar": "مو توقّع"}
+}

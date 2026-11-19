@@ -1,0 +1,128 @@
+{
+  "note": "Source for make-kit.py (writes productions/<id>/publish-kit.json + shorts/shorts-kit.json). Edit here, then re-run. No AI-generation wording anywhere (scripts/ai_text.py guard runs inside make-kit.py). Numbers only from the script.",
+  "productions": { "en": "expl-261119-i2xn", "ar": "expl-261119-x0ki" },
+  "thumb_dir": "docs/brands/karto/gold/thumbs",
+  "thumb_default": "A",
+  "category": "Education",
+  "playlist": { "en": "Karto & Skip: full stories", "ar": "كرتو وسكيب: القصة كاملة" },
+  "end_screen": "Two video slots (best for viewer + latest upload) + subscribe on the ring; the last 12 s are built for it.",
+  "photo_credit_extra": {
+    "miners_old": "Wellcome Collection",
+    "cb_vault": "US National Archives",
+    "bond": "Hennepin County Library / Digital Public Library of America"
+  },
+  "en": {
+    "titles": [
+      "Gold Is Down 30%, But Not in One Day. Here's What Happened",
+      "Gold Fell 30% From Its Record. Who Sold, and Why?",
+      "From $5,500 to $3,800: The Gold Story in 7 Pieces"
+    ],
+    "hook": "Gold is about 30% below its January 2026 record. But it did not fall 30% in one day.\nKarto tells the real story in 7 cardboard pieces: who bought, who sold, and why it slid.",
+    "covers": "The record above $5,500, the Friday in January when gold fell about 9% in a day, the queues at the Dubai Gold Souk, the slow slide to about $3,800 in mid-November, why interest rates and the dollar push money out of a metal that pays nothing, who gets hurt (India's gold loans), the time gold waited about nine years, and what analysts say now. Skip (he is you) tries to skip. He does not.",
+    "score_line": "Write your score out of 7: how many of the 7 pieces did you already know before Karto said them?",
+    "sources_title": "Sources",
+    "sources": [
+      "Khaleej Times, 1 Feb 2026 (Dubai Gold Souk sellers, jeweller Anil Dhanak: panic selling, not distress selling)",
+      "Kitco (price reports, Goldman Sachs forecast of 17 Nov, weekly survey) and Reuters reports carried by Kitco",
+      "World Gold Council (central bank buying, gold held above ground)",
+      "CBS News (record price in January 2026)",
+      "Fitch Ratings (India gold loans: lenders can absorb a first fall of about 15%; a stress test, not a forecast)",
+      "Capital Economics (FOMO-driven rally comment)",
+      "Numbers: record above $5,500 (late Jan 2026), about 9% fall in one day on Friday 30 Jan 2026, about $3,800 in mid-Nov 2026, about 30% below the record. One standard bar is about 12.4 kg, about $1.5 million."
+    ],
+    "credits_title": "Photo and clip credits",
+    "credits_clips_title": "Video clips",
+    "via": "via Wikimedia Commons",
+    "disclaimer": "This video is for information only. It is not financial advice.",
+    "pinned_comment": "The people in that January queue at the Dubai Gold Souk: panic, or the smart ones? Would you have sold, or held? Tell Skip. And your score out of 7: how many pieces did you already know? (Not financial advice.)",
+    "hashtags": ["#Gold", "#GoldPrice", "#Economy"],
+    "tags": [
+      "gold price", "gold price drop", "why is gold falling", "gold down 30%", "gold record high",
+      "gold 5000", "gold crash", "gold explained", "gold news november 2026", "gold and interest rates",
+      "gold and the dollar", "dubai gold souk", "central banks buying gold", "gold bull or bear",
+      "should i sell gold", "gold sell off", "gold india loans", "gold $3,800", "money explained", "karto and skip"
+    ],
+    "thumbnail_note": "Candidates A (-30% arrow), B (NOT IN ONE DAY staircase), C (WHO SOLD? queue). Owner picks; copy the pick to productions/<id>/thumbnail.jpg."
+  },
+  "ar": {
+    "titles": [
+      "الذهب نزل ٣٠٪ من أعلى سعر.. بس مو بيوم واحد! شو صار؟",
+      "مين باع الذهب؟ القصة وراء نزول ٣٠٪",
+      "من ٥٥٠٠ دولار لـ٣٨٠٠: قصة الذهب بسبع قطع"
+    ],
+    "hook": "الذهب نزل حوالي ٣٠٪ من أعلى سعر وصله بيناير ٢٠٢٦. بس مو بيوم واحد.\nكرتو بيحكي القصة الحقيقية بسبع قطع من كرتون: مين اشترى، مين باع، وليش نزل.",
+    "covers": "الرقم القياسي فوق ٥٥٠٠ دولار، الجمعة يلي نزل فيها الذهب حوالي ٩٪ بيوم، طوابير البيع بسوق الذهب بدبي، النزول البطيء لحدود ٣٨٠٠ دولار بنص نوفمبر، ليش الفايدة والدولار بيسحبوا المصاري من معدن ما بيدفع شي، مين بيتأذّى (قروض الذهب بالهند)، المرة يلي الذهب انتظر حوالي تسع سنين، وشو بيقول المحللين هلأ. وسكيب (يعني إنت) بيحاول يعمل سكيب. وما بيقدر.",
+    "score_line": "اكتب نتيجتك من ٧: كم قطعة من السبعة كنت بتعرفها قبل ما يقولها كرتو؟",
+    "sources_title": "المصادر",
+    "sources": [
+      "Khaleej Times، ١ فبراير ٢٠٢٦ (بائعو الذهب بسوق دبي، التاجر Anil Dhanak: بيع بدافع الذعر مو بدافع الضيق)",
+      "Kitco (تقارير الأسعار، توقع Goldman Sachs بـ١٧ نوفمبر، الاستطلاع الأسبوعي) وتقارير Reuters المنشورة عبر Kitco",
+      "World Gold Council (مشتريات البنوك المركزية، الذهب الموجود فوق الأرض)",
+      "CBS News (السعر القياسي بيناير ٢٠٢٦)",
+      "Fitch Ratings (قروض الذهب بالهند: المقرضين بيتحملوا نزول أول بحدود ١٥٪؛ اختبار ضغط مو توقع)",
+      "Capital Economics (تعليق إنو الارتفاع كان مدفوع بالخوف من الفوات)",
+      "الأرقام: أعلى سعر فوق ٥٥٠٠ دولار (آخر يناير ٢٠٢٦)، نزول حوالي ٩٪ بيوم واحد يوم الجمعة ٣٠ يناير ٢٠٢٦، حوالي ٣٨٠٠ دولار بنص نوفمبر ٢٠٢٦، وحوالي ٣٠٪ تحت أعلى سعر. سبيكة الذهب العادية حوالي ١٢٫٤ كغ وحوالي ١٫٥ مليون دولار."
+    ],
+    "credits_title": "حقوق الصور والمقاطع",
+    "credits_clips_title": "مقاطع الفيديو",
+    "via": "عبر ويكيميديا كومنز",
+    "disclaimer": "هاد الفيديو للمعلومات بس. ما هو نصيحة مالية.",
+    "pinned_comment": "الناس يلي كانوا بطابور يناير بسوق الذهب بدبي: ذعر، ولا الأذكياء؟ كنت بتبيع، ولا بتمسك؟ قول لسكيب. ونتيجتك من ٧: كم قطعة كنت بتعرفها؟ (مو نصيحة مالية.)",
+    "hashtags": ["#الذهب", "#سعر_الذهب", "#اقتصاد"],
+    "tags": [
+      "سعر الذهب", "نزول الذهب", "ليش الذهب نزل", "الذهب نزل ٣٠٪", "أعلى سعر للذهب",
+      "الذهب ٥٠٠٠ دولار", "انهيار الذهب", "شرح الذهب", "اخبار الذهب", "الذهب والفايدة",
+      "الذهب والدولار", "سوق الذهب بدبي", "البنوك المركزية والذهب", "هل أبيع الذهب",
+      "توقعات الذهب", "قروض الذهب بالهند", "اقتصاد مبسّط", "gold price", "كرتو وسكيب"
+    ],
+    "thumbnail_note": "Candidates A (٣٠٪ arrow), B (مو بيوم واحد staircase), C (مين باع؟ queue). Owner picks; copy the pick to productions/<id>/thumbnail.jpg."
+  },
+  "shorts": {
+    "full_video_placeholder": "{{FULL_VIDEO_URL}}",
+    "post_order": ["s2", "s1", "s6", "s3", "s4", "s5", "s7"],
+    "post_order_why": {
+      "s2": "Strongest first: a queue to SELL gold in Dubai is a one-second surprise, and the real souk footage carries it.",
+      "s1": "Big round number ($5,000) and a who-was-buying question; the record is the easy entry to the story.",
+      "s6": "A clear one-line fact (about nine years of waiting) that adds calm after two hot ones.",
+      "s3": "Three-reasons list, easy to follow, sets up the interest-rate Short.",
+      "s4": "Explains the mechanism (rates vs a metal that pays nothing); needs s3 context, so it comes after it.",
+      "s5": "Human angle (gold kept for a bad year, India gold loans); softer hook.",
+      "s7": "Forecast Short: 'nobody knows' is honest but the weakest hook; last, with the full-video link carrying the close."
+    },
+    "items": [
+      { "id": "s1", "piece": 1, "lines": "l013-l019",
+        "hook_text_en": "GOLD PASSED FIVE THOUSAND DOLLARS. WHO WAS BUYING?", "hook_text_ar": "الذهب عدّى خمسة آلاف دولار. مين كان عم يشتري؟",
+        "en": { "title": "Gold Passed $5,000. Who Was Buying? #Shorts", "hashtags": ["#Gold", "#GoldPrice", "#Shorts"] },
+        "ar": { "title": "الذهب عدّى ٥٠٠٠ دولار. مين كان عم يشتري؟ #Shorts", "hashtags": ["#الذهب", "#سعر_الذهب", "#Shorts"] } },
+      { "id": "s2", "piece": 2, "lines": "l027-l032",
+        "hook_text_en": "QUEUES TO SELL GOLD IN DUBAI", "hook_text_ar": "طوابير لبيع الذهب بدبي",
+        "en": { "title": "Queues to SELL Gold in Dubai #Shorts", "hashtags": ["#Gold", "#Dubai", "#Shorts"] },
+        "ar": { "title": "طوابير لبيع الذهب بدبي! #Shorts", "hashtags": ["#الذهب", "#دبي", "#Shorts"] } },
+      { "id": "s3", "piece": 3, "lines": "l036-l043",
+        "hook_text_en": "THREE THINGS PUSHED GOLD DOWN", "hook_text_ar": "تلات أشياء نزّلت الذهب",
+        "en": { "title": "3 Things That Pushed Gold Down #Shorts", "hashtags": ["#Gold", "#GoldPrice", "#Shorts"] },
+        "ar": { "title": "تلات أشياء نزّلت الذهب #Shorts", "hashtags": ["#الذهب", "#سعر_الذهب", "#Shorts"] } },
+      { "id": "s4", "piece": 4, "lines": "l046-l055",
+        "hook_text_en": "WHY GOLD HATES HIGH INTEREST RATES", "hook_text_ar": "ليش الذهب بيكره الفايدة العالية",
+        "en": { "title": "Why Gold Hates High Interest Rates #Shorts", "hashtags": ["#Gold", "#InterestRates", "#Shorts"] },
+        "ar": { "title": "ليش الذهب بيكره الفايدة العالية؟ #Shorts", "hashtags": ["#الذهب", "#الفايدة", "#Shorts"] } },
+      { "id": "s5", "piece": 5, "lines": "l066-l069",
+        "hook_text_en": "THE GOLD YOU KEEP FOR A BAD YEAR", "hook_text_ar": "الذهب اللي بتخبّيه لسنة صعبة",
+        "en": { "title": "The Gold You Keep for a Bad Year #Shorts", "hashtags": ["#Gold", "#Savings", "#Shorts"] },
+        "ar": { "title": "الذهب يلي بتخبّيه لسنة صعبة #Shorts", "hashtags": ["#الذهب", "#مدخرات", "#Shorts"] } },
+      { "id": "s6", "piece": 6, "lines": "l074-l080",
+        "hook_text_en": "GOLD ONCE WAITED ABOUT NINE YEARS", "hook_text_ar": "مرة، الذهب انتظر حوالي تسع سنين ليرجع لقمته",
+        "en": { "title": "Gold Once Waited 9 Years to Recover #Shorts", "hashtags": ["#Gold", "#GoldHistory", "#Shorts"] },
+        "ar": { "title": "الذهب انتظر ٩ سنين ليرجع لقمته #Shorts", "hashtags": ["#الذهب", "#تاريخ", "#Shorts"] } },
+      { "id": "s7", "piece": 7, "lines": "l087-l093",
+        "hook_text_en": "NOBODY KNOWS WHERE GOLD GOES NEXT", "hook_text_ar": "ما حدا بيعرف وين رايح الذهب",
+        "en": { "title": "Nobody Knows Where Gold Goes Next #Shorts", "hashtags": ["#Gold", "#GoldPrice", "#Shorts"] },
+        "ar": { "title": "ما حدا بيعرف وين رايح الذهب #Shorts", "hashtags": ["#الذهب", "#سعر_الذهب", "#Shorts"] } }
+    ],
+    "desc_line2": {
+      "en": "Piece {piece} of 7 from the full story: Gold Is Down 30%, But Not in One Day. All seven pieces are in the full video on this channel.",
+      "ar": "القطعة {piece} من ٧ من القصة الكاملة: الذهب نزل ٣٠٪ بس مو بيوم واحد. القطع السبعة كلها بالفيديو الكامل على هالقناة."
+    },
+    "desc_line3": { "en": "Not financial advice.", "ar": "مو نصيحة مالية." }
+  }
+}

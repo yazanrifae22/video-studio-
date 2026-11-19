@@ -1,0 +1,322 @@
+{
+  "round": 2,
+  "checker": "independent fact-checker (Haiku 5.5), 2026-11-19, no web calls",
+  "verdict": "fix",
+  "scope": "round-1 wrong/unsupported/imprecise/unverified items + storyboard revision_log lines + all on-screen strings with digits (48) + shorts text. Spoken text is en only; ar not re-checked except digit consistency.",
+  "counts": {
+    "fixed": 35,
+    "still_open": 2,
+    "ok": 7,
+    "new_issue": 5
+  },
+  "items": [
+    {
+      "line_or_key": "l003",
+      "status": "fixed",
+      "finding": "Round-1 wording applied: 'And the central banks? As a group, they kept buying.' Matches decision 2 and string-level WGC note.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l005",
+      "status": "fixed",
+      "finding": "'In one January day gold fell almost a tenth of its price.' Matches decision 1 ('almost a tenth'); on-screen ABOUT -9% IN ONE DAY is consistent (9.5% intraday, ~9% close). Dubai queues tied to 'That same week' in l027, no Thursday.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l014",
+      "status": "still_open",
+      "finding": "Attribution added ('Analysts cited'), but 'bets on lower rates and a weaker dollar' is still unconfirmed (round-1 l014: ONE-SOURCE, Gulf News summary only, not seen in search). Safe-haven/geopolitics part is verified.",
+      "fix": "Everybody. Analysts cited people hiding from a nervous world, and a safe-haven rush and geopolitical tension."
+    },
+    {
+      "line_or_key": "l015",
+      "status": "fixed",
+      "finding": "'One research firm, Capital Economics, called the rally FOMO-driven.' 'exactly that' dropped as asked. Claim still rests on one undated sheet source; keep the attribution.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l019",
+      "status": "ok",
+      "finding": "'It was. For a few days.' Peak 28 Jan, fall 30 Jan: correct. Missing fact note now covered.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l020",
+      "status": "fixed",
+      "finding": "'Friday, the thirtieth of January. Two days after the record.' Thursday removed. Verified: 30 Jan 2026 is a Friday; 28 Jan (CBS record) to 30 Jan is two days.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l023",
+      "status": "fixed",
+      "finding": "'When traders are unsure, many sell.' General rule softened as the round-1 note asked. Hedged 'one report says' kept.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l024",
+      "status": "fixed",
+      "finding": "'Gold fell about nine percent in a single day. Some reports said more.' Matches round-1 fix; 'eight to twelve' removed.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l027",
+      "status": "new_issue",
+      "finding": "Minor, not in the sheets: 'shop after shop' is a visual detail. Sources give only long queues of sellers at the Dubai Gold Souk (Khaleej Times, date not found).",
+      "fix": "The Gold Souk. That same week, sellers formed long queues."
+    },
+    {
+      "line_or_key": "l028",
+      "status": "new_issue",
+      "finding": "Round-1 quote fix applied (attributed paraphrase, Anil Dhanak, Khaleej Times). NEW sentence 'people normally go to that souk to buy' has no support in the fact sheets or round-1 findings (general knowledge, but unsourced). Exact wording is a paraphrase, correctly not in quote marks on screen (souk_quote string OK).",
+      "fix": "Odd. A Dubai jeweller, Anil Dhanak, told Khaleej Times it looked like panic selling, not distress selling. (Script flow: Skip's question in l028 loses its referent; fix that in the surrounding line, not with an unsourced claim.)"
+    },
+    {
+      "line_or_key": "l031",
+      "status": "fixed",
+      "finding": "'A Titan executive said gold in Dubai trades so easily that mood moves the price fast.' Attributed in speech; on-screen string MARKET MOOD (TITAN EXECUTIVE) matches.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l034",
+      "status": "fixed",
+      "finding": "'So a slow, boring slide.' 'crash' replaced with 'slide' as the sheet's Crash-or-slide section asks. l033 'did not crash again' is a negation and is fine.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l040",
+      "status": "fixed",
+      "finding": "'By mid-November, about thirty-eight hundred dollars an ounce, the lowest in over a year.' Matches decision 3. Sheet range seen 3,831-3,874 (16-17 Nov), so 'about 3,800' is within range. On-screen MID-NOV / ABOUT $3,800 / LOWEST IN OVER A YEAR agree.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l041",
+      "status": "fixed",
+      "finding": "'About thirty percent from the record, a little more at the low. Not in a day. In under ten months.' Round-1 wording applied exactly. Arithmetic in arithmetic[] below.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l054",
+      "status": "fixed",
+      "finding": "'One report put Treasury yields near five percent.' Hedge kept; on-screen ONE REPORT: YIELDS NEAR 5% matches.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l060",
+      "status": "new_issue",
+      "finding": "Clarity, not a wrong number: 'your gold is worth eighty, your loan is still seventy-five' reads as still covered to a viewer. Arithmetic: 75/80 = 93.75% LTV, above the 75% cap in l059 and the LOAN-TO-VALUE 75% MAX string. The line should say so.",
+      "fix": "Now gold falls. Your gold is worth eighty, your loan is still seventy-five. That is about ninety-four percent of the new value, over the rule. The lender says: add gold, or pay some back."
+    },
+    {
+      "line_or_key": "l063",
+      "status": "fixed",
+      "finding": "'Lenders could absorb a first fall of about fifteen percent. A further fifteen to twenty percent could test them.' Round-1 wording applied; Fitch attribution on screen (fitch_a/fitch_b) matches.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l072",
+      "status": "fixed",
+      "finding": "'Within days it fell sharply. By March nineteen eighty, one source puts it more than forty percent below the peak.' $737.50 and -13% removed (unsupported). On-screen b_days and minus40plus (ONE SOURCE) agree.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l076",
+      "status": "fixed",
+      "finding": "'It did not get back above its twenty eleven peak until twenty twenty. About nine years.' Month dropped as round 1 asked. 2011 to 2020 = 9 years. Note: the do-not-say list says 'recovered in year X: not found', but G5 has Aug 2020 as ONE-SOURCE; the spoken line relies on that one source, and the on-screen t2020 string has no single-source tag (see t2020).",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l081",
+      "status": "fixed",
+      "finding": "'Reports say about two hundred eighty-nine tonnes in the second quarter.' 'a record' removed. Matches cb_tonnes ~289 t IN Q2 (288.9 t).",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l085",
+      "status": "fixed",
+      "finding": "'Goldman Sachs, on the seventeenth: about forty-six hundred fifty dollars by the end of next year.' 2028 target dropped. Attribution on screen via gs_card (GOLDMAN SACHS, 17 NOV, VIA KITCO); FORECAST, NOT FACT tape on screen; l084 says it is a forecast. Source is ONE-SOURCE (Kitco), so the on-screen credit must stay.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l086",
+      "status": "fixed",
+      "finding": "UBS line removed from the script (decision 6). UBS strings (ubs_5k, ubs_card) removed too. Nothing left in the storyboard refers to UBS.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l087",
+      "status": "fixed",
+      "finding": "'The bear first: one analyst says thirty-five hundred if a key level breaks. In Kitco's weekly survey, most expected lower.' Second bear dropped per decision 6. Chandler: $3,500 if $3,750 breaks (sheet). Survey: 10 bearish of 15 in counts, so 'most' holds (page's 62% is not used).",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l088",
+      "status": "fixed",
+      "finding": "'The bull: James Stanley expects a short-term move back above four thousand.' 'short-term' added as asked; on-screen BULL (SHORT-TERM) agrees.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l091",
+      "status": "new_issue",
+      "finding": "Spoken and on-screen disagree: spoken 'about twenty-two and a half metres' (= 22.5) vs on-screen cube_22m '~22.6 m CUBE'. Computed: 224,000 t / 19.3 t per m3 = 11,606 m3, cube root = 22.64 m. 22.5 would need a density of 19.67, so the spoken figure is the wrong one.",
+      "fix": "Wow fact. All the gold ever mined fits in a cube about twenty-two point six metres on each side."
+    },
+    {
+      "line_or_key": "l093",
+      "status": "fixed",
+      "finding": "Spoken bar weight removed; on-screen bar_kg 'ABOUT 12.4 kg' is the only kilogram figure (sheet 400 oz = 12.44 kg). No spoken 12.5 remains.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "l096",
+      "status": "new_issue",
+      "finding": "Round-1 fix applied ('Some analysts say a crowd bought near the top') but ADDED 'then rates and the dollar changed the mood': a causal claim with no source for the January sell-off (sheet: bubble unwind and FOMO ONE-SOURCE; rates/dollar drivers are for November). Keep it out of the January attribution.",
+      "fix": "I will take it. Gold is about thirty percent below its record. Not in a day. Central banks, as a group, kept buying. Some analysts say a crowd bought near the top."
+    },
+    {
+      "line_or_key": "st_jan",
+      "status": "ok",
+      "finding": "JAN: ABOVE $5,500 matches CBS 5,589 (28 Jan) and l017 'above fifty-five hundred'.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "jan30",
+      "status": "fixed",
+      "finding": "'30 JAN 2026 (FRIDAY)' (was jan29, Thursday). Matches l020 and decision 1.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "one_day_nine",
+      "status": "fixed",
+      "finding": "'ABOUT -9% IN ONE DAY' (was -10%). Matches 'almost a tenth' in l005 and 'about nine percent' in l024 (close ~9%, intraday ~9.5%).",
+      "fix": ""
+    },
+    {
+      "line_or_key": "b_days",
+      "status": "fixed",
+      "finding": "'WITHIN DAYS: SHARP FALL' (was NEXT DAY $737.50, -13%). Matches l072.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "minus40plus",
+      "status": "fixed",
+      "finding": "'MORE THAN 40% BELOW THE PEAK (ONE SOURCE)' keeps the single-source tag as round 1 asked.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "st_jun",
+      "status": "still_open",
+      "finding": "'MID-JUNE: ABOUT $4,200' is still on screen (piece 3 staircase) with no source tag. Round-1 status unverified (sheet ONE-SOURCE; a 23 Jun Kitco PM report tested $4,100). Not in the spoken script.",
+      "fix": "MID-JUNE: ABOUT $4,200 (ONE SOURCE)   [Arabic: منتصف حزيران: حوالي ٤٬٢٠٠ دولار (مصدر واحد)]   or drop the card"
+    },
+    {
+      "line_or_key": "st_nov",
+      "status": "ok",
+      "finding": "'MID-NOV: ABOUT $3,800' kept per decision 3; spoken 'about thirty-eight hundred' matches. Round-1 suggestion ($3,850) was overridden by the orchestrator, so this is consistent.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "now_price",
+      "status": "ok",
+      "finding": "'ABOUT $3,800 / oz' matches spoken l040 and decision 3.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "low_lbl",
+      "status": "fixed",
+      "finding": "'LOWEST IN OVER A YEAR' (was LOWEST SINCE OCT 2025). Matches l040.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "bear_b",
+      "status": "fixed",
+      "finding": "Second bear string removed (decision 6). bear_a 'BEAR: $3,500 IF A KEY LEVEL BREAKS' matches l087.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "bull_a",
+      "status": "fixed",
+      "finding": "'BULL (SHORT-TERM): BACK ABOVE $4,000' matches l088.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "cube_22m",
+      "status": "fixed",
+      "finding": "'ALL GOLD EVER MINED: ~22.6 m CUBE' is correct on screen. The spoken line disagrees (see l091 new_issue).",
+      "fix": ""
+    },
+    {
+      "line_or_key": "bar_kg",
+      "status": "fixed",
+      "finding": "'ONE BAR: ABOUT 12.4 kg' is the only kg figure in the script. Matches 400 oz = 12.44 kg.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "yield5",
+      "status": "fixed",
+      "finding": "'ONE REPORT: YIELDS NEAR 5%' matches the hedged spoken l054.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "fitch_a",
+      "status": "fixed",
+      "finding": "'FITCH: CAN ABSORB ~15%' matches l063.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "fitch_b",
+      "status": "fixed",
+      "finding": "'NEXT 15-20% = COULD TEST THEM' matches l063 'could test them'.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "panic_hl",
+      "status": "fixed",
+      "finding": "'HEADLINE: \"15% FALL = PANIC\"' labelled as a headline. Matches l065 ('headline talk'). Fitch never said 'panic'.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "cb_tonnes",
+      "status": "fixed",
+      "finding": "'~289 t IN Q2' (RECORD removed). Matches l081.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "ubs_5k",
+      "status": "fixed",
+      "finding": "Removed with the UBS line (decision 6).",
+      "fix": ""
+    },
+    {
+      "line_or_key": "minus27",
+      "status": "ok",
+      "finding": "'-2.7% (12 NOV)' matches l038 'almost three percent' (Nation body 2.7%).",
+      "fix": ""
+    },
+    {
+      "line_or_key": "t2020",
+      "status": "ok",
+      "finding": "'AUG 2020: BACK ABOVE $2,000' is one source's month (JM Bullion dates a 1,957 close to 30 Jul 2020; Money Metals says intraday above 2,000 that month). The spoken line dropped the month, so the on-screen AUG carries the disputed date with no tag. Acceptable; optional fix: 'JUL-AUG 2020: BACK ABOVE 2011 PEAK'.",
+      "fix": ""
+    },
+    {
+      "line_or_key": "t2011",
+      "status": "ok",
+      "finding": "'2011: PEAK ABOUT $1,900' vs spoken 'around nineteen hundred'. Sheet 1,921 (range 1,888-1,923). OK.",
+      "fix": ""
+    }
+  ],
+  "arithmetic": [
+    "30% fall: (5,500 - 3,800) / 5,500 = 30.9%. From CBS peak 5,589: (5,589 - 3,800) / 5,589 = 32.0%. From 3,881 (12 Nov): 30.6% from 5,589. Spoken 'about thirty, a little more at the low' and on-screen -30% are within this range. OK.",
+    "Gold-loan example: LTV at start = 75 / 100 = 75% (the cap). After the fall to 80: 75 / 80 = 93.75%, about 94%, which is over the 75% cap. The numbers are right; l060 should say the LTV (new_issue above).",
+    "Bar value: 400 troy oz x 3,800 = $1,520,000 (about $1.5 million, OK). At 3,881 it would be $1,552,400. Bar weight: 400 x 31.1035 g = 12,441 g = 12.44 kg (on-screen 12.4 kg OK).",
+    "Cube: 224,000 t / 19.3 t per m3 = 11,606 m3. Cube root = 22.64 m (224,200 t gives 22.65 m). On-screen ~22.6 m OK. Spoken 'twenty-two and a half' (22.5) is wrong: it would need a density of 19.67 t/m3 (new_issue l091).",
+    "'About nine years': 2020 - 2011 = 9 years (peak 2011, first back above in Aug 2020 per one source). OK.",
+    "'Under ten months': 28 Jan 2026 to 16 Nov 2026 = 292 days = 9.6 months (30 Jan to 16 Nov = 290 days = 9.5 months). True only when measured from late January, as l041 does; from 1 January it would be 10.5 months. OK as written.",
+    "Dates: 30 Jan 2026 = Friday; 29 Jan 2026 = Thursday; 30 Jan is two days after the 28 Jan record. OK.",
+    "1980: $850 x 0.57 = $484.5, about -43%, matches one source's 'about $480' and supports 'more than forty percent'. $737.50 would be -13.2% from $850 (removed, unsupported). OK.",
+    "2013 fall: 140.30 / (1,361.10 + 140.30) = 9.3%, so 'nine percent' OK.",
+    "One-day January fall: about 9% (close) to 9.5% (intraday) vs 'almost a tenth' (10%). OK as 'almost a tenth'; on-screen -9% OK.",
+    "Central banks Q2: 288.9 t, spoken 'about two hundred eighty-nine' and on-screen ~289 t. OK.",
+    "Record: CBS peak 5,589.38 vs spoken/on-screen 'above fifty-five hundred' and '$5,500+'. OK."
+  ]
+}

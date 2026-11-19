@@ -1,0 +1,3162 @@
+{
+ "schema": "karto-storyboard/1",
+ "slug": "gold",
+ "status": "final r3",
+ "title": {
+  "en": "Gold Is Down Thirty Percent. Here's What Actually Happened",
+  "ar": "الذهب نزل تلاتين بالمية.. بس مو بيوم واحد! شو صار فعلاً؟"
+ },
+ "hook_text": {
+  "en": "THIRTY PERCENT DOWN. NOT IN ONE DAY.",
+  "ar": "الذهب نزل تلاتين بالمية. بس مو بيوم واحد."
+ },
+ "end_text": {
+  "en": "YOUR SCORE OUT OF SEVEN?",
+  "ar": "كم جبت من سبعة؟"
+ },
+ "rules": "Real photos and clips are taped on the board or play on the cardboard TV (owner order: use a lot of real images and videos); every on-screen word is a strings entry; no logos of banks or news outlets as graphics; price charts are drawn by us from the fact-sheet numbers (no screenshots of others' charts); no investment advice; no live price (use 'by mid-November' and 'about thirty-eight hundred dollars'); digits only in strings; credits come from the rights record.",
+ "chapters": [
+  {
+   "id": "c00",
+   "mood": "curious",
+   "title": {
+    "en": "The result",
+    "ar": "النتيجة"
+   },
+   "lines": [
+    {
+     "id": "l001",
+     "who": "karto",
+     "en": "Gold is down about thirty percent from its record. But gold did not fall thirty percent in one day.",
+     "ar": "الذهب نزل حوالي تلاتين بالمية عن رقمه القياسي. بس الذهب ما نزل تلاتين بالمية بيوم واحد.",
+     "picture": "FRAME 0 = thumbnail: a real photo of stacked gold bars in a vault taped on the board (left, big). Right: a cardboard gold bar (gold foil card on a stick) at the top of a cardboard slide cut like a falling price line; at the foot of the slide it has shrunk to a small bar. Label [s:minus30] stamped across the slide. Karto beside it, pose present.",
+     "motion": "Photo drops in with a thud; the cardboard bar slides down the slide in one bold glide and shrinks; label [s:minus30] slams on with a camera thud; slow push on the photo.",
+     "asset": "real/bars_vault.jpg"
+    },
+    {
+     "id": "l002",
+     "who": "skip",
+     "en": "Gold. Boring. Skipping.",
+     "ar": "ذهب. مملّ. أنا رح أعمل سكيب.",
+     "picture": "Skip pops in bottom right, pose about-to-skip: thumb over the skip button on his phone. A cardboard SKIP button [s:skip_btn] slides toward the centre. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip enters with a hop; thumb twitches toward the button; the SKIP button slides across.",
+     "asset": "real/bars_vault.jpg"
+    },
+    {
+     "id": "l003",
+     "who": "karto",
+     "en": "Wait. If your family keeps savings in gold, this is your story. And the central banks? As a group, they kept buying.",
+     "ar": "استنى. إذا عيلتك مدّخرة فلوسها بالذهب، هاي قصتك. والبنوك المركزية؟ كمجموعة، ضلّت تشتري.",
+     "picture": "Skip's SKIP button stops. A real photo of a central bank gold vault is taped on the board; a cardboard sign [s:cb_buying] with a green tick is taped under it. Karto pose point.",
+     "motion": "Karto's hand stops the button (nod then point); photo flaps in; the sign slaps under it; the tick draws on with a marker scratch.",
+     "asset": "real/cb_vault.jpg"
+    },
+    {
+     "id": "l004",
+     "who": "skip",
+     "en": "Then who sold?",
+     "ar": "طيب، مين باع؟",
+     "picture": "Skip pose thinking; a cardboard question mark pops over his head. The vault photo stays. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Question mark pops and wobbles; Skip tilts his head.",
+     "asset": "real/cb_vault.jpg"
+    },
+    {
+     "id": "l005",
+     "who": "karto",
+     "en": "Many others. In one January day gold fell almost a tenth of its price. And at the Dubai Gold Souk, sellers lined up in queues. Seven pieces. You will see every one.",
+     "ar": "ناس كتير غيرهم. بيوم واحد بيناير، الذهب نزل تقريباً عشرة بالمية من سعره. وبسوق الذهب بدبي، البايعين وقفوا بطوابير. سبع قطع. رح تشوفوهم كلهم.",
+     "picture": "Cut to a real clip of the Dubai Gold Souk (lanes of shop windows, people walking) playing on the cardboard TV, a hand-drawn [s:queue_sellers] label taped on its corner. A cardboard '7' [s:seven_pieces] stamps next to it.",
+     "motion": "TV flips on with a rewind sound; the clip plays; the label tapes on; the seven stamps in with a thud.",
+     "asset": "real/souk_clip"
+    },
+    {
+     "id": "l006",
+     "who": "skip",
+     "en": "A queue to SELL gold? I thought gold was the safe one.",
+     "ar": "طابور لبيع الذهب؟ أنا كنت فاكر الذهب هو الأمان.",
+     "picture": "Skip pose shocked, phone flung up; the clip keeps playing on the TV behind him.",
+     "motion": "Skip hops back; phone flips up; TV keeps looping.",
+     "asset": "real/souk_clip"
+    },
+    {
+     "id": "l007",
+     "who": "karto",
+     "en": "That is piece two. Piece one first. Score card: every piece Skip sits through without skipping earns a stamp.",
+     "ar": "هاي القطعة التانية. خلّينا نبدأ من الأولى. ورقة النتيجة: كل قطعة بيكمّلها سكيب للآخر من دون ما يتخطّاها، بياخد عليها ختم.",
+     "picture": "The score card [s:scorecard] hangs on the stage with seven empty boxes; a rubber stamp cutout hovers over it. Real photo of gold bars is gone; the board is plain cardboard.",
+     "motion": "Score card drops from the top on two strings; boxes pulse once; the stamp cutout bobs."
+    },
+    {
+     "id": "l008",
+     "who": "skip",
+     "en": "Easy. Stamp me.",
+     "ar": "سهلة. ختمني.",
+     "picture": "Skip thumbs up, pose deadpan.",
+     "motion": "Skip nods once."
+    },
+    {
+     "id": "l009",
+     "who": "karto",
+     "en": "The record.",
+     "ar": "الرقم القياسي.",
+     "picture": "Scene flap clears the board; night backdrop with a cut-letter title.",
+     "motion": "Scene change flap; the title chip drops with a thud."
+    }
+   ]
+  },
+  {
+   "id": "c01",
+   "mood": "rise",
+   "title": {
+    "en": "Piece one: The record",
+    "ar": "القطعة الأولى: الرقم القياسي"
+   },
+   "lines": [
+    {
+     "id": "l010",
+     "who": "karto",
+     "en": "Piece one. The record. Twenty twenty-five was gold's best year since nineteen seventy-nine. Up about two thirds.",
+     "ar": "القطعة الأولى. الرقم القياسي. سنة ألفين وخمسة وعشرين كانت أحسن سنة للذهب من ألف وتسعمية وتسعة وسبعين. طلع حوالي تلتين.",
+     "picture": "Chapter flap [s:p1]. A real photo of a pile of gold bars taped left; a cardboard bar chart on the right with two cardboard bars: a tall one labelled [s:best_year] and a short one for the other years.",
+     "motion": "Chapter flap; photo taped in; the tall bar grows up past the frame with a riser sound.",
+     "asset": "real/bars_stack.jpg"
+    },
+    {
+     "id": "l011",
+     "who": "skip",
+     "en": "Up two thirds? Of what, pebbles?",
+     "ar": "طلع تلتين؟ من شو، من الحصى؟",
+     "picture": "Skip pose deadpan, a cardboard pebble in his hand. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Pebble drops and rolls off; Skip shrugs.",
+     "asset": "real/bars_stack.jpg"
+    },
+    {
+     "id": "l012",
+     "who": "karto",
+     "en": "Of a shiny metal. Then January: gold crossed five thousand dollars an ounce for the first time.",
+     "ar": "من معدن لامع. وبعدين يناير: الذهب عدّى خمسة آلاف دولار للأونصة لأول مرة.",
+     "picture": "A real photo of a jeweller's gold price board taped on the board; a cardboard counter sign counts up to [s:five_k] with a ding at the top.",
+     "motion": "bigNumber counts up fast; the ding hits when it stops; the camera pushes in on the board.",
+     "asset": "real/price_board.jpg"
+    },
+    {
+     "id": "l013",
+     "who": "skip",
+     "en": "Who was buying all that?",
+     "ar": "ومين كان عم يشتري كل هالذهب؟",
+     "picture": "Skip pose neutral, phone in hand, looking at the board. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip leans forward (tilt).",
+     "asset": "real/price_board.jpg"
+    },
+    {
+     "id": "l014",
+     "who": "karto",
+     "en": "Everybody: people hiding from a nervous world, and, reports said, people betting on lower rates and a weaker dollar.",
+     "ar": "الكل. ناس عم تهرب من عالم قلقان، وناس، حسب التقارير، عم تتوقّع فايدة أقل ودولار أضعف.",
+     "picture": "A real clip of a queue of people at a gold shop (vertical clip) plays on a cardboard TV; three cardboard arrows [s:r_safe] [s:r_rates] [s:r_dollar] point from labels at the TV.",
+     "motion": "TV on; three arrows draw on one after another with marker scratches; labels tape on.",
+     "asset": "real/buy_queue"
+    },
+    {
+     "id": "l015",
+     "who": "karto",
+     "en": "And last, the scared ones who do not want to miss out. One research firm, Capital Economics, called the rally FOMO-driven.",
+     "ar": "وآخر الناس اللي بتنضم هني الخايفين إنو يفوتهم القطار. شركة أبحاث، كابيتال إيكونوميكس، وصفت الصعود بإنو مدفوع بالخوف من تفويت الفرصة.",
+     "picture": "A cardboard train pulls out of a station; small paper heads run after it, the last one with a phone. A cardboard speech tag [s:fomo] taped on the train.",
+     "motion": "Train slides out with a whoosh; the last paper head hops and misses; the tag wiggles."
+    },
+    {
+     "id": "l016",
+     "who": "skip",
+     "en": "So I buy a bar and I am rich?",
+     "ar": "يعني بشتري سبيكة وبصير غني؟",
+     "picture": "Skip pose thinking, a cardboard gold bar balanced on his phone.",
+     "motion": "Bar wobbles on the phone."
+    },
+    {
+     "id": "l017",
+     "who": "karto",
+     "en": "Plenty of people felt rich. By the end of January the record was in: above fifty-five hundred dollars an ounce.",
+     "ar": "كتير ناس حسّوا حالهم أغنياء. وبآخر يناير انسجّل الرقم القياسي: أكتر من خمسة آلاف وخمسمية دولار للأونصة.",
+     "picture": "A real photo of the New York Fed gold vault corridor taped on the board; a cardboard price sign [s:peak_price] and [s:peak_lbl] clip on top of it like a flag on a peak.",
+     "motion": "Photo drops; the flag sign grows on top with a slam; Karto pose cheer.",
+     "asset": "real/ny_fed_vault.jpg"
+    },
+    {
+     "id": "l018",
+     "who": "skip",
+     "en": "That sounds like a happy story.",
+     "ar": "شكلها قصة سعيدة.",
+     "picture": "Skip pose deadpan, arms crossed. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip tilts; a tiny cardboard party hat on his head.",
+     "asset": "real/ny_fed_vault.jpg"
+    },
+    {
+     "id": "l019",
+     "who": "karto",
+     "en": "It was. For a few days. But what happens when a crowd all buys at once, and one bad piece of news arrives?",
+     "ar": "كانت. لأيام قليلة. بس شو بيصير لما ناس كتير بتشتري بنفس الوقت، وبيوصل خبر سيّئ واحد؟",
+     "picture": "The stamp falls on the score card: [s:stamp_piece] in box one. The photo of the vault shakes; a cardboard crack runs across it.",
+     "motion": "Stamp slam with camera thud; crack draws across the photo; a lone paper head peeks in.",
+     "asset": "real/ny_fed_vault.jpg"
+    }
+   ]
+  },
+  {
+   "id": "c02",
+   "mood": "tension",
+   "title": {
+    "en": "Piece two: The day it broke",
+    "ar": "القطعة التانية: اليوم يلي انكسر فيه"
+   },
+   "lines": [
+    {
+     "id": "l020",
+     "who": "karto",
+     "en": "Piece two. The day it broke. Friday, the thirtieth of January. Right after the record.",
+     "ar": "القطعة التانية. اليوم اللي انكسر فيه. يوم الجمعة، تلاتين يناير. مباشرة بعد الرقم القياسي.",
+     "picture": "Chapter flap [s:p2]. Calendar page [s:jan30] with the Friday circled in marker; a real photo of a jeweller's window full of gold taped beside it.",
+     "motion": "Chapter flap; calendar page drops; a marker circle draws on the Friday.",
+     "asset": "real/souk_windows.jpg"
+    },
+    {
+     "id": "l021",
+     "who": "karto",
+     "en": "Then the news. The American president names his pick to run the Federal Reserve, the Fed: Kevin Warsh.",
+     "ar": "وبعدين الخبر. الرئيس الأمريكي بيسمّي مرشّحه لرئاسة البنك المركزي الأمريكي، اللي اسمه الفيدرالي: كيفن وورش.",
+     "picture": "A real photo of the Federal Reserve building taped left; a real portrait of Kevin Warsh taped right with a cardboard name tag [s:nomination].",
+     "motion": "Two photos flap in one after the other; a cardboard arrow draws from the portrait to the building.",
+     "asset": "real/warsh.jpg"
+    },
+    {
+     "id": "l022",
+     "who": "skip",
+     "en": "Who? And why does gold care?",
+     "ar": "مين؟ وشو علاقة الذهب؟",
+     "picture": "Skip pose thinking, finger on chin. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip tilts, question mark pops.",
+     "asset": "real/warsh.jpg"
+    },
+    {
+     "id": "l023",
+     "who": "karto",
+     "en": "Because the Fed sets interest rates, and one report says nobody knew what the new chair would do. Unsure traders often sell.",
+     "ar": "لأنو الفيدرالي بيحدّد الفايدة، وتقرير بيقول ما حدا كان عارف شو رح يعمل الرئيس الجديد. والتجّار لما بيشكّوا، كتير منهم بيبيعوا.",
+     "picture": "A real clip of price screens on a trading floor on the cardboard TV, green bars turning red; a cardboard hand 'SELL' button slaps down.",
+     "motion": "TV on; the screens flip to red; a cardboard button slaps with a stamp sound.",
+     "asset": "real/screens_red"
+    },
+    {
+     "id": "l024",
+     "who": "karto",
+     "en": "Gold fell about nine percent in a single day. Some reports said more.",
+     "ar": "الذهب نزل حوالي تسعة بالمية بيوم واحد. وبعض التقارير قالت أكتر.",
+     "picture": "A cardboard price column of ten stacked cardboard blocks; one block is ripped off and falls away. Label [s:one_day_nine].",
+     "motion": "Block rips off and drops with a thud; camera shakes; label slams on."
+    },
+    {
+     "id": "l025",
+     "who": "skip",
+     "en": "Nine percent. That is not thirty.",
+     "ar": "تسعة بالمية. هاد مو تلاتين.",
+     "picture": "Skip pose deadpan, holding a cardboard '30' sign he crosses out.",
+     "motion": "Skip crosses the sign with a marker scratch."
+    },
+    {
+     "id": "l026",
+     "who": "karto",
+     "en": "Right. That is the honest part: nine percent in a day, one of gold's worst days in years. Now, Dubai.",
+     "ar": "صح. هاد الجزء الصادق: تسعة بالمية بيوم واحد، من أسوأ أيام الذهب من سنين. هلأ، دبي.",
+     "picture": "A cardboard airplane cutout flies across the board on a stick to a real photo of the Dubai skyline; label [s:dubai].",
+     "motion": "Plane slides along a drawn route with a whoosh; the skyline photo pushes in slowly.",
+     "asset": "real/dubai_skyline.jpg"
+    },
+    {
+     "id": "l027",
+     "who": "karto",
+     "en": "The Gold Souk. That same week, sellers formed long queues.",
+     "ar": "سوق الذهب. بنفس الأسبوع، البايعين وقفوا بطوابير طويلة.",
+     "picture": "A real clip of crowds at the Dubai Gold Souk plays on the cardboard TV; paper heads in a queue line up along the TV's bottom edge, with a cardboard label [s:queue_sellers].",
+     "motion": "TV on; the cardboard queue of paper heads slides in one by one; label tapes on.",
+     "asset": "real/souk_crowd"
+    },
+    {
+     "id": "l028",
+     "who": "skip",
+     "en": "Wait. Are those not the shops where people buy gold?",
+     "ar": "لحظة. مو هدول المحلات اللي الناس بتشتري منها الذهب؟",
+     "picture": "Skip pose puzzled, a paw up at the cardboard TV; the real souk crowd clip from the previous line keeps playing beside him.",
+     "motion": "Skip tilts; the TV keeps playing.",
+     "asset": "real/souk_crowd"
+    },
+    {
+     "id": "l029",
+     "who": "karto",
+     "en": "That is what made it news. A jeweller there, Anil Dhanak, told the Khaleej Times this was panic selling, not distress selling.",
+     "ar": "وهاد اللي خلّاها خبر. صاحب محل مجوهرات هناك، أنيل دهانك، قال لخليج تايمز إنو هاد بيع هلع، مو بيع اضطراري.",
+     "picture": "A real photo of a Dubai jeweller's gold shop taped on the board; a cardboard speech bubble with the quote [s:souk_quote] and a small credit tag [s:souk_credit].",
+     "motion": "Photo flaps in; the speech bubble pops at Karto's head; credit tag tapes on.",
+     "asset": "real/jeweller_shop.jpg"
+    },
+    {
+     "id": "l030",
+     "who": "skip",
+     "en": "What is the difference?",
+     "ar": "شو الفرق؟",
+     "picture": "Skip pose thinking. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip tilts.",
+     "asset": "real/jeweller_shop.jpg"
+    },
+    {
+     "id": "l031",
+     "who": "karto",
+     "en": "Distress is: I must sell, I have no choice. Panic is: I could wait, but everyone is running, so I am running too.",
+     "ar": "الاضطرار هو: لازم أبيع، ما إلي خيار. والهلع هو: ممكن أستنى، بس الكل عم يركض، فأنا كمان عم أركض.",
+     "picture": "Two cardboard cards slam together like a versus: [s:distress] on the left (a lone paper head with a heavy bag) and [s:panic] on the right (a crowd running off the card).",
+     "motion": "versus slam with a bolt; the right card's crowd runs out of frame."
+    },
+    {
+     "id": "l032",
+     "who": "karto",
+     "en": "A Titan executive said Dubai gold trades so easily that mood moves the price fast. Small answer: a mood broke in one day. Bigger question: why was gold still falling in November?",
+     "ar": "مدير بشركة تيتان قال إنو الذهب بدبي بيتباع بسهولة، فالمزاج بيحرّك السعر بسرعة. الجواب الصغير: مزاج انكسر بيوم واحد. والسؤال الأكبر: ليش الذهب كان لسا عم ينزل بنوفمبر؟",
+     "picture": "A cardboard mood-meter dial [s:mood] swings from smile to frown beside a real photo of a jeweller's counter with gold scales. Then the stamp lands on score card box two and a cardboard calendar rips from January to November in one flip.",
+     "motion": "Dial needle flips with a snap; the photo pushes in; stamp slam; calendar pages flip fast with a rustle.",
+     "asset": "real/gold_scale.jpg"
+    }
+   ]
+  },
+  {
+   "id": "c03",
+   "mood": "tension",
+   "title": {
+    "en": "Piece three: The slow leak",
+    "ar": "القطعة التالتة: التسريب البطيء"
+   },
+   "lines": [
+    {
+     "id": "l033",
+     "who": "karto",
+     "en": "Piece three. The slow leak. After the big day, gold did not crash again. It slid, a little at a time.",
+     "ar": "القطعة التالتة. التسريب البطيء. بعد اليوم الكبير، الذهب ما انهار مرة تانية. انزلق شوي شوي.",
+     "picture": "Chapter flap [s:p3]. A cardboard staircase of three steps going down, each step a card with a price tag: [s:st_jan] [s:st_nov]. A cardboard gold bar stands at the top step.",
+     "motion": "Chapter flap; the bar hops down the stairs one step at a time with taps."
+    },
+    {
+     "id": "l034",
+     "who": "skip",
+     "en": "So a slow, boring slide. Great.",
+     "ar": "يعني انزلاق بطيء وممل. حلو.",
+     "picture": "Skip pose deadpan, phone down.",
+     "motion": "Skip yawns (tilt)."
+    },
+    {
+     "id": "l035",
+     "who": "karto",
+     "en": "Slow, never boring. On the tenth of November, American inflation, meaning rising prices, came in hotter than expected, and oil was rising.",
+     "ar": "بطيء بس مو ممل. بعشرة نوفمبر، رقم التضخم الأمريكي، يعني غلاء الأسعار، طلع أعلى من المتوقع، والنفط كان عم يطلع.",
+     "picture": "A real photo of a supermarket shelf with price tags taped left; a cardboard thermometer on the right rises past a red line, label [s:cpi].",
+     "motion": "Thermometer mercury shoots up; red line glows; photo pushes in.",
+     "asset": "real/shelf_prices.jpg"
+    },
+    {
+     "id": "l036",
+     "who": "skip",
+     "en": "Wait. Gold is supposed to like inflation. It is the inflation thing.",
+     "ar": "لحظة. المفروض الذهب بيحب التضخم. هو شغلة التضخم.",
+     "picture": "Skip pose point, smug, a cardboard sign 'INFLATION = GOLD?' on his phone case (text via [s:infl_gold]). The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip hops once, pointing.",
+     "asset": "real/shelf_prices.jpg"
+    },
+    {
+     "id": "l037",
+     "who": "karto",
+     "en": "It is supposed to. But hot inflation makes the Fed want higher rates, not lower. So traders bet on a December hike.",
+     "ar": "المفروض. بس التضخم العالي بيخلّي الفيدرالي بدو فايدة أعلى مو أقل. فالتجّار صاروا يتوقّعوا رفع الفايدة بديسمبر.",
+     "picture": "A real photo of the Federal Reserve building taped left; a cardboard dial on the right turning from [s:cuts] to [s:hike_bets].",
+     "motion": "Dial swings with a snap; needle lands on the hike side; a cardboard thumbs-up flips to down.",
+     "asset": "real/fed_building.jpg"
+    },
+    {
+     "id": "l038",
+     "who": "karto",
+     "en": "And the dollar was strong, near its highest in nineteen months. On the twelfth, gold fell almost three percent in one day.",
+     "ar": "والدولار كان قوي، قريب من أعلى مستوى من تسعة عشر شهر. وبتاريخ اثني عشر نوفمبر، الذهب نزل تقريباً تلاتة بالمية بيوم واحد.",
+     "picture": "A real close-up photo of a US dollar bill taped on the board; a cardboard bar chart of two bars: [s:b_dollar] up, [s:b_gold] down, with [s:minus27] on the gold bar.",
+     "motion": "Dollar photo drops; bars grow in opposite directions; a stamp lands on the gold bar.",
+     "asset": "real/dollar_bill.jpg"
+    },
+    {
+     "id": "l039",
+     "who": "skip",
+     "en": "So where is gold now?",
+     "ar": "طيب وين الذهب هلأ؟",
+     "picture": "Skip pose neutral, phone out, looking at the price. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip raises the phone.",
+     "asset": "real/dollar_bill.jpg"
+    },
+    {
+     "id": "l040",
+     "who": "karto",
+     "en": "By mid-November, about thirty-eight hundred dollars an ounce, the lowest in over a year.",
+     "ar": "بمنتصف نوفمبر، حوالي ثلاثة آلاف وثمانمية دولار للأونصة، وهاد أقل سعر من أكتر من سنة.",
+     "picture": "A real clip of a gold price ticker screen on the cardboard TV with red numbers; a cardboard label [s:now_price] and [s:low_lbl] taped on the TV frame. No live price shown, only the label.",
+     "motion": "TV on; the cardboard labels tape on; a thud.",
+     "asset": "real/screens_red"
+    },
+    {
+     "id": "l041",
+     "who": "karto",
+     "en": "Add it up. About thirty percent from the record, a little more at the low. Not in a day. In under ten months.",
+     "ar": "خلّينا نجمع. من الرقم القياسي لهلأ: حوالي تلاتين بالمية، وشوي أكتر عند أدنى نقطة. مو بيوم واحد. بأقل من عشر شهور.",
+     "picture": "The cardboard staircase from the first line returns with the bar at the bottom; a cardboard ruler measures from the top step to the bottom, label [s:minus30]; the slide from the cold open slides in behind it.",
+     "motion": "Ruler snaps along the steps; label slams on; camera thud."
+    },
+    {
+     "id": "l042",
+     "who": "skip",
+     "en": "Fine. Thirty. Still big.",
+     "ar": "تمام. تلاتين. بس لسا كبيرة.",
+     "picture": "Skip pose deadpan, nodding.",
+     "motion": "Skip nods once."
+    },
+    {
+     "id": "l043",
+     "who": "karto",
+     "en": "A hot number, rate-hike bets and a strong dollar. But why do those three push money out of a metal?",
+     "ar": "رقم حامي، وتوقّعات برفع الفايدة، ودولار قوي. بس ليش هدول التلاتة بيطلّعوا الفلوس من معدن؟",
+     "picture": "Stamp on the score card box three. Three cardboard labels [s:cpi] [s:hike_bets] [s:strong_dollar] fly toward a cardboard machine shape under a tarp.",
+     "motion": "Stamp slam; the labels fly onto the tarp; Karto pose whisper, a tape strip over his mouth for a beat."
+    }
+   ]
+  },
+  {
+   "id": "c04",
+   "mood": "curious",
+   "title": {
+    "en": "Piece four: The cardboard machine",
+    "ar": "القطعة الرابعة: الماكينة الكرتون"
+   },
+   "lines": [
+    {
+     "id": "l044",
+     "who": "karto",
+     "en": "Piece four. The machine. I built this last night.",
+     "ar": "القطعة الرابعة. الماكينة. بنيتها مبارح بالليل.",
+     "picture": "Chapter flap [s:p4]. The tarp is pulled off a cardboard seesaw with a gold lump on the left end and a bond certificate on the right end. Karto pose present, very proud.",
+     "motion": "Chapter flap; the tarp drops; the seesaw rocks once."
+    },
+    {
+     "id": "l045",
+     "who": "skip",
+     "en": "Of course you did.",
+     "ar": "أكيد بنيتها.",
+     "picture": "Skip pose deadpan, side-eye.",
+     "motion": "Skip tilts."
+    },
+    {
+     "id": "l046",
+     "who": "karto",
+     "en": "Here is a lump of gold. Beautiful. It pays no rent, no interest.",
+     "ar": "هاي كتلة ذهب. حلوة. ما بتعطي لا إيجار ولا فايدة.",
+     "picture": "Close on the seesaw: a real photo of a gold nugget or bar taped on the left end; a cardboard label [s:pays_nothing] taped on it, a zero coin tray empty under it.",
+     "motion": "Camera focuses on the left end; the label tapes on; the empty tray wiggles.",
+     "asset": "real/gold_bar_hand.jpg"
+    },
+    {
+     "id": "l047",
+     "who": "karto",
+     "en": "Here is a bond. It pays interest; when rates rise, new bonds pay more.",
+     "ar": "وهاد سند. بيعطي فايدة، ولما الفايدة بتعلى، السندات الجديدة بتعطي أكتر.",
+     "picture": "Right end of the seesaw: a real photo of a Treasury bond/US dollar note taped on; a cardboard coin tray under it fills with cardboard coins labelled [s:interest].",
+     "motion": "Coins drop one by one into the tray with coin sounds; the right end of the seesaw sinks a little.",
+     "asset": "real/dollar_bill.jpg"
+    },
+    {
+     "id": "l048",
+     "who": "skip",
+     "en": "So? I like shiny.",
+     "ar": "وشو يعني؟ أنا بحب اللمعة.",
+     "picture": "Skip pose neutral, a cardboard sparkle on his phone. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Sparkle twinkles.",
+     "asset": "real/dollar_bill.jpg"
+    },
+    {
+     "id": "l050",
+     "who": "skip",
+     "en": "This is slow. I am skipping.",
+     "ar": "هاد بطيء. أنا رح أعمل سكيب.",
+     "picture": "Skip pose about-to-skip; the SKIP button [s:skip_btn] slides in; the one skip attempt of the video.",
+     "motion": "Thumb moves over the button; the button slides to the centre."
+    },
+    {
+     "id": "l051",
+     "who": "karto",
+     "en": "Hold on. One standard gold bar is worth about one and a half million dollars and pays nothing. Piece seven shows how small all the world's gold is.",
+     "ar": "اصبر شوي. سبيكة الذهب العادية الوحدة بتسوى حوالي مليون ونص دولار، وما بتعطي ولا قرش. وبالقطعة السابعة رح تشوف قديش ذهب العالم كله صغير.",
+     "picture": "A real photo of a hand holding a single gold bar with a cardboard price tag [s:bar_price] on its corner; the SKIP button tips over.",
+     "motion": "Photo slaps in; the tag wiggles; the button tips with a thud.",
+     "asset": "real/gold_bar_hand.jpg"
+    },
+    {
+     "id": "l049",
+     "who": "karto",
+     "en": "Watch the seesaw. When rates rise, holding that bar costs you the interest you gave up. Money slides off the gold end.",
+     "ar": "شوفوا الأرجوحة. لما الفايدة بتعلى، إمساكك بهالسبيكة بيكلّفك الفايدة اللي تخلّيت عنها. والفلوس بتنزلق عن طرف الذهب.",
+     "picture": "The seesaw tips hard to the bond side; small cardboard money bags slide off the gold end into the bond tray.",
+     "motion": "Seesaw tilts with a thud; money bags slide down; camera follows."
+    },
+    {
+     "id": "l052",
+     "who": "skip",
+     "en": "Fine. And the dollar?",
+     "ar": "ماشي. والدولار؟",
+     "picture": "Skip pose neutral, sitting on the seesaw's edge. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip hops onto the seesaw edge.",
+     "asset": "real/gold_bar_hand.jpg"
+    },
+    {
+     "id": "l053",
+     "who": "karto",
+     "en": "Gold is priced in dollars. A stronger dollar makes it dearer abroad: fewer buyers, lower price.",
+     "ar": "الذهب بيتسعّر بالدولار. لما الدولار بيقوى، بيصير أغلى بعملات باقي الدول: ناس أقل بتشتري، والسعر بينزل.",
+     "picture": "A cardboard dollar-sign and a cardboard Euro/lira/riyal coin on a pair of scales: the dollar coin is bigger; a cardboard gold bar [s:gold_in_dollars] sits on the smaller coin's side and looks heavy.",
+     "motion": "Scales tip; the gold bar gets a price tag that flips higher; label slams."
+    },
+    {
+     "id": "l054",
+     "who": "karto",
+     "en": "One report: American government bonds were paying near five percent.",
+     "ar": "تقرير واحد: فايدة سندات الخزينة الأمريكية قريبة من خمسة بالمية.",
+     "picture": "A real photo of an analyst at a bank trading desk on the cardboard TV; a cardboard label [s:yield5] with a tape [s:one_report] under it.",
+     "motion": "TV on; the labels tape on.",
+     "asset": "real/analyst_desk.jpg"
+    },
+    {
+     "id": "l055",
+     "who": "skip",
+     "en": "So it is a seesaw with a panic button.",
+     "ar": "يعني أرجوحة وفيها زر هلع.",
+     "picture": "Skip pose point, tapping a cardboard red button on the seesaw. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip taps; a bell dings.",
+     "asset": "real/analyst_desk.jpg"
+    },
+    {
+     "id": "l056",
+     "who": "skip",
+     "en": "So who gets hurt when it tips?",
+     "ar": "طيب، ومين بيتأذّى لما تميل؟",
+     "picture": "Skip pose point at the seesaw. Stamp on the score card box four. The seesaw is wheeled off; a cardboard crowd of small figures stands in the gap.",
+     "motion": "Stamp slam; seesaw slides out; the crowd rises from behind the lip."
+    }
+   ]
+  },
+  {
+   "id": "c05",
+   "mood": "drop",
+   "title": {
+    "en": "Piece five: Who gets hurt",
+    "ar": "القطعة الخامسة: مين بيتأذّى"
+   },
+   "lines": [
+    {
+     "id": "l057",
+     "who": "karto",
+     "en": "Piece five. Who gets hurt. First, India, where you can borrow against your gold. A gold loan.",
+     "ar": "القطعة الخامسة. مين بيتأذّى. أولاً، الهند، حيث فيك تستلف مقابل ذهبك. قرض بضمان الذهب.",
+     "picture": "Chapter flap [s:p5]. A real photo of an Indian gold-loan shop front taped on the board; a cardboard gold ring on a tray with a cardboard cash bundle beside it.",
+     "motion": "Chapter flap; photo taped in; the ring slides onto the tray and the cash slides back.",
+     "asset": "real/india_loan_sign.jpg"
+    },
+    {
+     "id": "l058",
+     "who": "skip",
+     "en": "So the gold is the deposit.",
+     "ar": "يعني الذهب هو الضمان.",
+     "picture": "Skip pose thinking, finger on chin. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip tilts.",
+     "asset": "real/india_loan_sign.jpg"
+    },
+    {
+     "id": "l059",
+     "who": "karto",
+     "en": "Right. The rule: a lender may lend at most seventy-five percent of the gold's value. Gold worth one hundred, borrow up to seventy-five.",
+     "ar": "صح. القاعدة: المقرض ممنوع يقرضك أكتر من خمسة وسبعين بالمية من قيمة الذهب. ذهب قيمته مية، بتستلف لحد خمسة وسبعين.",
+     "picture": "A cardboard bar chart: a tall gold card [s:gold_100] with a cardboard loan card [s:loan_75] covering three quarters of it; label [s:ltv].",
+     "motion": "Bars grow with a riser; the loan card slides onto three quarters of the gold card."
+    },
+    {
+     "id": "l060",
+     "who": "karto",
+     "en": "Now gold falls. Your gold is worth eighty, your loan is still seventy-five: far over the rule. The lender says: add gold, or pay some back.",
+     "ar": "هلأ الذهب نزل. صارت قيمة ذهبك تمانين، وقرضك لسا خمسة وسبعين: أعلى بكتير من القاعدة. فالمقرض بيقلك: زيد ذهب، أو سدّد جزء من القرض.",
+     "picture": "The gold card shrinks to eighty, the loan card now covers almost all of it, a red cardboard phone rings with [s:topup].",
+     "motion": "Gold card shrinks with a thud; red phone rings and shakes; Skip flinches."
+    },
+    {
+     "id": "l061",
+     "who": "skip",
+     "en": "And if I cannot?",
+     "ar": "وإذا ما قدرت؟",
+     "picture": "Skip pose shocked, small.",
+     "motion": "Skip steps back."
+    },
+    {
+     "id": "l062",
+     "who": "karto",
+     "en": "Lenders can auction the gold, but only after missed grace periods. Not instantly.",
+     "ar": "المقرضين بيقدروا يبيعوا الذهب بالمزاد، بس بعد ما تفوت فترات السماح. مو فوري.",
+     "picture": "A cardboard calendar with grace-period boxes ticked off one by one, a cardboard auction hammer waiting at the end.",
+     "motion": "Boxes tick off with marker scratches; the hammer waits."
+    },
+    {
+     "id": "l063",
+     "who": "karto",
+     "en": "Fitch, a rating firm, said lenders could absorb a first fall of about fifteen percent; a further fifteen to twenty percent could test them.",
+     "ar": "فيتش، شركة التقييم المالي، قالت إنو المقرضين بيتحمّلوا أول نزلة بحدود خمسة عشر بالمية. ونزلة كمان من خمسة عشر لعشرين بالمية ممكن تختبرهم.",
+     "picture": "A cardboard Fitch-style report cover as a plain label (no logo) [s:fitch]; two cardboard bars: a green one 'absorb' [s:fitch_a] and a longer red one [s:fitch_b].",
+     "motion": "Report flaps in; the green bar fills, then the red bar slides after it."
+    },
+    {
+     "id": "l064",
+     "who": "skip",
+     "en": "So fifteen percent means panic.",
+     "ar": "يعني خمسة عشر بالمية يعني هلع.",
+     "picture": "Skip pose point, smug.",
+     "motion": "Skip hops."
+    },
+    {
+     "id": "l065",
+     "who": "karto",
+     "en": "No. That is headline talk. Fitch's number is a stress test, not a forecast, and I have no lender's numbers today.",
+     "ar": "لا. هاد كلام عناوين. رقم فيتش اختبار ضغط، يعني تجربة على الورق، مو توقّع. وما معي أرقام أي مقرض اليوم.",
+     "picture": "Karto sticks a masking-tape strip [s:guess_tape] across the report; the headline card [s:panic_hl] is crossed out with a marker.",
+     "motion": "Tape slaps on; marker cross draws on the headline."
+    },
+    {
+     "id": "l066",
+     "who": "karto",
+     "en": "Then there are families whose savings are a bracelet and a few coins. The wedding gold. The gold you keep for a bad year.",
+     "ar": "وفي عيلات مدّخراتها سوارة وكم عملة ذهب. ذهب العرس. الذهب اللي بتخبّيه لسنة صعبة.",
+     "picture": "A real photo of gold wedding bangles and coins on cloth taped on the board; a cardboard family of three paper heads stands beside it, looking at it warmly.",
+     "motion": "Photo flaps in; the paper family leans in; a soft glow behind the bangles.",
+     "asset": "real/bracelets.jpg"
+    },
+    {
+     "id": "l067",
+     "who": "skip",
+     "en": "That is not an investment. That is a hug in a drawer.",
+     "ar": "هاد مو استثمار. هاد حضن بدرج.",
+     "picture": "Skip pose neutral, quiet, phone down.",
+     "motion": "Skip looks at the photo; no motion.",
+     "asset": "real/bracelets.jpg"
+    },
+    {
+     "id": "l068",
+     "who": "karto",
+     "en": "For them the screen price changes nothing, until the day they must sell. People who bought near the top? About thirty percent down, on paper only. Nobody knows the top until it has passed.",
+     "ar": "بالنسبة إلهم سعر الشاشة ما بيغيّر شي، لحد اليوم اللي لازم يبيعوا فيه. اللي اشتروا قريب من القمة؟ حوالي تلاتين بالمية تحت، بس عالورق. وما حدا بيعرف القمة إلا بعد ما تفوت.",
+     "picture": "A real photo of a jeweller's price board in a shop window taped on the board with a cardboard 'paper only' tag [s:on_paper].",
+     "motion": "Photo drops; the tag tapes on a corner; camera drifts.",
+     "asset": "real/price_board.jpg"
+    },
+    {
+     "id": "l069",
+     "who": "karto",
+     "en": "Three kinds of people feel it. History is next.",
+     "ar": "تلات فئات من الناس بتحس فيها. والتاريخ هو الجاي.",
+     "picture": "Stamp on score card box five. A cardboard time-machine door [s:door_past] slides in with a clock on it.",
+     "motion": "Stamp slam; the door slides in with a creak."
+    }
+   ]
+  },
+  {
+   "id": "c06",
+   "mood": "curious",
+   "title": {
+    "en": "Piece six: It happened before",
+    "ar": "القطعة السادسة: صار من قبل"
+   },
+   "lines": [
+    {
+     "id": "l070",
+     "who": "karto",
+     "en": "Piece six. It happened before. Nineteen eighty. On the twenty-first of January, gold hits eight hundred and fifty dollars. A record.",
+     "ar": "القطعة السادسة. صار من قبل. ألف وتسعمية وتمانين. بواحد وعشرين يناير، الذهب وصل لثمانمية وخمسين دولار. رقم قياسي.",
+     "picture": "Chapter flap [s:p6]. A real photo of a 1980 newspaper front page or crowd at a gold dealer taped on the board; label [s:y1980] and [s:p850].",
+     "motion": "Chapter flap; the photo flaps in; the label slams on.",
+     "asset": "real/news1980.jpg"
+    },
+    {
+     "id": "l071",
+     "who": "skip",
+     "en": "Let me guess. It dropped.",
+     "ar": "خليني خمّن. نزل.",
+     "picture": "Skip pose deadpan. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip nods.",
+     "asset": "real/news1980.jpg"
+    },
+    {
+     "id": "l072",
+     "who": "karto",
+     "en": "Within days it fell sharply. By March nineteen eighty, one source puts it more than forty percent below the peak.",
+     "ar": "وبعد أيام نزل بقوة. وبمارس ألف وتسعمية وتمانين، حسب مصدر واحد، صار أكتر من أربعين بالمية تحت القمة.",
+     "picture": "A cardboard bar chart: tall bar [s:b850], shorter bar [s:b_days], and a third much shorter bar [s:b_spring] with [s:minus40plus].",
+     "motion": "Bars drop one by one with thuds; the third bar slams down."
+    },
+    {
+     "id": "l073",
+     "who": "karto",
+     "en": "April twenty thirteen. In a single day gold fell nine percent. One hundred and forty dollars an ounce, gone.",
+     "ar": "أبريل ألفين وثلاثة عشر. بيوم واحد الذهب نزل تسعة بالمية. مية وأربعين دولار للأونصة، راحت.",
+     "picture": "A real news photo or a screen photo of the April 2013 sell-off taped on the board; a cardboard calendar page [s:apr2013] and a label [s:minus9].",
+     "motion": "Photo flaps in; the calendar page drops; the label stamps on.",
+     "asset": "real/news2013.jpg"
+    },
+    {
+     "id": "l074",
+     "who": "skip",
+     "en": "Okay. But it came back, right?",
+     "ar": "طيب. بس رجع، مو هيك؟",
+     "picture": "Skip pose thinking, hopeful. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip tilts.",
+     "asset": "real/news2013.jpg"
+    },
+    {
+     "id": "l075",
+     "who": "karto",
+     "en": "Eventually. Twenty eleven: gold peaks around nineteen hundred dollars. By December twenty fifteen it is just over a thousand.",
+     "ar": "بالنهاية. بألفين وأحد عشر وصل الذهب لقمة حوالي ألف وتسعمية دولار. وبديسمبر ألفين وخمسة عشر صار فوق الألف دولار بشوي.",
+     "picture": "A cardboard paper-strip timeline across the board with three ticks: [s:t2011] peak, [s:t2015] low, [s:t2020] back; the pointer moves from 2011 down to 2015.",
+     "motion": "Timeline strip slides in; the pointer slides along it and stops at the low with a thud."
+    },
+    {
+     "id": "l076",
+     "who": "karto",
+     "en": "It did not get back above its twenty eleven peak until twenty twenty. About nine years.",
+     "ar": "وما رجع فوق قمّة ألفين وأحد عشر إلا بألفين وعشرين. حوالي تسع سنين.",
+     "picture": "The pointer continues to the [s:t2020] tick; a cardboard bracket [s:nine_years] stretches across the whole strip.",
+     "motion": "Pointer slides on; the bracket draws on with a marker scratch; a riser ding."
+    },
+    {
+     "id": "l077",
+     "who": "skip",
+     "en": "Nine years? For GOLD?",
+     "ar": "تسع سنين؟ للذهب؟",
+     "picture": "Skip pose mindblown, hands on head with a burst.",
+     "motion": "Skip hops; a burst pops behind him."
+    },
+    {
+     "id": "l078",
+     "who": "karto",
+     "en": "Careful. That does not mean nine years this time. It means a peak once turned into a very long wait.",
+     "ar": "انتبه. هاد ما بيعني تسع سنين هالمرة. بيعني إنو مرة من المرات، قمة تحوّلت لانتظار طويل كتير.",
+     "picture": "Karto pose present; a cardboard 'maybe' tape slaps across the bracket.",
+     "motion": "Tape slaps on; the bracket shakes once."
+    },
+    {
+     "id": "l079",
+     "who": "skip",
+     "en": "So history tells me nothing about next week.",
+     "ar": "يعني التاريخ ما بيقلي شي عن الأسبوع الجاي.",
+     "picture": "Skip pose deadpan.",
+     "motion": "Skip shrugs."
+    },
+    {
+     "id": "l080",
+     "who": "karto",
+     "en": "Right. It says one thing: a fast fall and a long wait can both happen. Small answer: yes, it happened before. Bigger question: so what happens now?",
+     "ar": "صح. بيقول شي واحد: نزلة سريعة وانتظار طويل ممكن يصيروا سوا. الجواب الصغير: أيوه، صار من قبل. والسؤال الأكبر: طيب شو بيصير هلأ؟",
+     "picture": "Stamp on score card box six. The timeline strip rolls up; a cardboard signpost with two arrows [s:path_up] and [s:path_down] rises.",
+     "motion": "Stamp slam; the signpost grows with a pop."
+    }
+   ]
+  },
+  {
+   "id": "c07",
+   "mood": "warm",
+   "title": {
+    "en": "Piece seven: What now",
+    "ar": "القطعة السابعة: وهلأ شو؟"
+   },
+   "lines": [
+    {
+     "id": "l081",
+     "who": "karto",
+     "en": "Piece seven. What now. Who is still buying? Central banks. Reports say about two hundred eighty-nine tonnes in the second quarter.",
+     "ar": "القطعة السابعة. وهلأ شو؟ مين لسا عم يشتري؟ البنوك المركزية. التقارير بتقول إنو بالربع التاني من السنة اشترت حوالي ميتين وتسعة وتمانين طن.",
+     "picture": "Chapter flap [s:p7]. A real photo of a central bank vault with gold bars taped on the board; a cardboard counter counts to [s:cb_tonnes] with a tape [s:reported].",
+     "motion": "Chapter flap; photo taped in; counter counts up with a riser and a ding.",
+     "asset": "real/cb_vault.jpg"
+    },
+    {
+     "id": "l082",
+     "who": "skip",
+     "en": "Which central banks?",
+     "ar": "أي بنوك مركزية؟",
+     "picture": "Skip pose neutral. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip tilts.",
+     "asset": "real/cb_vault.jpg"
+    },
+    {
+     "id": "l083",
+     "who": "karto",
+     "en": "China, Poland and Uzbekistan were named.",
+     "ar": "ذكروا الصين وبولندا وأوزبكستان.",
+     "picture": "A cardboard world map with three pins and paper flags (China, Poland, Uzbekistan), plus a small real photo of a Polish central bank building taped in the corner.",
+     "motion": "Map slides in; the pins tap down one by one; the photo flaps in.",
+     "asset": "real/nbp_building.jpg"
+    },
+    {
+     "id": "l084",
+     "who": "karto",
+     "en": "Forecasts now. I tape every one.",
+     "ar": "هلأ التوقّعات. كل وحدة بحط عليها شريط لاصق.",
+     "picture": "Karto tapes a cardboard 'forecast not fact' strip [s:forecast_tape] along the top of the board. A real photo of analysts at a bank desk behind it.",
+     "motion": "Tape strip slaps across the board; Karto pose point.",
+     "asset": "real/analyst_desk.jpg"
+    },
+    {
+     "id": "l085",
+     "who": "karto",
+     "en": "Goldman Sachs, on the seventeenth: about forty-six hundred fifty dollars by the end of next year.",
+     "ar": "غولدمان ساكس قالت بسبعة عشر نوفمبر: حوالي أربعة آلاف وستمية وخمسين دولار بنهاية السنة الجاية.",
+     "picture": "A cardboard forecast card [s:gs_card] with one step up, a price tag [s:gs_2027]; a tape [s:forecast_tape] on the card.",
+     "motion": "Card flaps in; the step rises; the tape wiggles."
+    },
+    {
+     "id": "l085b",
+     "who": "skip",
+     "en": "So, up?",
+     "ar": "يعني، طلوع؟",
+     "picture": "Skip pose neutral, arms crossed, looking at the Goldman card. The real media from the previous line stays on the board / TV beside him.",
+     "motion": "Skip tilts one way.",
+     "asset": "real/analyst_desk.jpg"
+    },
+    {
+     "id": "l087",
+     "who": "karto",
+     "en": "Not everyone agrees. Bulls expect gold to rise, bears expect it to fall. The bear first: one analyst says thirty-five hundred if a key level breaks. In Kitco's weekly survey, most expected lower.",
+     "ar": "مو الكل متّفق. الثيران بيتوقعوا الذهب يطلع، والدببة بيتوقعوا ينزل. نبدأ بالدب: محلل بيقول تلات آلاف وخمسمية دولار إذا انكسر مستوى مهم. وباستطلاع كيتكو الأسبوعي، أغلب المشاركين توقّعوا نزول.",
+     "picture": "A cardboard bear cutout holds a downward arrow; a real clip of a falling red price chart on a screen plays on the cardboard TV, with tags [s:bear_a] [s:kitco_poll].",
+     "motion": "Bear hops in; TV on; the arrow draws down; tags tape on.",
+     "asset": "real/screens_red"
+    },
+    {
+     "id": "l088",
+     "who": "karto",
+     "en": "The bull: James Stanley expects a short-term move back above four thousand.",
+     "ar": "والثور: جيمس ستانلي بيتوقع طلعة قصيرة المدى لفوق أربعة آلاف دولار.",
+     "picture": "A cardboard bull cutout holds an upward arrow facing the bear; a tape [s:bull_a] on its horn.",
+     "motion": "Bull hops in opposite the bear; the arrows cross."
+    },
+    {
+     "id": "l089",
+     "who": "skip",
+     "en": "So who is right?",
+     "ar": "طيب مين الصح؟",
+     "picture": "Skip pose thinking, between the bear and the bull.",
+     "motion": "Skip looks left and right."
+    },
+    {
+     "id": "l090",
+     "who": "karto",
+     "en": "Nobody knows. I am a cardboard box. I do not give buy or sell advice, and you should not take it from a cardboard box.",
+     "ar": "ما حدا بيعرف. أنا علبة كرتون. ما بعطي نصيحة شراء ولا بيع، وإنت لا تاخد نصيحة من علبة كرتون.",
+     "picture": "Karto pose deadpan, a cardboard sign [s:not_advice] hangs from his neck; a cardboard question mark [s:nobody_knows] floats over the bear and the bull.",
+     "motion": "Sign swings; question mark wobbles."
+    },
+    {
+     "id": "l091",
+     "who": "karto",
+     "en": "Wow fact. All the gold ever mined fits in a cube under twenty-three metres on each side.",
+     "ar": "حقيقة عجيبة. كل الذهب اللي انستخرج بالتاريخ بيتّسع بمكعّب أقل من تلاتة وعشرين متر بكل ضلع.",
+     "picture": "A real photo of a gold mine taped left; a cardboard cube grows on the right, with a cardboard paper-head Karto at its foot for scale and a label [s:cube_22m]; a small real photo of a seven-storey building taped as scale reference.",
+     "motion": "Cube grows with a pop; the label slams on; the mine photo pushes in.",
+     "asset": "real/mine.jpg"
+    },
+    {
+     "id": "l092",
+     "who": "skip",
+     "en": "That is smaller than I thought.",
+     "ar": "هاد أصغر مما كنت فاكر.",
+     "picture": "Skip pose mindblown, looking at the cube and then a single bar cutout.",
+     "motion": "Skip hops; burst pops.",
+     "asset": "real/mine.jpg"
+    },
+    {
+     "id": "l093",
+     "who": "karto",
+     "en": "Central banks still buy, and forecasts disagree. Skip has the big question, after the score card.",
+     "ar": "البنوك المركزية لسا عم تشتري، والتوقّعات مختلفة. وسكيب عنده السؤال الكبير، بعد ورقة النتيجة.",
+     "picture": "A real clip of molten gold being poured into a bar mould on the cardboard TV; a cardboard tag [s:bar_kg] on its corner. Stamp on score card box seven.",
+     "motion": "TV on; the pour plays; the stamp slams on box seven with a camera thud and confetti.",
+     "asset": "real/pour"
+    }
+   ]
+  },
+  {
+   "id": "c08",
+   "mood": "warm",
+   "title": {
+    "en": "Full card",
+    "ar": "الورقة كاملة"
+   },
+   "lines": [
+    {
+     "id": "l094",
+     "who": "karto",
+     "en": "That is all seven pieces. The score card is full. Skip, did you survive?",
+     "ar": "هدول السبع قطع كلهم. الورقة كاملة. سكيب، صمدت؟",
+     "picture": "The full score card [s:scorecard] centre stage with seven stamps; the seven hero props line up under it: bar, seesaw, souk TV, loan card, bracelets, timeline strip, cube.",
+     "motion": "Card drops; the props slide in one after another; confetti burst."
+    },
+    {
+     "id": "l095",
+     "who": "skip",
+     "en": "Seven stamps. One almost-skip. You were not boring, Karto. Annoying, but not boring.",
+     "ar": "سبعة أختام. ومرة وحدة كنت رح أتخطّى. ما كنت ممل، كرتو. مزعج، بس مو ممل.",
+     "picture": "Skip pose laughing, holding the stamp.",
+     "motion": "Skip hops; confetti."
+    },
+    {
+     "id": "l096",
+     "who": "karto",
+     "en": "I will take it. Gold is about thirty percent below its record. Not in a day. Central banks, as a group, kept buying. A crowd bought near the top, and analysts point to rates and the dollar for the slide.",
+     "ar": "بقبلها. الذهب حوالي تلاتين بالمية تحت رقمه القياسي. مو بيوم واحد. والبنوك المركزية، كمجموعة، ضلّت تشتري. وناس كتير اشتروا قرب القمة، والمحلّلين بيشيروا للفايدة والدولار كسبب للنزول.",
+     "picture": "The cold-open slide returns; the cardboard bar sits at the foot, small, with [s:minus30]; beside it the vault photo again with the tick [s:cb_buying].",
+     "motion": "The bar slides down once more, slowly this time; the tick draws on.",
+     "asset": "real/bars_vault.jpg"
+    },
+    {
+     "id": "l098",
+     "who": "karto",
+     "en": "And I will not tell you what to do with gold.",
+     "ar": "وأنا ما رح قلكم شو تعملوا بالذهب.",
+     "picture": "Karto pose deadpan with the [s:not_advice] sign; the bear and bull cutouts face each other behind him.",
+     "motion": "Bear and bull nudge each other; the sign swings."
+    },
+    {
+     "id": "l099",
+     "who": "skip",
+     "en": "So, my question. The people in that January queue: panic, or the smart ones? Would you have sold, or held?",
+     "ar": "طيب، سؤالي. الناس اللي وقفوا بالطابور بيناير: كانوا خايفين، ولا هني الأذكياء؟ إنت لو كنت مكانهم، كنت بعت ولا ضلّيت ماسك؟",
+     "picture": "Skip centre stage, thumb over the comment box; a big cardboard sign [s:panic_or_smart] with two arrows and a small comment box [s:your_score], the bear and the bull on each side.",
+     "motion": "Skip hops to the centre; the sign drops; the two arrows pulse; end-screen holes appear."
+    }
+   ]
+  }
+ ],
+ "strings": {
+  "minus30": {
+   "en": "-30%",
+   "ar": "نزل ٣٠٪"
+  },
+  "skip_btn": {
+   "en": "SKIP",
+   "ar": "تخطّي"
+  },
+  "cb_buying": {
+   "en": "CENTRAL BANKS: STILL BUYING",
+   "ar": "البنوك المركزية: لسا عم تشتري"
+  },
+  "queue_sellers": {
+   "en": "QUEUES OF SELLERS",
+   "ar": "طوابير بيع"
+  },
+  "seven_pieces": {
+   "en": "7 PIECES",
+   "ar": "٧ قطع"
+  },
+  "scorecard": {
+   "en": "SCORE CARD",
+   "ar": "ورقة النتيجة"
+  },
+  "stamp_piece": {
+   "en": "PIECE SURVIVED",
+   "ar": "القطعة عدّت"
+  },
+  "p1": {
+   "en": "PIECE 1: THE RECORD",
+   "ar": "القطعة ١: الرقم القياسي"
+  },
+  "p2": {
+   "en": "PIECE 2: THE DAY IT BROKE",
+   "ar": "القطعة ٢: اليوم يلي انكسر فيه"
+  },
+  "p3": {
+   "en": "PIECE 3: THE SLOW LEAK",
+   "ar": "القطعة ٣: التسريب البطيء"
+  },
+  "p4": {
+   "en": "PIECE 4: THE MACHINE",
+   "ar": "القطعة ٤: الماكينة"
+  },
+  "p5": {
+   "en": "PIECE 5: WHO GETS HURT",
+   "ar": "القطعة ٥: مين بيتأذّى"
+  },
+  "p6": {
+   "en": "PIECE 6: IT HAPPENED BEFORE",
+   "ar": "القطعة ٦: صار من قبل"
+  },
+  "p7": {
+   "en": "PIECE 7: WHAT NOW",
+   "ar": "القطعة ٧: وهلأ شو؟"
+  },
+  "best_year": {
+   "en": "BEST YEAR SINCE 1979",
+   "ar": "أحسن سنة من ١٩٧٩"
+  },
+  "five_k": {
+   "en": "$5,000 / oz",
+   "ar": "٥٬٠٠٠ دولار / أونصة"
+  },
+  "r_safe": {
+   "en": "SAFE HAVEN",
+   "ar": "ملاذ آمن"
+  },
+  "r_rates": {
+   "en": "RATE-CUT BETS",
+   "ar": "توقّع فايدة أقل"
+  },
+  "r_dollar": {
+   "en": "WEAKER DOLLAR",
+   "ar": "دولار أضعف"
+  },
+  "fomo": {
+   "en": "FOMO",
+   "ar": "الخوف من تفويت الفرصة"
+  },
+  "peak_price": {
+   "en": "$5,500+",
+   "ar": "أكتر من ٥٬٥٠٠ دولار"
+  },
+  "peak_lbl": {
+   "en": "RECORD, LATE JAN 2026",
+   "ar": "رقم قياسي، آخر يناير ٢٠٢٦"
+  },
+  "nomination": {
+   "en": "FED CHAIR PICK: KEVIN WARSH",
+   "ar": "مرشّح رئاسة الفيدرالي: كيفن وورش"
+  },
+  "dubai": {
+   "en": "DUBAI GOLD SOUK",
+   "ar": "سوق الذهب بدبي"
+  },
+  "souk_quote": {
+   "en": "PANIC SELLING, NOT DISTRESS SELLING (A DUBAI JEWELLER)",
+   "ar": "بيع هلع، مو بيع اضطراري (حسب صاحب محل مجوهرات بدبي)"
+  },
+  "souk_credit": {
+   "en": "Anil Dhanak, Kanz Jewels, Khaleej Times, 1 Feb 2026",
+   "ar": "أنيل دهانك، كانز جويلز، خليج تايمز، ١ فبراير ٢٠٢٦"
+  },
+  "distress": {
+   "en": "DISTRESS: I MUST SELL",
+   "ar": "اضطرار: لازم أبيع"
+  },
+  "panic": {
+   "en": "PANIC: EVERYONE RUNS",
+   "ar": "هلع: الكل عم يركض"
+  },
+  "mood": {
+   "en": "MARKET MOOD (TITAN EXECUTIVE)",
+   "ar": "مزاج السوق (مدير بشركة تيتان)"
+  },
+  "st_jan": {
+   "en": "JAN: ABOVE $5,500",
+   "ar": "يناير: فوق ٥٬٥٠٠ دولار"
+  },
+  "st_nov": {
+   "en": "MID-NOV: ABOUT $3,800",
+   "ar": "منتصف نوفمبر: حوالي ٣٬٨٠٠ دولار"
+  },
+  "cpi": {
+   "en": "US INFLATION: HOTTER THAN EXPECTED",
+   "ar": "التضخم الأمريكي: أعلى من المتوقع"
+  },
+  "infl_gold": {
+   "en": "INFLATION = GOLD?",
+   "ar": "تضخم = ذهب؟"
+  },
+  "cuts": {
+   "en": "RATE CUTS",
+   "ar": "خفض الفايدة"
+  },
+  "hike_bets": {
+   "en": "RATE-HIKE BETS",
+   "ar": "توقّع رفع الفايدة"
+  },
+  "b_dollar": {
+   "en": "DOLLAR",
+   "ar": "الدولار"
+  },
+  "b_gold": {
+   "en": "GOLD",
+   "ar": "الذهب"
+  },
+  "minus27": {
+   "en": "-2.7% (12 NOV)",
+   "ar": "نزل ٢٫٧٪ (١٢ نوفمبر)"
+  },
+  "now_price": {
+   "en": "ABOUT $3,800 / oz",
+   "ar": "حوالي ٣٬٨٠٠ دولار للأونصة"
+  },
+  "low_lbl": {
+   "en": "LOWEST IN OVER A YEAR",
+   "ar": "أقل سعر من أكتر من سنة"
+  },
+  "strong_dollar": {
+   "en": "STRONG DOLLAR",
+   "ar": "دولار قوي"
+  },
+  "pays_nothing": {
+   "en": "PAYS NO INTEREST",
+   "ar": "ما بيعطي فايدة"
+  },
+  "interest": {
+   "en": "INTEREST",
+   "ar": "فايدة"
+  },
+  "gold_in_dollars": {
+   "en": "PRICED IN DOLLARS",
+   "ar": "بيتسعّر بالدولار"
+  },
+  "bar_price": {
+   "en": "ONE BAR: ABOUT $1.5 MILLION",
+   "ar": "سبيكة وحدة: حوالي ١٫٥ مليون دولار"
+  },
+  "yield5": {
+   "en": "ONE REPORT: YIELDS NEAR 5%",
+   "ar": "حسب تقرير: فايدة سندات الخزينة قرابة ٥٪"
+  },
+  "one_report": {
+   "en": "ONE REPORT",
+   "ar": "حسب تقرير واحد"
+  },
+  "ltv": {
+   "en": "LOAN-TO-VALUE: 75% MAX",
+   "ar": "نسبة القرض للقيمة: ٧٥٪ بحدّ أقصى"
+  },
+  "gold_100": {
+   "en": "GOLD: 100",
+   "ar": "ذهب: ١٠٠"
+  },
+  "loan_75": {
+   "en": "LOAN: 75",
+   "ar": "قرض: ٧٥"
+  },
+  "topup": {
+   "en": "TOP-UP OR REPAY",
+   "ar": "زيد ذهب أو سدّد"
+  },
+  "fitch": {
+   "en": "FITCH: INDIA GOLD LOANS",
+   "ar": "فيتش: قروض الذهب بالهند"
+  },
+  "fitch_a": {
+   "en": "FITCH: CAN ABSORB ~15%",
+   "ar": "فيتش: بيتحمّلوا حوالي ١٥٪"
+  },
+  "fitch_b": {
+   "en": "NEXT 15-20% = COULD TEST THEM",
+   "ar": "١٥-٢٠٪ كمان = ممكن تختبرهم"
+  },
+  "guess_tape": {
+   "en": "STRESS TEST, NOT FORECAST",
+   "ar": "اختبار ضغط، مو توقّع"
+  },
+  "panic_hl": {
+   "en": "HEADLINE: \"15% FALL = PANIC\"",
+   "ar": "عنوان: «نزلة ١٥٪ = هلع»"
+  },
+  "on_paper": {
+   "en": "ON PAPER ONLY",
+   "ar": "عالورق بس"
+  },
+  "door_past": {
+   "en": "THE PAST",
+   "ar": "الماضي"
+  },
+  "y1980": {
+   "en": "21 JAN 1980",
+   "ar": "٢١ يناير ١٩٨٠"
+  },
+  "p850": {
+   "en": "$850",
+   "ar": "٨٥٠ دولار"
+  },
+  "b850": {
+   "en": "$850",
+   "ar": "٨٥٠ دولار"
+  },
+  "b_spring": {
+   "en": "MARCH 1980",
+   "ar": "مارس ١٩٨٠"
+  },
+  "minus40plus": {
+   "en": "MORE THAN 40% BELOW THE PEAK (ONE SOURCE)",
+   "ar": "أكتر من ٤٠٪ تحت القمة (مصدر واحد)"
+  },
+  "apr2013": {
+   "en": "15 APRIL 2013",
+   "ar": "١٥ أبريل ٢٠١٣"
+  },
+  "minus9": {
+   "en": "-9% IN ONE DAY",
+   "ar": "نزل ٩٪ بيوم واحد"
+  },
+  "t2011": {
+   "en": "2011: PEAK ABOUT $1,900",
+   "ar": "٢٠١١: القمة حوالي ١٬٩٠٠ دولار"
+  },
+  "t2015": {
+   "en": "DEC 2015: ABOUT $1,050",
+   "ar": "ديسمبر ٢٠١٥: حوالي ١٬٠٥٠ دولار"
+  },
+  "t2020": {
+   "en": "AUG 2020: BACK ABOVE $2,000",
+   "ar": "أغسطس ٢٠٢٠: رجع فوق ٢٬٠٠٠ دولار"
+  },
+  "nine_years": {
+   "en": "ABOUT 9 YEARS",
+   "ar": "حوالي ٩ سنين"
+  },
+  "path_up": {
+   "en": "UP?",
+   "ar": "طلوع؟"
+  },
+  "path_down": {
+   "en": "DOWN?",
+   "ar": "نزول؟"
+  },
+  "cb_tonnes": {
+   "en": "~289 t IN Q2",
+   "ar": "حوالي ٢٨٩ طن بالربع التاني"
+  },
+  "reported": {
+   "en": "REPORTED",
+   "ar": "حسب التقارير"
+  },
+  "forecast_tape": {
+   "en": "FORECAST, NOT FACT",
+   "ar": "توقّع، مو حقيقة"
+  },
+  "gs_card": {
+   "en": "GOLDMAN SACHS (17 NOV, VIA KITCO)",
+   "ar": "غولدمان ساكس (١٧ نوفمبر، حسب كيتكو)"
+  },
+  "gs_2027": {
+   "en": "END-2027: $4,650",
+   "ar": "نهاية ٢٠٢٧: ٤٬٦٥٠ دولار"
+  },
+  "bear_a": {
+   "en": "BEAR: $3,500 IF A KEY LEVEL BREAKS",
+   "ar": "دب (متوقّع نزول): ٣٬٥٠٠ دولار إذا انكسر مستوى مهم"
+  },
+  "kitco_poll": {
+   "en": "KITCO SURVEY: MOST BEARISH",
+   "ar": "استطلاع كيتكو: أغلبهم متشائمين"
+  },
+  "bull_a": {
+   "en": "BULL (SHORT-TERM): BACK ABOVE $4,000",
+   "ar": "ثور (متوقّع طلوع، قصير المدى): فوق ٤٬٠٠٠ دولار"
+  },
+  "not_advice": {
+   "en": "NOT ADVICE",
+   "ar": "مو نصيحة مالية"
+  },
+  "nobody_knows": {
+   "en": "NOBODY KNOWS",
+   "ar": "ما حدا بيعرف"
+  },
+  "cube_22m": {
+   "en": "ALL GOLD EVER MINED: ~22.6 m CUBE",
+   "ar": "كل الذهب اللي انستخرج بالتاريخ: مكعّب حوالي ٢٢٫٦ متر"
+  },
+  "bar_kg": {
+   "en": "ONE BAR: ABOUT 12.4 kg",
+   "ar": "سبيكة وحدة: حوالي ١٢٫٤ كيلو"
+  },
+  "your_score": {
+   "en": "YOUR SCORE OUT OF 7?",
+   "ar": "كم جبت من ٧؟"
+  },
+  "jan30": {
+   "en": "30 JAN 2026 (FRIDAY)",
+   "ar": "٣٠ يناير ٢٠٢٦ (الجمعة)"
+  },
+  "one_day_nine": {
+   "en": "ABOUT -9% IN ONE DAY",
+   "ar": "نزل حوالي ٩٪ بيوم واحد"
+  },
+  "b_days": {
+   "en": "WITHIN DAYS: SHARP FALL",
+   "ar": "بعد أيام: نزلة قوية"
+  },
+  "panic_or_smart": {
+   "en": "PANIC OR SMART EXIT?",
+   "ar": "هلع ولا خروج ذكي؟"
+  }
+ },
+ "shorts_plan_note": "Shorts s1..s7 = pieces one..seven; each from/to sits inside ONE piece, starts on a line that works cold and ends on that piece's payoff (75-125 spoken words, r2 ranges checked by script); the full piece stays in the long video.",
+ "fact_notes": [
+  {
+   "line": "l001",
+   "claim": "Fall from the record is about 30% (30.5-30.8% computed from 5,589-5,592 peak vs 3,881-3,884).",
+   "evidence": "Fact sheet s1: 'Fall from peak: about -30.5% to -30.8% ... Say about 30% in narration.'",
+   "source_url": "https://www.kitco.com/news/article/2026-11-13/wall-street-bears-abound-after-inflation-sours-fed-outlook-main-street",
+   "tag": "CONFLICT-safe-wording"
+  },
+  {
+   "line": "l003",
+   "claim": "Central banks, as a group, kept buying in 2026 (WGC: net buyers in aggregate; Q2 about 289 t). Some individual banks (Russia, Turkey) were net sellers in Q2, so the line says 'as a group'. 'Dumping' is not supported.",
+   "evidence": "Fact-check r1 (WGC via Bitcoin.com, The National). The Q1 figure of 244 t is superseded (WGC revised Q1 to about 56.5 t); no Q1 number is spoken.",
+   "source_url": "https://news.bitcoin.com/central-bank-gold-purchases-jump-62-to-288-9-tonnes-in-q2/",
+   "tag": "OK (wording fixed r2)"
+  },
+  {
+   "line": "l005",
+   "claim": "On Friday 30 Jan 2026 gold fell about nine percent in one day (spot about 9.5% intraday, closes about 9%): 'almost a tenth'. Sellers queued at the Dubai Gold Souk that same week.",
+   "evidence": "Fact-check r1: Reuters via Pakistan Today, Axios, Morningstar (about 9%); 12% appears only in ROIC and an ETF figure; Khaleej Times gives 'nearly 5%' for Thursday.",
+   "source_url": "https://profit.pakistantoday.com.pk/2026/01/31/gold-heads-for-steepest-fall-since-1983-silver-plunges-30-after-trump-names-fed-chair",
+   "tag": "CONFLICT-safe-wording"
+  },
+  {
+   "line": "l010",
+   "claim": "2025 was gold's best year since 1979; gain about two thirds (65-66%; futures-based 70-72%).",
+   "evidence": "Fact sheet s3: 'about 65% (BullionVault), 66% (WAM) ... Best year since 1979 (WAM)'.",
+   "source_url": "https://www.wam.ae/en/article/15y61k3-gold-set-for-best-year-nearly-half-century",
+   "tag": "OK, gain CONFLICT-safe-wording"
+  },
+  {
+   "line": "l012",
+   "claim": "Gold's first close above $5,000/oz and first trade above $5,100 was on 26 Jan 2026.",
+   "evidence": "Fact sheet s1 [ONE-SOURCE]: 'First close above US$5,000 and first trade above US$5,100 on 26 Jan 2026 (LBMA close 5,101.55; Al Jazeera)'.",
+   "source_url": "https://www.aljazeera.com/news/2026/1/26/gold-prices-cross-5100-for-the-first-time-amid-geopolitical-uncertainties",
+   "tag": "ONE-SOURCE"
+  },
+  {
+   "line": "l014",
+   "claim": "Everybody: safe-haven / geopolitical demand (verified); bets on lower rates and a weaker dollar are spoken as 'reports said' (ONE-SOURCE, Gulf News via the fact sheet).",
+   "evidence": "Fact-check r1: only the safe-haven/geopolitics headline was seen (Kitco, Al Jazeera 26 Jan); rate-cut bets and weaker dollar from Gulf News (sheet, ONE-SOURCE).",
+   "source_url": "https://www.aljazeera.com/news/2026/1/26/gold-prices-cross-5100-for-the-first-time-amid-geopolitical-uncertainties",
+   "tag": "ONE-SOURCE (attributed 'reports said')"
+  },
+  {
+   "line": "l015",
+   "claim": "One research firm, Capital Economics, called the rally FOMO-driven ('exactly that' dropped).",
+   "evidence": "Fact-check r1: not found in web results; sheet ONE-SOURCE, date not shown.",
+   "source_url": "https://www.aol.com/finance/fomo-fueled-gold-bubble-may-201507545.html",
+   "tag": "ONE-SOURCE (attributed)"
+  },
+  {
+   "line": "l017",
+   "claim": "All-time high in late January 2026, above $5,500/oz (sources $5,589-5,595).",
+   "evidence": "Fact sheet s1 CONFLICT: peak $5,589.38 (CBS) vs $5,591.61 (Reuters copy); gap-fill G1: Khaleej Times 'record high of over $5,500'. Safe wording per brief.",
+   "source_url": "https://www.cbsnews.com/news/highest-gold-price-in-history-how-its-changed-from-2025-to-2026",
+   "tag": "CONFLICT-safe-wording"
+  },
+  {
+   "line": "l019",
+   "claim": "The record held only a few days: peak 28 Jan 2026, the big fall on Fri 30 Jan.",
+   "evidence": "CBS (all-time high $5,589.38 on 28 Jan) and Axios (fall on 30 Jan).",
+   "source_url": "https://www.cbsnews.com/news/highest-gold-price-in-history-how-its-changed-from-2025-to-2026",
+   "tag": "OK"
+  },
+  {
+   "line": "l020",
+   "claim": "Fri 30 Jan 2026 is the day of the big one-day fall, two days after the 28 Jan record. (r1 said Thursday 29 Jan: wrong day.)",
+   "evidence": "Fact-check r1 string item jan29 (wrong): Reuters-based reports, Axios, Morningstar put the fall on Friday 30 Jan.",
+   "source_url": "https://www.axios.com/2026/01/30/kevin-warsh-silver-price-today-gold",
+   "tag": "OK (fixed r2)"
+  },
+  {
+   "line": "l021",
+   "claim": "Late Jan 2026: Trump nominated Kevin Warsh as Fed chair; the nomination is the cited cause of the sell-off (plus positioning).",
+   "evidence": "Gap-fill: 'Cause: Trump's nomination of Kevin Warsh as Fed chair, plus a positioning/liquidation shock (Morningstar)'.",
+   "source_url": "https://www.morningstar.com.au/markets/why-are-gold-silver-plunging",
+   "tag": "ONE-SOURCE"
+  },
+  {
+   "line": "l023",
+   "claim": "Fed uncertainty weighed on the sell-off day (one report, hedged as 'one report says'). 'They sell' as a general rule softened to 'many sell'.",
+   "evidence": "Fact-check r1 missing_fact_notes l023; roic.ai headline (one source).",
+   "source_url": "https://www.roic.ai/news/gold-plunges-12-in-worst-daily-drop-since-1983-as-dollar-rebounds-and-fed-uncertainty-mounts-01-30-2026",
+   "tag": "ONE-SOURCE (hedged)"
+  },
+  {
+   "line": "l024",
+   "claim": "Gold fell about nine percent in a single day (Fri 30 Jan); 'some reports said more' (up to 12%).",
+   "evidence": "Fact-check r1: Reuters-based spot about 9.5% intraday, closes about 9% (Axios, Morningstar); 12% only from ROIC/ETF figure.",
+   "source_url": "https://www.axios.com/2026/01/30/kevin-warsh-silver-price-today-gold",
+   "tag": "CONFLICT-safe-wording"
+  },
+  {
+   "line": "l026",
+   "claim": "One report called it the worst daily drop since 1983 (another says since 2013); safe wording 'one of the worst days in years'.",
+   "evidence": "Gap-fill G1: roic.ai 'worst daily drop since 1983'; another report 'worst single-day since 2013'.",
+   "source_url": "https://www.roic.ai/news/gold-plunges-12-in-worst-daily-drop-since-1983-as-dollar-rebounds-and-fed-uncertainty-mounts-01-30-2026",
+   "tag": "CONFLICT-safe-wording"
+  },
+  {
+   "line": "l027",
+   "claim": "Sellers formed long queues in the Dubai Gold Souk that same week (Khaleej Times). 'Shop after shop' removed r3: only queues of sellers are sourced.",
+   "evidence": "Khaleej Times, 1 Feb 2026 (one outlet). The same article says 'nearly 5%' for the fall, which conflicts with the nine percent in l024.",
+   "source_url": "https://www.khaleejtimes.com/business/markets/uae-gold-silver-panic-selling-driven-by-profit-booking-not-distress",
+   "tag": "ONE-SOURCE"
+  },
+  {
+   "line": "l029",
+   "claim": "A Dubai jeweller, Anil Dhanak (Kanz Jewels), told Khaleej Times this was panic selling, not distress selling (paraphrase; verbatim quote not confirmed). The unsourced 'people normally go to that souk to buy' claim is removed: l028 is now Skip's question and l029 Karto says only 'That is what made it news'.",
+   "evidence": "Fact-check r1: the search snippet paraphrases the view; verbatim not seen. On-screen string no longer uses quote marks.",
+   "source_url": "https://www.khaleejtimes.com/business/markets/uae-gold-silver-panic-selling-driven-by-profit-booking-not-distress",
+   "tag": "ONE-SOURCE (paraphrase)"
+  },
+  {
+   "line": "l031",
+   "claim": "Meaning of the quote: distress vs panic.",
+   "evidence": "Explanatory line for the Khaleej Times quote (Dhanak); no new factual claim.",
+   "source_url": "https://www.khaleejtimes.com/business/markets/uae-gold-silver-panic-selling-driven-by-profit-booking-not-distress",
+   "tag": "EXPLAINER"
+  },
+  {
+   "line": "l032",
+   "claim": "Aditya Singh, Titan: in Dubai gold's liquidity speeds up sentiment-driven reactions (paraphrased, attributed to a Titan executive on screen). (spoken in the l032 line since r3; Skip asks the difference in l030, Karto defines it in l031)",
+   "evidence": "Fact-check r1: quote not seen verbatim; sheet ONE-SOURCE.",
+   "source_url": "https://www.khaleejtimes.com/business/markets/uae-gold-silver-panic-selling-driven-by-profit-booking-not-distress",
+   "tag": "ONE-SOURCE (attributed)"
+  },
+  {
+   "line": "l033",
+   "claim": "Gold slid through the year; spoken line gives no June number. The mid-June card (st_jun, about $4,200, one source) was removed r3; the price path shows January, 30 January and mid-November only.",
+   "evidence": "Gap-fill G1 path (mid-June about $4,200; 23 Jun tested $4,100 Kitco PM); G2 (16 Nov $3,830.74).",
+   "source_url": "https://www.kitco.com/news/article/2026-06-23/gold-tests-4100-silver-breaks-under-62-dollar-pressure-dominates-kitco-pm",
+   "tag": "ONE-SOURCE"
+  },
+  {
+   "line": "l034",
+   "claim": "'A slow, boring slide', not 'crash': the day-to-day path is a slide or correction.",
+   "evidence": "Fact-check r1 missing_fact_notes l034; fact sheet wording rule.",
+   "source_url": "",
+   "tag": "WORDING"
+  },
+  {
+   "line": "l035",
+   "claim": "October CPI up 0.4% m/m, above forecast (released 10 Nov); oil up; Middle East peace hopes fading. 'Inflation, meaning rising prices' is a plain definition.",
+   "evidence": "Fact sheet s2 [OK]: Nation Thailand + Kitco.",
+   "source_url": "https://www.nationthailand.com/business/trading-investment/40073439",
+   "tag": "OK"
+  },
+  {
+   "line": "l037",
+   "claim": "Traders bet on a rate hike in December (CME FedWatch 87% for 25bp per Nation; Kitco 50bp talk).",
+   "evidence": "Fact sheet s2 CONFLICT: use 'a December hike is priced in'. Brief safe wording: 'traders bet on a rate hike'.",
+   "source_url": "https://www.nationthailand.com/business/trading-investment/40073439",
+   "tag": "CONFLICT-safe-wording"
+  },
+  {
+   "line": "l038",
+   "claim": "Strong dollar near a 19-month high (Nation); 12 Nov gold down 2.7% on the day (Nation: 'about 3%' headline vs 2.7% body).",
+   "evidence": "Fact sheet s1+s2: 'Spot ... down 2.7% on the day'; 'Strong dollar, near a 19-month high' [OK].",
+   "source_url": "https://www.nationthailand.com/business/trading-investment/40073439",
+   "tag": "OK, headline CONFLICT-safe-wording"
+  },
+  {
+   "line": "l040",
+   "claim": "Mid-November gold about $3,800-3,880 (12 Nov spot about 3,881; 16 Nov 3,830.74 Nation; 3,861.50 Kitco chart), the lowest in over a year. 'Since October of last year' dropped because sources differ (Sep vs Oct 2025).",
+   "evidence": "Fact-check r1 item l040 + string items low_lbl, st_nov, now_price.",
+   "source_url": "https://www.khaleejtimes.com/business/gold-drops-3-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears",
+   "tag": "CONFLICT-safe-wording"
+  },
+  {
+   "line": "l041",
+   "claim": "About -30% from the 28 Jan record to mid-November; a little more (about 31%) at the lowest point; under ten months.",
+   "evidence": "Fact-check r1: peak 5,589 vs 3,831-3,881 = -30.6% to -31.4%.",
+   "source_url": "https://www.kitco.com/news/article/2026-11-13/wall-street-bears-abound-after-inflation-sours-fed-outlook-main-street",
+   "tag": "COMPUTED"
+  },
+  {
+   "line": "l047",
+   "claim": "Higher rates mean new bonds pay more; gold pays no interest.",
+   "evidence": "Explanatory model; Goldman (Kitco 17 Nov): Fed hikes weigh on private investor demand for gold.",
+   "source_url": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
+   "tag": "EXPLAINER"
+  },
+  {
+   "line": "l051",
+   "claim": "A 400 oz bar is about 12.4 kg; at $3,880/oz that is about $1.55 million. r3: also says a bar 'pays you nothing, ever' (general fact, no interest paid on gold).",
+   "evidence": "Gap-fill G6: LBMA bar nominal 400 oz = about 12.44 kg [OK]; computed $1,552,000 at $3,880/oz [COMPUTED].",
+   "source_url": "https://www.lbma.org.uk/publications/the-otc-guide/london-good-delivery-gold-and-silver",
+   "tag": "OK + COMPUTED"
+  },
+  {
+   "line": "l053",
+   "claim": "Gold is priced in dollars; a stronger dollar makes it dearer in other currencies.",
+   "evidence": "Definition of the dollar-gold link; Kitco 13 Nov cites 'stronger US dollar' as a driver.",
+   "source_url": "https://www.kitco.com/news/article/2026-11-13/wall-street-bears-abound-after-inflation-sours-fed-outlook-main-street",
+   "tag": "EXPLAINER"
+  },
+  {
+   "line": "l054",
+   "claim": "One report put US Treasury yields near five percent (Kitco, one source).",
+   "evidence": "Fact-check r1: yield level not confirmed (one source); the spoken line says 'one report' and the on-screen string repeats the hedge.",
+   "source_url": "https://www.kitco.com/news/article/2026-11-13/wall-street-bears-abound-after-inflation-sours-fed-outlook-main-street",
+   "tag": "ONE-SOURCE (hedged)"
+  },
+  {
+   "line": "l057",
+   "claim": "In India lenders lend against gold; RBI caps lending at 75% loan-to-value.",
+   "evidence": "Fact sheet s4 [OK]: Fitch via Tribune India / Kotak Neo.",
+   "source_url": "https://www.tribuneindia.com/news/business/fitch-flags-rising-risks-in-indias-gold-loan-segment-amid-price-drop/",
+   "tag": "OK"
+  },
+  {
+   "line": "l059",
+   "claim": "RBI caps gold-loan lending at 75% loan-to-value.",
+   "evidence": "Fact sheet s4 [OK]: 'RBI caps lending at 75% loan-to-value'.",
+   "source_url": "https://www.kotakneo.com/news/market-news/gold-loan-nbfcs-risk-fitch-15-percent-price-drop/",
+   "tag": "OK"
+  },
+  {
+   "line": "l060",
+   "claim": "Falling gold pushes LTV up; lenders ask for top-up gold or repayment. Arithmetic: loan 75 on gold 80 = 93.75% LTV, far over the 75% cap ('far over the rule').",
+   "evidence": "Fact sheet s4 [OK] + fact-check r2 arithmetic (75/80 = 93.75%).",
+   "source_url": "https://www.kotakneo.com/news/market-news/gold-loan-nbfcs-risk-fitch-15-percent-price-drop/",
+   "tag": "OK + COMPUTED"
+  },
+  {
+   "line": "l062",
+   "claim": "Auctions only after missed grace periods.",
+   "evidence": "Fact sheet s4 [OK]: 'auctions only after missed grace periods (Fitch)'.",
+   "source_url": "https://www.tribuneindia.com/news/business/fitch-flags-rising-risks-in-indias-gold-loan-segment-amid-price-drop/",
+   "tag": "OK"
+  },
+  {
+   "line": "l063",
+   "claim": "Fitch: lenders could absorb a first fall of about 15%; a further 15-20% could test them. Fitch is a rating firm.",
+   "evidence": "Fact-check r1: Fitch (Siddharth Goel) saw no immediate risk; further 15-20% 'could test' lenders (Kotak Neo, Tribune India).",
+   "source_url": "https://www.kotakneo.com/news/market-news/gold-loan-nbfcs-risk-fitch-15-percent-price-drop/",
+   "tag": "OK (wording fixed r2)"
+  },
+  {
+   "line": "l065",
+   "claim": "The '15% fall could trigger panic' headline is a misreading: 15% is Fitch's stress threshold, not a forecast; 'panic' is not Fitch's word.",
+   "evidence": "Fact sheet s4 + 'Do not say: A 15% fall will trigger panic'.",
+   "source_url": "https://www.kotakneo.com/news/market-news/gold-loan-nbfcs-risk-fitch-15-percent-price-drop/",
+   "tag": "OK"
+  },
+  {
+   "line": "l068",
+   "claim": "Near-top buyers are down about 30% on paper (computed). 'Nobody knows the top until it has passed' is an aphorism, not a data claim.",
+   "evidence": "Computed from the 28 Jan record vs mid-November price.",
+   "source_url": "https://www.kitco.com/news/article/2026-11-13/wall-street-bears-abound-after-inflation-sours-fed-outlook-main-street",
+   "tag": "COMPUTED"
+  },
+  {
+   "line": "l070",
+   "claim": "21 Jan 1980: gold peaked at $850 intraday.",
+   "evidence": "Fact sheet s5 [ONE-SOURCE]: Reuters-style factbox via Business Standard.",
+   "source_url": "https://www.business-standard.com/article/reuters/factbox-gold-milestones-after-record-highs-historic-sell-off-113041700037_1.html",
+   "tag": "ONE-SOURCE"
+  },
+  {
+   "line": "l072",
+   "claim": "21 Jan 1980 peak $850; within days gold fell sharply; by March 1980 one source puts it more than 40% below the peak (1980 low about $480 on 17 Mar). The $737.50 / -13% figures were removed.",
+   "evidence": "Fact-check r1: $737.50 not confirmed (Cleveland Fed commentary says $650 two mornings later); the 40% figure is single-source.",
+   "source_url": "https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/1980-economic-commentaries/ec-19800505-after-silver-and-gold-some-sober-thoughts-on-speculative-bubbles.aspx",
+   "tag": "ONE-SOURCE"
+  },
+  {
+   "line": "l073",
+   "claim": "15 Apr 2013: gold fell 9% in one day, $140.30 to $1,361.10.",
+   "evidence": "Fact sheet s5 [OK]: Christian Science Monitor; MercoPress.",
+   "source_url": "https://csmonitor.com/Business/Latest-News-Wires/2013/0415/Gold-price-biggest-tumble-in-30-years",
+   "tag": "OK"
+  },
+  {
+   "line": "l075",
+   "claim": "2011 peak about $1,921 (6 Sep 2011); Dec 2015 low about $1,050-1,055.",
+   "evidence": "Gap-fill G5 [ONE-SOURCE]: metalcharts.org / moneymetals.",
+   "source_url": "https://metalcharts.org/gold-price-history/2010s",
+   "tag": "ONE-SOURCE"
+  },
+  {
+   "line": "l076",
+   "claim": "Gold did not get back above its 2011 peak until 2020, about nine years (JM Bullion: new closing high above 1,921 on 30 Jul 2020; record close $2,067.16 on 7 Aug 2020). The month is not spoken.",
+   "evidence": "Fact-check r1: 'nine years' holds; 'August' is one source's date.",
+   "source_url": "https://www.jmbullion.com/charts/gold-price/20-year/",
+   "tag": "CONFLICT-safe-wording"
+  },
+  {
+   "line": "l081",
+   "claim": "Central banks bought about 289 t net in Q2 2026, up about 62% y/y (WGC via Bitcoin.com). 'A record' dropped: sources disagree (second-quarter record vs four-year high).",
+   "evidence": "Fact-check r1 item l081.",
+   "source_url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q2-2026/central-banks",
+   "tag": "ONE-SOURCE"
+  },
+  {
+   "line": "l083",
+   "claim": "Q2: China, Poland, Uzbekistan buying; Q1: Poland 31 t and Uzbekistan 25 t led.",
+   "evidence": "Fact sheet s3 [ONE-SOURCE]: WGC Q1 page; Bitcoin.com citing WGC for Q2.",
+   "source_url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q1-2026/central-banks",
+   "tag": "ONE-SOURCE"
+  },
+  {
+   "line": "l085",
+   "claim": "Goldman Sachs (17 Nov 2026, as reported by Kitco): about $4,650 by end-2027. The 2028 target (above $5,600) was dropped from the script.",
+   "evidence": "Fact-check r1 item l085 (labels differ across reports; the 4,650 / 5,600 pair is the Kitco 17 Nov reading).",
+   "source_url": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
+   "tag": "ONE-SOURCE (forecast)"
+  },
+  {
+   "line": "l087",
+   "claim": "Bulls expect prices to rise, bears expect them to fall (definition). Bear: Marc Chandler, $3,500 if $3,750 breaks (Kitco 13 Nov); Kitco weekly survey: most expected lower. The second bear (Colombo $3,400-3,500) and UBS were dropped in r2.",
+   "evidence": "Fact sheet s6 [ONE-SOURCE]; survey counts CONFLICT but majority bearish in both versions.",
+   "source_url": "https://www.kitco.com/news/article/2026-11-13/wall-street-bears-abound-after-inflation-sours-fed-outlook-main-street",
+   "tag": "ONE-SOURCE (forecast)"
+  },
+  {
+   "line": "l088",
+   "claim": "Bull: James Stanley expects a short-term move back above $4,000 (Kitco 13 Nov).",
+   "evidence": "Fact-check r1: short-term, undated view; 'short-term' now spoken and on screen.",
+   "source_url": "https://www.kitco.com/news/article/2026-11-13/wall-street-bears-abound-after-inflation-sours-fed-outlook-main-street",
+   "tag": "ONE-SOURCE (forecast)"
+  },
+  {
+   "line": "l091",
+   "claim": "All gold above ground about 224,200 t (WGC end-Q3 2026); at 19.3 t/m3 that is a cube about 22.6 m per side (computed). Spoken: 'under twenty-three metres'; on-screen ~22.6 m.",
+   "evidence": "Fact-check r2: cube root of 11,606 m3 = 22.64 m; the old spoken 22.5 was wrong.",
+   "source_url": "https://www.gold.org/goldhub/data/above-ground-stocks",
+   "tag": "ONE-SOURCE + COMPUTED"
+  },
+  {
+   "line": "l093",
+   "claim": "On-screen only (no spoken number): one 400 oz bar is about 12.4 kg. Central banks still buy (WGC); forecasts disagree (Goldman vs Kitco survey).",
+   "evidence": "LBMA OTC guide (12.44 kg); fact-check r1 said the spoken 12.5 should match the string, so the spoken number was removed.",
+   "source_url": "https://www.lbma.org.uk/publications/the-otc-guide/london-good-delivery-gold-and-silver",
+   "tag": "OK"
+  },
+  {
+   "line": "l096",
+   "claim": "Gold is about 30% below its record; central banks, as a group, kept buying; a crowd bought near the top (FOMO / bubble unwind, ONE-SOURCE); analysts point to rates and the dollar for the slide (Kitco 13 Nov). The January causal claim ('rates and the dollar changed the mood') removed r3.",
+   "evidence": "Fact-check r1 item l096 + missing note.",
+   "source_url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-2025-record-price-123120251",
+   "tag": "ONE-SOURCE (attributed)"
+  }
+ ],
+ "short_cta": {
+  "who": "karto",
+  "en": "That was piece {n} of seven. All seven are in the full video.",
+  "ar": "هاي القطعة {n} من سبعة. والسبعة كلهم بالفيديو الكامل."
+ },
+ "ar_policy": "Arabic = simple Syrian-leaning dialect with pan-Arab word choices where the Syrian word is opaque elsewhere (editor 2026-11-18): الفلوس not المصاري, يتفرّج not يحضر, مستشفى, ماما, التريلر; teen numbers spelled in full (ثلاثة عشر, خمسة عشر, أحد عشر; r2: no slurred forms such as تلاتاشر, خمستاشر, حداشر); Levantine month names with the common name on first mention; the game is always «جي تي إيه». Owner may switch back to pure Syrian.",
+ "cast": {
+  "karto": {
+   "en": {
+    "voice": "Achird",
+    "style": "Warm, quick storyteller with a smile in his voice. Clear, energetic, a little dramatic on big numbers. Natural pace, never rushed, never an announcer."
+   },
+   "ar": {
+    "voice": "Achird",
+    "style": "حكواتي دافي وسريع، بنبرة فيها ابتسامة. لهجة سورية بسيطة وواضحة. بيشدّ عالأرقام الكبيرة. إيقاع طبيعي، مو مذيع أخبار."
+   }
+  },
+  "skip": {
+   "en": {
+    "voice": "Puck",
+    "style": "Dry, fast, teasing teenager. Deadpan one-liners, a little bored, sharp when surprised."
+   },
+   "ar": {
+    "voice": "Puck",
+    "style": "شب صغير ناشف وسريع ومناكف. بيرمي الجملة ببرود، ملّان شوي، وبيتفاجأ بحدّة. لهجة سورية بسيطة."
+   }
+  }
+ },
+ "voices_note": "Voices are first picks, not auditioned: run a short audition (2-3 pairs, 4 lines, both languages) and let the owner pick before the full build.",
+ "tail": 12,
+ "chapter_gap": 1,
+ "captions": true,
+ "shorts": [
+  {
+   "id": "s1",
+   "from": "l013",
+   "to": "l019",
+   "hook_text": {
+    "en": "GOLD PASSED FIVE THOUSAND DOLLARS. WHO WAS BUYING?",
+    "ar": "الذهب عدّى خمسة آلاف دولار. مين كان عم يشتري؟"
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece one of seven. All seven are in the full video.",
+     "ar": "هاي القطعة الأولى من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  },
+  {
+   "id": "s2",
+   "from": "l027",
+   "to": "l032",
+   "hook_text": {
+    "en": "QUEUES TO SELL GOLD IN DUBAI",
+    "ar": "طوابير لبيع الذهب بدبي"
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece two of seven. All seven are in the full video.",
+     "ar": "هاي القطعة التانية من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  },
+  {
+   "id": "s3",
+   "from": "l036",
+   "to": "l043",
+   "hook_text": {
+    "en": "THREE THINGS PUSHED GOLD DOWN",
+    "ar": "تلات أشياء نزّلت الذهب"
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece three of seven. All seven are in the full video.",
+     "ar": "هاي القطعة التالتة من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  },
+  {
+   "id": "s4",
+   "from": "l046",
+   "to": "l055",
+   "hook_text": {
+    "en": "WHY GOLD HATES HIGH INTEREST RATES",
+    "ar": "ليش الذهب بيكره الفايدة العالية"
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece four of seven. All seven are in the full video.",
+     "ar": "هاي القطعة الرابعة من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  },
+  {
+   "id": "s5",
+   "from": "l066",
+   "to": "l069",
+   "hook_text": {
+    "en": "THE GOLD YOU KEEP FOR A BAD YEAR",
+    "ar": "الذهب اللي بتخبّيه لسنة صعبة"
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece five of seven. All seven are in the full video.",
+     "ar": "هاي القطعة الخامسة من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  },
+  {
+   "id": "s6",
+   "from": "l074",
+   "to": "l080",
+   "hook_text": {
+    "en": "GOLD ONCE WAITED ABOUT NINE YEARS",
+    "ar": "مرة، الذهب انتظر حوالي تسع سنين ليرجع لقمته"
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece six of seven. All seven are in the full video.",
+     "ar": "هاي القطعة السادسة من سبعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  },
+  {
+   "id": "s7",
+   "from": "l087",
+   "to": "l093",
+   "hook_text": {
+    "en": "NOBODY KNOWS WHERE GOLD GOES NEXT",
+    "ar": "ما حدا بيعرف وين رايح الذهب"
+   },
+   "cta": {
+    "who": "karto",
+    "text": {
+     "en": "That was piece seven of seven. All seven are in the full video.",
+     "ar": "هاي آخر قطعة، السابعة. والسبعة كلهم بالفيديو الكامل."
+    }
+   }
+  }
+ ],
+ "media_wishlist": [
+  {
+   "key": "real/bars_vault.jpg",
+   "type": "photo",
+   "what": "Stacked 400-oz gold bars in a vault, straight-on or slightly angled",
+   "lines": [
+    "l001",
+    "l002",
+    "l096"
+   ],
+   "must_show": "Hero thumbnail photo; rows of identical bars filling the frame",
+   "search_hint": "Wikimedia Commons: 'gold bars vault', 'Gold bars Bundesbank', Pexels 'gold bars'",
+   "fallback": "Cardboard-drawn bar stack"
+  },
+  {
+   "key": "real/bars_stack.jpg",
+   "type": "photo",
+   "what": "A small pile or stack of gold bars on a table, shiny, hallmarks visible",
+   "lines": [
+    "l010",
+    "l011"
+   ],
+   "must_show": "Bars clearly gold, not yellow bricks; stamps visible",
+   "search_hint": "Pexels / Pixabay 'gold bars stack'",
+   "fallback": "Cardboard bars"
+  },
+  {
+   "key": "real/cb_vault.jpg",
+   "type": "photo",
+   "what": "Central bank gold vault interior (Bank of England, Bundesbank or similar official image)",
+   "lines": [
+    "l003",
+    "l004",
+    "l081",
+    "l082"
+   ],
+   "must_show": "Bars on racks, a vault door or corridor",
+   "search_hint": "Wikimedia Commons 'Bank of England gold vault', Bundesbank press images",
+   "fallback": "NY Fed vault photo (real/ny_fed_vault.jpg)"
+  },
+  {
+   "key": "real/ny_fed_vault.jpg",
+   "type": "photo",
+   "what": "New York Fed gold vault corridor or compartment",
+   "lines": [
+    "l017",
+    "l018",
+    "l019"
+   ],
+   "must_show": "Cage compartments with stacked bars; recognisable vault feel",
+   "search_hint": "newyorkfed.org gold vault page images, Wikimedia Commons 'Federal Reserve Bank of New York gold vault'",
+   "fallback": "real/cb_vault.jpg"
+  },
+  {
+   "key": "real/souk_clip",
+   "type": "clip",
+   "what": "Short vertical clip walking through the Dubai Gold Souk lanes, shop windows full of gold, people moving",
+   "lines": [
+    "l005",
+    "l006"
+   ],
+   "must_show": "Gold shop windows and a crowd in the same shot",
+   "search_hint": "TikTok / Pexels video 'Dubai gold souk'; Pixabay video",
+   "fallback": "real/souk_crowd photo"
+  },
+  {
+   "key": "real/souk_crowd",
+   "type": "clip",
+   "what": "Crowd of people at Dubai Gold Souk shops (any clip of busy gold shops)",
+   "lines": [
+    "l027"
+   ],
+   "must_show": "People queuing or clustering at counters",
+   "search_hint": "TikTok 'gold souk dubai queue', Pexels video",
+   "fallback": "real/souk_windows.jpg photo"
+  },
+  {
+   "key": "real/souk_windows.jpg",
+   "type": "photo",
+   "what": "Dubai Gold Souk shop windows packed with gold jewellery, evening light",
+   "lines": [
+    "l020"
+   ],
+   "must_show": "Rows of gold necklaces in windows",
+   "search_hint": "Wikimedia Commons 'Dubai Gold Souk', Unsplash 'gold souk'",
+   "fallback": "Cardboard shop window"
+  },
+  {
+   "key": "real/jeweller_shop.jpg",
+   "type": "photo",
+   "what": "A jeweller's shop counter or storefront in Dubai or the Gulf, with gold in view",
+   "lines": [
+    "l028",
+    "l029"
+   ],
+   "must_show": "A jeweller at a counter or a sign in Arabic/English",
+   "search_hint": "Wikimedia Commons 'Gold souk jeweller', Pexels 'jewellery shop dubai'",
+   "fallback": "real/souk_windows.jpg"
+  },
+  {
+   "key": "real/gold_scale.jpg",
+   "type": "photo",
+   "what": "Jeweller weighing gold on a small scale",
+   "lines": [
+    "l031"
+   ],
+   "must_show": "Scale plus gold clearly in frame",
+   "search_hint": "Pexels / Pixabay 'gold scale jeweller'",
+   "fallback": "Cardboard scale"
+  },
+  {
+   "key": "real/price_board.jpg",
+   "type": "photo",
+   "what": "A jeweller's gold price board in a shop window (any currency)",
+   "lines": [
+    "l012",
+    "l013",
+    "l068"
+   ],
+   "must_show": "Numbers and a gold price heading readable",
+   "search_hint": "Wikimedia Commons 'gold price board', Pexels 'gold price display'",
+   "fallback": "Cardboard price sign"
+  },
+  {
+   "key": "real/dubai_skyline.jpg",
+   "type": "photo",
+   "what": "Dubai skyline with the Burj Khalifa",
+   "lines": [
+    "l026"
+   ],
+   "must_show": "Burj Khalifa and a skyline",
+   "search_hint": "Wikimedia Commons 'Dubai skyline', Unsplash 'dubai'",
+   "fallback": "Cardboard skyline"
+  },
+  {
+   "key": "real/fed_building.jpg",
+   "type": "photo",
+   "what": "Federal Reserve Board building (Eccles Building), Washington",
+   "lines": [
+    "l037"
+   ],
+   "must_show": "The marble facade and flag",
+   "search_hint": "federalreserve.gov press images, Wikimedia Commons 'Eccles Building'",
+   "fallback": "Cardboard Fed building"
+  },
+  {
+   "key": "real/warsh.jpg",
+   "type": "photo",
+   "what": "Kevin Warsh official portrait or event photo",
+   "lines": [
+    "l021",
+    "l022"
+   ],
+   "must_show": "Face clearly visible, neutral photo",
+   "search_hint": "Wikimedia Commons 'Kevin Warsh', official Fed/Hoover portrait",
+   "fallback": "Cardboard silhouette with name tag (no face)"
+  },
+  {
+   "key": "real/dollar_bill.jpg",
+   "type": "photo",
+   "what": "Close-up of a US dollar bill",
+   "lines": [
+    "l038",
+    "l039",
+    "l047",
+    "l048"
+   ],
+   "must_show": "A bill with the portrait and green texture",
+   "search_hint": "Wikimedia Commons 'US dollar bill', Pexels 'dollar bill'",
+   "fallback": "Cardboard dollar sign"
+  },
+  {
+   "key": "real/screens_red",
+   "type": "clip",
+   "what": "Trading floor or trader desk with many screens, numbers red and falling",
+   "lines": [
+    "l023",
+    "l040",
+    "l087"
+   ],
+   "must_show": "Several screens with red numbers",
+   "search_hint": "TikTok 'stock market crash screens', Pexels 'trading screens red'",
+   "fallback": "real/analyst_desk.jpg"
+  },
+  {
+   "key": "real/analyst_desk.jpg",
+   "type": "photo",
+   "what": "Analyst or trader at a bank desk with several monitors",
+   "lines": [
+    "l054",
+    "l055",
+    "l084",
+    "l085b"
+   ],
+   "must_show": "A person at monitors, charts visible but not branded",
+   "search_hint": "Pexels / Unsplash 'trader desk'",
+   "fallback": "Cardboard desk"
+  },
+  {
+   "key": "real/buy_queue",
+   "type": "clip",
+   "what": "People queuing to buy gold at a shop (Hanoi 3 am queue, Bangkok Yaowarat, or any gold-buying rush)",
+   "lines": [
+    "l014"
+   ],
+   "must_show": "A line of people outside a gold shop",
+   "search_hint": "TikTok 'gold queue', YouTube clip not downloaded; Video Hunter TikTok",
+   "fallback": "real/souk_crowd"
+  },
+  {
+   "key": "real/shelf_prices.jpg",
+   "type": "photo",
+   "what": "Supermarket shelf with price tags (inflation symbol)",
+   "lines": [
+    "l035",
+    "l036"
+   ],
+   "must_show": "Price tags visible",
+   "search_hint": "Pexels / Unsplash 'grocery prices'",
+   "fallback": "Cardboard shelf"
+  },
+  {
+   "key": "real/gold_bar_hand.jpg",
+   "type": "photo",
+   "what": "A hand holding one gold bar (Good Delivery size or a smaller bar) with hallmark visible",
+   "lines": [
+    "l046",
+    "l051",
+    "l052"
+   ],
+   "must_show": "The bar is held in one hand, stamp visible",
+   "search_hint": "Pexels 'hand holding gold bar', Wikimedia Commons 'gold bar'",
+   "fallback": "real/bars_stack.jpg"
+  },
+  {
+   "key": "real/india_loan_sign.jpg",
+   "type": "photo",
+   "what": "Indian gold-loan shop front or sign (Muthoot, Manappuram style but unbranded crop if possible)",
+   "lines": [
+    "l057",
+    "l058"
+   ],
+   "must_show": "'Gold loan' sign in English readable",
+   "search_hint": "Wikimedia Commons 'gold loan India', Pexels 'gold loan shop'",
+   "fallback": "Cardboard shop with a hand-lettered sign"
+  },
+  {
+   "key": "real/bracelets.jpg",
+   "type": "photo",
+   "what": "Gold wedding bangles and coins on cloth",
+   "lines": [
+    "l066",
+    "l067"
+   ],
+   "must_show": "Bangles and coins, warm light",
+   "search_hint": "Pexels / Unsplash 'gold bangles', Wikimedia Commons 'gold bangles'",
+   "fallback": "Cardboard bangles"
+  },
+  {
+   "key": "real/news1980.jpg",
+   "type": "photo",
+   "what": "1980 newspaper front page about gold's record, or a 1980 photo of a crowd at a gold dealer",
+   "lines": [
+    "l070",
+    "l071"
+   ],
+   "must_show": "Year 1980 or 'gold' readable on the page",
+   "search_hint": "Wikimedia Commons, Library of Congress / Chronicling America, archive.org newspaper scan",
+   "fallback": "Cardboard newspaper"
+  },
+  {
+   "key": "real/news2013.jpg",
+   "type": "photo",
+   "what": "News photo or screen showing the April 2013 gold sell-off (a jeweller, a bullion dealer or a price screen)",
+   "lines": [
+    "l073",
+    "l074"
+   ],
+   "must_show": "Gold bars or price screen with a falling number",
+   "search_hint": "Wikimedia Commons 2013 gold, Pexels 'gold price drop'",
+   "fallback": "Cardboard price screen"
+  },
+  {
+   "key": "real/nbp_building.jpg",
+   "type": "photo",
+   "what": "Narodowy Bank Polski (Polish central bank) headquarters in Warsaw",
+   "lines": [
+    "l083"
+   ],
+   "must_show": "The headquarters facade",
+   "search_hint": "Wikimedia Commons 'Narodowy Bank Polski'",
+   "fallback": "Cardboard bank building"
+  },
+  {
+   "key": "real/mine.jpg",
+   "type": "photo",
+   "what": "Open-pit gold mine or underground gold mine scene",
+   "lines": [
+    "l091",
+    "l092"
+   ],
+   "must_show": "A large pit with trucks or a miner at the face",
+   "search_hint": "Wikimedia Commons 'gold mine', Pexels 'open pit mine'",
+   "fallback": "Cardboard hole in the ground"
+  },
+  {
+   "key": "real/pour",
+   "type": "clip",
+   "what": "Molten gold being poured into a bar mould in a refinery",
+   "lines": [
+    "l093"
+   ],
+   "must_show": "Bright molten stream and the mould",
+   "search_hint": "Pexels / Pixabay / TikTok 'pouring gold bar'",
+   "fallback": "real/bars_stack.jpg"
+  },
+  {
+   "key": "real/gold_coins.jpg",
+   "type": "photo",
+   "what": "A close-up of gold coins (sovereign or lira coins) on a table",
+   "lines": [],
+   "must_show": "Coins with a gold shine, a hand optional",
+   "search_hint": "Wikimedia Commons 'gold coins', Pexels 'gold coins'",
+   "fallback": "real/bracelets.jpg",
+   "optional": true
+  },
+  {
+   "key": "real/wedding_gold.jpg",
+   "type": "photo",
+   "what": "A bride wearing gold jewellery at an Arab or South Asian wedding",
+   "lines": [],
+   "must_show": "Gold necklace and bangles visible, face may be cropped",
+   "search_hint": "Wikimedia Commons, Unsplash 'bride gold jewellery'",
+   "fallback": "real/bracelets.jpg",
+   "optional": true
+  },
+  {
+   "key": "real/pawn_sign.jpg",
+   "type": "photo",
+   "what": "A pawnshop 'we buy gold' sign",
+   "lines": [],
+   "must_show": "The words 'we buy gold' readable",
+   "search_hint": "Wikimedia Commons 'we buy gold sign', Pexels",
+   "fallback": "Cardboard sign",
+   "optional": true
+  },
+  {
+   "key": "real/treasury_yield_screen.jpg",
+   "type": "photo",
+   "what": "A screen showing government bond yields near five percent",
+   "lines": [],
+   "must_show": "A yield number readable (any broadcaster screenshot is NOT allowed)",
+   "search_hint": "Pexels 'bond yield screen' / our own drawn chart",
+   "fallback": "Kit bars",
+   "optional": true
+  },
+  {
+   "key": "real/oil_rig.jpg",
+   "type": "photo",
+   "what": "Oil rig or pump (oil up = inflation worries)",
+   "lines": [],
+   "must_show": "A clear rig or pump jack",
+   "search_hint": "Pexels / Wikimedia Commons 'oil pump jack'",
+   "fallback": "Cardboard rig",
+   "optional": true
+  },
+  {
+   "key": "real/hormuz.jpg",
+   "type": "photo",
+   "what": "Tankers in the Strait of Hormuz or a Gulf oil terminal",
+   "lines": [],
+   "must_show": "Ships at sea",
+   "search_hint": "Wikimedia Commons 'Strait of Hormuz'",
+   "fallback": "Cardboard ship",
+   "optional": true
+  },
+  {
+   "key": "real/gold_jewelry_market.jpg",
+   "type": "photo",
+   "what": "A traditional gold jewellery market in Damascus, Cairo or Riyadh",
+   "lines": [],
+   "must_show": "Windows of gold, shoppers",
+   "search_hint": "Wikimedia Commons 'Gold market Cairo', Pexels",
+   "fallback": "real/souk_windows.jpg",
+   "optional": true
+  },
+  {
+   "key": "real/lbma_bar_stamp.jpg",
+   "type": "photo",
+   "what": "Close-up of the stamp on a London Good Delivery bar",
+   "lines": [],
+   "must_show": "Serial number and refiner mark",
+   "search_hint": "Wikimedia Commons 'Good Delivery bar'",
+   "fallback": "real/gold_bar_hand.jpg",
+   "optional": true
+  },
+  {
+   "key": "real/seven_storey.jpg",
+   "type": "photo",
+   "what": "A seven-storey building for scale reference",
+   "lines": [],
+   "must_show": "A whole building visible",
+   "search_hint": "Wikimedia Commons / Pexels 'apartment building'",
+   "fallback": "Cardboard building",
+   "optional": true
+  },
+  {
+   "key": "real/phone_gold_app.jpg",
+   "type": "photo",
+   "what": "A phone showing a generic gold price app (no brand)",
+   "lines": [],
+   "must_show": "Falling price in red",
+   "search_hint": "Pexels 'phone chart red'",
+   "fallback": "Skip's own phone drawn by the kit",
+   "optional": true
+  },
+  {
+   "key": "real/miners.jpg",
+   "type": "photo",
+   "what": "Gold miners working underground",
+   "lines": [],
+   "must_show": "Hard hats and gold-bearing rock",
+   "search_hint": "Wikimedia Commons 'gold miners'",
+   "fallback": "real/mine.jpg",
+   "optional": true
+  },
+  {
+   "key": "real/refinery.jpg",
+   "type": "photo",
+   "what": "A gold refinery floor or smelting furnace",
+   "lines": [],
+   "must_show": "Furnace glow",
+   "search_hint": "Wikimedia Commons 'gold refinery'",
+   "fallback": "real/pour",
+   "optional": true
+  },
+  {
+   "key": "real/ingots_conveyor.jpg",
+   "type": "clip",
+   "what": "Gold ingots being stamped or cooled on a line",
+   "lines": [],
+   "must_show": "Ingots, stamping",
+   "search_hint": "Pexels / Pixabay 'gold ingot'",
+   "fallback": "real/pour",
+   "optional": true
+  },
+  {
+   "key": "real/shopper_phone.jpg",
+   "type": "clip",
+   "what": "A person checking a falling price on a phone, vertical clip",
+   "lines": [],
+   "must_show": "The phone screen red, reaction",
+   "search_hint": "TikTok 'checking gold price'",
+   "fallback": "Skip's phone",
+   "optional": true
+  },
+  {
+   "key": "real/hanoi_queue.jpg",
+   "type": "photo",
+   "what": "Hanoi gold shop queue at dawn (30 Jan)",
+   "lines": [],
+   "must_show": "A queue under street lights",
+   "search_hint": "VietNamNet, Wikimedia Commons (check licence)",
+   "fallback": "real/buy_queue",
+   "optional": true
+  }
+ ],
+ "revision_log": [
+  {
+   "source": "doctor",
+   "ref": "G1",
+   "lines": [
+    "l097",
+    "l098",
+    "l099"
+   ],
+   "what": "Ending: one Skip ask, no trade question; l097 deleted, l098 kept as no-advice line, l099 rewritten to the January-queue question; dip_or_wait renamed panic_or_smart. Wording follows orchestrator decision 5, not 'Thursday panic'."
+  },
+  {
+   "source": "doctor",
+   "ref": "G2",
+   "lines": [
+    "l084",
+    "l085",
+    "l085b",
+    "l086",
+    "l087",
+    "l088"
+   ],
+   "what": "Forecast list cut to Goldman + one bear + one bull; UBS and second bear dropped; Skip beat l085b added; bulls and bears explained in one sentence (l087)."
+  },
+  {
+   "source": "doctor",
+   "ref": "G3",
+   "lines": [
+    "l028"
+   ],
+   "what": "Dangling 'Usually they are.' replaced with a line that gives Skip's question its referent (people normally go to that souk to buy)."
+  },
+  {
+   "source": "doctor",
+   "ref": "G4",
+   "lines": [
+    "l051",
+    "l093"
+   ],
+   "what": "Promise reworded: piece seven shows how small all the gold in the world is (cube); bar price spoken once (l051); l093 no longer speaks stage text."
+  },
+  {
+   "source": "doctor",
+   "ref": "G5",
+   "lines": [
+    "l019",
+    "l043",
+    "l056",
+    "l069"
+   ],
+   "what": "Small-answer/bigger-question tag kept only on l032 and l080; other pieces end on plain handoffs."
+  },
+  {
+   "source": "doctor",
+   "ref": "G6",
+   "lines": [
+    "l046",
+    "l047",
+    "l049",
+    "l050",
+    "l051",
+    "l052"
+   ],
+   "what": "Piece four tightened; Skip's skip (l050) moved before the seesaw payoff and the bar fact; l052 shortened; order is now l048 l050 l051 l049 l052."
+  },
+  {
+   "source": "doctor",
+   "ref": "G7",
+   "lines": [
+    "l005"
+   ],
+   "what": "Sentence split (cap 12 words) and the Dubai queue promise made short."
+  },
+  {
+   "source": "doctor",
+   "ref": "G8",
+   "lines": [
+    "l017",
+    "l096"
+   ],
+   "what": "l017 now answers Skip ('Plenty of people felt rich'); l096 states cause as attributed ('some analysts say')."
+  },
+  {
+   "source": "doctor",
+   "ref": "G9",
+   "lines": [
+    "l012",
+    "l014",
+    "l015"
+   ],
+   "what": "Piece one: crowd first, FOMO beat made the hook of the piece, 'nobody can print more of' cut."
+  },
+  {
+   "source": "doctor",
+   "ref": "notes/words",
+   "lines": [],
+   "what": "Word count cut from 1591 to about 1480; Short ranges rebuilt (see shorts)."
+  },
+  {
+   "source": "facts",
+   "ref": "l003",
+   "lines": [
+    "l003"
+   ],
+   "what": "central banks 'as a group' kept buying"
+  },
+  {
+   "source": "facts",
+   "ref": "l005",
+   "lines": [
+    "l005"
+   ],
+   "what": "fall = almost a tenth / about nine percent, Dubai queues that same week"
+  },
+  {
+   "source": "facts",
+   "ref": "l014",
+   "lines": [
+    "l014"
+   ],
+   "what": "attributed to analysts"
+  },
+  {
+   "source": "facts",
+   "ref": "l015",
+   "lines": [
+    "l015"
+   ],
+   "what": "attributed, 'exactly that' dropped"
+  },
+  {
+   "source": "facts",
+   "ref": "l023",
+   "lines": [
+    "l023"
+   ],
+   "what": "'They sell' softened to 'many sell'"
+  },
+  {
+   "source": "facts",
+   "ref": "l024",
+   "lines": [
+    "l024"
+   ],
+   "what": "nine percent, 'some reports said more'; 'eight to twelve' removed"
+  },
+  {
+   "source": "facts",
+   "ref": "l028",
+   "lines": [
+    "l028"
+   ],
+   "what": "quote turned into an attributed paraphrase"
+  },
+  {
+   "source": "facts",
+   "ref": "l031",
+   "lines": [
+    "l031"
+   ],
+   "what": "Titan attribution on screen (mood string)"
+  },
+  {
+   "source": "facts",
+   "ref": "l040",
+   "lines": [
+    "l040"
+   ],
+   "what": "'lowest in over a year'"
+  },
+  {
+   "source": "facts",
+   "ref": "l041",
+   "lines": [
+    "l041"
+   ],
+   "what": "'a little more at the low'"
+  },
+  {
+   "source": "facts",
+   "ref": "l063",
+   "lines": [
+    "l063"
+   ],
+   "what": "Fitch 'could test them'"
+  },
+  {
+   "source": "facts",
+   "ref": "l072",
+   "lines": [
+    "l072"
+   ],
+   "what": "1980: no $737.50/-13%; 'within days', one source for the 40%"
+  },
+  {
+   "source": "facts",
+   "ref": "l076",
+   "lines": [
+    "l076"
+   ],
+   "what": "'until twenty twenty', month dropped"
+  },
+  {
+   "source": "facts",
+   "ref": "l081",
+   "lines": [
+    "l081"
+   ],
+   "what": "'a record' dropped"
+  },
+  {
+   "source": "facts",
+   "ref": "l085",
+   "lines": [
+    "l085"
+   ],
+   "what": "Goldman as reported by Kitco, 2028 target dropped"
+  },
+  {
+   "source": "facts",
+   "ref": "l087",
+   "lines": [
+    "l087"
+   ],
+   "what": "one bear, Kitco survey"
+  },
+  {
+   "source": "facts",
+   "ref": "l088",
+   "lines": [
+    "l088"
+   ],
+   "what": "'short-term' added"
+  },
+  {
+   "source": "facts",
+   "ref": "l091",
+   "lines": [
+    "l091"
+   ],
+   "what": "cube twenty-two and a half metres"
+  },
+  {
+   "source": "facts",
+   "ref": "l093",
+   "lines": [
+    "l093"
+   ],
+   "what": "spoken bar weight removed (on-screen 12.4 kg only)"
+  },
+  {
+   "source": "facts",
+   "ref": "l096",
+   "lines": [
+    "l096"
+   ],
+   "what": "central banks 'as a group'; 'some analysts say'"
+  },
+  {
+   "source": "facts",
+   "ref": "l034",
+   "lines": [
+    "l034"
+   ],
+   "what": "missing note: 'slide', not 'crash'"
+  },
+  {
+   "source": "facts",
+   "ref": "l019",
+   "lines": [
+    "l019"
+   ],
+   "what": "missing note added"
+  },
+  {
+   "source": "facts",
+   "ref": "l020",
+   "lines": [
+    "l020"
+   ],
+   "what": "missing note added; Thursday -> Friday 30 Jan"
+  },
+  {
+   "source": "facts",
+   "ref": "string:jan29",
+   "lines": [],
+   "what": "renamed jan30: 30 JAN 2026 (FRIDAY)"
+  },
+  {
+   "source": "facts",
+   "ref": "string:one_day_tenth",
+   "lines": [],
+   "what": "renamed one_day_nine: ABOUT -9% IN ONE DAY"
+  },
+  {
+   "source": "facts",
+   "ref": "string:b737",
+   "lines": [],
+   "what": "renamed b_days: WITHIN DAYS: SHARP FALL"
+  },
+  {
+   "source": "facts",
+   "ref": "string:minus40plus",
+   "lines": [],
+   "what": "MORE THAN 40% BELOW THE PEAK (ONE SOURCE)"
+  },
+  {
+   "source": "facts",
+   "ref": "string:low_lbl",
+   "lines": [],
+   "what": "LOWEST IN OVER A YEAR"
+  },
+  {
+   "source": "facts",
+   "ref": "string:bull_a",
+   "lines": [],
+   "what": "BULL (SHORT-TERM)"
+  },
+  {
+   "source": "facts",
+   "ref": "string:cube_22m",
+   "lines": [],
+   "what": "~22.6 m CUBE"
+  },
+  {
+   "source": "facts",
+   "ref": "string:yield5",
+   "lines": [],
+   "what": "ONE REPORT: YIELDS NEAR 5%"
+  },
+  {
+   "source": "facts",
+   "ref": "string:fitch_a/fitch_b",
+   "lines": [],
+   "what": "Fitch attribution, 'COULD TEST THEM'"
+  },
+  {
+   "source": "facts",
+   "ref": "string:panic_hl",
+   "lines": [],
+   "what": "labelled HEADLINE"
+  },
+  {
+   "source": "facts",
+   "ref": "string:cb_tonnes",
+   "lines": [],
+   "what": "RECORD removed"
+  },
+  {
+   "source": "facts",
+   "ref": "string:ubs_5k/ubs_card/challenging/bear_b/gs_2028",
+   "lines": [],
+   "what": "strings removed with the cut forecast lines"
+  },
+  {
+   "source": "facts",
+   "ref": "string:souk_quote",
+   "lines": [],
+   "what": "no quote marks; attributed to a Dubai jeweller"
+  },
+  {
+   "source": "arabic",
+   "ref": "c00:L9",
+   "lines": [
+    "l003"
+   ],
+   "what": "'مدّخرة فلوسها', 'هاي قصتك'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c00:L11",
+   "lines": [
+    "l005"
+   ],
+   "what": "queue line rewritten, 'عُشر' removed"
+  },
+  {
+   "source": "arabic",
+   "ref": "c00:L13",
+   "lines": [
+    "l007"
+   ],
+   "what": "'خلّينا نبدأ من الأولى', Skip verb/name clash removed"
+  },
+  {
+   "source": "arabic",
+   "ref": "c00:L14",
+   "lines": [
+    "l008"
+   ],
+   "what": "'ختمني'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c01:L26",
+   "lines": [
+    "l017"
+   ],
+   "what": "full price form خمسة آلاف وخمسمية"
+  },
+  {
+   "source": "arabic",
+   "ref": "c01:L27",
+   "lines": [
+    "l018"
+   ],
+   "what": "'هيك بتطلع قصة سعيدة'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c01:L28",
+   "lines": [
+    "l019"
+   ],
+   "what": "'لأيام قليلة', 'ناس كتير'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c02:L33",
+   "lines": [
+    "l021"
+   ],
+   "what": "Fed introduced as الفيدرالي"
+  },
+  {
+   "source": "arabic",
+   "ref": "c02:L36-38",
+   "lines": [
+    "l024",
+    "l025",
+    "l026"
+   ],
+   "what": "'عشرة/تسعة بالمية' instead of عُشر (numbers follow orchestrator decision 1)"
+  },
+  {
+   "source": "arabic",
+   "ref": "c02:L40",
+   "lines": [
+    "l028"
+   ],
+   "what": "dangling 'غالباً' replaced, 'بيع هلع / بيع اضطراري'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c02:L42",
+   "lines": [
+    "l030"
+   ],
+   "what": "الاضطرار / الهلع definition"
+  },
+  {
+   "source": "arabic",
+   "ref": "c03:L50",
+   "lines": [
+    "l035"
+   ],
+   "what": "inflation defined"
+  },
+  {
+   "source": "arabic",
+   "ref": "c03:L53",
+   "lines": [
+    "l038"
+   ],
+   "what": "teen numbers in full"
+  },
+  {
+   "source": "arabic",
+   "ref": "c03:L55",
+   "lines": [
+    "l040"
+   ],
+   "what": "ثلاثة آلاف وثمانمية"
+  },
+  {
+   "source": "arabic",
+   "ref": "c03:L56",
+   "lines": [
+    "l041"
+   ],
+   "what": "'خلّينا نجمع'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c04:L67",
+   "lines": [
+    "l049"
+   ],
+   "what": "opportunity cost in plain speech, أرجوحة الميزان first mention"
+  },
+  {
+   "source": "arabic",
+   "ref": "c04:L69",
+   "lines": [
+    "l051"
+   ],
+   "what": "piece seven promise reworded"
+  },
+  {
+   "source": "arabic",
+   "ref": "c04:L71",
+   "lines": [
+    "l053"
+   ],
+   "what": "dollar mechanism in plain speech"
+  },
+  {
+   "source": "arabic",
+   "ref": "c04:L74",
+   "lines": [
+    "l056"
+   ],
+   "what": "'الذهب ما بيدفع فايدة' (idiom trap removed)"
+  },
+  {
+   "source": "arabic",
+   "ref": "c05:L81",
+   "lines": [
+    "l060"
+   ],
+   "what": "'صارت قيمة ذهبك تمانين', 'سدّد جزء من القرض'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c05:L84",
+   "lines": [
+    "l063"
+   ],
+   "what": "Fitch introduced, teen numbers in full"
+  },
+  {
+   "source": "arabic",
+   "ref": "c05:L86",
+   "lines": [
+    "l065"
+   ],
+   "what": "'اختبار ضغط', 'كلام عناوين'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c05:L89",
+   "lines": [
+    "l068"
+   ],
+   "what": "warm sentence for people who bought near the top, 'اللي'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c06:L99",
+   "lines": [
+    "l075"
+   ],
+   "what": "years and prices in full forms"
+  },
+  {
+   "source": "arabic",
+   "ref": "c06:L104",
+   "lines": [
+    "l080"
+   ],
+   "what": "'سوا', 'أيوه'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c07:L108",
+   "lines": [
+    "l081"
+   ],
+   "what": "'من السنة', quantity"
+  },
+  {
+   "source": "arabic",
+   "ref": "c07:L112",
+   "lines": [
+    "l085"
+   ],
+   "what": "full price forms, 'سبعة عشر'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c07:L114",
+   "lines": [
+    "l087"
+   ],
+   "what": "bulls/bears explained, 'تلات آلاف وخمسمية'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c07:L115",
+   "lines": [
+    "l088"
+   ],
+   "what": "'أربعة آلاف', short-term"
+  },
+  {
+   "source": "arabic",
+   "ref": "c07:L117",
+   "lines": [
+    "l090"
+   ],
+   "what": "'وإنت ما لازم تاخد نصيحة من علبة كرتون'"
+  },
+  {
+   "source": "arabic",
+   "ref": "c07:L120",
+   "lines": [
+    "l093"
+   ],
+   "what": "'خلّي سكيب يسأله'; bar weight removed"
+  },
+  {
+   "source": "arabic",
+   "ref": "c08:L126",
+   "lines": [
+    "l096"
+   ],
+   "what": "'باعته' replaced by 'كمجموعة ظلّت تشتري'; 'ناس كتير اشتروا'"
+  },
+  {
+   "source": "arabic",
+   "ref": "s2:hook",
+   "lines": [],
+   "what": "short hook rewritten (nine percent, no 'عُشر الذهب')"
+  },
+  {
+   "source": "arabic",
+   "ref": "s3 hook",
+   "lines": [],
+   "what": "'تلات أشياء'"
+  },
+  {
+   "source": "arabic",
+   "ref": "s6 hook",
+   "lines": [],
+   "what": "'ليرجع لقمته'"
+  },
+  {
+   "source": "arabic",
+   "ref": "s7 hook",
+   "lines": [],
+   "what": "cube hook (no price)"
+  },
+  {
+   "source": "arabic",
+   "ref": "shorts CTA",
+   "lines": [],
+   "what": "'هاي' in all seven CTAs and short_cta"
+  },
+  {
+   "source": "arabic",
+   "ref": "strings_fixes",
+   "lines": [],
+   "what": "dollar words instead of signs, 'توقّع' instead of 'رهان', 'اضطرار', 'اختبار ضغط', plus U+2212 + LRM on minus30"
+  },
+  {
+   "source": "arabic",
+   "ref": "regional_notes: teen numbers",
+   "lines": [],
+   "what": "slurred teen forms replaced everywhere (grep-checked); ar_policy updated"
+  },
+  {
+   "source": "arabic",
+   "ref": "title",
+   "lines": [],
+   "what": "title.ar and hook ar from option 1 without digits"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "decision 1",
+   "lines": [],
+   "what": "fall = FRIDAY 30 Jan, about nine percent, 'almost a tenth'; Dubai queues 'that same week'; no 'Thursday'"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "decision 2",
+   "lines": [],
+   "what": "'as a group, they kept buying'"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "decision 3",
+   "lines": [],
+   "what": "'about thirty-eight hundred dollars an ounce, the lowest in over a year'"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "decision 4",
+   "lines": [],
+   "what": "1980 safe wording"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "decision 5",
+   "lines": [],
+   "what": "ONE spoken ask by Skip about the January queue; score stays as on-screen end text; panic_or_smart"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "decision 6",
+   "lines": [],
+   "what": "piece seven forecast list cut, Skip beat, bulls/bears sentence"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "decision 7",
+   "lines": [],
+   "what": "'Usually they are.' fixed in both languages"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "decision 8",
+   "lines": [],
+   "what": "l051 promise paid in piece seven (cube); bar price spoken once"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "decision 9",
+   "lines": [],
+   "what": "length 1480 words, 98 lines, real-media share >= 50%"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "decision 10",
+   "lines": [],
+   "what": "Arabic: full prices, no slurred teens, 'توقّع' not 'رهان'"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "decision 11",
+   "lines": [],
+   "what": "title.ar chosen (digit-free option 1 variant)"
+  },
+  {
+   "source": "r3-arabic",
+   "ref": "ar-review.r2",
+   "lines": [
+    "l003",
+    "l005",
+    "l007",
+    "l012",
+    "l017",
+    "l018",
+    "l019",
+    "l020",
+    "l032",
+    "l035",
+    "l037",
+    "l038",
+    "l040",
+    "l041",
+    "l046",
+    "l048",
+    "l059",
+    "l065",
+    "l066",
+    "l069",
+    "l070",
+    "l072",
+    "l073",
+    "l075",
+    "l081",
+    "l085",
+    "l090",
+    "l094",
+    "l095",
+    "l096",
+    "l099"
+   ],
+   "what": "Arabic round 2: 4 must + 16 should fixes, 15 strings fixes, plain pan-Arab month names everywhere (no Levantine months). Hook Arabic kept digit-free: 'الذهب نزل تلاتين بالمية' (reviewer's digit variant not used). s7 CTA reworded."
+  },
+  {
+   "source": "r3-facts",
+   "ref": "fact-check.r2",
+   "lines": [
+    "l014",
+    "l027",
+    "l028",
+    "l029",
+    "l060",
+    "l091",
+    "l096"
+   ],
+   "what": "still_open + new_issue applied: l014 'reports said'; 'shop after shop' dropped; Skip's question now precedes Karto's Dhanak answer (l028 Skip, l029 Karto, l030 Skip, l031 Karto, l032 Titan + small answer); l060 'far over the rule'; l091 'under twenty-three metres'; l096 causal clause replaced by 'analysts point to rates and the dollar for the slide'; st_jun card removed (staircase now three steps)."
+  },
+  {
+   "source": "r3-doctor",
+   "ref": "script-doctor r2 P1-P4",
+   "lines": [
+    "l001",
+    "l005",
+    "l023",
+    "l049",
+    "l051",
+    "l056",
+    "l069",
+    "l084",
+    "l088",
+    "l093",
+    "l098",
+    "l054",
+    "l007",
+    "l019",
+    "l033",
+    "l037",
+    "l046",
+    "l047",
+    "l051",
+    "l053",
+    "l059",
+    "l063",
+    "l068"
+   ],
+   "what": "P1 bridge l051/l049; P2 l001/l005 softened; P3 'nobody knows' once, l093/l098 reworked; P4 l056 now a Skip question, l069 a statement, l084 joke half cut, English trimmed to the 1,390-1,430 range; only l032 and l080 end on 'Small answer / Bigger question'. Short s4 now starts at l046."
+  },
+  {
+   "source": "orchestrator",
+   "ref": "r3 rulings",
+   "lines": [
+    "l027",
+    "l028",
+    "l029",
+    "l030",
+    "l031",
+    "l032",
+    "l033",
+    "l078"
+   ],
+   "what": "Speaker/picture re-seat of l027-l032; st_jun string removed; guess_tape reference removed from c06 (l078 picture); string kept for c05."
+  },
+  {
+   "source": "orchestrator",
+   "ref": "final read",
+   "lines": [
+    "l020",
+    "l054"
+   ],
+   "what": "l020 record date is 28 or 29 Jan (conflict): \"Right after the record\"; l054 plain words for Treasury yields"
+  },
+  {
+   "source": "orchestrator",
+   "ref": "frame check",
+   "lines": [],
+   "what": "string minus30 ar: the minus sign flipped to the wrong side in RTL; now a word form"
+  }
+ ],
+ "rejected": [
+  {
+   "ref": "doctor G1 wording",
+   "why": "'Thursday panic' and the double comment ask lose to orchestrator decisions 1 and 5 (Friday 30 January; one Skip ask; score is on-screen only)."
+  },
+  {
+   "ref": "doctor G2 l085c",
+   "why": "It re-introduced UBS and a second bear; decision 6 says one bull, one bear, Goldman only."
+  },
+  {
+   "ref": "doctor G2 Goldman 2028 target",
+   "why": "Not kept: the second Goldman number made the line a list again; only the end-2027 figure is spoken."
+  },
+  {
+   "ref": "facts string st_nov / now_price -> $3,850",
+   "why": "Decision 3 fixes the spoken level at about thirty-eight hundred; strings stay at about $3,800 so picture and voice match."
+  },
+  {
+   "ref": "facts l087 'another says thirty-four to thirty-five hundred'",
+   "why": "Second bear dropped (decision 6); string bear_b removed."
+  },
+  {
+   "ref": "arabic c07:L113 (UBS line)",
+   "why": "UBS dropped (decision 6)."
+  },
+  {
+   "ref": "arabic c07:L112 second price",
+   "why": "Goldman 2028 target dropped; only the 2027 price is spoken."
+  },
+  {
+   "ref": "arabic c08:L128 'ولهيك بتصير الخناقة'",
+   "why": "The English 'That is why it is a fight' was cut from l098; no line left to fix."
+  },
+  {
+   "ref": "arabic title options, title/HOOK/END with digits, 'كم جبت من ٧؟'",
+   "why": "No digit characters allowed in title, hook or end text; used digit-free wording ('تلاتين بالمية', 'من سبعة')."
+  },
+  {
+   "ref": "arabic regional note: Levantine -> pan-Arab month names",
+   "why": "Channel decision under the Syrian-leaning policy; left unchanged."
+  },
+  {
+   "ref": "arabic c01:L28 keep 'الجواب الصغير' in piece one",
+   "why": "Doctor G5 removes the label from pieces 1, 3, 4, 5; kept only in pieces 2 and 6."
+  },
+  {
+   "ref": "facts advice_risk l016 / l090",
+   "why": "No change needed: joke and disclaimer kept."
+  }
+ ],
+ "productions": {
+  "en": "expl-261119-i2xn",
+  "ar": "expl-261119-x0ki"
+ }
+}

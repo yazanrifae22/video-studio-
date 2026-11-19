@@ -1,6 +1,6 @@
 {
  "brand": "celebrity",
- "generated": "2026-11-19T08:21:00",
+ "generated": "2026-11-19T14:20:58",
  "snapshot_date": "2026-11-07",
  "analytics_end": "2026-11-05",
  "method": "scripts/hook-log-build.py: studio.db publishing + latest API snapshot (perVideo90d, 90-day window) + production hook/story/script-doctor/viral json; null = unknown",
@@ -167,9 +167,9 @@
   {
    "video_id": "xos9yjC8Oqk",
    "production_id": "celebrity-he-bet-500-nasa-didn-t-script-his-moon-l-3a8c",
-   "status": "scheduled",
+   "status": "published",
    "title": "He Bet $500 NASA Didn't Script His Moon Line",
-   "published_at": "2026-11-19T14:00:00.000Z",
+   "published_at": "2026-11-19T14:00:35.000Z",
    "views": null,
    "engaged_views": null,
    "avg_view_pct": null,
@@ -284,7 +284,7 @@
    "viewed_vs_swiped_pct": null,
    "retention_d3": null,
    "retention_d7": null,
-   "views_24h": null,
+   "views_24h": 4,
    "views_72h": null,
    "views_7d": null,
    "drop_seconds": null,
@@ -321,7 +321,19 @@
    "qa_score": null,
    "insights": null,
    "viral_forecast_delta": null,
-   "radar_signal_id": null
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 4,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 0,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 20.3,
+     "at": "2026-11-19T14:21:00+00:00"
+    }
+   }
   },
   {
    "video_id": "2dzF1Pexh-4",
@@ -337,7 +349,7 @@
    "viewed_vs_swiped_pct": null,
    "retention_d3": null,
    "retention_d7": null,
-   "views_24h": null,
+   "views_24h": 3,
    "views_72h": null,
    "views_7d": null,
    "drop_seconds": null,
@@ -374,7 +386,19 @@
    "qa_score": null,
    "insights": null,
    "viral_forecast_delta": null,
-   "radar_signal_id": null
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 3,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 0,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 24.3,
+     "at": "2026-11-19T14:21:00+00:00"
+    }
+   }
   },
   {
    "video_id": "koMuBxOhOjA",
@@ -651,7 +675,7 @@
    "retention_d3": null,
    "retention_d7": null,
    "views_24h": 1,
-   "views_72h": null,
+   "views_72h": 3,
    "views_7d": null,
    "drop_seconds": null,
    "retention_status": null,
@@ -698,6 +722,16 @@
      "shares": null,
      "hours_since_publish": 20.4,
      "at": "2026-11-17T14:22:16+00:00"
+    },
+    "72h": {
+     "views": 3,
+     "engaged_views": 1,
+     "avg_view_pct": 15.130000000000003,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 68.3,
+     "at": "2026-11-19T14:21:00+00:00"
     }
    }
   },
@@ -1521,7 +1555,7 @@
    "retention_d7": null,
    "views_24h": 56,
    "views_72h": 120,
-   "views_7d": null,
+   "views_7d": 124,
    "drop_seconds": {
     "d3": [
      {
@@ -1595,6 +1629,16 @@
      "shares": 0,
      "hours_since_publish": 82.4,
      "at": "2026-11-16T08:21:27+00:00"
+    },
+    "7d": {
+     "views": 124,
+     "engaged_views": 38,
+     "avg_view_pct": 32.4,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 160.3,
+     "at": "2026-11-19T14:21:00+00:00"
     }
    }
   },
@@ -1714,12 +1758,29 @@
    "shares": null,
    "viewed_vs_swiped_pct": null,
    "retention_d3": "docs/brands/celebrity/retention/4ETK61hrw7Y.json",
-   "retention_d7": null,
+   "retention_d7": "docs/brands/celebrity/retention/4ETK61hrw7Y.json",
    "views_24h": 29,
    "views_72h": 56,
    "views_7d": 55,
    "drop_seconds": {
     "d3": [
+     {
+      "at_s": 11.5,
+      "ratio_at": 0.36,
+      "drop_pct_pts": 18.2
+     },
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.15,
+      "drop_pct_pts": 9.1
+     },
+     {
+      "at_s": 5.4,
+      "ratio_at": 0.17,
+      "drop_pct_pts": 9.1
+     }
+    ],
+    "d7": [
      {
       "at_s": 11.5,
       "ratio_at": 0.36,

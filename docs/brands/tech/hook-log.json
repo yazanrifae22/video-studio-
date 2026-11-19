@@ -1,6 +1,6 @@
 {
  "brand": "tech",
- "generated": "2026-11-19T08:21:00",
+ "generated": "2026-11-19T14:20:58",
  "snapshot_date": "2026-11-07",
  "analytics_end": "2026-11-05",
  "method": "scripts/hook-log-build.py: studio.db publishing + latest API snapshot (perVideo90d, 90-day window) + production hook/story/script-doctor/viral json; null = unknown",
@@ -697,13 +697,13 @@
   {
    "video_id": "-hea-cihRhU",
    "production_id": "yt--hea-cihRhU",
-   "status": "scheduled",
+   "status": "published",
    "title": "Wi-Fi Stands for Nothing. Really.",
-   "published_at": "2026-11-19T12:00:00.000Z",
-   "views": null,
+   "published_at": "2026-11-19T12:00:06.000Z",
+   "views": 0,
    "engaged_views": null,
    "avg_view_pct": null,
-   "comments": null,
+   "comments": 0,
    "shares": null,
    "viewed_vs_swiped_pct": null,
    "retention_d3": null,
@@ -814,7 +814,7 @@
    "viewed_vs_swiped_pct": null,
    "retention_d3": null,
    "retention_d7": null,
-   "views_24h": null,
+   "views_24h": 15,
    "views_72h": null,
    "views_7d": null,
    "drop_seconds": null,
@@ -851,7 +851,19 @@
    "qa_score": null,
    "insights": null,
    "viral_forecast_delta": null,
-   "radar_signal_id": null
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 15,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 0,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 20.3,
+     "at": "2026-11-19T14:21:00+00:00"
+    }
+   }
   },
   {
    "video_id": "6uuAMLm_TtA",
@@ -867,7 +879,7 @@
    "viewed_vs_swiped_pct": null,
    "retention_d3": null,
    "retention_d7": null,
-   "views_24h": null,
+   "views_24h": 124,
    "views_72h": null,
    "views_7d": null,
    "drop_seconds": null,
@@ -904,7 +916,19 @@
    "qa_score": null,
    "insights": null,
    "viral_forecast_delta": null,
-   "radar_signal_id": null
+   "radar_signal_id": null,
+   "snapshots": {
+    "24h": {
+     "views": 124,
+     "engaged_views": null,
+     "avg_view_pct": null,
+     "likes": 1,
+     "comments": 0,
+     "shares": null,
+     "hours_since_publish": 23.3,
+     "at": "2026-11-19T14:21:00+00:00"
+    }
+   }
   },
   {
    "video_id": "MwhG5LSZAb4",
@@ -1311,7 +1335,7 @@
    "retention_d3": null,
    "retention_d7": null,
    "views_24h": 14,
-   "views_72h": null,
+   "views_72h": 15,
    "views_7d": null,
    "drop_seconds": null,
    "retention_status": null,
@@ -1358,6 +1382,16 @@
      "shares": null,
      "hours_since_publish": 20.4,
      "at": "2026-11-17T14:22:16+00:00"
+    },
+    "72h": {
+     "views": 15,
+     "engaged_views": 0,
+     "avg_view_pct": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 68.3,
+     "at": "2026-11-19T14:21:00+00:00"
     }
    }
   },
@@ -1376,7 +1410,7 @@
    "retention_d3": null,
    "retention_d7": null,
    "views_24h": 51,
-   "views_72h": null,
+   "views_72h": 56,
    "views_7d": null,
    "drop_seconds": null,
    "retention_status": null,
@@ -1423,6 +1457,16 @@
      "shares": null,
      "hours_since_publish": 23.4,
      "at": "2026-11-17T14:22:16+00:00"
+    },
+    "72h": {
+     "views": 56,
+     "engaged_views": 23,
+     "avg_view_pct": 37.72,
+     "likes": 1,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 71.3,
+     "at": "2026-11-19T14:21:00+00:00"
     }
    }
   },
@@ -1438,13 +1482,31 @@
    "comments": 0,
    "shares": null,
    "viewed_vs_swiped_pct": null,
-   "retention_d3": null,
+   "retention_d3": "docs/brands/tech/retention/QPnpdsKLjXY.json",
    "retention_d7": null,
    "views_24h": 104,
    "views_72h": 105,
    "views_7d": null,
-   "drop_seconds": null,
-   "retention_status": null,
+   "drop_seconds": {
+    "d3": [
+     {
+      "at_s": 4.8,
+      "ratio_at": 0.13,
+      "drop_pct_pts": 16.7
+     },
+     {
+      "at_s": 7.8,
+      "ratio_at": 0.21,
+      "drop_pct_pts": 16.7
+     },
+     {
+      "at_s": 4.1,
+      "ratio_at": 0.11,
+      "drop_pct_pts": 8.3
+     }
+    ]
+   },
+   "retention_status": "ok",
    "viewed_vs_swiped": null,
    "hook_mechanism": null,
    "hook_premise": null,
@@ -2471,7 +2533,7 @@
    "retention_d7": null,
    "views_24h": 3,
    "views_72h": 2,
-   "views_7d": null,
+   "views_7d": 2,
    "drop_seconds": null,
    "retention_status": null,
    "viewed_vs_swiped": null,
@@ -2527,6 +2589,16 @@
      "shares": 0,
      "hours_since_publish": 82.4,
      "at": "2026-11-16T08:21:27+00:00"
+    },
+    "7d": {
+     "views": 2,
+     "engaged_views": 0,
+     "avg_view_pct": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "hours_since_publish": 160.3,
+     "at": "2026-11-19T14:21:00+00:00"
     }
    }
   },
